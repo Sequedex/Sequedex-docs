@@ -1,0 +1,163 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>3. Installation instructions &mdash; Sequedex 0.9.1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '0.9.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="copyright" title="Copyright" href="copyright.html" />
+    <link rel="top" title="Sequedex 0.9.1 documentation" href="index.html" />
+    <link rel="prev" title="2. Introduction to Sequedex" href="introduction.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="introduction.html" title="2. Introduction to Sequedex"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">Sequedex 0.9.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="installation-instructions">
+<h1>3. Installation instructions<a class="headerlink" href="#installation-instructions" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="system-requirements">
+<h2>3.1. System requirements<a class="headerlink" href="#system-requirements" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>A 64-bit Mac (Snow Leopard or later) or Linux (2.6 kernel or later) operating system.  Sequedex has been run under Windows, but we are still working on the packaging at this time.</li>
+<li>You will need to have a 64-bit Java 6 run-time environment installed. The Sequedex Mac OS installation will automatically install this if it is needed. Linux users should consult their distribution documentation for installation, or you can download it and install it at <a class="reference external" href="http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html">http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html</a>.</li>
+<li>Sequedex uses 8 GB of virtual memory.  8 GB of physical memory is best, but swap to solid state disk gives acceptable performance (~1/2 speed on a laptop with 2GB of memory and SSD).  Swap to hard disk should be avoided if possible.</li>
+<li>If you are installing Sequedex on a Linux server, you will need to have at least a minimal X-windows environment installed, since Sequedex requires a GUI for the licensing step.</li>
+</ul>
+</div>
+<div class="section" id="downloading-and-unpacking-for-mac">
+<h2>3.2. Downloading and unpacking for Mac<a class="headerlink" href="#downloading-and-unpacking-for-mac" title="Permalink to this headline">¶</a></h2>
+<p>Download a package for your operating system at <a class="reference external" href="http://sequedex.lanl.gov">http://sequedex.lanl.gov</a>, then follow the instructions below.</p>
+<p>Double-click on the .dmg image you just downloaded. This will open a window showing the Sequedex icon and several other files.  Drag the testData.tgz archive to a convenient place on your system, such as the desktop.  Double-click on the testData.tgz archive icon to create an uncompressed testData folder.  You will need this data for the testing step later.</p>
+<p>Drag the Sequedex icon to the applications folder. Open your Applications folder, and click on the Sequedex icon. When the dialog asking &#8220;Do you want to run this application?&#8221; appears, click on &#8220;Open&#8221;. If you did not previously have Java installed, the system will prompt you to install Java at this time.  Once the Sequedex window has appeared click on the &#8220;Run Sequescan&#8221; button.  If you have not had Sequedex installed, a window will pop up asking you to accept license terms.  Once you have hit &#8220;Okay&#8221;, you are ready to test the installation as outlined in the instructions below.</p>
+<p>Advanced Mac users who wish to access Sequedex through the command-line interface should add the app bin/ directory to their path by issuing the following command:</p>
+<p>echo &#8216;PATH=&#8221;/Applications/Sequedex.app/Contents/Resources/bin:${PATH}&#8217;&gt;&gt;~/.profile</p>
+</div>
+<div class="section" id="downloading-and-unpacking-for-linux">
+<h2>3.3. Downloading and unpacking for Linux<a class="headerlink" href="#downloading-and-unpacking-for-linux" title="Permalink to this headline">¶</a></h2>
+<p>Linux binaries are distributed as a tar.gz archive at <a class="reference external" href="http://sequedex.lanl.gov">http://sequedex.lanl.gov</a>.</p>
+<p>Obtain and untar this file into the sequedex subdirectory (tar -zxf Sequedex-0.9.1.tar.gz) from a directory where you want the installation (usually /opt for a system-wide install or your home directory for a personal install).</p>
+<p>Add the sequedex/bin directory to your path (in a bash shell with installation in your home directory, this is done with PATH=~username/sequedex/bin:$PATH); consult your distribution&#8217;s documentation if you don&#8217;t know how to do this.</p>
+</div>
+<div class="section" id="downloading-and-unpacking-for-windows">
+<h2>3.4. Downloading and unpacking for Windows<a class="headerlink" href="#downloading-and-unpacking-for-windows" title="Permalink to this headline">¶</a></h2>
+<p>Sequedex has not been packaged as a Windows application yet. If you are comfortable using the command line on Windows you may be able to get it working as we did. Start with the Linux tarball and ensure the paths in the Sequedex configuration files (sequedex/etc/sequescan/sequescan.conf) are all Windows compatible and the environment variables are parsed properly by Windows.  Consult the documentation for command-line use.  We will create a release for Windows soon.</p>
+</div>
+<div class="section" id="running-sequedex-on-an-example-data-file">
+<h2>3.5. Running Sequedex on an example data file<a class="headerlink" href="#running-sequedex-on-an-example-data-file" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div>To test that Sequedex is installed properly:</div></blockquote>
+<ul class="simple">
+<li>Click on file chooser icon at the right edge of the &#8220;Input&#8221; line (Mac) or type &#8216;sequescan&#8217; at the command prompt after correctly updating your PATH variable (Mac or Linux).</li>
+<li>Select the testData directory you installed earlier</li>
+<li>Select one of the files under &#8220;synthetic&#8221;</li>
+<li>Click &#8220;Run Sequescan&#8221;</li>
+</ul>
+<p>A few lines should appear in the &#8220;Progress&#8221; portion of the interface immediately.
+Sequedex should return results indicating success within a few minutes.</p>
+</div>
+<div class="section" id="obtaining-a-license-file">
+<h2>3.6. Obtaining a license file<a class="headerlink" href="#obtaining-a-license-file" title="Permalink to this headline">¶</a></h2>
+<p>Without a license file, Sequedex will only analyze a small number of reads from a single file using a single thread, just enough to verify you have installed it correctly.  You may obtain a free 60-day node-locked demo license by submtting a license information file by e-mail. A demo license will be returned to you immediately if your e-mail address has not requested a demo before.  The terms of the demo license are available here.</p>
+<p>To create a license information file, start the Sequedex GUI and click on &#8220;Utilities-&gt;Request license&#8221;.  Follow the instructions to generate a license information file.  E-mail this license information file to the appropriate address below to obtain a license file.</p>
+<p>Demo licenses are available for 60-day periods by e-mailing the license information file to <a class="reference external" href="mailto:sequedex-demo-license&#37;&#52;&#48;lanl&#46;gov">sequedex-demo-license<span>&#64;</span>lanl<span>&#46;</span>gov</a>. A demo license file should  be sent to you within minutes.</p>
+<p>One-year paid licenses are available at the special introductory rate of 1000 USD for academic users by contacting <a class="reference external" href="mailto:sequedex-license&#37;&#52;&#48;lanl&#46;gov">sequedex-license<span>&#64;</span>lanl<span>&#46;</span>gov</a>.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">3. Installation instructions</a><ul>
+<li><a class="reference internal" href="#system-requirements">3.1. System requirements</a></li>
+<li><a class="reference internal" href="#downloading-and-unpacking-for-mac">3.2. Downloading and unpacking for Mac</a></li>
+<li><a class="reference internal" href="#downloading-and-unpacking-for-linux">3.3. Downloading and unpacking for Linux</a></li>
+<li><a class="reference internal" href="#downloading-and-unpacking-for-windows">3.4. Downloading and unpacking for Windows</a></li>
+<li><a class="reference internal" href="#running-sequedex-on-an-example-data-file">3.5. Running Sequedex on an example data file</a></li>
+<li><a class="reference internal" href="#obtaining-a-license-file">3.6. Obtaining a license file</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="introduction.html"
+                        title="previous chapter">2. Introduction to Sequedex</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/installation.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="introduction.html" title="2. Introduction to Sequedex"
+             >previous</a> |</li>
+        <li><a href="index.html">Sequedex 0.9.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; <a href="copyright.html">Copyright</a> 2012, Los Alamos National Security, LLC.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>

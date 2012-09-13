@@ -1,0 +1,314 @@
+**************************
+Analysis with R
+**************************
+
+R is a powerful open source software for statistical data analysis.
+Binaries and download instruction are found at http://cran.r-project.org/.
+In addition to the basic installation, many users will want to peruse the
+library of contributed packages that extend the functionality and
+methods available.  Packages to consider include ape, ade4, and cluster.
+
+================================================================
+Ploting significant differences between two metagenomic samples
+================================================================
+
+R has many useful add-on libraries available.  The ape library provides functions
+for reading and manipulating phylogenetic trees and DNA sequences, 
+computing DNA distances, estimating trees with distance-based methods, and a 
+range of methods for comparative analyses and analysis of diversification.
+Instruction on how to install libraries are found at the CRAN
+http://cran.r-project.org/.  Once installed, it is possible to display 
+the differences of two phylogenetic profiles on a phylogenetic trees.  The tree we
+use in our example is in newick format.  See here below how to
+plot the phylogenetic tree, with simplified leaf labels, and edges
+colored according to broad phylogenetic grouping. :::
+
+	#  Load the library ape
+	library(ape)
+
+	#  read the phylogenetic tree in newick format of 403 representative genomes
+	rna.tree      <- read.tree(file="Bacteria403.newick")
+
+	#  identify the internal nodes and the tips
+	nodeDepth     <- node.depth(rna.tree)
+	index.node    <- 1:length(nodeDepth)
+	node.internal <- index.node[nodeDepth > 1]
+	index.tip     <- index.node[nodeDepth==1]
+
+	#  simplify names at tip and keep only 1 in 5 of them
+	tipname.tmp   <- rna.tree$tip.label
+	tipname       <- sapply(strsplit(tipname.tmp,"_"),
+                        FUN=function(x) x[1])
+	rna.tree$tip.label <- paste("     ",tipname,"     ")
+	rna.tree$tip.label[index.tip %% 5 != 1]  <- ""
+
+	#  plot phylogenetic tree, with branches colored 
+	#  according to broad groups.
+	#  First the coloring function:
+	colorEdge <- function(tree,brk,sep=100,sat=1){
+		edg <- tree$edge
+		ncut <- length(brk[,1])
+		ccol <- rainbow(length(edg)+ncut*sep,s=sat)
+		for (k in 1:ncut){
+			idx <- brk[k,1]:brk[k,2]
+			edges(edg[idx,1],edg[idx,2],col=ccol[idx+(k-1)*sep])
+			}
+	}
+
+	#  Now define the groups and make the plot
+	brk <- matrix(c(2,136,
+			137,297,
+			301,379,
+			380,494,
+			498,580,
+			581,699,
+			701,803),,2,byrow=T)
+
+	#  uncomment this the next line if you want a pdf or png file
+	#  pdf(file="phylogeneticTree.pdf")
+	#  png(file="phylogeneticTree.png")
+	plot.phylo(rna.tree,
+		   cex=0.5,
+		   show.tip.label=T,
+		   lab4ut="axial",
+		   show.node.label=F,
+		   type="unrooted",
+		   use.edge.length=F,
+		   edge.color=gray(.65),
+		   edge.width=1.3,
+		   label.offset=0.5,
+		   no.margin=T)
+	#  color edges
+	colorEdge(rna.tree,brk,200,sat=0.8)
+
+This results in the following figure.
+
+.. figure:: coloredTree.png
+   :width: 100%
+
+
+We can use the phylogenetic tree to display differences between metagenomic
+samples by highlighting nodes where the proportion of assigned reads 
+differ significantly between the two samples.  As an example, we 
+consider two metagenomic soil samples, one from a Maryland estuary and
+the other from a North Carolina forest. :::
+
+	#  read the phylogenetic profiles from tab-delimited file with headers
+	data1 <- read.table(file="example1.txt",
+	                   header=T,
+	                   sep="\t")
+
+	#  normalize the counts so that each column sums to one
+	#  and apply variance stabilizing transform and calculate
+	#  score for the difference (in standard deviations)
+	tot.cnt <- apply(data1[,3:4],2,sum)
+	z1      <- asin( sqrt( data1[,3]/tot.cnt[1] ) )
+	z2      <- asin( sqrt( data1[,4]/tot.cnt[2] ) )
+	dif.z   <- 2*( z1 - z2 )/sqrt(1/tot.cnt[1]+1/tot.cnt[2])
+
+	#  set color code for significant differences
+	color.sig  <- c(3,5,6,2)
+	alpha      <- c(0.001,0.000001,0.00000001)
+	sig        <- cut( abs(dif.z),c(0,qnorm(alpha/2,lower.tail=F),100) )
+	color.plot <- color.sig[sig]
+	color.bg   <- color.plot
+	color.bg[color.bg == 3] <- 0
+	is.up   <- dif.z > 0
+
+	#  make area of symbol proportional to number of reads recruited at each node of the tree
+	siz    <- 10*sqrt((data1[,3]+data1[,4])/sum(tot.cnt))
+	siz[1] <- 0
+
+	#  make basic plot with colored edges
+	plot.phylo(rna.tree,
+		   cex=0.5,
+		   no.margin=T,
+		   show.tip.label=F,
+		   lab4ut="axial",
+		   type="unrooted",
+		   use.edge.length=F,
+		   edge.color=gray(0.65))		   
+	colorEdge(rna.tree,brk,200,sat=0.4)
+
+	#  add symbols indicating significant differences
+	#  up pointing trangles for increases
+	nodelabels("",node.internal[is.up],
+			cex=siz[is.up],
+			pch=24,
+			frame="none",
+			col=color.plot[is.up],
+			bg=color.bg[is.up])
+
+	#  down pointing triangles for decreases
+	nodelabels("",node.internal[!is.up],
+			cex=siz[!is.up],
+			pch=25,
+			frame="none",
+			col=color.plot[!is.up],
+			bg=color.bg[!is.up])
+	text(10,3,"MD wetlands vs NC forest")
+
+
+====================
+Clustering with R
+====================
+
+Multiple phylogenetic profiles can be grouped for similarities using k-means
+clustering.  This provides an opportunity to investigate if similarly
+labeled metagenomes can be grouped, and if so, what are the determinants
+of such metagenomic samples.  
+
+The R base package has a kmeans and hiearchical clustering functions.
+More advanced features are included in the cluster library. 
+
+
+
+Full resolution functional profiles **(left)** before and **(after)** clustering:
+
+.. figure:: heatmaps_env.png
+   :width: 100%
+
+The R script used to read in data and cluster functions from environmental metagenomes:::
+
+	   # function data
+	   # read in data
+
+	   dat.f <- read.table("functional.env.raw.csv",header=T, sep=",", skip=2)
+	   dat.f[1:4,]
+	   dat.f[962:963,]
+
+ 	   # labels
+
+	   raw <- scan("functional.env.raw.csv", sep="\n",what="") 
+	   flab.1 <- unlist(strsplit(raw[1],","))
+	   empty <- flab.1==""
+	   lab.idx <- (1:length(flab.1))[!empty]
+	   labels <- flab.1[lab.idx]
+	   times <- diff( c(lab.idx,length(flab.1)+1) )
+
+	   lab.fun <- rep(labels,times)
+	   cbind(flab.1,lab.fun)
+
+	   # second row
+
+	   flab.2 <- unlist(strsplit(raw[2],","))
+	   empty2 <- flab.2==""
+	   lab2.idx <- (1:length(flab.2))[!empty2]
+	   labels2 <- flab.2[lab2.idx]
+	   times2 <- diff( c(lab2.idx,length(flab.2)+1) )
+
+	   lab2.fun <- rep(labels2,times2)
+	   lab2.fun[193] <- "GOS"
+	   cbind(flab.2,lab2.fun)
+
+	   # get rid of empty columns
+
+	   dat.f <- dat.f[-963,]
+
+	   tmp <- is.na(dat.f)
+	   bad.column <- (apply(tmp,2,sum) > 0)
+
+	   dat <- dat.f[,!bad.column]
+	   lab.fun <- lab.fun[!bad.column]
+	   datlab2.fun <- lab2.fun[!bad.column]
+
+	   dat [1:4,]
+	   dim(dat)
+	   # normalize data
+
+	   sum.col <- apply( dat,2,sum )
+	   div <- matrix(sum.col,962,242,byrow=T)
+	   dat.norm <- dat/div
+	   apply(dat.norm,2,sum)
+
+	   image(1:242,1:962,as.matrix(t(log(dat.norm))))
+
+	   # k-means clustering
+
+	   ncluster <- 50
+
+	   kprofile <- kmeans(t(sqrt(dat.norm)),ncluster)
+
+	   image(as.matrix(sqrt(t(dat.norm))))
+
+	   idx <- sort.list(kprofile$cluster)
+	   prof.sort <- dat.norm[,idx]
+	  image(1:242,1:962,as.matrix(t(log(prof.sort))))
+	  abline(v=cumsum(table(kprofile$cluster))+0.5,col="gray")
+
+	  # different plots
+
+	  plot(1:963  ,kprofile$center[1,],type="l",log="y")
+	  for ( k in 2:ncluster ) lines(1:962,kprofile$center[k,],col=k)
+
+	  vvc <- apply(kprofile$center,2,var)
+	  vvv <- apply(dat.norm,1,var)
+	  plot(1:962,vvc,cex=0.75,pch=20)
+
+	  idx <- vvc > 0.001
+	  text((1:962)[idx]+4,vvc[idx]+0.0004,(1:962)[idx],cex=0.7)
+
+	  clus.lab <- split(lab.env,kprofile$cluster)
+	  clus.lab
+
+	  clus.name <- split(names(kprofile$cluster),kprofile$cluster)
+	  clus.name
+
+	  for ( k in 1:ncluster ) names(clus.lab[[k]]) <- clus.name[[k]]
+
+	  # Do multidimensional scaling
+	  #  1. calculate distance matrix
+
+	  Dist <- function(x,y){      
+	  sqrt(sum((x-y)^2))
+	  }
+
+	  DD <- matrix(0,ncluster,ncluster)
+	  for ( i in 1:ncluster ){
+	    for ( j in 1:ncluster){
+	         DD[i,j] <- Dist(kprofile$center[i],kprofile$center[j])                 
+            }
+	  } 
+		   
+          mds <- cmdscale(DD)
+          plot(mds[,1],mds[,2],pch=20)
+          plot(mds[,1],mds[,2],pch=20,col=heat.colors(ncluster))
+          identify(mds[,1],mds[,2])
+
+          center.label <- sapply(clus.lab,FUN=function(x) names(which.max(table(x))) )
+          plot(mds[,1],mds[,2],pch=20,col=heat.colors(ncluster))
+          identify(mds[,1],mds[,2],center.label)
+		   
+          cluster.size <- sapply(clus.lab,FUN=function(x) length(x) )
+          plot(mds[,1],mds[,2],pch=20,col=heat.colors(ncluster))
+          identify(mds[,1],mds[,2],cluster.size)
+
+============================
+Pairwise comparisons with R
+============================
+
+.. figure:: sunlight_who.png
+   :width: 100%
+
+============================
+Niche determinants, gulf oil
+============================
+
+.. figure:: pf_k25.*
+   :width: 60%
+
+====================
+Tooth decay study
+====================
+
+.. figure:: wdw.png
+   :width: 60%
+
+======================
+Algal transcriptomes
+======================
+
+.. figure:: algae_froll.*
+   :width: 60%
+
+

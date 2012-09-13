@@ -1,0 +1,345 @@
+                       Sequedex Documentation
+                           Joel Berendzen
+		            9 May 2012
+
+A. Overview
+
+This is the design document defining the input and output file and
+directory structure of the Sequedex package and the associated
+analysis scripts based on Sequedex.  This document is the only
+specification of the Sequedex ABI. At present, the only interfaces
+to Sequedex are through the command line and the file system.
+
+Sequedex is designed to operate at different product levels (Sequescan
+free, Sequescan licensed, and Sequedex).  All of these product levels
+are referred to as Sequedex for the purposes of this document.  The
+Sequescan free version of the code produces a set of statistics that
+can be used to reproduce the figures in the paper describing Sequedex
+(Berendzen et al., BMC Bioinformatics, 2012).  The licensed versions
+of Sequescan adds additional functionality, including an SQLLite
+database of classified reads that can later be filtered and extracted
+to a FASTA file.  At present, only the Sequescan free version of the
+code is available; Sequescan licensed is in beta test.  Contact the
+authors if you wish to become a beta tester.  The full Sequedex
+product (still in alpha at this point) does indexing of the sequences
+(puts the "dex" in Sequedex), and thus produces additional statistics,
+a set of metagenomic signatures, and a more complete set of graphs of
+sequences for downstream assembly.  The full Sequedex also allows
+people to calculate signatures on their own trees.
+
+Sequedex is designed to operate with different signature databases.
+At present the only database for public release is the one-per-genus
+bacterial database, bact403h.  This database was used to produce the
+data in the paper.  We have also have produced databases for viruses,
+metazoans, lower eukaryotes, a larger set of bacteria and archaea, and
+the complete Tree of Life including viruses.  We do not plan on
+releasing these additional databases until after initial publication
+of the papers describing them.  Contact the authors if you have unique
+access to data that could make use of the broader databases and if you
+are interested in collaborating on the initial papers.
+
+Sequedex has a public repository, wiki, and mailing list on GitHub at
+http://github.com/joelb123/Sequedex.  In the repository will be placed
+analysis scripts, documentation, and results of Sequedex runs on other
+data sets that you may compare your data to.  Sequedex users should
+check the site from time to time.
+
+B. Command Lines
+
+B.1 sequescan
+
+sequescan [-h] | [-v] [-c CONFIGFILE] -d DBNAME [-s SCHEME] [-o OUTDIR] INFILE
+
+Options:
+     -h prints this help message.  All other options and parameters will be ignored.
+     -v verbose output to the terminal using the logging system at the log level
+        specified in the config file.
+     -c CONFIGFILE specifies the location of the config file.  The default value is 
+        /etc/sequedex/sequescan.conf.  Sequescan requires a valid config file to run.
+     -d DBNAME specifies the name of the signature database to use.  This must 
+        correspond to the name of a jar file (*without* the ".jar") in the path pointed
+        to by the config file parameter signature_db_path. As a practice, signature database 
+        directories include the name of their root and the number of interior nodes
+        they have, e.g. bact403h, viruses1252h.
+     -s SCHEME optionally specifies the classification scheme to be used, e.g., seed_0911.
+        At present only one scheme name may be used at a time.  Some databases may not
+        define any classification schemes at all (e.g., the current version of the viruses
+        database.  If you specify a scheme that doesn't exist in the signature database, a
+        fatal error will result.
+     -o OUTDIR overrides the output directory specified in the configuration file.
+
+Parameters:
+   INFILE is the input file in FASTA format.  Complete paths, relatives paths, and symlinks
+   may be used here.
+
+C. Directory structure
+
+C.1. Input path
+
+Sequedex requires an input directory path as a command-line argument.
+It then searches for files of the extension by the configuration file
+parameters input.infile_type and the corresponding input.*ext_list
+(e.g., ".fasta" for FASTA files).  The input directory path may be as
+complicated or as simple as you like, with the only requirement that
+all subdirectories must either be listable or explicitly excluded.
+
+However, the contributed scripts that depend on Sequedex employ
+an important convention: if more than one input sequence file is
+found in the same directory, the data from those files will be
+treated as replicates.  The contributed scripts generally expect
+to find metadata in the input directories.  The following file names
+and contents are conventional for those scripts:
+
+metadata.tsv - a tab-separated file containing name:value pairs,
+               where the name is in column 1, and the value may
+               occupy may occupy more than one column.  There
+               is no requirement that all rows be padded to the same
+               number of columns. Examples of metadata include names,
+               collection data, sequencing information, latitude/longitude,
+               and URLs (project, data retrieval, and links out to other 
+               metadata collections). The order of data in this file is 
+               not important.Common examples of data in this file include:
+	       	      name  Text string for data in this directory.
+		      	    If this key is not present, most scripts
+			    will use the directory name instead.
+		      	    Name in a directory hierachy may be used
+			    will generally be applied in a hierarchical
+			    fashion, e.g, the lowest-level named "Control"
+			    might be appended to higher levels to
+			    produce a name such as
+			    "Soils/Desert/Nevada/Crust/Control".
+			    May include escaped characters obeying
+			    C conventions such as newlines "\n".
+		 shortName  Short version of the name, e.g. "-".
+		   texName  LaTex-compatible version of the name, which
+		   	    for some plotting programs permits a wider
+			    range of text representations such as subscripts,
+           		    Greek characters, and color.
+                 htmlName   As above, only in HTML.
+
+metadata.xls - Spreadsheet-compatible version of the metadata as above, which
+	       may include column width and row height sizing preferences.
+
+
+C.2. Output directory
+
+Sequedex writes all output to the path specified in the configuration
+file as dir in the section [output].  Sequedex has only a single
+expectation about the output directory, namely write permission.
+However, the contributed analysis scripts generally expect the output
+directory structure to match the input directory structure, even if
+they are in separate hierarchies.  A set of files placed in the output
+directory, which are listed by the names of parameters in the [output]
+section of the configuration file.
+
+C.2.a dir
+
+Specifies the location of the output directory. 
+
+C.2.b logDir
+
+Specifies the location of the log file.
+
+C.2.a who
+
+This is a tab-separated file containing a vector of length nNodes of
+counts of reads assigned to the nodes of the phylogenetic tree.
+
+C.2.b what
+
+This is a set of tab-separated files each containing a vector of
+length nClasses of counts of the number of fragments assigned to
+each class, one file per classification scheme.
+
+C.2.c whoDoesWhat
+
+This is a set of tab-separated files each containing a matrix of size
+nNodex by nClasses of counts of the number of fragments assigned to
+each class for each node, one file per classification scheme.
+
+C.2.e stats
+
+This is a tab-separated file of summary statistics for the signature
+collection. The statistics collected are:
+
+1. Data In (bp)[int]
+
+2. Reads In[int]
+
+3. Reads With Fragments Above Cutoff[int]
+
+4. Reads Assigned[int]
+
+5. Single-Signature Reads[int]
+
+6. Single-Node Reads[int]
+
+7. Monophyletic Reads[int]
+
+8. Non-Monophyletic Reads[int]
+
+9. Frames Processed[int]
+
+10. Frames With Fragments Above Cutoff[int]
+
+11. Fragments In[int]
+
+12. Fragments Above Cutoff[int]
+
+13. Fragments Assigned[int]
+
+14. Input Time (ms)[int]
+
+15. Translate Time (ms)[int]
+
+16. Match Time (ms)[int]
+
+17. Assignment Time (ms)[int]
+
+18. Other Time (ms)[int]
+
+19. Total Time (ms)[int]
+
+20. Processing Rate (Gbp/hr)[float]
+
+21. Percent of Reads Assigned[float]
+
+22. Total Size of Matched Fragments (bp)[int]
+
+23. Fragments Assigned To {SchemeName}[int]
+
+
+C.2.f log
+
+This is a log file for the run.  The amount of information written
+here is determined by the configuration file parameter global.logLevel.
+
+C.2.g db
+
+This is an SQLLite database of sequences, signatures, phylogeny
+assignments, and classifications.  See the schema file for more
+details.
+
+C.3. Jar data modules
+
+Sequedex ships with required libraries of signature data. Optionally,
+there are also collections of pre-analyzed data from metagenomes and
+synthetic reads from sequenced genomes to compare your data against.
+The structure of the optional directories are the same as normal Sequedex
+output directories as discussed above, with additional analysis products
+in the from running a standard set of contributed analysis scripts.
+
+The structure of the signature data library directories is as follows:
+
+$SEQUEDEX_HOME/lib/%DBNAME%
+
+D. File conventions
+
+Sequedex accepts 3 types of input files and produces 3 types of
+output files, listed here by the file extension.
+
+D.1. .conf (input)
+
+In addition to command-line parameters, Sequedex uses Windows-style 
+configuration files to control its behavior that look like this:
+
+; comment
+[Section]
+name=value ; another comment
+
+Values may have environmental variable surrounded by percent-signs.
+Normally these files do not need to be modified, except perhaps to
+change output path rules or to limit resource usage.  For further
+information on them, consult the example files provided.
+
+D.2. .fasta (input)
+
+FASTA files are currently the only input file type.  Multi-line
+descriptions are not supported.  The word following the ">" symbol is
+the identifier, which must be left as supplied by the sequencer
+manufacturer, and must be unique. Inputs are DNA only for
+classification and protein only for new scheme calculations.  The
+minimum length of 10 amino acids (30 base pairs), and the maximum
+length is limited by the memory available on your machine with a
+scaling of approximately 20 bytes/base pair.  Ambigious positions will
+be ignored.  It is important to trim off adapter and barcode
+sequences, but one may be quite liberal about including low-quality
+ends of reads because Sequedex will simply not find a signature in
+low-quality regions of the read.  Calculation times are approximately
+linear in number of base-pairs used.
+
+The input files may be symbolic links to the actual files if one
+wishes to keep arbitrary sequencer file names but use "nice" file
+names for analysis.  The symlink names will be used in this case.
+
+D.3. .phyloxml (input)
+
+Phylogenetic trees are in PhyloXML format as specified at
+http://www.phylosoft.org.  Phylogenetic trees must be specified
+at the time signatures are calculated; their connectivity may not
+be changed afterwards without re-calculating the signatures.  The
+branch lengths, colors, branch widths, and node names may be changed
+at any time, however.  Suitable editors and viewers are available
+from the web site.
+
+D.4. .log (output)
+
+These are conventional log files whose contents are controlled by 
+the global.logLevel parameter in the config files.  There is little
+information in these files that is not contained in the stats files,
+but these files are the first place that you should look if there
+seem to be problems with the Sequedex run.
+
+D.5. .tsv (output)
+
+These are tab-separated value files, intended for reading by humans
+either directly or through importing into a spreadsheet.  The use of
+tabs inside a string value can be accomplished through quotation but
+is strongly discouraged due to problems it can cause in downstream
+contributed tools.  In addition, we observe the following convention
+on our tsv files except those with variable numbers of columns (such
+as metadata.tsv).
+ 
+   1. The first line in the file is a header that begins with "#tsv " 
+      followed by the number of rows and columns in the table separated
+      by an "x" (for example "#tsv 403x1008" for the Who Does What
+      matrix.  Note that the first column is always interpreted as
+      string labels, and is not included in this count. Downstream
+      analysis tools that need to parse this data can treat "#tsv "
+      as a magic number implying that the file will behave the rest
+      of the standards in this section.  In particular, the first
+      row and first columns will be interpretable as string labels
+      specifying unit types and (optionally) units.
+   2. Each row of the file contains the same number of tab-separated 
+      columns in the header.
+   3. Row and column labels are unicode and may contain any characters
+      except tabs. Column labels are of the form
+      "Free form text (UNITS)[TYPE]"
+         where:
+           (UNITS) is an optional tag indicating the units of the column.
+                   UNITS should be standard units parseable by IUPAC 
+                   unit-checking code.
+           [TYPE] is an optional tag indicating the type of data in the
+                 row or column if different from string. Valid data
+                 types are:
+                          [int] - indicates the data are integer
+                        [float] - indicates the data are floating-point
+                         [bool] - indicates the data are boolean with the
+                                  usual possibilities for encoding (Y/N,
+                                  T/F, 1/0).
+                         [list] - indicates the data are a comma-separated
+                                  list of free-form string data.
+                      [intList] - indicates the data are a comma-separated
+                                  list of integer data. 
+                    [floatList] - indicates the data are a comma-separated
+                                  list of floating-point data. 
+                     [boolList] - indicates the data are a comma-separated
+                                  list of boolean data. 
+                 If any other square-bracketed text occurs at the end of the label,
+                 the whole column will be interpreted as free-form string data.
+ 
+D.6. .db (output)
+
+These are SQLLite files.  The schema that Sequedex uses is discussed
+in a separate document.  A selection tool is provided to turn these
+database files into FASTA files and produce other types of reports.

@@ -1,0 +1,94 @@
+set term post color
+set out 'hmb.ps'
+unset key
+set title ''
+set ytics ''
+set multiplot
+set size .99,.25
+set origin 0,.8
+set label "flavobacteria" at 34,10000 rotate font "times,8"
+set label "bacteroidetes" at 80,10000 rotate font "times,8"
+set label "cytophaga" at 86,10000 rotate font "times,8"
+set label "chlorobium" at 96,10000 rotate font "times,8"
+set label "fusobacteria" at 116,10000 rotate font "times,8"
+set label "spirochaetes" at 138,10000 rotate font "times,8"
+set label "verrucomicrobia" at 148,10000 rotate font "times,8"
+set label "chlamydia" at 155,10000 rotate font "times,8"
+set label "rhizobiales" at 230,10000 rotate font "times,8"
+set label "rhodobacteriales" at 263,10000 rotate font "times,8"
+set label "caulobacteriales" at 275,10000 rotate font "times,8"
+set label "sphingomonadlaes" at 288,10000 rotate font "times,8"
+set label "rhodospirillia" at 299,10000 rotate font "times,8"
+set label "rickettsia" at 322,10000 rotate font "times,8"
+set label "myxococcus" at 332,10000 rotate font "times,8"
+set label "misc." at 342,10000 rotate font "times,8"
+set label "desulfurallales" at 356,10000 rotate font "times,8"
+set label "desulfuromonales" at 366,10000 rotate font "times,8"
+set label "deferribacteres" at 372,10000 rotate font "times,8"
+set label "aquificae" at 382,10000 rotate font "times,8"
+set label "acidobacteria" at 388,10000 rotate font "times,8"
+set label "epsilon" at 420,10000 rotate font "times,8"
+set label "thiobacillus" at 429,10000 rotate font "times,8"
+set label "methylxxx" at 435,10000 rotate font "times,8"
+set label "azoarcus" at 439,10000 rotate font "times,8"
+set label "burkholderiales" at 490,10000 rotate font "times,8"
+set label "neisseriales" at 506,10000 rotate font "times,8"
+set label "xanthanomonads" at 523,10000 rotate font "times,8"
+set label "nitrosococcus" at 535,10000 rotate font "times,8"
+set label "coxiella" at 543,10000 rotate font "times,8"
+set label "pseudomonads" at 573,10000 rotate font "times,8"
+set label "acinetobacter" at 587,10000 rotate font "times,8"
+set label "shewanella" at 618,10000 rotate font "times,8"
+set label "vibrio" at 639,10000 rotate font "times,8"
+set label "haemophilus" at 655,10000 rotate font "times,8"
+set label "enteric" at 717,10000 rotate font "times,8"
+set label "nocardia" at 785,10000 rotate font "times,8"
+set label "streptomycetes" at 858,10000 rotate font "times,8"
+set label "acidothermus" at 864,10000 rotate font "times,8"
+set label "slackiaceae" at 876,10000 rotate font "times,8"
+set label "chloroflexi" at 893,10000 rotate font "times,8"
+set label "deinococcus" at 904,10000 rotate font "times,8"
+set label "synergistetes" at 911,10000 rotate font "times,8"
+set label "thermotogae" at 924,10000 rotate font "times,8"
+set label "mycoplasmas" at 956,10000 rotate font "times,8"
+set label "erysipelotrichaceae" at 968,10000 rotate font "times,8"
+set label "lactobacilli" at 1039,10000 rotate font "times,8"
+set label "enterococcus," at 1048,10000 rotate font "times,8"
+set label "bacillales" at 1094,10000 rotate font "times,8"
+set label "paenibacillus" at 1103,10000 rotate font "times,8"
+set label "selenomonads" at 1121,10000 rotate font "times,8"
+set label "syntrophomonads" at 1127,10000 rotate font "times,8"
+set label "clostridia" at 1235,10000 rotate font "times,8"
+set label "cyanobacteria" at 1277,10000 rotate font "times,8"
+set label "desulfurococcaceae" at 1291,10000 rotate font "times,8"
+set label "sulfolobales" at 1295,10000 rotate font "times,8"
+set label "thermoproteales" at 1304,10000 rotate font "times,8"
+set label "methanobacteriales" at 1315,10000 rotate font "times,8"
+set label "methanococcales" at 1324,10000 rotate font "times,8"
+set label "thermococci" at 1332,10000 rotate font "times,8"
+set label "methanoxxx" at 1355,10000 rotate font "times,8"
+set label "halobaceriales" at 1365,10000 rotate font "times,8"
+set label "protozoa" at 1383,10000 rotate font "times,8"
+set label "plants" at 1393,10000 rotate font "times,8"
+set label "basidiomycota" at 1404,10000 rotate font "times,8"
+set label "saccharomycotina" at 1418,10000 rotate font "times,8"
+set label "pezizomycotina" at 1438,10000 rotate font "times,8"
+set label "worms" at 1445,10000 rotate font "times,8"
+set label "insects" at 1456,10000 rotate font "times,8"
+set label "chordates" at 1465,10000 rotate font "times,8"
+p [0:250][0:500000] 'plaque' u 1:($3/.94) w l lt 1 lc 1,'stool' u 1:($3/3.) w l lt 1 lc 2,'tongue' u 1:($3/.12) w l lt 1 lc 3,'cheek' u 1:($3/1.) w l lt 1 lc 4,'nose' u 1:($3/.05) w l lt 1 lc 5,'ear' u 1:($3/.72) w l lt 1 lc 7,'bds' u 1:2 w l lt 1 lc 7
+set origin 0,.6
+p [250:500][0:500000] 'plaque' u 1:($3/.94) w l lt 1 lc 1,'stool' u 1:($3/3.) w l lt 1 lc 2,'tongue' u 1:($3/.12) w l lt 1 lc 3,'cheek' u 1:($3/1.) w l lt 1 lc 4,'nose' u 1:($3/.05) w l lt 1 lc 5,'ear' u 1:($3/.72) w l lt 1 lc 7,'bds' u 1:2 w l lt 1 lc 7
+set origin 0,.4
+p [500:750][0:500000] 'plaque' u 1:($3/.94) w l lt 1 lc 1,'stool' u 1:($3/3.) w l lt 1 lc 2,'tongue' u 1:($3/.12) w l lt 1 lc 3,'cheek' u 1:($3/1.) w l lt 1 lc 4,'nose' u 1:($3/.05) w l lt 1 lc 5,'ear' u 1:($3/.72) w l lt 1 lc 7,'bds' u 1:2 w l lt 1 lc 7
+set origin 0,.2
+p [750:1000][0:500000] 'plaque' u 1:($3/.94) w l lt 1 lc 1,'stool' u 1:($3/3.) w l lt 1 lc 2,'tongue' u 1:($3/.12) w l lt 1 lc 3,'cheek' u 1:($3/1.) w l lt 1 lc 4,'nose' u 1:($3/.05) w l lt 1 lc 5,'ear' u 1:($3/.72) w l lt 1 lc 7,'bds' u 1:2 w l lt 1 lc 7
+set origin 0,.0
+set label "plaque" at 1010,450000 tc lt 1
+set label "stool" at 1010,370000 tc lt 2
+set label "tongue" at 1010,290000 tc lt 3
+set label "cheek" at 1010,210000 tc lt 4
+set label "nose" at 1010,130000 tc lt 5
+set label "ear" at 1010,50000 tc lt 7
+p [1000:1280][0:500000] 'plaque' u 1:($3/.94) w l lt 1 lc 1,'stool' u 1:($3/3.) w l lt 1 lc 2,'tongue' u 1:($3/.12) w l lt 1 lc 3,'cheek' u 1:($3/1.) w l lt 1 lc 4,'nose' u 1:($3/.05) w l lt 1 lc 5,'ear' u 1:($3/.72) w l lt 1 lc 7,'bds' u 1:2 w l lt 1 lc 7
+
