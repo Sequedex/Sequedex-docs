@@ -6,7 +6,7 @@ Installation instructions
 System requirements
 ===============================
 
-* A 64-bit Mac (Snow Leopard or later) or Linux (2.6 kernel or later) operating system with 8 GB of RAM.  Sequedex is straightforward to run under Windows and we provide installation instructions below using the Linux distribution, but we are still working on the packaging at this time.
+* A 64-bit Mac (Snow Leopard or later: Mac OSX 10.6) or Linux (2.6 kernel or later) operating system with 8 GB of RAM.  Sequedex is straightforward to run under Windows and we provide installation instructions below using the Linux distribution, but we are still working on the packaging at this time.
 
 * You will need to have a 64-bit Java SE 6 runtime installed.   Java 6 runtime is included in Mac OS X Snow Leopard and is automatically downloaded and installed on Mac OS X Lion and Mountain Lion the first time you run a Java program or execute Java from the command line (e.g. java -version).  Linux users should consult their distribution documentation for Java installation information, or you can download it and install it at http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html.
 
@@ -108,7 +108,6 @@ After the "Run Sequescan" button is pressed, a few lines should appear in the "P
 Obtaining a license file
 =========================
 
-Without a license file, Sequedex will only analyze a small number of reads from a single file using a single thread, just enough to verify you have installed it correctly.  You may obtain a free 60-day node-locked demo license by submtting a license information file by e-mail to sequedex-demo-license@lanl.gov. A demo license will be returned to you immediately if your e-mail address has not requested a demo before.  The terms of the demo license are available :download:`here <./license.txt>`.
+Without a license file, Sequedex will only analyze a small number of reads from a single file using a single thread, just enough to verify you have installed it correctly.  You may obtain a free 60-day node-locked demo license by submtting a license information file by e-mail.  The terms of the demo license are available :download:`here <./license.txt>`.
 
-To create a license information file, start the Sequedex GUI and click on "Utilities" at the top of the GUI, then on "Request license".  Follow the instructions to generate a license information file.  E-mail this license information file to the appropriate address below to obtain a license file.
-
+To create a license information file, start the Sequedex GUI and click on 'Utilities' at the top of the GUI, then on 'Request license'.  Follow the instructions to generate a license information file.  E-mail this license information file to to sequedex-demo-license@lanl.gov. A demo license will be returned to you immediately if your e-mail address has not requested a demo before.  This file can be installed by choosing 'Install License' under the same 'Utilities' tab at the top of the sequescan GUI.  If the license is correctly installed in the .sequedex subdirectory of your home directory, you will notice that mutiple threads and multi-file processing is enabled.  If 'verbose' mode is selected, you will be notified that 'License level is 1' will be displayed as Sequescan starts its run.  Since the license file is stored outside the sequedex root directory, this file will not be overwritten when Sequedex is upgraded with a new distribution.

@@ -6,7 +6,7 @@ Installation instructions
 System requirements
 ===============================
 
-* A 64-bit Mac (Snow Leopard or later) or Linux (2.6 kernel or later) operating system with 8 GB of RAM.  Sequedex is straightforward to run under Windows and we provide installation instructions below using the Linux distribution, but we are still working on the packaging at this time.
+* A 64-bit Mac (Snow Leopard or later: Mac OSX 10.6) or Linux (2.6 kernel or later) operating system with 8 GB of RAM.  Sequedex is straightforward to run under Windows and we provide installation instructions below using the Linux distribution, but we are still working on the packaging at this time.
 
 * You will need to have a 64-bit Java SE 6 runtime installed.   Java 6 runtime is included in Mac OS X Snow Leopard and is automatically downloaded and installed on Mac OS X Lion and Mountain Lion the first time you run a Java program or execute Java from the command line (e.g. java -version).  Linux users should consult their distribution documentation for Java installation information, or you can download it and install it at http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html.
 
