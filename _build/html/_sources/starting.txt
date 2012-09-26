@@ -1,0 +1,311 @@
+**************************
+Getting started
+**************************
+
+Sequedex can be run in several modes with either a simple graphical user interface or directly from the command line.  The platform-specific instructions for starting the graphical user interface and obtaining a license file were provided in the previous chapter, and a description of command line use of Sequedex is provided at the end of this chapter.  If the license file is not obtained or installed correctly, sequedex will process a limited number of reads (~10,000) and work only in single-thread mode.  For the bulk of this chapter, we will assume the graphical user interface is being used, and that the user has some way of looking at the tab-delimited text output files, whether that be Excel, a text editor, or an analysis environment like R or Matlab.
+
+Sequedex is distributed with several sets of test data for demonstration and validation.  In this chapter, we illustrate how to use Sequedex on these datasets.   Two metagenomics data files are provided, one from a stool sample sequenced under the human microbiome program and two from a soil sample collected from a Maryland estuary.  Also provided are synthetic data files constructed from the draft genomes of four novel organisms cultured from desert cyanobacterial mats, *Bacillus mojavensis, Bosea thiooxidans, Herbaspirillum seropedicae,* and *Microbacterium trichotecenolyticum.*  The complete stool sample file can be obtained at http://www.ncbi.nlm.nih.gov/Traces/sra/?view=run_browser&run=SRR059346 and the Maryland estuary sample analysis can be compared to the analysis in Figure 7 of Berendzen, et al. [#s1]_ as well as additional files 5 and 6 of this work.  The synthetic data sets were used in this same manuscript to explore the read-length dependence of Sequedex's sensitivity and specificity, illustrated in Figure 6.
+
+The test data set for the human microbiome sample is located in the directory sequedex/testData/metagenomes/humanMicrobiome/gut/.  If you are starting the Sequedex GUI from the command line, it may be easiest to navigate this directory before typing sequescan.  Alternatively, you can start the sequescan GUI from the applications menu and navigate to the data directory with the dialog box.  In either case, you should see a screen that looks like this when you start the Sequedex application:
+
+.. figure:: sequescan_gui.png
+  :width: 60%
+
+  **The graphical user interface for sequescan.**  At the top are two pull-down menus that enable the user to request and install a license and to quit the program.  Three input selections allow the user to choose the signature data module, the functional data module and select whether the fasta input files will be chosen by name, by directory, or by an input file listing the complete path of files to be analyzed.  The appropriate type of input is chosen in the next box.  A configuration file is selected to select additional program options.  The top-level output directory can be selected.  Finally, the number of threads used and whether verbose output messages are desired can be selected.  Note that at present multiple threads can only be used when multiple files are simultaneously analyzed.
+
+Click on the button to the right of the 'input' field and locate the human microbiome file 'SRR059346-first100kReads.fasta'.  After opening this file and clicking the 'Run Sequescan' button at the bottom of the dialog box, Sequescan will begin reading the bacterial signature list into memory, then classifying the reads in SRR059346-first100kReads.fasta against this signature list.  Output similar to that below will appear in the 'Progress' box at the bottom of the GUI.::
+
+      Sep 14, 2012 11:58:01 AM  Start Sequescan Program (mode=run)
+      Sep 14, 2012 11:58:01 AM  Reading signature map from data module
+      Sep 14, 2012 11:59:13 AM  Reading functions from data module
+      Sep 14, 2012 11:59:13 AM  Start processing ~mcmahon/sequedex/testData/metagenomes/humanMicrobiome/gut/SRR059346-first100kReads.fasta
+      Sep 14, 2012 11:59:28 AM  SRR059346-first100kReads.fasta: 26348176 chars processed (100.0 completed)
+      Sep 14, 2012 11:59:33 AM  End Sequescan Program
+
+The output files will appear in subdirectories 'log' and 'data' in the directory where the input file was (if you used the default settings).  The log directory will contain a subdirectory with an html file that can be opened with a web-browser, indicating any errors or warnings associated with this Sequescan run.  The data directory will contain a subdirectory with four types of outputs in two seperate formats (tab-separated-variables and json / tsvj); we examine the four types of tsv files in the next section.  These files can be imported into Excel, a text editor, or simply examined on the command line with the 'less' or 'cat' commands.
+
+==========================
+Output files - stats
+==========================
+
+The output file SRR059346-first100kReads.fasta-bact403.1-stats.tsv contains basic statistics about the computation. It contains::
+
+   Data Input File /home/localhost/mcmahon/sequedex/testData/metagenomes/humanMicrobiome/gut/SRR059346-first100kReads.fasta
+   Percent of File Processed			100.0
+   Processing Complete     	   		true
+   Thread Pool Size        	   		1
+   Processing Rate (Gbp/hr)        		4.761
+   Reads In        		   		100000
+   Bases In        		   		20200000
+   Reads With Fragments > 15 Bases 		99347
+   Frames Processed				600000
+   Frames with Fragments > 15 Bases 		591859
+   Fragments In    	      			2388546
+   Fragments > 15 Bases				931875
+   Reads Assigned				69170
+   Single-Signature Reads  			2117
+   Single-Node Reads       			16035
+   Monophyletic Reads				49835
+   Non-Monophyletic Reads  			1183
+   Fragments Assigned      			123589
+   Percent of Reads Assigned       		69.2
+   Total Size of Matched Fragments (bp) 	18635964
+   Fragments Assigned      	   		93977
+   Total Size of Fragments Assigned (bp)   	14288283
+   Input Time(ms)  	   	    		170
+   Translate Time (ms)     			9060
+   Match Time (ms)				4993
+   Assignment Time (ms)    			297
+   Other Time (ms) 				753
+   Total Time (ms) 				15273
+
+Most of this is self-explanatory, with the terms 'Single-signature' 'Single-node', and 'Monophyletic' defined below.
+
+=================================
+Output files - phylogeny counts
+=================================
+
+The output file SRR059346-first100kReads.fasta-bact403.1-phylogeny_counts.tsv contains the phylogenetic profile derived from the fasta input file.  It contains eight columns of data, containing node-numbers defined with respect to a reference phylogeny, labels for these nodes, and histograms of reads assigned to these nodes in several different ways. Several sections of this output file are shown below, with the majority of reads recruiting to node 189 in the bacterial reference tree, consistant with a clonal population of *E. coli* in this patient:::
+
+    indx    id      rollup_category 	        total  single_sig  single_node  monophyl.  non_monophyl
+    0       n000    Root    	    	         1685     187          764     	    0         734
+    1       n001    Multi-Phyla     	           55       9       	28         18          0
+    2       n002    Cyanobacteria+Firmicutes       23       5       	12          6          0
+    3       n003    Cyanobacteria+Firmicutes        1       0       	 0          1          0
+    4       n004    Cyanobacteria   	            1       1       	 0          0          0
+    ...
+    25      n025    Firmicutes		            3       1       	 0          2	       0
+    26      n026    Firmicutes      	           24      15      	 1          8          0
+    27      n027    Firmicutes      	           12       1       	 3          8          0
+    28      n028    Firmicutes      	            2       0       	 0          2          0
+    29      n029    Firmicutes      	           22       1       	 6         15          0
+    30      n030    Firmicutes      	           38       1       	16         21          0
+    31      n031    Firmicutes      	           12       1       	 2          9	       0
+    32      n032    Firmicutes      	           12       1       	 3          8          0
+    33      n033    Firmicutes      	            2       0       	 1          1          0
+    ...
+    184     n184    Beta+Gammaproteobacteria       17       1       	 0         16	       0
+    185     n185    Beta+Gammaproteobacteria       16       0       	 0         16          0
+    186     n186    Beta+Gammaproteobacteria       14       1       	 1         12          0
+    187     n187    Beta+Gammaproteobacteria       42       8       	 2         32          0
+    188     n188    Beta+Gammaproteobacteria     1567      60          108     	 1399          0
+    189     n189    Beta+Gammaproteobacteria    46469     628         9071    	36770          0
+    190     n190    Beta+Gammaproteobacteria      432      12      	71        349          0
+    191     n191    Beta+Gammaproteobacteria       14       1       	 2         11          0
+    192     n192    Beta+Gammaproteobacteria       28       0       	 0         28          0
+    193     n193    Beta+Gammaproteobacteria        2       0       	 0          2          0
+
+
+
+The columns of the phylogenetic profile are:
+
+*  indx:   Index starting at 0
+*  id:     node id. consistent with  :download:`newick <./Bacteria403.newick>`, and :download:`phyloxml <./Bacteria403.phyloxml>` reference tree.
+*  rollup_category: general category name.  May include several phylum for nodes near the root
+*  total:   Total number of reads attributed to the node
+*  single_sig:  Number of reads containing only one signatures
+*  single_node:  Number of reads containing multiple signatures, but all of them belonging to the same node
+*  monophyletic: Number of reads containing multiple signatures that are consistent along the phylogeny
+*  non_monophyl: Number of reads containing multiple signatures that are inconsistent with the phylogeny
+
+Visualization of the phylogenetic profiles can be aided by placing the counts onto the phylogenetic 
+tree :download:`newick <./Bacteria403.newick>`, or :download:`phyloxml. <./Bacteria403.phyloxml>`  See 
+Chapter 6 for how to do this.
+
+=================================
+Output files - function counts
+=================================
+
+Functional profiles are computed using a reference database of functional categories.  The default functional classification is derived from that used by the SEED project (http://www.theseed.org) database as described in detail in Ref. [#s1]_  The functional profiles count the number of open reading frames associated to each functional category.  Because many signatures occur in multiple SEED categories and each reading frame gets a total of one count, categories often are assigned a fractional count.  
+
+Approximately 70% of the phylogenetic signatures can be associated with one or more SEED subsystems.  
+
+The output file SRR059346-first100kReads.fasta-bact403.1-seed_0911-function_counts.tsv contains the functional profile derived from the fasta input file. The carbohydrate section of 
+this file is shown here:::
+
+     indx    fragments  id      level1          level2              subsystem
+     54      0.5     si_0054 Carbohydrates   Aminosugars     (GlcNAc)2_Catabolic_Operon
+     55      285     si_0055 Carbohydrates   Aminosugars     Chitin_and_N-acetylglucosamine_utilization
+     56      195.3   si_0056 Carbohydrates   Aminosugars     Fructoselysine_(Amadori_product)_utilization_pathway
+     57      355.7   si_0057 Carbohydrates   Aminosugars     N-Acetyl-Galactosamine_and_Galactosamine_Utilization
+     58      1       si_0058 Carbohydrates   Aminosugars     Neotrehalosadiamine_(NTD)_Biosynthesis_Operon
+     59      6.5     si_0059 Carbohydrates   CO2 fixation    CO2_uptake,_carboxysome
+     60      217.4   si_0060 Carbohydrates   CO2 fixation    Calvin-Benson_cycle
+     61      6       si_0061 Carbohydrates   CO2 fixation    Carboxysome
+     62      184.6   si_0062 Carbohydrates   CO2 fixation    Photorespiration_(oxidative_C2_cycle)
+     63      139.5   si_0063 Carbohydrates   Central carbohydrate metabolism Dehydrogenase_complexes
+     64      134.5   si_0064 Carbohydrates   Central carbohydrate metabolism Dihydroxyacetone_kinases
+     65      315.9   si_0065 Carbohydrates   Central carbohydrate metabolism Entner-Doudoroff_Pathway
+     66      2       si_0066 Carbohydrates   Central carbohydrate metabolism Ethylmalonyl-CoA_pathway_of_C2_assimilation
+     67      158.3   si_0067 Carbohydrates   Central carbohydrate metabolism Glycolate,_glyoxylate_interconversions
+     68      385.5   si_0068 Carbohydrates   Central carbohydrate metabolism Glycolysis_and_Gluconeogenesis
+     69      41      si_0069 Carbohydrates   Central carbohydrate metabolism Glycolysis_and_Gluconeogenesis,_including_Archaeal_enzymes
+     70      240.8   si_0070 Carbohydrates   Central carbohydrate metabolism Glyoxylate_bypass
+     71      71.4    si_0071 Carbohydrates   Central carbohydrate metabolism Methylglyoxal_Metabolism
+     72      0       si_0072 Carbohydrates   Central carbohydrate metabolism Particulate_methane_monooxygenase_(pMMO)
+     73      212.2   si_0073 Carbohydrates   Central carbohydrate metabolism Pentose_phosphate_pathway
+     74      2.9     si_0074 Carbohydrates   Central carbohydrate metabolism Peripheral_Glucose_Catabolism_Pathways
+     75      44.3    si_0075 Carbohydrates   Central carbohydrate metabolism Pyruvate:ferredoxin_oxidoreductase
+     76      279     si_0076 Carbohydrates   Central carbohydrate metabolism Pyruvate_Alanine_Serine_Interconversions
+     77      344.9   si_0077 Carbohydrates   Central carbohydrate metabolism Pyruvate_metabolism_I:_anaplerotic_reactions,_PEP
+     78      310.9   si_0078 Carbohydrates   Central carbohydrate metabolism Pyruvate_metabolism_II:_acetyl-CoA,_acetogenesis_from_pyruvate
+     79      0       si_0079 Carbohydrates   Central carbohydrate metabolism Soluble_methane_monooxygenase_(sMMO)
+     80      387.1   si_0080 Carbohydrates   Central carbohydrate metabolism TCA_Cycle
+     81      345.6   si_0081 Carbohydrates   Di- and oligosaccharides        Beta-Glucoside_Metabolism
+     82      172.5   si_0082 Carbohydrates   Di- and oligosaccharides        Fructooligosaccharides(FOS)_and_Raffinose_Utilization
+     83      317     si_0083 Carbohydrates   Di- and oligosaccharides        Lactose_and_Galactose_Uptake_and_Utilization
+     84      202.4   si_0084 Carbohydrates   Di- and oligosaccharides        Lactose_utilization
+     85      1023.2  si_0085 Carbohydrates   Di- and oligosaccharides        Maltose_and_Maltodextrin_Utilization
+     86      147.6   si_0086 Carbohydrates   Di- and oligosaccharides        Melibiose_Utilization
+     87      48.3    si_0087 Carbohydrates   Di- and oligosaccharides        Sucrose_utilization
+     88      1       si_0088 Carbohydrates   Di- and oligosaccharides        Sucrose_utilization_Shewanella
+     89      210.5   si_0089 Carbohydrates   Di- and oligosaccharides        Trehalose_Biosynthesis
+     90      407.9   si_0090 Carbohydrates   Di- and oligosaccharides        Trehalose_Uptake_and_Utilization
+     91      4.8     si_0091 Carbohydrates   Di- and oligosaccharides        Unknown_oligosaccharide_utilization_Sde_1396
+     92      72.9    si_0092 Carbohydrates   Fermentation    Acetoin,_butanediol_metabolism
+     93      154.2   si_0093 Carbohydrates   Fermentation    Acetone_Butanol_Ethanol_Synthesis
+     94      284.4   si_0094 Carbohydrates   Fermentation    Acetyl-CoA_fermentation_to_Butyrate
+     95      212     si_0095 Carbohydrates   Fermentation    Butanol_Biosynthesis
+     96      54.2    si_0096 Carbohydrates   Fermentation    Fermentations:_Lactate
+     97      420.9   si_0097 Carbohydrates   Fermentation    Fermentations:_Mixed_acid
+     98      71.5    si_0098 Carbohydrates   Glycoside hydrolases    Predicted_carbohydrate_hydrolases
+
+The columns of this file are:::
+   
+*   indx :  Index, starting at zero   
+*   fragments: Number of fragment assigned to that SEED category       
+*   id : SEED identification number     
+*   level1 : Level 1 SEED category descriptor
+*   level2 : Level 2 SEED category descriptor
+*   subsystem : Level 3 or subsystem SEED category descriptor
+
+More information about particular SEED subsystems can be obtained at http://www.theseed.org/SubsystemStories, but the user should note that the index numbers above (eg. si_0094) are only defined within the Sequedex distribution.
+
+====================================
+Output files - who does what matrix
+====================================
+
+The output file SRR059346-first100kReads.fasta-bact403.1xseed_0911.tsv tabulates the number of reads in each phylogeny **and** functional category.  It is a matrix with 402 columns and 911 rows, corresponding to the phylogeny vector defined by the reference phylogeny and the functional vector defined by the SEED subsystems.  A portion of this matrix is shown below, centered around the enteric bacteria and the carbohydrate metabolism subsystems:::
+
+     id   ...  n184 n185 n186 n187 n188   n189  n190  n191 n192 n193  ...
+  ...
+  si_0054        0    0    0    0    0     0.5    0    0    0    0
+  si_0055        0    0    0    0    6.6  200.6  0.1  0.2   0    0
+  si_0056        0    0    0    0    47   147.3   0    0    0    0
+  si_0057        0    0    0    0    0    283.4   0    0    0    0
+  si_0058        0    0    0    0    0      0     0    0    0    0
+  si_0059        0    0    0    0    0     2.9    0    0    0    0
+  si_0060        0   0.1   0    0   1.1   117.1  0.5   0    0    0
+  si_0061        0    0    0    0    0     3.8    0    0    0    0
+  si_0062        0    0    0    0    4    99.8    0    0    0    0
+  si_0063        0    0    0    0   6.8   72.6    0    0    0    0
+  si_0064        0    0    0    0   0.3   124.2   0    0    0    0
+  si_0065        0   0.1   0    0   7.9   199.8   0    0    0    0
+  si_0066        0    0    0    0    0     0.7    0    0    0    0
+  si_0067        0    0    0    0   0.7   95.2    0    0    0    0
+  si_0068        0   0.1   0    0   9.1   227.1   0    0    0    0
+  si_0069        0    0    0    0   0.9   15.6    0    0    0    0
+  si_0070        0    0    0    0   9.3   143.1   0    0    0    0
+  si_0071        0    0    0    0    1     51.5  0.3   0    0    0
+  si_0072        0    0    0    0    0      0     0    0    0    0
+  si_0073        0    0    0    0   8.6   106.6  0.5   0    0    0
+  si_0074        0    0    0    0    0     1.6    0    0    0    0
+  si_0075        0    0    0    0    1     26     0    0    0    0
+  si_0076        0    0    1    0   8.4   190     0    0    0    0
+  si_0077        0    0    2    0   3.9   174.5   6    0    0    0
+  si_0078        0    0    0    0  15.8   191.7  0.3   0    0    0
+  si_0079        0    0    0    0   0       0     0    0    0    0
+  si_0080        0    0    0    0   9.1   223.4   1    0    0    0
+  si_0081        0    0   0.1   0   8.6   228.2   0    0    0    0
+  si_0082        0    0    0    0   7.2   120.3  2.2   0    0    0
+  si_0083        0    7   0.1   6  11.1   168.9 15.3   0   0.3   0
+  si_0084        0    0    0    0   2.2   175.1   0    0    0    0
+  si_0085        0    0    0    0  87.2   749    2.2  0.2   0    0
+  si_0086        0    0    0    0   3.5   142.6   0    0    0    0
+  si_0087        0    0    0    0    0     38.8  6.9   0    0    0
+  si_0088        0    0    0    0    0      0.5   0    0    0    0
+  si_0089        0    0    0    0  11.3   158.8   0    0    0    0
+  si_0090        0    0    0    0  12.4   310.2   0    0    0    0
+  si_0091        0    0    0    0    0      3.3   0    0    0    0
+  si_0092        0    0    0    0  0.5     29.2  2.5   0    0    0
+  si_0093        0    0    0    0    0    112.4   0    0    0    0
+  si_0094        0    0    0    0   1.6   224.2   0    0    0    0
+  si_0095        0    0    0    0   3.4   153.1   0    0    0    0
+  si_0096        0    0    0    0   2.2    30.2   0    0    0    0
+  si_0097        0    0    0    0  13.8   302.1   0    0    0    0
+  si_0098        0    0    0    0    0     70.5   0    0    0    0
+  ...
+
+Generally, this will be most useful on extremely large data sets, as the counts are spread across approximately 400,000 bins.  Given the even increasing number of reads generated by modern sequencers, we expect to have available sufficiently many reads to provide statistical resolving power.  As discussed in the phylogeny and the functional profile output files, the results must be put into context with the used databases.  
+
+====================================================
+Analysis of multiple files in parallel with the GUI
+====================================================
+
+We demonstrate the ability of Sequedex to process multiple fasta files in parallel, as a single batch.  Besides eliminating the need to individually specify each fasta file with the GUI, batch processing of fasta files results in a significant speedup of computation time, because the signature list being read only once, and enables parallel processing of the fasta files with individual Java threads.  This not only enables you to process files simultaneously if your computer has multple cores, but it also requires the signature file be read in only onces for all of the files.
+
+A set of sixteen synthetic metagenomic datasets were used in Berendzen et al. [#s1]_ to examine the read-length of the sensitivity and specificity of Sequedex on four separate clonal populations of bacteria.  These files are provided with the Sequedex distribution in the testData directory under the 'synthetic' subdirectory.  To process these files together, we can select the 'directory' option from the 'Input type' pull-down menu, locate the directory these fasta files reside in the 'Input' dialog box, and enter '4' or more in the box by the 'Thread Number' option.  Upon clicking on 'Run Sequedex', the files will be processed in a batch, with the results appearing in separate subdirectories under 'data/output'.
+
+Alternatively, the files to be analyzed can be listed, with their complete paths, in an input file which is selected in conjunction with the 'list file' option under 'input type' dialog box.  On a Linux or Mac platform, it is possible to generate a complete path by including the full path in the 'ls' command as follows (which must conform to the path relevant to your own system)::
+
+  ls -1 /home/username/sequedex/testData/synthetic/*.fna
+
+===============================
+Analysis of *E. coli* proteome
+===============================
+
+One way to validate Sequedex is to provide an input file derived from a single organism and observed the phylogenetic profile produced by Sequedex.  Since Sequedex requires the input file to be nucleotide sequence, one cannot at present input amino acid sequences.  Six-frame translations are automatically performed on input files, which must be sequeces of A, T, G, and C.  NCBI does, however, distribute files with nucleotide sequences of each of the genes in their completed and draft genomes at their ftp site.  We provide here instructions for analyzing *E. coli,* but they are readily extensible to any of the other genomes available from the same location.
+
+To see the phylogenetic profile Sequedex produces from the *E. coli* genome, download the ffn file from NCBI, at ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_coli_K_12_substr__DH10B_uid58979/NC_010473.ffn and run Sequedex on it, as described above.  You should observe the phylogenetic profile is heavily weighted towards node 189, which is the most specific node covering *E. coli* in the reference phylogeny.  Once you are familiar with this process, it is easy to substitute any of the 1400 other completed bacterial genomes available at this ftp site.  
+
+Alternatively, the user can download a tar file with the files of nucleotide sequences coding for genes in each of the 1400 completed genomes at ftp://ftp.ncbi.nih.gov/genomes/Bacteria/all.ffn.tar.gz.  Running various individual proteomes through Sequedex will give the user some indication of the precision and sensitivity with which genes can be classified.  Note that this is an excellent situation to use the 'list file' under 'input type' as the ffn files will be located in directories corresponding to the organism.  Sequedex will separate the output files in a similar directory structure under the directory specified under 'Output (Top-Level)'
+
+========================================
+Running Sequedex from the command line
+========================================
+
+Many users will find it advantageous to run Sequedex from the command line, which is availble to all users of Mac and Linux systems, and can be obtained for Windows by installing the Cygwin package http://www.cygwin.com.
+
+
+However you acquire your command line, it is most convenient to change directories to where your data resides, the execute the particular Sequedex run.  Help with the basic syntax can be obtained by typing::
+
+  sequescan run -h
+
+which provides the following output::
+
+  sequescan run [-h] | [-v] [-c config_file] -d SIGDBNAME [-o output_directory] [-s function_set] [-t thread_num] [-l] INFILE
+
+  Example:
+  sequescan run -v -c myanalysis.conf  -d Bact403 -o myOutpptDir -s seed_0911 inFile
+
+  Parameter definitions:
+  -h    help
+  -v    verbose
+  -c    user-defined configuration file (overrides system configuation file)
+  -d    name of data module
+  -o    user-defined top-level directory for data output (overrides system-defined location)
+  -s    name of function set
+  -t    maximum number of threads in threadpool (default = 1)
+  -l    indicates that INFILE contains a list of fasta files to be processed
+
+Thus, running Sequescan from the directory with the fasta files with the command line::
+
+   sequescan run -v -d bact403.1 -s seed_0911 -o out_dir infile.fas
+
+will run Sequescan with the bact403 signature list and seed_0911 functional classification of the signatures distributed with this release.  Sequescan will match all of the reads in *infile.fas* and create the directory out_dir in which it will place the results (in a subdirectory).  
+
+Alternatively, the command line::
+
+   sequescan run -v -t 4 -d bact403.1 -s seed_0911 -o out_dir .
+
+will run Sequescan as before, except processing all of the files with an appropriate file extension (by default, fasta, fst, fna, fas, and ffn, specified in sequedex/etc/sequescan/sequescan.conf) as a group, using 4 Java threads, and again with the output appearing in subdirectories of out_dir.  The output files can be written to a different directory tree if one or both directories are supplied with appropriate paths.  This enables users to leave shared data directories untouched by output files produced by Sequedex without the need for recopying potentially large input files.
+
+This remaining of this section describes the generated results from sequescan, which includes a phylogenetic profile, a functional profile and a matrix of function x phylogeny that informs on "who does what".  Visualization and interpretation of these profiles are discussed in the Chapter 5 "Phylogenetic and Functional Profiles" and statistical analysis comparing multiple profiles are described in Chapter 6 "Analysis Examples".
+
+============================
+Sequedex configuration file
+============================
+
+A configuration file, sequedex/etc/sequescan/sequescan.conf, contains a variety of settings controlling default behavior of inputs and outputs of Sequescan.
+
+.. [#s1] Berendzen, J., WJ Bruno, JD Cohn, NW Hengartner, CR Kuske, BH McMahon, MA Wolinsky, G Xie, "Rapid phylogenetic and functional classification of short genomic fragments with signature Peptides", BMC Research Notes, August, 2012 (http://www.biomedcentral.com/1756-0500/5/460/)

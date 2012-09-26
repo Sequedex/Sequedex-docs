@@ -6,11 +6,13 @@ Installation instructions
 System requirements
 ===============================
 
-* A 64-bit Mac (Snow Leopard or later) or Linux (2.6 kernel or later) operating system.  Sequedex has been run under Windows, but we are still working on the packaging at this time.
+* A 64-bit Mac (Snow Leopard or later) or Linux (2.6 kernel or later) operating system with 8 GB of RAM.  Sequedex is straightforward to run under Windows and we provide installation instructions below using the Linux distribution, but we are still working on the packaging at this time.
 
-* You will need to have a 64-bit Java 6 run-time environment installed. The Sequedex Mac OS installation will automatically install this if it is needed. Linux users should consult their distribution documentation for installation, or you can download it and install it at http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html.
+* You will need to have a 64-bit Java SE 6 runtime installed.   Java 6 runtime is included in Mac OS X Snow Leopard and is automatically downloaded and installed on Mac OS X Lion and Mountain Lion the first time you run a Java program or execute Java from the command line (e.g. java -version).  Linux users should consult their distribution documentation for Java installation information, or you can download it and install it at http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html.
 
-* Sequedex uses 8 GB of virtual memory.  8 GB of physical memory is best, but swap to solid state disk gives acceptable performance (~1/2 speed on a laptop with 2GB of memory and SSD).  Swap to hard disk should be avoided if possible.
+* We have done limited testing of Sequedex using Java SE 7 on a number of Macs running Lion and Mountain Lion, where it appears to work, but it requires more memory and is slower for I/O intensive steps.
+
+* With the included data module, bact403.1.jar, Sequedex uses a maximum Java heap size of ~6 GB.  It is thus best if the computer has 8 GB is available as physical memory, but swap to solid state disk may give acceptable performance on some platforms.  For example, we found that Sequedex ran at ~1/2 speed on a Macbook Pro (is this right?) running Mac OS X Snow Leopard with 2 GB of memory and SSD.  Swap to conventional hard disk should be avoided if possible.
 
 * If you are installing Sequedex on a Linux server, you will need to have at least a minimal X-windows environment installed, since Sequedex requires a GUI for the licensing step.
 
@@ -25,9 +27,13 @@ Double-click on the .dmg image you just downloaded. This will open a window show
 
 Drag the Sequedex icon to the applications folder. Open your Applications folder, and click on the Sequedex icon. When the dialog asking "Do you want to run this application?" appears, click on "Open". If you did not previously have Java installed, the system will prompt you to install Java at this time.  Once the Sequedex window has appeared click on the "Run Sequescan" button.  If you have not had Sequedex installed, a window will pop up asking you to accept license terms.  Once you have hit "Okay", you are ready to test the installation as outlined in the instructions below.  
 
-Advanced Mac users who wish to access Sequedex through the command-line interface should add the app bin/ directory to their path by issuing the following command:
+Advanced Mac users who wish to access Sequedex through the command-line interface should add the app bin/ directory to their path by issuing the following command for the bash shell:
 
 echo 'PATH="/Applications/Sequedex.app/Contents/Resources/bin:${PATH}'>>~/.profile
+
+The corresponding command for csh or tcsh users is:
+
+setenv PATH ${PATH}:/Applications/Sequedex.app/Contents/Resources/bin
 
 ====================================
 Downloading and unpacking for Linux
@@ -39,38 +45,69 @@ Obtain and untar this file into the sequedex subdirectory (tar -zxf Sequedex-0.9
 
 Add the sequedex/bin directory to your path (in a bash shell with installation in your home directory, this is done with PATH=~username/sequedex/bin:$PATH); consult your distribution's documentation if you don't know how to do this.
 
-======================================
-Downloading and unpacking for Windows
-======================================
+Once you have added the bin directory to your path, you can run sequescan by typing sequescan with no arguments at a shell prompt.  This will bring up a Sequedex window, from which you can enter various options and run sequescan.  As with the Mac instructions above, the first time you click on the "Run Sequescan" button, you will be prompted to accept the license terms.  Once this is done you are ready to test the installation as outlined below.
 
-Sequedex has not been packaged as a Windows application yet. If you are comfortable using the command line on Windows you may be able to get it working as we did. Start with the Linux tarball and ensure the paths in the Sequedex configuration files (sequedex/etc/sequescan/sequescan.conf) are all Windows compatible and the environment variables are parsed properly by Windows.  Consult the documentation for command-line use.  We will create a release for Windows soon.
+========================================
+Downloading and unpacking for Windows 7
+========================================
+Sequedex has not been packaged as a Windows application yet, but you may be able to get it working as we did. Start with the Linux tarball.  We will create a release for Windows soon.
+
+Install Version 6.x of the 64 bit Java Runtime Environment (or Java Development Kit) from http://java.sun.com. Sequedex will not work properly with Version 7 or with the 32 bit versions.
+
+Optionally, install (Cygwin http://cygwin.com/), a Unix-like environment that will enable a much more enjoyable command-line experience than the MS DOS prompt.  Also, most of the examples provided in this manual assume a unix-like environment, such as that provided by Cygwin.
+
+Unzip the Sequedex distribution in the location of your choice (eg. c:\cygwin\home\username\, or c:Program Files). The top-level Sequedex directory name will be sequedex.  Add the directory with Java to your PATH variable, and define SEQUEDEX_HOME, SEQUEDEX_DATA, and SEQUEDEX_ETC as user variables.  In the case of SEQUEDEX_HOME, the '\' needs to be doubled, to '\\'.  For example, SEQUEDEX_HOME should be set to C:\\cygwin\\home\\username\\sequedex.  Specifically, in Windows 7, you should:
+
+1. Open Windows Explorer
+2. Right-click on ‘My Computer’
+3. Left-click on ‘Advanced System Settings’
+4. Under the ‘Advanced’ tab of the ‘System Properties dialog box, click on ‘Environment Varibles’
+5. Click on ‘New...’ under the ‘User variables’ list at the top of this box
+6. Enter the variable name, ‘SEQUEDEX_HOME’ and the variable value corresponding to the location of Sequedex in your filesystem, (eg. c:\\cygwin\\home\\username\\sequedex, or c:\\Program Files\\sequedex).  Do the same for SEQUEDEX_DATA and SEQUEDEX_ETC.
+7. Scroll dowin the ‘System variables’ variable list until ‘Path’ or ‘PATH’ is visible, click on it to highlight, then click on the ‘Edit’ button under the list. If no path variable is defined, click on the ‘New...’ button and define one.
+8. Press the ‘End’ button on your keyboard to add text to the end of the ‘Variable value’ box
+9. Add the Java executable to your path variable by typing ;C:\Program Files\Java\jre6\bin\ in this dialog box if Java is installed in its default location. Substitute the appropriate location if it is installed elswhere. Sequedex will only work with Version 6 of Java.
+
+To run Sequedex, open an MS dos command prompt from the start menue, and type::
+
+   java -Xms512m -Xmx6000M -jar %SEQUEDEX_HOME%\lib\sequescan.jar
+
+and the Sequedex GUI will open.  Select input files and other options as desired and click on 'Run Sequescan'.  The user can place the java line into a file, sequescan.bat, right-click on this file in Windows Explorer and 'send to desktop' to enable initiation of Sequedex by double-clicking on an icon.
+
+============================
+Testing your installation
+============================
+
+To test that Sequedex is installed properly, open the Sequedex GUI, click on the file chooser icon at the right edge of the "Input" text field.  Mac users should find the testData directory described in the installation instructions above.  Linux users will find the same testData directory at the top level of the Sequedex distribution directory (i.e. in the same place as the bin directory).  Under the testData directory, users will find another directory called "synthetic" and should then select one of the files under this directory.  Click "Run Sequescan" button...
+
+
+Note:  You need another option called "Installing a License File" where you describe how to install the license from the GUI.  You should also note that when a license is not installed, the following message will appear in the Progress window of the GUI:
+
+You are currently unlicensed.   Limited analysis will be allowed for testing 
+purposes.
 
 =========================================
 Running Sequedex on an example data file
 =========================================
 
- To test that Sequedex is installed properly:
+ To analyze a file of sequence data with Sequedex:
 
-*  Click on file chooser icon at the right edge of the "Input" line (Mac) or type 'sequescan' at the command prompt after correctly updating your PATH variable (Mac or Linux).  
+*  Click on file chooser icon at the right edge of the "Input" line (Mac) or type 'sequescan' at the command prompt after correctly updating your PATH variable (Mac or Linux).  You should get an interface like the one shown below.
 *  Select the testData directory you installed earlier
-*  Select one of the files under "synthetic"
+*  Select one of the files under one of the sub-directories of "testData"
 *  Click "Run Sequescan"
 
-A few lines should appear in the "Progress" portion of the interface immediately. 
-Sequedex should return results indicating success within a few minutes. 
+.. figure:: sequescan_gui.png
+  :width: 60%
+
+   The graphical user interface for sequescan.
+
+After the "Run Sequescan" button is pressed, a few lines should appear in the "Progress" portion of the interface immediately. Sequedex should return results indicating success within a few minutes.  We will examine the run-time options and output files in the next chapter.
 
 =========================
 Obtaining a license file
 =========================
 
-Without a license file, Sequedex will only analyze a small number of reads from a single file using a single thread, just enough to verify you have installed it correctly.  You may obtain a free 60-day node-locked demo license by submtting a license information file by e-mail. A demo license will be returned to you immediately if your e-mail address has not requested a demo before.  The terms of the demo license are available here.
+Without a license file, Sequedex will only analyze a small number of reads from a single file using a single thread, just enough to verify you have installed it correctly.  You may obtain a free 60-day node-locked demo license by submtting a license information file by e-mail.  The terms of the demo license are available :download:`here <./license.txt>`.
 
-To create a license information file, start the Sequedex GUI and click on "Utilities->Request license".  Follow the instructions to generate a license information file.  E-mail this license information file to the appropriate address below to obtain a license file.
-
-Demo licenses are available for 60-day periods by e-mailing the license information file to sequedex-demo-license@lanl.gov. A demo license file should  be sent to you within minutes.
-
-One-year paid licenses are available at the special introductory rate of 1000 USD for academic users by contacting sequedex-license@lanl.gov.
-
-
-
-
+To create a license information file, start the Sequedex GUI and click on 'Utilities' at the top of the GUI, then on 'Request license'.  Follow the instructions to generate a license information file.  E-mail this license information file to to sequedex-demo-license@lanl.gov. A demo license will be returned to you immediately if your e-mail address has not requested a demo before.  This file can be installed by choosing 'Install License' under the same 'Utilities' tab at the top of the sequescan GUI.  If the license is correctly installed in the .sequedex subdirectory of your home directory, you will notice that mutiple threads and multi-file processing is enabled.  If 'verbose' mode is selected, you will be notified that 'License level is 1' will be displayed as Sequescan starts its run.  Since the license file is stored outside the sequedex root directory, this file will not be overwritten when Sequedex is upgraded with a new distribution.
