@@ -98,7 +98,7 @@ html_theme = 'default'
 # documentation.
 html_theme_options = {
    "relbarbgcolor":"blue",
-   "stickysidebar":true
+   "stickysidebar":true,
    "externalrefs":true
 }
 
