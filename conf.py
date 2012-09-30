@@ -98,8 +98,8 @@ html_theme = 'default'
 # documentation.
 html_theme_options = {
    "relbarbgcolor":"blue",
-   "stickysidebar":true,
-   "externalrefs":true
+   "stickysidebar":True,
+   "externalrefs":True
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
