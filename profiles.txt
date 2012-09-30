@@ -144,7 +144,7 @@ Functional profiles
 
 It is possible to produce functional profiles of the same samples used above for comparing phylogenetic profiles.  Since we are using the SEED functional classification scheme, it is also possible to 'roll-up' the functional profiles into 28 categories of gene function.  Inspection of the output file SRR059330.fasta.fun reveals the following roll-up categories, defined in the notation of Fortran 90 :download:`here <./ruf.f90>`.
 
-.. figure:: hmbm_froll.*
+.. figure:: hmbm_froll.png
    :width: 100%
 
    Functional profile of 400 human microbiome samples, computed using the bact403 tree, the SEED classification, and Sequedex, rolled up with the above-defined classifications.  The functional profiles are provided above in an Excel spreadsheet.
