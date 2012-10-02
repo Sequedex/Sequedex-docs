@@ -2,7 +2,7 @@
 Getting started
 **************************
 
-Sequedex can be run in several modes with either a simple graphical user interface or directly from the command line.  The platform-specific instructions for starting the graphical user interface and obtaining a license file were provided in the previous chapter, and a description of command line use of Sequedex is provided at the end of this chapter.  If the license file is not obtained or installed correctly, sequedex will process a limited number of reads (~10,000) and work only in single-thread mode.  For the bulk of this chapter, we will assume the graphical user interface is being used, and that the user has some way of looking at the tab-delimited text output files, whether that be Excel, a text editor, or an analysis environment like R or Matlab.
+Sequedex can be run in several modes with either a simple graphical user interface or directly from the command line.  The platform-specific instructions for starting the graphical user interface and obtaining a license file were provided in the previous chapter, and a description of command line use of Sequedex is provided at the end of this chapter.  If the license file is not obtained or installed incorrectly, sequedex will process a limited number of reads (~10,000) and work only in single-thread mode.  For the bulk of this chapter, we will assume the graphical user interface is being used, and that the user has some way of looking at the tab-delimited text output files, whether that be Excel, a text editor, or an analysis environment like R or Matlab.
 
 Sequedex is distributed with several sets of test data for demonstration and validation.  In this chapter, we illustrate how to use Sequedex on these datasets.   Two metagenomics data files are provided, one from a stool sample sequenced under the human microbiome program and two from a soil sample collected from a Maryland estuary.  Also provided are synthetic data files constructed from the draft genomes of four novel organisms cultured from desert cyanobacterial mats, *Bacillus mojavensis, Bosea thiooxidans, Herbaspirillum seropedicae,* and *Microbacterium trichotecenolyticum.*  The complete stool sample file can be obtained at http://www.ncbi.nlm.nih.gov/Traces/sra/?view=run_browser&run=SRR059346 and the Maryland estuary sample analysis can be compared to the analysis in Figure 7 of Berendzen, et al. [#s1]_ as well as additional files 5 and 6 of this work.  The synthetic data sets were used in this same manuscript to explore the read-length dependence of Sequedex's sensitivity and specificity, illustrated in Figure 6.
 
@@ -11,7 +11,7 @@ The test data set for the human microbiome sample is located in the directory se
 .. figure:: sequescan_gui.png
   :width: 60%
 
-  **The graphical user interface for sequescan.**  At the top are two pull-down menus that enable the user to request and install a license and to quit the program.  Three input selections allow the user to choose the signature data module, the functional data module and select whether the fasta input files will be chosen by name, by directory, or by an input file listing the complete path of files to be analyzed.  The appropriate type of input is chosen in the next box.  A configuration file is selected to select additional program options.  The top-level output directory can be selected.  Finally, the number of threads used and whether verbose output messages are desired can be selected.  Note that at present multiple threads can only be used when multiple files are simultaneously analyzed.
+  **The graphical user interface for Sequescan.**  At the top are two pull-down menus that enable the user to request and install a license and to quit the program.  Three input selections allow the user to choose the signature data module, the functional data module and select whether the fasta input files will be chosen by name, by directory, or by an input file listing the complete path of files to be analyzed.  The 'Input' box is used to select a data file, data directory, or a text file listing data files to be analyzed, depending on 'Input type' selected above.  A configuration file is selected to specify additional program options.  The top-level directory to which output files will be written can be selected.  Finally, the number of threads used and whether verbose output messages are desired can be selected.  Note that at present multiple threads can only be used when multiple files are simultaneously analyzed; each file is assigned a thread.
 
 Click on the button to the right of the 'input' field and locate the human microbiome file 'SRR059346-first100kReads.fasta'.  After opening this file and clicking the 'Run Sequescan' button at the bottom of the dialog box, Sequescan will begin reading the bacterial signature list into memory, then classifying the reads in SRR059346-first100kReads.fasta against this signature list.  Output similar to that below will appear in the 'Progress' box at the bottom of the GUI.::
 
@@ -28,7 +28,7 @@ The output files will appear in subdirectories 'log' and 'data' in the directory
 Output files - stats
 ==========================
 
-The output file SRR059346-first100kReads.fasta-bact403.1-stats.tsv contains basic statistics about the computation. It contains::
+The output file SRR059346-first100kReads.fasta-bact403.1-stats.tsv contains basic statistics about the computation. The stats file resulting for the above run contains::
 
    Data Input File /home/localhost/mcmahon/sequedex/testData/metagenomes/humanMicrobiome/gut/SRR059346-first100kReads.fasta
    Percent of File Processed			100.0
@@ -59,7 +59,19 @@ The output file SRR059346-first100kReads.fasta-bact403.1-stats.tsv contains basi
    Other Time (ms) 				753
    Total Time (ms) 				15273
 
-Most of this is self-explanatory, with the terms 'Single-signature' 'Single-node', and 'Monophyletic' defined below.
+The input file is listed on the top line, followed by the fraction of the file processed, which in this case is 100%.  For large files, intermediate results are written to output files, and this line indicates an estimated fraction processed.  In the case of a missing or invalid license file, only a fraction is prcessed, and that fraction would be indicated here.  The 'Processing Complete' line indicates 'true' if the processing completed normally, whether because the end of the input file was reached or because a valid license was not found.
+
+The Thread Pool Size of one is indicated, together with a processing rate of 4.761 Gbp/hr.  When processing multiple files simultaneously, it is possible to have a dedicated Java thread processing each file, all comparing to the same memory map.  The processing rate provided is of the single thread dedicated to this particular file.  Typical values for computers in use as of this writing are 3.5 to 7 Gbp/hr, with the rate per thread dropping roughly a factor of two when 40-60 processors are running together.  Thus a 64 core machine capable of 3.7 Gbp/hr on a single thread was able to process fasta files at the cumulative rate of 100 Gbp/hr, and each output file had a processing rate of 1.7 Gbp/hr.
+
+The 100,000 reads and 20,200,000 base pairs processed are indicated next, from which the average read length of 202 base pairs can be computed.  Of the 100,000 reads processed, 99,347 contained at least one region with 15 or more consecutive amino acids uninterrupted by an undetermined nucleotide or stop codon.  This cutoff value of 15 amino acides necessary for further consideration by Sequedex can be changed in the configuration file.  Sequedex at present does not recognize ambiguity codons.
+
+From the 100,000 reads, 600,000 reading frames were processed, of which 591,859 contained an amino acid region with 15 or more concecutive amino acids.  Since many of the reads contained mulitple fragments, 2,388,546 peptide fragments were identified, of which 931,895 (less than half) were of length 15 amino acids or longer.  
+
+Over-all, 69,170 reads (69% of the processed reads) contained at least one signature peptide and thus could be assigned a phylogenetic placement.  This number is in line with expections from the synthetic data described in Berendzen et al. *BMC Res. Rep.* **5** :460 (2012) for 200 base pair reads from a bacteria similar to those in the reference data base.  The 69,170 reads are sub-divided into four types: 2,117 reads contained only one signature; 16,035 contained more than one signature, but all signatures were from the same node; 49,835 reads, or 72% of those assigned were monophyletic, or contained signatures assigned along a single path from the root of the reference phylogeny to a particular set of leaves; 1,183 assigned reads were non-monophyletic, or contained at least two signatures that were not on a single path from the root to a particular set of leaves on the reference tree.
+
+A total of 123,589 peptide fragments were assigned a phylogeny; these fragments came from the 69.2% of the reads with an assignable fragment, and consisted of 18,635,964 base pairs. A total of 93,977 peptide fragments were also assigned a function; these fragments consisted of 14,288,283 base pairs.
+
+The next six lines break the total processing time (15.2 seconds) into input, translating, matching, assignment steps, as well as 'other'.
 
 =================================
 Output files - phylogeny counts
@@ -94,8 +106,6 @@ The output file SRR059346-first100kReads.fasta-bact403.1-phylogeny_counts.tsv co
     191     n191    Beta+Gammaproteobacteria       14       1       	 2         11          0
     192     n192    Beta+Gammaproteobacteria       28       0       	 0         28          0
     193     n193    Beta+Gammaproteobacteria        2       0       	 0          2          0
-
-
 
 The columns of the phylogenetic profile are:
 
