@@ -1,0 +1,4 @@
+ss00263	R1	Putative Holliday junction resolvase (EC 3.1.-.-)
+ss00263	R2	Hypothetical protein possible functionally linked with Alanyl-tRNA synthetase
+ss00263	R3	Alanyl-tRNA synthetase (EC 6.1.1.7)
+ss00263	R4	Putative Holliday junction resolvase

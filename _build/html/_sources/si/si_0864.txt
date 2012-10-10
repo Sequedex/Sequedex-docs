@@ -1,0 +1,47 @@
+ss00602	NSTR	Nitrite-sensitive transcriptional repressor NsrR
+ss00602	BphO	bacteriophytochrome heme oxygenase BphO
+ss00602	PCh	Phytochrome, two-component sensor histidine kinase (EC 2.7.3.-)
+ss00602	IBP	Iron-binding ferritin-like antioxidant protein
+ss00602	Dps	Non-specific DNA-binding protein Dps
+ss00602	Fr	Ferroxidase (EC 1.16.3.1)
+ss00602	PRP	DNA binding protein starved cells-like peroxide resistance protein
+ss00602	Rex	Redox-sensitive transcriptional regulator (AT-rich DNA-binding protein)
+ss00602	SoxR	Redox-sensitive transcriptional activator SoxR
+ss00602	SoxS	Regulatory protein SoxS
+ss00602	OxyR	Hydrogen peroxide-inducible genes activator
+ss00602	Furp	Ferric uptake regulation protein
+ss00602	Fnr	Fumarate and nitrate reduction regulatory protein
+ss00602	Furl	transcriptional regulator, Fur family
+ss00602	FeZn	Fe2+/Zn2+ uptake regulation proteins
+ss00602	Crp	transcriptional regulator, Crp/Fnr family
+ss00602	NnrS	NnrS protein involved in response to NO
+ss00602	MTN	Metallothionein
+ss00602	PIPA	Paraquat-inducible protein A
+ss00602	PIPB	Paraquat-inducible protein B
+ss00602	AhpC	Alkyl hydroperoxide reductase subunit C-like protein
+ss00602	PerR	Peroxide stress regulator
+ss00602	HPII	Catalase HPII (EC 1.11.1.6)
+ss00602	HPI_24	Peroxidase/catalase HPI (EC 1.11.1.6)
+ss00602	C22	Alkyl hydroperoxide reductase C22 protein (EC 1.8.1.-)
+ss00602	TR	Transcriptional regulator, Crp/Fnr family
+ss00602	FUR2	Transcriptional regulator, FUR family
+ss00602	Irr	Iron-responsive regulator Irr
+ss00602	ZUR	Zinc uptake regulation protein ZUR
+ss00602	FUR	Ferric uptake regulation protein FUR
+ss00602	PerR2	Peroxide stress regulator PerR, FUR family
+ss00602	Osmcl	Organic hydroperoxide resistance transcriptional regulator
+ss00602	OsmclR	Organic hydroperoxide resistance protein
+ss00602	HPIIb	Catalase (EC 1.11.1.6)
+ss00602	HPI_35	Peroxidase (EC 1.11.1.7)
+ss00602	SODA	Manganese superoxide dismutase (EC 1.15.1.1)
+ss00602	SODB	Superoxide dismutase [Fe] (EC 1.15.1.1)
+ss00602	SODC	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+ss00602	RTH	Rubrerythrin
+ss00602	SOR	Superoxide reductase (EC 1.15.1.2)
+ss00602	SODFe/Mn	Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)
+ss00602	SODMn	Superoxide dismutase [Mn] (EC 1.15.1.1)
+ss00602	SOD?	Superoxide dismutase (EC 1.15.1.1)
+ss00602	SODFe/Zn	superoxide dismutase [Fe-Zn] (EC 1.15.1.1)
+ss00602	HemO	Heme oxygenase HemO, associated with heme uptake
+ss00602	TP	Thioredoxin peroxidase 1 (EC 1.6.4.-)
+ss00602	PR	Probable peroxiredoxin (EC 1.11.1.15)

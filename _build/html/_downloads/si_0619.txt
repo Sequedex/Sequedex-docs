@@ -1,0 +1,13 @@
+ss00469	N	Phage antitermination protein N
+ss00469	NinA	Phage NinA
+ss00469	NinB	Phage NinB DNA recombination
+ss00469	NinC	Phage NinC
+ss00469	NinD	Phage NinD
+ss00469	NinE	Phage NinE
+ss00469	NinF	Phage NinF
+ss00469	NinG	Phage NinG rap recombination
+ss00469	NinH	Phage NinH
+ss00469	NinY	Phage NinY
+ss00469	NinX	Phage NinX
+ss00469	Q	Phage antitermination protein Q
+ss00469	Others	Phage Nin protein

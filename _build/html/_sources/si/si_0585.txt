@@ -1,0 +1,8 @@
+ss00082	RhlL	N-acyl-L-homoserine lactone synthetase RhlL
+ss00082	RhlR	Transcriptional regulator RhlR
+ss00082	RhlA	RhlA, 3-(3-hydroxyalkanoyloxy)alkanoic acids (HAAs) synthase
+ss00082	RhlB	RhlB, TDP-rhamnosyltransferase 1 (EC 2.4.1.-)
+ss00082	RhlC	RhlC, TDP-rhamnosyltransferase 2 (EC 2.4.1.-)
+ss00082	RhlG	Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase RhlG (EC 1.1.1.100)
+ss00082	PhaG	(R)-3-hydroxydecanoyl-ACP:CoA transacylase PhaG (3-hydroxyacyl-CoA-acyl carrier protein transferase) (EC 2.4.1.-)
+ss00082	RfbF	dTDP-rhamnosyl transferase rfbF (EC 2.-.-.-)

@@ -1,0 +1,22 @@
+ss00075	TDH	Threonine dehydratase (EC 4.3.1.19)
+ss00075	TDG_2	threonine dehydrogenase
+ss00075	CAO	Monoamine oxidase (1.4.3.4)
+ss00075	ATA	L-allo-threonine aldolase
+ss00075	ASO	Amiloride-sensitive amine oxidase [copper-containing] precursor (EC 1.4.3.6)
+ss00075	PTDP	PROBABLE THREONINE 3-DEHYDROGENASE PROTEIN
+ss00075	TA	low-specificity D-threonine aldolase
+ss00075	LSTA	Low-specificity L-threonine aldolase (EC 4.1.2.5)
+ss00075	TDG_9	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+ss00075	AKBL	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+ss00075	TDHQ	Threonine dehydrogenase and related Zn-dependent dehydrogenases
+ss00075	OCA	Ornithine cyclodeaminase (EC 4.3.1.12)
+ss00075	SGAT	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+ss00075	GabR	Transcriptional regulator GabR of GABA utilization (GntR family with aminotransferase-like domain)
+ss00075	TDA	Threonine dehydratase operon activator protein
+ss00075	TDC	Threonine dehydratase, catabolic (EC 4.3.1.19)
+ss00075	ALS	5-aminolevulinate synthase (EC 2.3.1.37)
+ss00075	AO	Amine oxidase [flavin-containing] A (EC 1.4.3.4)
+ss00075	TdcR	Threonine catabolic operon transcriptional activator TdcR
+ss00075	LATA	L-allo-threonine aldolase (EC 2.1.2.1)
+ss00075	TT	L-threonine transporter, anaerobically inducible
+ss00075	TD?	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases

@@ -1,0 +1,7 @@
+ss00592	R1	GGDEF and EAL domain proteins
+ss00592	R2	ABC-type protease exporter, membrane fusion protein (MFP) family component PrtE/AprE
+ss00592	R3	ABC transporter, transmembrane region:ABC transporter:Peptidase C39, bacteriocin processing
+ss00592	R4	FIGfam010717
+ss00592	R5	Agglutination protein
+ss00592	R6	FIGfam020323
+ss00592	R7	GAF domain/GGDEF domain/EAL domain protein

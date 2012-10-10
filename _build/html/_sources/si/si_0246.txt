@@ -1,0 +1,6 @@
+ss00052	R1	All3116 protein
+ss00052	R2	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+ss00052	R3	Diaminopimelate epimerase (EC 5.1.1.7)
+ss00052	R4	Cysteine desulfurase (EC 2.8.1.7)
+ss00052	R5	Tlr0729 protein
+ss00052	R6	Aminotransferase ScrA

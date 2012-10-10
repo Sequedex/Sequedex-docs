@@ -1,0 +1,4 @@
+ss00843	R1	Protein YicC
+ss00843	R2	Guanylate kinase (EC 2.7.4.8)
+ss00843	R3	FIG004453: protein YceG like
+ss00843	R4	FIG003307: hypothetical protein

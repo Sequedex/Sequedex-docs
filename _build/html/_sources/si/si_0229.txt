@@ -1,0 +1,4 @@
+ss00053	R1	Major facilitator superfamily (MFS) transporter
+ss00053	R3	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+ss00053	R4	D-serine dehydratase transcriptional activator
+ss00053	R5	Rhodanese-related sulfurtransferase

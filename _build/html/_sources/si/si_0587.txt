@@ -1,0 +1,11 @@
+ss01094	AllB	Allantoinase (EC 3.5.2.5)
+ss01094	AllC	Allantoate amidohydrolase (EC 3.5.3.9)
+ss01094	AllD	Ureidoglycolate dehydrogenase (EC 1.1.1.154)
+ss01094	AllA	Ureidoglycolate hydrolase (EC 3.5.3.19)
+ss01094	Gcl	Glyoxylate carboligase (EC 4.1.1.47)
+ss01094	GlxR	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+ss01094	GlxK	Glycerate kinase (EC 2.7.1.31)
+ss01094	AllR	Negative regulator of allantoin and glyoxylate utilization operons
+ss01094	AllS	DNA-binding transcriptional activator of the allD operon
+ss01094	YbbW	Allantoin permease
+ss01094	DAL2	Allantoicase (EC 3.5.3.4)

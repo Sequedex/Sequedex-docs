@@ -1,0 +1,2 @@
+ss00675	pobA	P-hydroxybenzoate hydroxylase (EC 1.14.13.2)
+ss00675	HT	4-hydroxybenzoate transporter

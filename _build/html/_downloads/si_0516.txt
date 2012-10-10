@@ -1,0 +1,7 @@
+ss01074	SecY2	Preprotein translocase SecY2 subunit (TC 3.A.5.1.1)
+ss01074	GftA	Poly(glycerol-phosphate) alpha-glucosyltransferase GftA (EC 2.4.1.52)
+ss01074	Asp2_3	Accessory secretory protein Asp2
+ss01074	SecA2	Protein export cytoplasm protein SecA2 ATPase RNA helicase (TC 3.A.5.1.1)
+ss01074	GftB	GftB: Glycosyl transferase, family 8
+ss01074	Asp1	Accessory secretory protein Asp1
+ss01074	Asp2_7	Accessory secretory protein Asp3

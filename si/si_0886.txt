@@ -1,0 +1,5 @@
+ss00924	tauA	Taurine-binding periplasmic protein tauA
+ss00924	tauB	Taurine transport ATP-binding protein tauB
+ss00924	tauC	Taurine transport system permease protein tauC
+ss00924	tauD	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)
+ss00924	tauA2	Taurine transporter substrate-binding protein

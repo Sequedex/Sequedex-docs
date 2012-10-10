@@ -1,0 +1,8 @@
+ss00541	arsR	Arsenical resistance operon repressor
+ss00541	arsD	Arsenical resistance operon trans-acting repressor ArsD
+ss00541	arsA	Arsenical pump-driving ATPase (EC 3.6.3.16)
+ss00541	arsB	Arsenic efflux pump protein
+ss00541	arsC	Arsenate reductase (EC 1.20.4.1)
+ss00541	ACR3	Arsenical-resistance protein ACR3
+ss00541	arsH	Arsenic resistance protein ArsH
+ss00541	arsR2	Arsenite(III) binding, Negative transcriptional regulator

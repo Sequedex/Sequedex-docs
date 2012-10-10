@@ -1,0 +1,8 @@
+ss00659	MUR	Manganese uptake regulation protein MUR
+ss00659	MntR	Mn-dependent transcriptional regulator MntR
+ss00659	MntH	Manganese transport protein MntH
+ss00659	SitA	Manganese ABC transporter, periplasmic-binding protein SitA
+ss00659	SitB	Manganese ABC transporter, ATP-binding protein SitB
+ss00659	SitC	Manganese ABC transporter, inner membrane permease protein SitC
+ss00659	SitD	Manganese ABC transporter, inner membrane permease protein SitD
+ss00659	newMT	Predicted manganese transporter, 11 TMS

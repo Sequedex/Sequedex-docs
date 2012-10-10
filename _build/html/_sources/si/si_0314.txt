@@ -1,0 +1,4 @@
+ss00550	R1	Protein of unknown function DUF541
+ss00550	R2	Protein involved in stability of MscS mechanosensitive channel
+ss00550	R3	Arginine exporter protein ArgO
+ss00550	R4	Lysine efflux permease

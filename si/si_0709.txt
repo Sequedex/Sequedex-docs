@@ -1,0 +1,3 @@
+ss00787	Intein	intein-containing
+ss00787	Intein-c	Carboxy-terminal intein-mediated trans-splice
+ss00787	Intein-n	Amino-terminal intein-mediated trans-splice

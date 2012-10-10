@@ -1,0 +1,5 @@
+ss00631	R1	Squalene--hopene cyclase (EC 5.4.99.17)
+ss00631	R2	S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+ss00631	R3	5'-methylthioadenosine nucleosidase (EC 3.2.2.16)
+ss00631	R4	Phytoene synthase (EC 2.5.1.32)
+ss00631	R5	Phytoene desaturase (EC 1.14.99.-)

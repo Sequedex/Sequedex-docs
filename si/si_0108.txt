@@ -1,0 +1,16 @@
+ss00836	DeoA	Thymidine phosphorylase (EC 2.4.2.4)
+ss00836	Pdp	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+ss00836	DeoD	Purine nucleoside phosphorylase (EC 2.4.2.1)
+ss00836	DeoB	Phosphopentomutase (EC 5.4.2.7)
+ss00836	DeoC	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+ss00836	NupC	Nucleoside permease NupC
+ss00836	YjjV	Putative deoxyribonuclease YjjV
+ss00836	DeoK	Ribokinase (EC 2.7.1.15)
+ss00836	DeoR1	Deoxyribonucleoside regulator DeoR (transcriptional repressor)
+ss00836	DeoR	Deoxyribose operon repressor, DeoR family
+ss00836	DeoABC1	Putative deoxyribose-specific ABC transporter, permease protein
+ss00836	DeoABC2	Putative deoxyribose-specific ABC transporter, ATP-binding protein
+ss00836	A	Predicted nucleoside ABC transporter, permease 1 component
+ss00836	B	Predicted nucleoside ABC transporter, permease 2 component
+ss00836	C	Predicted nucleoside ABC transporter, ATP-binding component
+ss00836	D	Predicted nucleoside ABC transporter, substrate-binding component

@@ -1,0 +1,2 @@
+ss00864	R1	MotA/TolQ/ExbB proton channel family protein, probably associated with flagella
+ss00864	R2	Flagellar motor rotation protein MotB

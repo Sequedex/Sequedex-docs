@@ -1,0 +1,8 @@
+ss00879	RNaseHI	Ribonuclease HI (EC 3.1.26.4)
+ss00879	HI-Vib	Ribonuclease HI, Vibrio paralog
+ss00879	HI-like	Ribonuclease HI-related protein
+ss00879	HI-like2	Ribonuclease HI-related protein 2
+ss00879	HI-like3	Ribonuclease HI-related protein 3
+ss00879	RNaseHII	Ribonuclease HII (EC 3.1.26.4)
+ss00879	HII-assoc	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+ss00879	RNaseHIII	Ribonuclease HIII (EC 3.1.26.4)

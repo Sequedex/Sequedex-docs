@@ -1,0 +1,27 @@
+ss00162	glxK	Glycerate kinase (EC 2.7.1.31)
+ss00162	aldH	Aldehyde dehydrogenase (EC 1.2.1.3)
+ss00162	aldB	Aldehyde dehydrogenase B (EC 1.2.1.22)
+ss00162	adh	Alcohol dehydrogenase (EC 1.1.1.1)
+ss00162	glpK	Glycerol kinase (EC 2.7.1.30)
+ss00162	plsB	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+ss00162	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+ss00162	plsX	Phosphate:acyl-ACP acyltransferase PlsX
+ss00162	plsY	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+ss00162	ACP	Acyl carrier protein
+ss00162	Dak	Dihydroxyacetone kinase family protein
+ss00162	glkA	Diacylglycerol kinase (EC 2.7.1.107)
+ss00162	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+ss00162	glpD	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+ss00162	GlpA	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+ss00162	GlpB	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+ss00162	GPD	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+ss00162	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+ss00162	pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+ss00162	cdh	CDP-diacylglycerol pyrophosphatase (EC 3.6.1.26)
+ss00162	psd	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+ss00162	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+ss00162	pgpA	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+ss00162	pgpB	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+ss00162	cls	Cardiolipin synthetase (EC 2.7.8.-)
+ss00162	GlpO	Alpha-glycerophosphate oxidase (EC 1.1.3.21)
+ss00162	AraM	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)

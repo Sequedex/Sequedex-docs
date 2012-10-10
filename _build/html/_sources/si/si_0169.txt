@@ -1,0 +1,19 @@
+ss00715	EpsA	Exopolysaccharide biosynthesis transcriptional activator EpsA
+ss00715	EpsB	Manganese-dependent protein-tyrosine phosphatase (EC 3.1.3.48)
+ss00715	EpsC	Tyrosine-protein kinase transmembrane modulator EpsC
+ss00715	EpsD	Tyrosine-protein kinase EpsD (EC 2.7.10.2)
+ss00715	EpsE	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)
+ss00715	EpsF	Exopolysaccharide biosynthesis glycosyltransferase EpsF (EC 2.4.1.-)
+ss00715	EpsH	Exopolysaccharide biosynthesis acetyltransferase EpsH
+ss00715	LytR	Exopolysaccharide biosynthesis transcription antiterminator, LytR family
+ss00715	CpsA	Capsular polysaccharide synthesis enzyme CpsA, sugar transferase
+ss00715	CpsB	Capsular polysaccharide synthesis enzyme CpsB
+ss00715	CpsC	Capsular polysaccharide synthesis enzyme CpsC, polysaccharide export
+ss00715	CpsD	Capsular polysaccharide synthesis enzyme CpsD, exopolysaccharide synthesis
+ss00715	CpsH	Capsular polysaccharide synthesis enzyme CpsH
+ss00715	Glt2	Glycosyl transferase, group 2 family protein
+ss00715	Glt1	Glycosyl transferase, group 1 family protein
+ss00715	UP	Putative uncharacterized protein in cluster with two glycosyl transferases
+ss00715	CP	Conserved domain protein in cluster with two glycosyl transferases
+ss00715	LicD3	Lipopolysaccharide cholinephosphotransferase LicD3 (EC 2.7.8.-)
+ss00715	CpsE	Capsular polysaccharide synthesis enzyme CpsE

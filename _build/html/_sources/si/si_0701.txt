@@ -1,0 +1,17 @@
+ss00548	ClpP	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+ss00548	ClpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+ss00548	ClpS	ATP-dependent Clp protease adaptor protein ClpS
+ss00548	ClpA	ATP-dependent Clp protease ATP-binding subunit ClpA
+ss00548	ClpC	ATP-dependent Clp protease, ATP-binding subunit ClpC
+ss00548	BS-ClpY	ATP-dependent hsl protease ATP-binding subunit HslU
+ss00548	ClpQ	ATP-dependent protease HslV (EC 3.4.25.-)
+ss00548	ClpB	ClpB protein
+ss00548	NERP	Nucleotide excision repair protein, with UvrB/UvrC motif
+ss00548	Lon	ATP-dependent protease La (EC 3.4.21.53)
+ss00548	LonI	ATP-dependent protease La (EC 3.4.21.53) Type I
+ss00548	LonII	ATP-dependent protease La (EC 3.4.21.53) Type II
+ss00548	DP	ATP-dependent protease domain protein (EC 3.4.21.-)
+ss00548	ClpXP	ClpXP protease specificity-enhancing factor
+ss00548	DegS	Outer membrane stress sensor protease DegS
+ss00548	DegQ	Outer membrane stress sensor protease DegQ, serine protease
+ss00548	AFG	ATPase, AFG1 family

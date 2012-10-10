@@ -1,0 +1,18 @@
+ss00932	AlaDH	Alanine dehydrogenase (EC 1.4.1.1)
+ss00932	AlaRm	Alanine racemase (EC 5.1.1.1)
+ss00932	AlaR_b	Alanine racemase, biosynthetic (EC 5.1.1.1)
+ss00932	AlaR_c	Alanine racemase, catabolic (EC 5.1.1.1)
+ss00932	SerDD	D-serine dehydratase (EC 4.3.1.18)
+ss00932	SerDL	L-serine dehydratase (EC 4.3.1.17)
+ss00932	SerDL_a	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+ss00932	SerDL_b	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+ss00932	TdcG	Predicted L-serine dehydratase (EC 4.3.1.17) TdcG
+ss00932	AlaAT	D-alanine aminotransferase (EC 2.6.1.21)
+ss00932	AlaTA	putative alanine transaminase (glutamyc pyruvic transaminase) (EC 2.6.1.2 )
+ss00932	AlaGAT	L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+ss00932	Ala3OAT	Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)
+ss00932	VPAT	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+ss00932	AAD	D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+ss00932	BCAAT	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+ss00932	CycA	D-serine/D-alanine/glycine transporter
+ss00932	SerT	Serine transporter

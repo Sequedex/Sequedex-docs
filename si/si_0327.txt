@@ -1,0 +1,8 @@
+ss00987	R1	Putative membrane protein (Putative integral membran resistance protein)
+ss00987	R2	FIG003955: protein of unknown function
+ss00987	R3	Similar to coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+ss00987	R5	UPF0235 protein VC0458
+ss00987	R6	HAM1-like protein
+ss00987	R7	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+ss00987	R8	Probable oxidase
+ss00987	R3b	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB

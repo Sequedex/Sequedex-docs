@@ -1,0 +1,16 @@
+ss00311	MtaB	Methanol:corrinoid methyltransferase
+ss00311	MtaC	Methanol methyltransferase corrinoid protein
+ss00311	MtaA	Methylcobalamin:coenzyme M methyltransferase, methanol-specific
+ss00311	MtmP	Monomethylamine permease
+ss00311	MtmB	Monomethylamine:corrinoid methyltransferase
+ss00311	MtmC	Monomethylamine methyltransferase corrinoid protein
+ss00311	MtbP	Dimethylamine permease
+ss00311	MtbB	Dimethylamine:corrinoid methyltransferase
+ss00311	MtbC	Dimethylamine methyltransferase corrinoid protein
+ss00311	MttP	Trimethylamine permease
+ss00311	MttB	Trimethylamine:corrinoid methyltransferase
+ss00311	MttC	Trimethylamine methyltransferase corrinoid protein
+ss00311	MtbA	Methylcobalamin:coenzyme M methyltransferase, methylamine-specific
+ss00311	MtsA	Methylthiol:coenzyme M methyltransferase
+ss00311	MtsB	Methylthiol:coenzyme M methyltransferase corrinoid protein
+ss00311	Pyrr	pyrrolysine-containing

@@ -1,0 +1,31 @@
+ss00819	PsbA	photosystem II protein D1 (PsbA)
+ss00819	PsbD	photosystem II protein D2 (PsbD)
+ss00819	PsbC	Photosystem II CP43 protein (PsbC)
+ss00819	PsbC_h	Chlorophyll a(b) binding protein, photosystem II CP43 protein (PsbC) homolog
+ss00819	PsbB	Photosystem II CP47 protein (PsbB)
+ss00819	PsbTc	Photosystem II protein PsbT
+ss00819	PsbM	Photosystem II protein PsbM
+ss00819	PsbE	Cytochrome b559 alpha chain (PsbE)
+ss00819	PsbF	Cytochrome b559 beta chain (PsbF)
+ss00819	PsbJ	Photosystem II protein PsbJ
+ss00819	PsbL	Photosystem II protein PsbL
+ss00819	PsbK	Photosystem II protein PsbK
+ss00819	PsbU	Photosystem II 12 kDa extrinsic protein (PsbU)
+ss00819	PsbV	Photosystem II protein PsbV, cytochrome c550
+ss00819	PsbO	Photosystem II manganese-stabilizing protein (PsbO)
+ss00819	PsbP	Photosystem II oxygen evolving complex protein PsbP
+ss00819	PsbP??	photosystem II reaction center PsbP family protein
+ss00819	PsbQ	Photosystem II oxygen evolving complex protein PsbQ
+ss00819	PsbR	Photosystem II 10 kDa protein PsbR
+ss00819	PsbH	Photosystem II 10 kDa phosphoprotein (PsbH)
+ss00819	PsbN	Photosystem II protein PsbN
+ss00819	PsbI	Photosystem II protein PsbI
+ss00819	PsbTn	Photosystem II 5 kDa protein PsbTn (nuclear encoded)
+ss00819	Psb28	Photosystem II 13 kDa protein Psb28 (PsbW)
+ss00819	PsbW	Photosystem II 6.1 kDa protein PsbW (nuclear encoded)
+ss00819	PsbX	Photosystem II protein PsbX
+ss00819	PsbY	Photosystem II protein PsbY
+ss00819	PsbZ	Photosystem II protein PsbZ
+ss00819	Psb27	Photosystem II protein Psb27
+ss00819	ycf39	Putative chaperon-like protein Ycf39 for quinone binding in Photosystem II
+ss00819	ycf48	Photosystem II stability/assembly factor HCF136/Ycf48

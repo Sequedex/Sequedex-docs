@@ -1,0 +1,8 @@
+ss00927	R1	putative esterase
+ss00927	R2	bll7545
+ss00927	R3	InterPro IPR001440 COGs COG0457
+ss00927	R4	Pyruvate kinase (EC 2.7.1.40)
+ss00927	R5	protein of unknown function DUF1244
+ss00927	R6	protein of unknown function DUF1036
+ss00927	R7	UPF0335 protein R02793
+ss00927	R8	protein of unknown function DUF882

@@ -1,0 +1,5 @@
+ss00625	OS	Heme-binding SCHIC domain protein, putative oxygen sensor
+ss00625	PpsR	Transcriptional regulator, PpsR
+ss00625	HO	Heme oxygenase (EC 1.14.99.3)
+ss00625	PCH	Phytochrome, two-component sensor histidine kinase (EC 2.7.3.-)
+ss00625	PPaA	PpaA, heme-binding SCHIC domain sensory protein, regulator for photosystem formation

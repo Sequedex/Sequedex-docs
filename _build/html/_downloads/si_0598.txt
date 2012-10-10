@@ -1,0 +1,4 @@
+ss00734	MazG	Nucleoside triphosphate pyrophosphohydrolase MazG
+ss00734	MazG-dom	MazG protein domain
+ss00734	MazG-2	MazG-related protein
+ss00734	4PyrMT	possible tetrapyrrole methyltransferase domain

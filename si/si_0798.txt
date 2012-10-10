@@ -1,0 +1,16 @@
+ss01063	cydC	Transport ATP-binding protein CydC
+ss01063	cydD	Transport ATP-binding protein CydD
+ss01063	CydA	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+ss01063	CydB	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+ss01063	CyoA	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+ss01063	CyoB	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+ss01063	CyoC	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+ss01063	CyoD	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+ss01063	AA3-600I	AA3-600 quinol oxidase subunit I
+ss01063	AA3-600II	AA3-600 quinol oxidase subunit II
+ss01063	AA3-600III	AA3-600 quinol oxidase subunit IIII
+ss01063	AA3-600IV	AA3-600 quinol oxidase subunit IV
+ss01063	CydCD	Transport ATP-binding protein CydCD
+ss01063	QxtI	putative Cytochrome bd2, subunit I
+ss01063	QxtII	putative Cytochrome bd2, subunit II
+ss01063	CydCD2	Transport ATP-binding protein, CydCD

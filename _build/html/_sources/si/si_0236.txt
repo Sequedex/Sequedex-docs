@@ -1,0 +1,8 @@
+ss00717	cAMP-BP	Predicted signal-transduction protein containing cAMP-binding and CBS domains
+ss00717	DNApol	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+ss00717	RNAse	Ribonuclease HI (EC 3.1.26.4)
+ss00717	HGH	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+ss00717	SAM_cl	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+ss00717	MltD	Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)
+ss00717	Hyp1	FIG004599: Hypothetical protein
+ss00717	SAM	SAM-dependent methyltransferase (EC 2.1.1.-)

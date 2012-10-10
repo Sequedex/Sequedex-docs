@@ -1,0 +1,8 @@
+ss00229	PSLS	Phosphosulfolactate synthase (EC 4.4.1.19)
+ss00229	PSLP	2-phosphosulfolactate phosphatase (EC 3.1.3.71)
+ss00229	SLD	L-sulfolactate dehydrogenase (EC 1.1.1.272)
+ss00229	SPDCa	Sulfopyruvate decarboxylase - alpha subunit (EC 4.1.1.79)
+ss00229	SPDCb	Sulfopyruvate decarboxylase - beta subunit (EC 4.1.1.79)
+ss00229	SMTZS	Sulfomethyl thiazolidine synthase
+ss00229	SECS	Sulfoethylcysteine synthase
+ss00229	COMS	Coenzyme M synthase

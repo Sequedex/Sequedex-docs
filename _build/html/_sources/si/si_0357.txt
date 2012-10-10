@@ -1,0 +1,19 @@
+ss01013	BPL	Biotin-protein ligase (EC 6.3.4.15)
+ss01013	BR	Biotin operon repressor
+ss01013	BioF	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+ss01013	BioA	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+ss01013	BioD	Dethiobiotin synthetase (EC 6.3.3.3)
+ss01013	BioB	Biotin synthase (EC 2.8.1.6)
+ss01013	BioW	Pimeloyl-CoA synthase (EC 6.2.1.14)
+ss01013	BioC	Biotin synthesis protein bioC
+ss01013	BioH	Biotin synthesis protein bioH
+ss01013	BioG	Biotin synthesis protein bioG
+ss01013	BioK	Biotin synthesis protein bioK
+ss01013	BioZ	Biotin synthesis protein bioZ
+ss01013	BioY	Substrate-specific component BioY of biotin ECF transporter
+ss01013	BioN	Transmembrane component BioN of energizing module of biotin ECF transporter
+ss01013	BioM	ATPase component BioM of energizing module of biotin ECF transporter
+ss01013	BioX	Predicted biotin repressor from TetR family
+ss01013	YhfT	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+ss01013	YhfS	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+ss01013	BioR	predicted biotin regulatory protein BioR (GntR family)

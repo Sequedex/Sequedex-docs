@@ -25,6 +25,7 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="shortcut icon" href="_static/tree.ico"/>
     <link rel="copyright" title="Copyright" href="copyright.html" />
     <link rel="top" title="Sequedex 0.9.2 documentation" href="index.html" />
     <link rel="next" title="3. Installation instructions" href="installation.html" />
@@ -54,11 +55,10 @@
             
   <div class="section" id="introduction-to-sequedex">
 <h1>2. Introduction to Sequedex<a class="headerlink" href="#introduction-to-sequedex" title="Permalink to this headline">¶</a></h1>
-<p>Sequedex has a public repository, wiki, and mailing list on GitHub at <a class="reference external" href="http://github.com/joelb123/Sequedex">http://github.com/joelb123/Sequedex</a>.  In the repository will be placed analysis scripts, documentation, and results of Sequedex runs on other data sets that you may compare your data to.  Sequedex users should check the site from time to time.  The html version of the documentations contains numerous web links and downloadable files.</p>
 <div class="section" id="what-is-sequedex">
 <h2>2.1. What is Sequedex?<a class="headerlink" href="#what-is-sequedex" title="Permalink to this headline">¶</a></h2>
 <p>Sequedex is a software package for genomic analysis that was developed by an interdisciplinary team of scientists at Los Alamos National Laboratory with funding from the Laboratory-Directed Research and Development (LDRD) program.  It is currently available for use with a free two month demo license from the Technology Transfer Division of Los Alamos National Laboratory at <a class="reference external" href="http://sequedex.lanl.gov">http://sequedex.lanl.gov</a>.  The software is under active development, and information about future releases will be made available at this website, and by an email distribution to the list of users downloading the software.  A publication describing the method behind Sequedex, its underlying scientific basis in evolutionary theory and protein structure, its validation on synthetic metagenomic data, and its application to ten soil metagenomics datasets has been published. <a class="footnote-reference" href="#i1" id="id1">[1]</a>  It was a recepient of a 2012 R&amp;D 100 award. <a class="footnote-reference" href="#i2" id="id2">[2]</a></p>
-<p>Sequedex currently produces phylogenetic and functional profiles of genomic and metagenomic data.  In the near future, additional functionality will be offered, including an SQLite database of classified reads that can later be filtered and extracted to a FASTA file and a more complete set of analysis scripts.</p>
+<p>Sequedex has a public repository, wiki, and mailing list on GitHub at <a class="reference external" href="http://github.com/joelb123/Sequedex">http://github.com/joelb123/Sequedex</a>.  In the repository will be placed analysis scripts, documentation, and results of Sequedex runs on other data sets that you may compare your data to.  Sequedex users should check the site from time to time.  The html version of the documentations contains numerous web links and downloadable files.</p>
 <p>Sequedex classifies short genomic fragments according to phylogeny and function.  It reads nucleotide sequence data from fasta files and outputs phylogenetic profiles defined by a reference tree, functional profiles defined by example sequences in a reference classification such as the SEED project <a class="footnote-reference" href="#i6" id="id3">[3]</a> , and a profile by phylogeny and function together.</p>
 </div>
 <div class="section" id="how-is-sequedex-different-from-other-sequence-analysis-packages">
@@ -95,7 +95,7 @@
 <img alt="_images/face_pf.png" src="_images/face_pf.png" style="width: 100%;" />
 <p class="caption">Sample rollups of <strong>(left)</strong> phylogenetic and <strong>(right)</strong> functional profiles of the ten metagenomic communities.  The resolution and structure of the phylogenetic and functional classifications depend on the classification of the signature peptides. This calculation used the 402-node bacterial tree and 962-category SEED functional classification.  This data set is the one discussed at length in Reference 2.1.</p>
 </div>
-<p>The reference tree used for the Bact403 data module (with node numbers defined) can be downloaded in <a class="reference download internal" href="_downloads/Bacteria403.phyloxml"><tt class="xref download docutils literal"><span class="pre">phyloxml</span></tt></a>  or <a class="reference download internal" href="_downloads/Bacteria403.pdf"><tt class="xref download docutils literal"><span class="pre">pdf</span></tt></a> format.  The functional categories are described in <a class="reference download internal" href="_downloads/fn.csv"><tt class="xref download docutils literal"><span class="pre">this</span> <span class="pre">csv</span> <span class="pre">file.</span></tt></a></p>
+<p>The reference tree used for the Bact403 data module (with node numbers defined) can be downloaded in <a class="reference download internal" href="_downloads/Bacteria4031.phyloxml"><tt class="xref download docutils literal"><span class="pre">phyloxml</span></tt></a>  or <a class="reference download internal" href="_downloads/Bacteria403.pdf"><tt class="xref download docutils literal"><span class="pre">pdf</span></tt></a> format.  The functional categories are described in <a class="reference download internal" href="_downloads/fn.csv"><tt class="xref download docutils literal"><span class="pre">this</span> <span class="pre">csv</span> <span class="pre">file.</span></tt></a></p>
 <p>Because possibility-space for 10-mer matches is so much larger than the number of signatures, the effect of sequencing errors will typically be to cause one or more signatures in a read to not be detected.  Since this is a fairly benign mode of failure,  quality scores not used by Sequedex at present.</p>
 </div>
 <div class="section" id="what-is-the-specificity-and-sensitivity-of-sequedex-when-matching-bacterial-genes-and-gene-fragments-from-novel-bacteria">
@@ -162,7 +162,7 @@ are interested in collaborating on the initial papers.</p>
 <table class="docutils footnote" frame="void" id="i1" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
-<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td>Berendzen, J., WJ Bruno, JD Cohn, NW Hengartner, CR Kuske, BH McMahon, MA Wolinsky, G Xie, &#8220;Rapid phylogenetic and functional classification of short genomic fragments with signature Peptides&#8221;, BMC Research Notes, August, 2012</td></tr>
+<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td>Berendzen, J., WJ Bruno, JD Cohn, NW Hengartner, CR Kuske, BH McMahon, MA Wolinsky, G Xie, &#8220;Rapid phylogenetic and functional classification of short genomic fragments with signature Peptides&#8221;, BMC Research Notes, August, 2012 (<a class="reference external" href="http://www.biomedcentral.com/1756-0500/5/460/abstract">http://www.biomedcentral.com/1756-0500/5/460/abstract</a>)</td></tr>
 </tbody>
 </table>
 <table class="docutils footnote" frame="void" id="i2" rules="none">

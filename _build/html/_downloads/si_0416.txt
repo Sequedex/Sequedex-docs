@@ -1,0 +1,2 @@
+ss00442	Rad25H	DNA helicase (Rad25 homolog)
+ss00442	Hyp	Hypothetical protein (associated with DNA helicase - Rad25 homolog)

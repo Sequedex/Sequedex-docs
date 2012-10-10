@@ -1,0 +1,7 @@
+ss01084	Chl	Chlorophyllase (EC 3.1.1.14)
+ss01084	MgDH	Magnesium dehelatase
+ss01084	PhO	Pheophorbide a oxygenase (EC 1.14.-.-)
+ss01084	RCCR	Red chlorophyll catabolite reductase (EC 1.-.-.-)
+ss01084	C1	Candidate 1: dienelactone hydrolase
+ss01084	C2	Phospholipase/lecithinase/hemolysin
+ss01084	C3	C3: similar to Vanillate O-demethylase oxygenase

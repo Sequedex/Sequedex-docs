@@ -1,0 +1,4 @@
+ss00145	GlyA	Serine hydroxymethyltransferase (EC 2.1.2.1)
+ss00145	GlyB	Low-specificity L-threonine aldolase (EC 4.1.2.5)
+ss00145	Tdh	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+ss00145	Kbl	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)

@@ -1,0 +1,13 @@
+ss00779	TdcR	Threonine catabolic operon transcriptional activator TdcR
+ss00779	TdcA	Threonine catabolic operon transcriptional activator TdcA
+ss00779	ThrDH	Threonine dehydratase, catabolic (EC 4.3.1.19)
+ss00779	TT	L-threonine transporter, anaerobically inducible
+ss00779	PK	Propionate kinase (EC 2.7.2.15)
+ss00779	KBFL	2-ketobutyrate formate-lyase (EC 2.3.1.-)
+ss00779	TdcF	Hypothetical protein TdcF in cluster with anaerobic degradation of L-threonine to propionate
+ss00779	TdcG	Predicted L-serine dehydratase (EC 4.3.1.17) TdcG
+ss00779	ST	Serine transporter
+ss00779	PAT	Phosphate acetyltransferase (EC 2.3.1.8)
+ss00779	ACK	Acetate kinase (EC 2.7.2.1)
+ss00779	PFLa	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+ss00779	PFL	Pyruvate formate-lyase (EC 2.3.1.54)

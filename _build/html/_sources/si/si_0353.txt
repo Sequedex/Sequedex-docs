@@ -1,0 +1,5 @@
+ss00901	R1	FIG003620: Proteophosphoglycan precursor (Fragment)
+ss00901	R2	FIG017823: ATPase, MoxR family
+ss00901	R3	FIG139612: Possible conserved membrane protein
+ss00901	R4	FIG003603: membrane protein, putative
+ss00901	R5	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases

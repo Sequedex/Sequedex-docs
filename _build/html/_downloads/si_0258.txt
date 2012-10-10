@@ -1,0 +1,9 @@
+ss00179	R1	Proteasome subunit alpha (EC 3.4.25.1), archaeal
+ss00179	R3	Shwachman-Bodian-Diamond syndrome protein
+ss00179	R4	LSU ribosomal protein L37Ae
+ss00179	R5	Probable exosome complex exonuclease 2 (EC 3.1.13.-)
+ss00179	R6	Probable exosome complex RNA-binding protein 1
+ss00179	R7	Exosome complex exonuclease 1
+ss00179	R8	LSU ribosomal protein L15e
+ss00179	R9	Ribonuclease P protein component 3 (EC 3.1.26.5)
+ss00179	R10	Predicted exosome subunit FIG055367

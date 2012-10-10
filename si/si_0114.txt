@@ -1,0 +1,9 @@
+ss00833	FucP	Fucose permease
+ss00833	FucA	Alpha-L-fucosidase (EC 3.2.1.51)
+ss00833	FucY	Possible alternative L-fucose mutarotase
+ss00833	XCC4065	L-fuco-beta-pyranose dehydrogenase
+ss00833	XCC4066	L-fuconolactone hydrolase
+ss00833	FucD	L-fuconate dehydratase (EC 4.2.1.68)
+ss00833	XCC4067	2-keto-3-deoxy-L-fuconate dehydrogenase
+ss00833	XCC4068	2,4-diketo-3-deoxy-L-fuconate hydrolase
+ss00833	dehydro	dehydrogenase clustered with L-fuconate utilization genes

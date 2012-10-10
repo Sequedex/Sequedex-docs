@@ -1,0 +1,24 @@
+ss00859	S5+ac	Ribosomal-protein-S5p-alanine acetyltransferase
+ss00859	S6+E...	Ribosomal protein S6 glutaminyl transferase
+ss00859	HypS6	hypothetical protein sometimes fused to ribosomal protein S6 glutaminyl transferase
+ss00859	S18+ac	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)
+ss00859	S18ac?	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+ss00859	L7+ac	Ribosomal-protein-L7p-serine acetyltransferase
+ss00859	L11+m	Ribosomal protein L11 methyltransferase (EC 2.1.1.-)
+ss00859	RimM	16S rRNA processing protein RimM
+ss00859	m1G27	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+ss00859	RluA	Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+ss00859	RluA1	Similar to ribosomal large subunit pseudouridine synthase A
+ss00859	RluA2	Similar to ribosomal large subunit pseudouridine synthase A, group 2
+ss00859	RluC	Ribosomal large subunit pseudouridine synthase C (EC 4.2.1.70)
+ss00859	RluD	Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)
+ss00859	YhcT	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YhcT type
+ss00859	YjbO	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YjbO type
+ss00859	CAC1266	Similar to ribosomal large subunit pseudouridine synthase D, CAC1266-type
+ss00859	TTE1780	Similar to ribosomal large subunit pseudouridine synthase D, TTE1780-type
+ss00859	Psi1	RNA pseudouridylate synthase, group 1
+ss00859	m(3)Psi1915	LSU m3Psi1915 methyltransferase RlmH
+ss00859	m5C1962	LSU m5C1962 methyltransferase RlmI
+ss00859	M5	Ribonuclease M5 (EC 3.1.26.8)
+ss00859	KsgA	Dimethyladenosine transferase (EC 2.1.1.-)
+ss00859	RNaseE	Ribonuclease E (EC 3.1.26.12)

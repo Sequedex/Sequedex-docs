@@ -1,0 +1,37 @@
+ss00972	1	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+ss00972	2	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+ss00972	3	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+ss00972	rmlD	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+ss00972	9	ABC-type polysaccharide/polyol phosphate export systems, permease component
+ss00972	6	Capsule polysaccharide export inner-membrane protein
+ss00972	7	Capsule polysaccharide modification protein LipA
+ss00972	Kps	Capsule polysaccharide export protein
+ss00972	10	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+ss00972	11	capsular polysaccharide biosynthesis protein
+ss00972	12	putative polysialic acid transport protein
+ss00972	13	Polysialic acid transport protein KpsM
+ss00972	14	Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)
+ss00972	RUTP	Heteropolysaccharide repeat unit export protein
+ss00972	10.2	Polysaccharide ABC transporter, ATP-binding protein
+ss00972	rgpC	rhamnose-containing polysacharide translocation permease
+ss00972	rgpD	ABC-transporter (ATP-binding protein) -possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+ss00972	rgpF	Alpha-L-Rha alpha-1,2-L-rhamnosyltransferase/alpha-L-Rha alpha-1,3-L- rhamnosyltransferase (EC 2.4.1.-)
+ss00972	rgpA	Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)
+ss00972	rgpB	Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)
+ss00972	rgpE	putative glycosyltransferase - possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+ss00972	OAT	O-antigen export system, permease protein
+ss00972	tagG	Teichoic acid translocation permease protein TagG
+ss00972	RfbD	O-antigen export system permease protein RfbD
+ss00972	LPSE	Membrane subunit of LPS efflux transporter
+ss00972	Wzm	ABC transporter of LPS O-antigen, Wzm
+ss00972	rfbA	polysaccharide ABC transporter, permease protein (RfbA-1)
+ss00972	KpsECb_35_28	Capsular polysaccharide export system inner membrane protein KpsE
+ss00972	RR	DNA for glycosyltransferase, lytic transglycosylase, dTDP-4-rhamnose reductase
+ss00972	Wza	Polysaccharide export protein Wza
+ss00972	NDPP	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)
+ss00972	kpsD	Polysialic acid transport protein KpsD precursor
+ss00972	UGE	UDP-glucose 4-epimerase (EC 5.1.3.2)
+ss00972	KpsMcb	Capsular polysaccharide ABC transporter, permease protein KpsM
+ss00972	KpsECb_35_35	Capsular polysaccharide export system inner membrane protein KpsE
+ss00972	KpsCCb	Capsular polysaccharide export system protein KpsC
+ss00972	WcbA	Capsular polysaccharide biosynthesis/export periplasmic protein WcbA

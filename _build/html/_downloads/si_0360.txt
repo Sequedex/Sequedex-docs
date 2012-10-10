@@ -1,0 +1,10 @@
+ss00956	PyrReduct	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+ss00956	CofG	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1
+ss00956	CofH	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+ss00956	CofD	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase
+ss00956	CofE1	Coenzyme F420-0:L-glutamate ligase
+ss00956	CofE2	Coenzyme F420-1:L-glutamate ligase
+ss00956	CofF	Coenzyme gamma-F420-2:L-glutamate ligase
+ss00956	CofGH-A	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase-related protein (cluster A)
+ss00956	CofGH-B	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase-related protein (cluster B)
+ss00956	CofE-like	putative L-glutamate ligase

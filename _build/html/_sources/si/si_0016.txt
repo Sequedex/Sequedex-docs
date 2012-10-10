@@ -1,0 +1,18 @@
+ss00391	PapAb&#9679;Aa	4-amino-4-deoxychorismate synthase, amidotransferase component , aminase component (EC 2.6.1.-)
+ss00391	PapB	4-amino, 4-deoxychorismate mutase (EC 5.4.99.-)
+ss00391	PapC	4-amino, 4-deoxyprephenate dehydrogenase (EC 1.3.1.-)
+ss00391	PapM	Para-amino-L-phenylalanine methyltransferase (EC 2.1.1.-)
+ss00391	PabAa	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+ss00391	PabAb	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+ss00391	PabAc	Aminodeoxychorismate lyase (EC 4.1.3.38)
+ss00391	TrpAa	Anthranilate synthase, aminase component (EC 4.1.3.27)
+ss00391	TrpAb	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+ss00391	PhzE	2-Amino-2-deoxy-isochorismate synthase (EC 4.1.3.-)
+ss00391	PhzD	2-Amino-2-deoxy-isochorismate hydrolase (EC 3.-.-.-)
+ss00391	PhzC	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II PhzC (EC 2.5.1.54)
+ss00391	ICPL	Isochorismate pyruvate-lyase (EC 4.-.-.-)
+ss00391	ICPLsp	Isochorismate pyruvate-lyase of siderophore biosynthesis
+ss00391	ICS	Isochorismate synthase (EC 5.4.4.2)
+ss00391	ICSsp	Isochorismate synthase (EC 5.4.4.2) of siderophore biosynthesis
+ss00391	ICT	Isochorismatase (EC 3.3.2.1)
+ss00391	ICTsp	Isochorismatase (EC 3.3.2.1) of siderophore biosynthesis

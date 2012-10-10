@@ -1,0 +1,30 @@
+ss00620	FeoB	Ferrous iron transport protein B
+ss00620	FeoA	Ferrous iron transport protein A, putative
+ss00620	CorA	Magnesium and cobalt transport protein CorA
+ss00620	CeuB	Enterochelin uptake permease CeuB
+ss00620	CeuC	Enterochelin uptake permease CeuC
+ss00620	CeuE	Enterochelin uptake ATP-binding protein
+ss00620	CeuD	Enterochelin uptake periplasmic binding protein
+ss00620	ChuA	Haemin uptake system outer membrane receptor
+ss00620	ChuB	Haemin uptake system permease protein
+ss00620	ChuC	Haemin uptake system ATP-binding protein
+ss00620	ChuD	Haemin uptake system periplasmic haemin-binding protein
+ss00620	CfrA	Ferric receptor CfrA
+ss00620	PSR	Putative outer membrane siderophore receptor
+ss00620	pCjrA	Putative lipoprotein, similar to CjrA of Escherichia coli O164
+ss00620	CfbpC	Putative iron-uptake ABC transport system ATP-binding protein
+ss00620	CfbpB	Ferric iron ABC transporter, permease protein
+ss00620	CfbpA	Ferric iron ABC transporter, iron-binding protein
+ss00620	CfbpL	Putative lipoprotein of ferric iron transporter system
+ss00620	TonB	Ferric siderophore transport system, periplasmic binding protein TonB
+ss00620	ExbB	Ferric siderophore transport system, biopolymer transport protein ExbB
+ss00620	ExbD	Ferric siderophore transport system, biopolymer transport protein ExbD
+ss00620	HAP	Putative high-affinity iron permease
+ss00620	p19	Periplasmic protein p19 involved in high-affinity Fe2+ transport
+ss00620	FT	Nonheme iron-containing ferritin
+ss00620	BFT	Possible bacterioferritin
+ss00620	HIB	Hemerythrin-like iron-binding protein
+ss00620	Rrc	Non-haem iron protein, rubrerythrin homolog
+ss00620	Fur	Ferric uptake regulation protein
+ss00620	PerR	Peroxide stress regulator
+ss00620	ChuZ	Putative heme oxygenase

@@ -1,0 +1,14 @@
+ss00680	R1	FIG009210: peptidase, M16 family
+ss00680	R2	FIG001621: Zinc protease
+ss00680	FIG002490	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+ss00680	RecA	RecA protein
+ss00680	FIG002248	3-oxoacyl-[acyl-carrier protein] reductase paralog (EC 1.1.1.100) in cluster with unspecified monosaccharide transporter
+ss00680	FIG001550	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+ss00680	FIG011595	Unspecified monosaccharide ABC transport system, ATP-binding protein
+ss00680	FIG007852	Unspecified monosaccharide ABC transport system, permease component I
+ss00680	FIG025991	Unspecified monosaccharide ABC transport system, permease component Ia (FIG025991)
+ss00680	FIG143636	Unspecified monosaccharide ABC transport system, permease component Ib (FIG143636)
+ss00680	FIG001724	Competence/damage-inducible protein CinA
+ss00680	FIG002344	FIG002344: Hydrolase (HAD superfamily)
+ss00680	FIG006542	FIG006542: Phosphoesterase
+ss00680	FIG008796	Unspecified monosaccharide ABC transport system, permease component 2

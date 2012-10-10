@@ -1,0 +1,9 @@
+ss00968	CynR	Cyn operon transcriptional activator
+ss00968	CynR-like	Transcriptional activator similar to cyn operon regulator
+ss00968	CynX	Cyanate transport protein CynX
+ss00968	ABC-bind	Cyanate ABC transporter, substrate binding protein
+ss00968	ABC-perm	Cyanate ABC transporter, permease protein
+ss00968	ABC-ATP	Cyanate ABC transporter, ATP-binding protein
+ss00968	CynS	Cyanate hydratase (EC 4.2.1.104)
+ss00968	CynT	Carbonic anhydrase (EC 4.2.1.1)
+ss00968	CynT2	Carbonic anhydrase 2 (EC 4.2.1.1)

@@ -1,0 +1,3 @@
+ss00930	R1	Hypothetical protein DUF194, DegV family
+ss00930	R2	FIG006988: Lipase/Acylhydrolase with GDSL-like motif
+ss00930	R3	YfaA

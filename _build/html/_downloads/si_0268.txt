@@ -1,0 +1,9 @@
+ss00542	SirB1	FIG002708: Protein SirB1
+ss00542	HemK	Methylase of polypeptide chain release factors
+ss00542	PrfA	Peptide chain release factor 1
+ss00542	KdsA	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+ss00542	HemA	Glutamyl-tRNA reductase (EC 1.2.1.70)
+ss00542	SirB2	FIG002082: Protein sirB2
+ss00542	YchB	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+ss00542	PrsA	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+ss00542	LolB	Outer membrane lipoprotein LolB precursor

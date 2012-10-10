@@ -1,0 +1,4 @@
+ss00665	R1	FIG003620: Proteophosphoglycan precursor (Fragment)
+ss00665	R2	FIG017823: ATPase, MoxR family
+ss00665	R3	Hypothetical nudix hydrolase YeaB
+ss00665	R4	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)

@@ -1,0 +1,7 @@
+ss00663	cca-A	tRNA nucleotidyltransferase, archaeal type (EC 2.7.7.21) (EC 2.7.7.25)
+ss00663	cca	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)
+ss00663	cc-	tRNA nucleotidyltransferase, CC-adding (EC 2.7.7.21)
+ss00663	--a	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.25)
+ss00663	MMP0420	tRNA nucleotidyltransferase related protein MMP0420
+ss00663	Mbar_A3167	tRNA nucleotidyltransferase  related protein Mbar_A3167
+ss00663	pap	Poly(A) polymerase (EC 2.7.7.19)

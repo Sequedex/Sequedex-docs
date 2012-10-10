@@ -1,0 +1,34 @@
+ss00881	CatR	Aromatic hydrocarbon utilization transcriptional regulator CatR (LysR family)
+ss00881	CysB	Cys regulon transcriptional activator CysB
+ss00881	Cbl	Alkanesulfonate utilization operon LysR-family regulator CbI
+ss00881	Cyn	Cyn operon transcriptional activator
+ss00881	GltC	GltC, transcription activator of glutamate synthase operon
+ss00881	lrhA	LysR family transcriptional regulator lrhA
+ss00881	LysR	Transcriptional activator protein LysR
+ss00881	Nac	Nitrogen assimilation regulatory protein Nac
+ss00881	OxyR	Hydrogen peroxide-inducible genes activator
+ss00881	XapR	Xanthosine operon regulatory protein XapR, LysR family
+ss00881	YbbS	LysR family transcriptional regulator YbbS
+ss00881	YbhD	LysR family transcriptional regulator YbhD
+ss00881	YcjZ	LysR family transcriptional regulator YcjZ
+ss00881	YdcI	LysR family transcriptional regulator YdcI
+ss00881	YfeR	LysR family transcriptional regulator YfeR
+ss00881	YfiE	LysR family transcriptional regulator YfiE
+ss00881	YhjC	LysR family transcriptional regulator YhjC
+ss00881	YneJ	LysR family transcriptional regulator YneJ
+ss00881	YnfL	LysR family transcriptional regulator YnfL
+ss00881	STM2281	LysR family transcriptional regulator STM2281
+ss00881	STM3121	LysR family transcriptional regulator STM3121
+ss00881	PA0133	LysR family transcriptional regulator PA0133
+ss00881	PA0191	LysR family transcriptional regulator PA0191
+ss00881	PA0739	LysR family transcriptional regulator PA0739
+ss00881	PA1145	LysR family transcriptional regulator PA1145
+ss00881	PA1998	LysR family transcriptional regulator near succinyl-CoA:3-ketoacid-coenzyme A transferase
+ss00881	PA2758	LysR family transcriptional regulator PA2758
+ss00881	PA2877	LysR family transcriptional regulator PA2877
+ss00881	PA3398	LysR family transcriptional regulator PA3398
+ss00881	PA4989	LysR family transcriptional regulator PA4989
+ss00881	PA5218	LysR family transcriptional regulator PA5218
+ss00881	PA5437	LysR family transcriptional regulator PA5437
+ss00881	GpuR	Transcriptional activator GpuR
+ss00881	GbuR	Transcriptional regulator GbuR

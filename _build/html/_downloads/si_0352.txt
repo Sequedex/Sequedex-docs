@@ -1,0 +1,6 @@
+ss00451	R1	Transthyretin family protein
+ss00451	R2	putative uricase
+ss00451	R4	Ureidoglycolate hydrolase (EC 3.5.3.19)
+ss00451	R5	conserved hypothetical membrane protein, paralogue of Y20848
+ss00451	R6	Urate oxidase (EC 1.7.3.3)
+ss00451	R8	salvage of nucleosides and nucleotides

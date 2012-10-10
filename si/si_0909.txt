@@ -1,0 +1,29 @@
+ss00711	ClfA	Clumping factor ClfA, fibrinogen-binding protein
+ss00711	ClfB	Clumping factor ClfB, fibrinogen binding protein
+ss00711	CNA	Collagen binding protein Cna
+ss00711	FnBPA	Fibronectin binding protein FnbA
+ss00711	FnBPB	Fibronectin binding protein FnbB
+ss00711	EbpS	Elastin binding protein EbpS
+ss00711	Spa	Protein A, von Willebrand factor binding protein Spa
+ss00711	SdrC	Adhesin of unknown specificity SdrC
+ss00711	SdrD	Adhesin of unknown specificity SdrD
+ss00711	SdrE	Adhesin of unknown specificity SdrE, similar to bone sialoprotein-binding protein Bbp
+ss00711	Coa	Staphylocoagulase
+ss00711	Eap	Extracellular adherence protein of broad specificity Eap/Map
+ss00711	Eap_tr	Extracellular adherence protein of broad specificity Eap/Map, truncated
+ss00711	Emp	Extracellular ECM and plasma binding protein Emp
+ss00711	Efb	Extracellular fibrinogen-binding protein Efb
+ss00711	Hyp1	Hypothetical protein, similarity with fibrinogen-binding protein Efb
+ss00711	VWbp	Secreted von Willebrand factor-binding protein VWbp
+ss00711	Hyp2	Hypothetical protein, similarity with von Willebrand factor-binding VWbp
+ss00711	Atl	Bifunctional autolysin Atl
+ss00711	AAP	Accumulation-associated protein AAP
+ss00711	Pls	Antiadhesin Pls, binding to squamous nasal epithelial cells
+ss00711	SasG	Virulence-associated cell-wall-anchored protein SasG (LPXTG motif), binding to squamous nasal epithelial cells
+ss00711	SasH	Virulence-associated cell-wall-anchored protein SasH (LPXTG motif)
+ss00711	SasA	Predicted cell-wall-anchored protein SasA (LPXTG motif)
+ss00711	SasC	Predicted cell-wall-anchored protein SasC (LPXTG motif)
+ss00711	SasD	Predicted cell-wall-anchored protein SasD (LPXAG motif)
+ss00711	SasF	Predicted cell-wall-anchored protein SasF (LPXAG motif)
+ss00711	SasI	Predicted cell-wall-anchored protein SasI (LPXTG motif)
+ss00711	SasK	Predicted cell-wall-anchored protein SasK (LPXTG motif)

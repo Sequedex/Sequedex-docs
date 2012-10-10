@@ -1,0 +1,25 @@
+ss00419	FlaAB	Flagellin
+ss00419	FlhA	Flagellar biosynthesis protein FlhA
+ss00419	FlhB	Flagellar biosynthesis protein FlhB
+ss00419	FliI	Flagellum-specific ATP synthase FliI
+ss00419	FliR	Flagellar biosynthesis protein FliR
+ss00419	FlgD	Flagellar basal-body rod modification protein FlgD
+ss00419	FlgH	Flagellar L-ring protein FlgH
+ss00419	MotA	Flagellar motor rotation protein MotA
+ss00419	MotB	Flagellar motor rotation protein MotB
+ss00419	FliM	Flagellar motor switch protein FliM
+ss00419	FliN	Flagellar motor switch protein FliN
+ss00419	FleN	Flagellar synthesis regulator FleN
+ss00419	FlhF	Flagellar biosynthesis protein FlhF
+ss00419	CheA	Signal transduction histidine kinase CheA (EC 2.7.3.-)
+ss00419	CheV	Chemotaxis protein CheV (EC 2.7.3.-)
+ss00419	CheY	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
+ss00419	FliA	RNA polymerase sigma factor for flagellar operon
+ss00419	RpoN	RNA polymerase sigma-54 factor RpoN
+ss00419	IMB	Motility integral membrane protein
+ss00419	STP	Predicted signal transduction protein
+ss00419	CetA	Signal transduction protein CetA, mediates an energy taxis response
+ss00419	CetB	Signal transduction protein CetB, mediates an energy taxis response
+ss00419	Rrf2	Rrf2 family transcriptional regulator
+ss00419	LM	Putative lipoprotein required for motility
+ss00419	MAF	Motility accessory factor

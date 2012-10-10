@@ -1,0 +1,2 @@
+ss00621	Hypo	FIG002958: hypothetical protein
+ss00621	RecF	DNA recombination and repair protein RecF

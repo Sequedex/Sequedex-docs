@@ -1,0 +1,48 @@
+ss00950	L1e	LSU ribosomal protein L1e (L4p)
+ss00950	L3e	LSU ribosomal protein L3e (L3p)
+ss00950	L5e	LSU ribosomal protein L5e (L18p)
+ss00950	L6e	LSU ribosomal protein L6e
+ss00950	L7e	LSU ribosomal protein L7e (L30p)
+ss00950	L7Ae	LSU ribosomal protein L7Ae
+ss00950	L8e	LSU ribosomal protein L8e (L2p)
+ss00950	L9e	LSU ribosomal protein L9e (L6p)
+ss00950	L10e	LSU ribosomal protein L10e (L16p)
+ss00950	L10Ae	LSU ribosomal protein L10Ae (L1p)
+ss00950	L11e	LSU ribosomal protein L11e (L5p)
+ss00950	L12e	LSU ribosomal protein L12e (L11p)
+ss00950	L13e	LSU ribosomal protein L13e
+ss00950	L13Ae	LSU ribosomal protein L13Ae (L13p)
+ss00950	L14e	LSU ribosomal protein L14e
+ss00950	L15e	LSU ribosomal protein L15e
+ss00950	L17e	LSU ribosomal protein L17e (L22p)
+ss00950	L18e	LSU ribosomal protein L18e
+ss00950	L18Ae	LSU ribosomal protein L18Ae
+ss00950	L19e	LSU ribosomal protein L19e
+ss00950	L21e	LSU ribosomal protein L21e
+ss00950	L22e	LSU ribosomal protein L22e
+ss00950	L23e	LSU ribosomal protein L23e (L14p)
+ss00950	L23Ae	LSU ribosomal protein L23Ae (L23p)
+ss00950	L24e	LSU ribosomal protein L24e
+ss00950	L26e	LSU ribosomal protein L26e (L24p)
+ss00950	L27e	LSU ribosomal protein L27e
+ss00950	L27Ae	LSU ribosomal protein L27Ae (L15p)
+ss00950	L28e	LSU ribosomal protein L28e
+ss00950	L29e	LSU ribosomal protein L29e
+ss00950	L30e	LSU ribosomal protein L30e
+ss00950	L31e	LSU ribosomal protein L31e
+ss00950	L32e	LSU ribosomal protein L32e
+ss00950	L34e	LSU ribosomal protein L34e
+ss00950	L35e	LSU ribosomal protein L35e (L29p)
+ss00950	L35Ae	LSU ribosomal protein L35Ae
+ss00950	L36e	LSU ribosomal protein L36e
+ss00950	L37e	LSU ribosomal protein L37e
+ss00950	L37Ae	LSU ribosomal protein L37Ae
+ss00950	L38e	LSU ribosomal protein L38e
+ss00950	L39e	LSU ribosomal protein L39e
+ss00950	L40e	LSU ribosomal protein L40e
+ss00950	L41e	LSU ribosomal protein L41e
+ss00950	L44e	LSU ribosomal protein L44e
+ss00950	P0	LSU ribosomal protein P0 (L10p)
+ss00950	P1	LSU ribosomal protein P1
+ss00950	P2	LSU ribosomal protein P2
+ss00950	L12a	LSU ribosomal protein L12a (P1/P2)

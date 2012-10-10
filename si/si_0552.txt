@@ -1,0 +1,8 @@
+ss00133	SalA	Salicylate hydroxylase (EC 1.14.13.1)
+ss00133	SalR	regulator protein,SalR
+ss00133	SalE	salicylate esterase
+ss00133	SalD	putative facilitator of salicylate uptake
+ss00133	AreA	AreA (Esterase for aryl ester catabolic pathway) (EC 3.1.1.-)
+ss00133	AreB	AreB (Aryl-alcohol dehydrogenase) (EC 1.1.1.90)
+ss00133	AreC	Benzaldehyde dehydrogenase II (EC 1.2.1.28)
+ss00133	AreR	regulator protein,AreR

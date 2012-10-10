@@ -1,0 +1,5 @@
+ss00920	R1	FIG001590: Putative conserved exported protein precursor
+ss00920	R2	2-octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.-)
+ss00920	R3	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)
+ss00920	R4	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+ss00920	R5	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)

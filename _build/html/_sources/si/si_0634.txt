@@ -1,0 +1,20 @@
+ss00119	BF0133	Putative mobilization protein BF0133
+ss00119	BF0132	Putative conjugative transposon mobilization protein BF0132
+ss00119	BF0131	hypothetical protein clusted with conjugative transposons, BF0131
+ss00119	TraA-CTn	Conjugative transposon protein TraA
+ss00119	TraB-CTn	Conjugative transposon protein TraB
+ss00119	TraC-CTn	Conjugative transposon protein TraC
+ss00119	TraD-CTn	Conjugative transposon protein TraD
+ss00119	TraE-CTn	Conjugative transposon protein TraE
+ss00119	TraF-CTn	Conjugative transposon protein TraF
+ss00119	TraG-CTn	Conjugative transposon protein TraG
+ss00119	TraH-CTn	Conjugative transposon protein TraH
+ss00119	TraI-CTn	Conjugative transposon protein TraI
+ss00119	TraJ-CTn	Conjugative transposon protein TraJ
+ss00119	TraK-CTn	Conjugative transposon protein TraK
+ss00119	TraL-CTn	Conjugative transposon protein TraL
+ss00119	TraM-CTn	Conjugative transposon protein TraM
+ss00119	TraN-CTn	Conjugative transposon protein TraN
+ss00119	TraO-CTn	Conjugative transposon protein TraO
+ss00119	TraP-CTn	Conjugative transposon protein TraP
+ss00119	TraQ-CTn	Conjugative transposon protein TraQ

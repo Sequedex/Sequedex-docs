@@ -1,0 +1,44 @@
+ss00657	M	Antiphagocytic M protein
+ss00657	Ska	Streptokinase
+ss00657	CAMP	CAMP factor
+ss00657	SagA	Streptolysin S precursor (SagA)
+ss00657	SLO	Streptolysin O
+ss00657	Hyl	Hyaluronate lyase precursor (EC 4.2.2.1)
+ss00657	GAPDH	Plasmin(ogen) receptor
+ss00657	NADGH	Nicotine adenine dinucleotide glycohydrolase (NADGH) (EC 3.2.2.5)
+ss00657	SpeA	Streptococcal pyrogenic exotoxin A (SpeA)
+ss00657	SpeB	Streptococcal pyrogenic exotoxin B (SpeB)
+ss00657	FBA	Fibrinogen-binding protein
+ss00657	N	N protein
+ss00657	prtF	Protein F
+ss00657	H	Protein H
+ss00657	GRAB	Protein G-related alpha 2 macroglobulin-binding protein (GRAB)
+ss00657	SIC	Streptococcal inhibitor of complement (SIC)
+ss00657	IdeS	Immunoglobulin G-endopeptidase (IdeS)
+ss00657	EndoS	Secreted Endo-beta-N-acetylglucosaminidase (EndoS)
+ss00657	ScpA	C5a peptidase (EC 3.4.21.-)
+ss00657	SpeC	Streptococcal pyrogenic exotoxin C (SpeC)
+ss00657	SpeG	Streptococcal pyrogenic exotoxin G (SpeG)
+ss00657	SpeH	Streptococcal pyrogenic exotoxin H (SpeH)
+ss00657	SpeI	Streptococcal pyrogenic exotoxin I (SpeI)
+ss00657	SpeJ	Streptococcal pyrogenic exotoxin J (SpeJ)
+ss00657	SpeK	Streptococcal pyrogenic exotoxin K (SpeK)
+ss00657	SpeL	Streptococcal pyrogenic exotoxin L (SpeL)
+ss00657	SpeM	Streptococcal pyrogenic exotoxin M (SpeM)
+ss00657	SSA	Streptococcal superantigen A (SSA)
+ss00657	SmeZ	Streptococcal mitogenic exotoxin Z (SmeZ)
+ss00657	Spd1	Streptodornase B
+ss00657	Spd2	Mitogenic factor 2
+ss00657	Spd3	Mitogenic factor 3
+ss00657	Spd4	Mitogenic factor 4
+ss00657	Sda	Streptodornase D
+ss00657	FBP	Fibronectin-binding protein
+ss00657	SOF	Serum opacity factor
+ss00657	SpyA	C3 family ADP-ribosyltransferase (EC 2.4.2.-)
+ss00657	DltA1	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+ss00657	DltA2	D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)
+ss00657	ScpC	Serine endopeptidase ScpC (EC 3.4.21.-)
+ss00657	HasA	Hyaluronan synthase (EC 2.4.1.212)
+ss00657	psSpeJ	Streptococcal pyrogenic exotoxin J (SpeJ) fragment
+ss00657	psSpeG	Streptococcal pyrogenic exotoxin G (SpeG) fragment
+ss00657	SclB	Collagen-like surface protein

@@ -1,0 +1,5 @@
+ss00208	CMDE	carbon monoxide dehydrogenase E protein
+ss00208	CMDD	carbon monoxide dehydrogenase D protein
+ss00208	CMDF	Carbon monoxide dehydrogenase F protein
+ss00208	CMDG	carbon monoxide dehydrogenase G protein
+ss00208	PS	Putative Carbon monoxide dehydrogenase subunit, maturation factor

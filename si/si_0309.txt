@@ -1,0 +1,3 @@
+ss00350	R1	FIG006126: DNA helicase, restriction/modification system component YeeB
+ss00350	R2	FIG045374: Type II restriction enzyme, methylase subunit YeeA
+ss00350	R3	YeeC-like protein

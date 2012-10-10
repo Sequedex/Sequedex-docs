@@ -1,0 +1,46 @@
+ss00876	FNR	Cyclic AMP receptor protein
+ss00876	CGA	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+ss00876	GT	Glutathione S-transferase (EC 2.5.1.18)
+ss00876	ElaA	ElaA protein
+ss00876	PH	Hydrolase, alpha/beta fold family functionally coupled to Phosphoribulokinase
+ss00876	AKT	cAMP-dependent Kef-type K+ transport system
+ss00876	AC	Adenylate cyclase (EC 4.6.1.1)
+ss00876	PDEhr	Heme-regulated cyclic AMP phosphodiesterase (EC 3.1.4.-)
+ss00876	HBL	Putative hemin-binding lipoprotein
+ss00876	RR	Putative Heme-regulated two-component response regulator
+ss00876	NA	Nicotinamidase (EC 3.5.1.19)
+ss00876	C'C	putative c'cytochrome
+ss00876	NDH	Nickel-dependent hydrogenase, b-type cytochrome subunit
+ss00876	GS	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+ss00876	GAP	Probable glutamate/gamma-aminobutyrate antiporter
+ss00876	GD	Glutamate decarboxylase beta (EC 4.1.1.15)
+ss00876	PLD	putative phospholipase D family protein
+ss00876	GST	Maleylacetoacetate isomerase (EC 5.2.1.2) / Glutathione S-transferase
+ss00876	Ars	Arsenical pump-driving ATPase (EC 3.6.3.16)
+ss00876	pGST	Probable glutathione S-transferase-related transmembrane protein (EC 2.5.1.18)
+ss00876	ArsR	Transcriptional regulator, ArsR family
+ss00876	GSTT	Glutathione S-transferase, theta (EC 2.5.1.18)
+ss00876	Edema	calmodulin sensitive adenylate cyclase, edema factor, cya, plasmid pXO1, B. anthracis (M23179, M24074)
+ss00876	APRT	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+ss00876	HAC	bifunctional hemolysin-adenylate cyclase precursor
+ss00876	ALF	Anthrax toxin lethal factor precursor; lef, plasmid pXO1, B. anthracis (P15917, M29081, M30210)
+ss00876	ExoY	adenylate cyclase ExoY
+ss00876	ITC	Putative insecticidal toxin complex
+ss00876	pagA	anthrax toxin moiety, protective antigen, pagA formerly pag, plasmid pXO1, B. anthracis (M22589, P13423)
+ss00876	AtxR	trans-acting positive regulator (Atx A)
+ss00876	AtxA	transcriptional activator AtxA, (pXO1-119)
+ss00876	CLA	cyclolysin-activating lysine-acyltransferase
+ss00876	CLS	cyclolysin secretion ATP-binding protein
+ss00876	CSP	cyclolysin secretion protein
+ss00876	Clp	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+ss00876	HcnB	Hydrogen cyanide synthase HcnB
+ss00876	HcnA	Hydrogen cyanide synthase HcnA
+ss00876	HcnC	Hydrogen cyanide synthase HcnC
+ss00876	Clp2	Prophage Clp protease-like protein
+ss00876	cAMPB	Predicted signal-transduction protein containing cAMP-binding and CBS domains
+ss00876	PDE	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+ss00876	Dnr	Nitric oxide -responding transcriptional regulator Dnr (Crp/Fnr family)
+ss00876	??	Membrane proteins related to metalloendopeptidases
+ss00876	AC??	Purine cyclase-related protein
+ss00876	A/GC?	Adenylate/guanylate cyclase (EC 4.6.1.2)
+ss00876	PDEII	CAMP phosphodiesterases class-II:Metallo-beta-lactamase superfamily

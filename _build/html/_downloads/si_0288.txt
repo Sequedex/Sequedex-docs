@@ -1,0 +1,5 @@
+ss00747	R1	FIG137864: putative endonuclease containing a URI domain
+ss00747	R2	FIG002208: Acetyltransferase (EC 2.3.1.-)
+ss00747	R3	FIG139552: Putative protease
+ss00747	R4	FIG138517: Putative lipid carrier protein
+ss00747	R5	FIG139928: Putative protease

@@ -1,0 +1,12 @@
+ss00946	NirS	Cytochrome cd1 nitrite reductase (EC:1.7.2.1)
+ss00946	NirM	Cytochrome c551 NirM
+ss00946	NirC	Cytochrome c55X precursor NirC
+ss00946	NirF	Heme d1 biosynthesis protein NirF
+ss00946	NirD	Heme d1 biosynthesis protein NirD
+ss00946	NirL	Heme d1 biosynthesis protein NirL
+ss00946	NirG	Heme d1 biosynthesis protein NirG
+ss00946	NirH	Heme d1 biosynthesis protein NirH
+ss00946	NirJ	Heme d1 biosynthesis protein NirJ
+ss00946	NirE	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+ss00946	NirN	Nitrite reductase associated c-type cytochorome NirN
+ss00946	NirS-like	Cytochrome similar to cd1

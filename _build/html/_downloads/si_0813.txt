@@ -1,0 +1,24 @@
+ss01041	ND2	NADH dehydrogenase (EC 1.6.99.3)
+ss01041	AG3PD	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+ss01041	G3PD	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+ss01041	AG3PDA	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.99.5)
+ss01041	AG3PDB	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+ss01041	AG3PDC	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+ss01041	MADHh	Methylamine dehydrogenase heavy chain precursor (EC 1.4.99.3)
+ss01041	MADHl	Methylamine dehydrogenase light chain precursor (EC 1.4.99.3)
+ss01041	DACDL	D-amino acid dehydrogenase large subunit (EC 1.4.99.1)
+ss01041	DACDS	D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+ss01041	DLD	D-Lactate dehydrogenase (EC 1.1.2.5)
+ss01041	LLD	L-lactate dehydrogenase (EC 1.1.2.3)
+ss01041	AHAD	L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenase
+ss01041	MD	Methanol dehydrogenase heavy chain (EC 1.1.1.244)
+ss01041	GlD	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+ss01041	GD	Glycerol dehydrogenase (EC 1.1.1.6)
+ss01041	AMD	Methanol dehydrogenase large subunit protein (EC 1.1.99.8)
+ss01041	QAD	quinoprotein alcohol dehydrogenase
+ss01041	PD	Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase)
+ss01041	GMC	Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site
+ss01041	nuoF3	putative Fe-S, FMN containing oxidoreductase
+ss01041	PrD?	D-amino acid dehydrogenase (EC 1.4.99.1) family protein in hydroxy-L-proline catabolic cluster
+ss01041	AGPDa	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+ss01041	G1PD	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)

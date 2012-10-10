@@ -1,0 +1,7 @@
+ss01064	yrdC	Sua5 YciO YrdC YwlC family protein
+ss01064	yeaZ	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+ss01064	YgjD	FIG134348: essential endopeptidase
+ss01064	YciO	YciO family
+ss01064	COG0613	COG0613, Predicted metal-dependent phosphoesterases (PHP family)
+ss01064	S4-like	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit
+ss01064	Test	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase

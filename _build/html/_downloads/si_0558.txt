@@ -1,0 +1,5 @@
+ss00860	PchA	P-hydroxybenzaldehyde dehydrogenase
+ss00860	PchC	4-cresol dehydrogenase [hydroxylating] cytochrome c subunit precursor
+ss00860	PchF	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit (EC 1.17.99.1)
+ss00860	BAD	benzyl alcohol dehydrogenase
+ss00860	MPD	Protein involved in meta-pathway of phenol degradation

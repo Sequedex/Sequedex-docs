@@ -1,0 +1,18 @@
+ss00805	ssTyrR	Site-specific tyrosine recombinase
+ss00805	hslU	ATP-dependent hsl protease ATP-binding subunit HslU
+ss00805	hslV	ATP-dependent protease HslV (EC 3.4.25.-)
+ss00805	alpha	proteasome subunit alpha (EC 3.4.25.1)
+ss00805	beta	proteasome subunit beta (EC 3.4.25.1)
+ss00805	PAN	proteasome-activating AAA-ATPase (PAN)
+ss00805	pufA	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+ss00805	pup	Prokaryotic ubiquitin-like protein Pup
+ss00805	ClpP	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+ss00805	ClpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+ss00805	LonI	ATP-dependent protease La (EC 3.4.21.53) Type I
+ss00805	LonII	ATP-dependent protease La (EC 3.4.21.53) Type II
+ss00805	LonBNP	LonB like ATP-ase no protease domain
+ss00805	LaBI	ATP-dependent protease La (EC 3.4.21.53) LonB Type I
+ss00805	LonBLI	ATP-dependent protease LonB-like Type I
+ss00805	LonBII	ATP-dependent protease LonB Type II
+ss00805	LonPDZP	Lon-like protease with PDZ domain
+ss00805	LonN	Uncharacterized protein, similar to the N-terminal domain of Lon protease

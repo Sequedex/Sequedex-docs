@@ -1,0 +1,44 @@
+ss00220	AraR1	Arabinose operon regulatory protein
+ss00220	AraB	Ribulokinase (EC 2.7.1.16)
+ss00220	AraA	L-arabinose isomerase (EC 5.3.1.4)
+ss00220	AraD	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+ss00220	AraF	L-arabinose-binding periplasmic protein precursor araF (TC 3.A.1.2.2)
+ss00220	AraG	L-arabinose transport ATP-binding protein araG (TC 3.A.1.2.2)
+ss00220	AraH	L-arabinose transport system permease protein (TC 3.A.1.2.2)
+ss00220	AraE	Arabinose-proton symporter
+ss00220	AraQ	alpha-arabinosides ABC transport system, permease protein araQ
+ss00220	AraN	alpha-arabinosides ABC transport system, substrate-binding protein araN
+ss00220	AraP	alpha-arabinosides ABC transport system, permease protein araP
+ss00220	AbfA	Alpha-N-arabinofuranosidase (EC 3.2.1.55)
+ss00220	AraR2	Transcriptional repressor of the arabinose operon
+ss00220	AraM	Arabinose operon protein araM
+ss00220	AraL	Arabinose operon protein araL
+ss00220	AbnA	Arabinan endo-1,5-alpha-L-arabinosidase (EC 3.2.1.99)
+ss00220	AraJ	Protein araJ precursor
+ss00220	Xsa	Alpha-N-arabinofuranosidase 2 (EC 3.2.1.55)
+ss00220	Mut	L-arabinose-specific 1-epimerase (mutarotase)
+ss00220	GPH_ara	Possible GPH family transporter (TC 2.A.2) for arabinosides
+ss00220	AraR3	Transcriptional regulator of the arabinose operon in Shewanella, GntR family
+ss00220	AraDH	L-arabinose 1-dehydrogenase (EC 1.1.1.46)
+ss00220	AL	L-arabinolactonase (EC 3.1.1.15)
+ss00220	AraC	L-arabonate dehydratase (EC 4.2.1.25)
+ss00220	KDAD	L-2-keto-3-deoxyarabonate dehydratase (EC 4.2.1.43)
+ss00220	KGSD	2-ketoglutaric semialdehyde dehydrogenase (EC 1.2.1.26)
+ss00220	GH1_ara	Hypothetical glycoside hydrolase, family 43, similar to arabinosidase
+ss00220	AraX1	Hypothetical phosphoglucomutase family hydrolase in arabinose utilization cluster
+ss00220	AraX2	Putative oxidoreductase in arabinose utilization cluster
+ss00220	ABCc_ara	Predicted L-arabinose ABC transport system, periplasmic arabinose-binding protein
+ss00220	ABCb1_ara	Predicted L-arabinose ABC transport system, permease protein 1
+ss00220	ABCa_ara	Predicted L-arabinose ABC transport system, ATP-binding protein
+ss00220	ABCb2_ara	Predicted L-arabinose ABC transport system, permease protein 2
+ss00220	AbfA-II	Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)
+ss00220	OMT	Arabinose-regulated TonB-dependent outer membrane receptor
+ss00220	AraK	alternative Ribulokinase (EC 2.7.1.16)
+ss00220	AraA2	Alternative L-arabinose isomerase (EC 5.3.1.4)
+ss00220	AraN2	Predicted arabinoside ABC transporter, periplasmic sugar-binding protein
+ss00220	AraP2	Predicted arabinoside ABC transporter, permease component 1
+ss00220	AraQ2	Predicted arabinoside ABC transporter, permease component 2
+ss00220	AraN3	Predicted arabinoside ABC transporter 2, periplasmic sugar-binding protein
+ss00220	AraP3	Predicted arabinoside ABC transporter 2, permease component 1
+ss00220	AraQ3	Predicted arabinoside ABC transporter 2, permease component 2
+ss00220	AraA-II	Predicted L-arabinose isomerase (EC 5.3.1.4)

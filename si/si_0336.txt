@@ -1,0 +1,9 @@
+ss00645	SIG1	FIG143828: Hypothetical protein YbgA
+ss00645	SIG2	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+ss00645	SIG2b	Deoxyribodipyrimidine photolyase, type II (EC 4.1.99.3)
+ss00645	NSIG1	Di/tripeptide permease YbgH
+ss00645	SIG3	FIG042796: Hypothetical protein
+ss00645	SIG4	Allophanate hydrolase subunit 2 (EC 3.5.1.54)
+ss00645	SIG5	Allophanate hydrolase subunit 1 (EC 3.5.1.54)
+ss00645	SIG6	Lactam utilization protein LAMB
+ss00645	SIG7	Endonuclease VIII

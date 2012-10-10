@@ -1,0 +1,20 @@
+ss00601	IlvA	Threonine dehydratase (EC 4.3.1.19)
+ss00601	IlvA-C	Threonine dehydratase, catabolic (EC 4.3.1.19)
+ss00601	IlvA-A	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+ss00601	IlvG	Acetolactate synthase large subunit (EC 2.2.1.6)
+ss00601	IlvM	Acetolactate synthase small subunit (EC 2.2.1.6)
+ss00601	IlvM2	Acetolactate synthase small subunit (EC 2.2.1.6), predicted
+ss00601	IlvM3	Acetolactate synthase small subunit (EC 2.2.1.6), predicted, Archaeal type
+ss00601	IlvM4	Acetolactate synthase small subunit (EC 2.2.1.6), predicted, Archaeal type 2
+ss00601	IlvM5	Acetolactate synthase small subunit (EC 2.2.1.6), Xanthomonadales type
+ss00601	IlvC	Ketol-acid reductoisomerase (EC 1.1.1.86)
+ss00601	IlvD	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+ss00601	IlvE	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+ss00601	Ldh	Leucine dehydrogenase (EC 1.4.1.9)
+ss00601	AvtA	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+ss00601	LeuC	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+ss00601	LeuD	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+ss00601	LeuB	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+ss00601	LeuA	2-isopropylmalate synthase (EC 2.3.3.13)
+ss00601	CimA	(R)-citramalate synthase (EC 2.3.1.182)
+ss00601	Lrp	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system

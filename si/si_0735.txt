@@ -1,0 +1,36 @@
+ss00377	S14e	SSU ribosomal protein S14e (S11p)
+ss00377	TP	Treacle protein
+ss00377	HCA	H-2 class II histocompatibility antigen, gamma chain
+ss00377	NSS	N-acetylgalactosamine 6-sulfate sulfatase (GALNS)
+ss00377	ASB	Arylsulfatase B precursor (EC 3.1.6.12)
+ss00377	CH	Cirhin
+ss00377	HS2	Hyaluronan synthase 2 (EC 2.4.1.212)
+ss00377	HS3	Hyaluronan synthase 3 (EC 2.4.1.212)
+ss00377	Cla	Collagen alpha 1(I) chain precursor
+ss00377	SKATa	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+ss00377	CCR	Ubiquinol-cytochrome-c reductase complex core protein 2, mitochondrial precursor (EC 1.10.2.2)
+ss00377	NADH5	NADH dehydrogenase subunit 5
+ss00377	S6K	Ribosomal protein S6 kinase alpha 5 (EC 2.7.11.1)
+ss00377	NP	Nanos protein
+ss00377	NIP7	60S ribosome subunit biogenesis protein NIP7
+ss00377	GA8	Growth-arrest-specific protein 8
+ss00377	C4	Cadherin-4 precursor
+ss00377	GCC8	Conserved oligomeric Golgi complex component 8
+ss00377	IHABP	Hyaluronan mediated motility receptor
+ss00377	NudCd2	NudC domain containing protein 2
+ss00377	CG1	Cyclin G1
+ss00377	KDGR	DTDP-4-keto-6-deoxy-D-glucose 4-reductase
+ss00377	p53ind	p53 inducible protein
+ss00377	BTK	Tyrosine-protein kinase BTK (EC 2.7.10.2)
+ss00377	WAS	Non-imprinted in Prader-Willi/Angelman syndrome 2
+ss00377	WASh	Non-imprinted in Prader-Willi/Angelman syndrome region protein 2 homolog
+ss00377	WAS1	Non-imprinted in Prader-Willi/Angelman syndrome 1
+ss00377	CDC37	cell division cycle 37 homolog (S. cerevisiae)
+ss00377	JAK2	Tyrosine-protein kinase JAK2 (EC 2.7.10.2)
+ss00377	cAMPP	cAMP-specific 3',5'-cyclic phosphodiesterase 4A (EC 3.1.4.17)
+ss00377	P32	P32 subunit of splicing factor SF2
+ss00377	P32?	Complement component 1, Q subcomponent binding protein, mitochondrial precursor
+ss00377	Nup88	Nuclear pore complex protein Nup88
+ss00377	RNAh	RNA helicase, putative
+ss00377	RAPIa	RAP interaction protein alpha
+ss00377	Nop2	Putative ribosomal RNA methyltransferase Nop2 (EC 2.1.1.-) (Nucleolar protein 2)

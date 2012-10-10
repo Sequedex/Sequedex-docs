@@ -1,0 +1,5 @@
+ss00599	R1	Phosphoesterase, DHH family protein
+ss00599	R2	LSU ribosomal protein L9p
+ss00599	R3	Replicative DNA helicase (EC 3.6.1.-) [SA14-24]
+ss00599	R4	FIG003573: hypothetical protein
+ss00599	R5	Adenylosuccinate synthetase (EC 6.3.4.4)

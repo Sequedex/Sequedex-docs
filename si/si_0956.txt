@@ -1,0 +1,3 @@
+ss00914	NADGH	Nicotine adenine dinucleotide glycohydrolase (NADGH) (EC 3.2.2.5)
+ss00914	Unk	Unkown intruder
+ss00914	SLO	Streptolysin O

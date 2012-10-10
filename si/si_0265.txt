@@ -1,0 +1,4 @@
+ss00894	R1	DNA polymerase X family
+ss00894	R2	Recombination inhibitory protein MutS2
+ss00894	R3	Ribonuclease HIII (EC 3.1.26.4)
+ss00894	R4	Possible colicin V production protein

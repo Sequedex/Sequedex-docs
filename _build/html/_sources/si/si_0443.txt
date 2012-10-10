@@ -1,0 +1,13 @@
+ss00447	IV-H	Sporulation thiol-disulfide oxidoreductase StoA precursor (Stage IV sporulation protein H)
+ss00447	V-B	Stage V sporulation protein B
+ss00447	PG	spore peptidoglycan hydrolase (N-acetylglucosaminidase) (EC 3.2.1.-)
+ss00447	Lyt	Spore cortex-lytic enzyme precursor
+ss00447	Yaat	Stage 0 sporulation protein YaaT
+ss00447	Spo0E	Spo0E regulatory protein, specific dephosphorylation of Spo0A-P (stage 0 sporulation)
+ss00447	Spo0A	Stage 0 sporulation two-component response regulator (Spo0A)
+ss00447	KbaA	KinB signaling pathway activation protein
+ss00447	GerD	Spore germination protein GerD
+ss00447	KinB	Sporulation kinase B (EC 2.7.13.3)
+ss00447	KinB?	Sporulation kinase B homolog 1
+ss00447	KinB??	Sporulation kinase B homolog 2
+ss00447	KinA	Sporulation kinase A (EC 2.7.13.3)

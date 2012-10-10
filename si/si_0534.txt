@@ -1,0 +1,18 @@
+ss00155	BadA	Benzoate-CoA ligase (EC 6.2.1.25)
+ss00155	BadE	Benzoyl-CoA reductase subunit BadE (EC 1.3.99.15)
+ss00155	BadD	Benzoyl-CoA reductase subunit BadD (EC 1.3.99.15)
+ss00155	BadF	Benzoyl-CoA reductase subunit BadF (EC 1.3.99.15)
+ss00155	BadG	Benzoyl-CoA reductase subunit BadG (EC 1.3.99.15)
+ss00155	BadK	Cyclohex-1-ene-1-carboxyl-CoA hydratase (EC 4.2.1.17)
+ss00155	BadH	2-hydroxycyclohexanecarboxyl-CoA dehydrogenase (EC 1.1.1.-)
+ss00155	BadI	2-ketocyclohexanecarboxyl-CoA hydrolase (EC 4.1.3.36)
+ss00155	PcaF	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+ss00155	HbdA	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+ss00155	ECH	Enoyl CoA-hydratase (EC 4.2.1.17)
+ss00155	GCDH	Glutaryl-CoA dehydrogenase (EC 1.3.99.7)
+ss00155	PimD	Pimeloyl-CoA dehydrogenase (EC 1.3.1.62)
+ss00155	PATrf	Phosphinothricin acetyltransferase (EC 2.3.1.-)
+ss00155	ECAH	Enoyl-CoA hydratase (EC 4.2.1.-)
+ss00155	Dch	Cyclohexa-1,5-dienecarbonyl-CoA hydratase (EC 4.2.1.100)
+ss00155	Oah	6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase
+ss00155	Had	6-hydroxycylohex-1-ene-1-carbonyl-CoA dehydrogenase

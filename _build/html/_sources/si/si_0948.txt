@@ -1,0 +1,4 @@
+ss00035	TcaA	Teicoplanin resistance associated membrane protein TcaA
+ss00035	TcaB	Teicoplanin resistance associated membrane protein TcaB
+ss00035	TcaR	Teicoplanin-resistance associated HTH-type transcriptional regulator TcaR
+ss00035	Hyp1	Similar to Teicoplanin resistance associated membrane protein TcaA

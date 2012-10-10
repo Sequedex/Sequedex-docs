@@ -1,0 +1,16 @@
+ss00979	R1	Surface presentation of antigens protein SpaO
+ss00979	R2	Surface presentation of antigens protein SpaN (Invasion protein InvJ)
+ss00979	R3	cell invasion protein SipB
+ss00979	R4	Invasion protein InvA
+ss00979	R5	Surface presentation of antigens protein SpaQ
+ss00979	R6	Cell invasion protein sipC (Effector protein SipC)
+ss00979	R7	Surface presentation of antigens protein SpaK (Invasion protein InvB)
+ss00979	R8	Surface presentation of antigens protein SpaS
+ss00979	R9	Probable ATP synthase SpaL (EC 3.6.3.14) (Invasion protein InvC)
+ss00979	R10	Chaperone protein SicA (Salmonella invasin chaperone)
+ss00979	R11	Invasion protein InvE
+ss00979	R12	Cell invasion protein SipD (Salmonella invasion protein D)
+ss00979	R13	Surface presentation of antigens protein SpaP
+ss00979	R14	Surface presentation of antigens protein SpaR
+ss00979	R15	Protein InvG precursor
+ss00979	R16	Surface presentation of antigens protein SpaM

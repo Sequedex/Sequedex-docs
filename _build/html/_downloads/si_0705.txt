@@ -1,0 +1,11 @@
+ss00912	PpiA	Peptidyl-prolyl cis-trans isomerase ppiA precursor (EC 5.2.1.8)
+ss00912	PpiB	Peptidyl-prolyl cis-trans isomerase ppiB (EC 5.2.1.8)
+ss00912	PpiC	Peptidyl-prolyl cis-trans isomerase ppiC (EC 5.2.1.8)
+ss00912	PpiD	Peptidyl-prolyl cis-trans isomerase ppiD (EC 5.2.1.8)
+ss00912	SurA	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)
+ss00912	SlyD	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+ss00912	SlpA	FKBP-type peptidyl-prolyl cis-trans isomerase slpA (EC 5.2.1.8)
+ss00912	FkpA	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+ss00912	FklB	FKBP-type peptidyl-prolyl cis-trans isomerase fklB (EC 5.2.1.8)
+ss00912	PrsA	Foldase protein PrsA precursor (EC 5.2.1.8)
+ss00912	PrsA-like	Putative parvulin type peptidyl-prolyl isomerase, similarity with PrsA foldase

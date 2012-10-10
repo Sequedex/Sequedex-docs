@@ -1,0 +1,5 @@
+ss00638	KpsM	Capsular polysaccharide ABC transporter, permease protein KpsM
+ss00638	KpsT	Capsular polysaccharide ABC transporter, ATP-binding protein KpsT
+ss00638	KpsE	Capsular polysaccharide export system inner membrane protein KpsE
+ss00638	KpsD	Capsular polysaccharide export system periplasmic protein KpsD
+ss00638	KpsF	Capsular polysaccharide export system protein KpsF

@@ -1,0 +1,3 @@
+ss00005	bsdB	Hydroxyaromatic non-oxidative decarboxylase protein B (EC 4.1.1.-)
+ss00005	bsdC	Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)
+ss00005	bsdD	Hydroxyaromatic non-oxidative decarboxylase protein D (EC 4.1.1.-)

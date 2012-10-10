@@ -1,0 +1,9 @@
+ss00820	sll0175	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+ss00820	R1	Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+ss00820	R2	ABC transporter, permease protein YbbP clustered with maltose/maltodextrin transporter
+ss00820	R3	uncharacterized secreted protein, YBBR Bacillus subtilis homolog
+ss00820	R4	Phosphoglucosamine mutase (EC 5.4.2.10)
+ss00820	R5	Arginase (EC 3.5.3.1)
+ss00820	R6	FemD, factor involved in methicillin resistance
+ss00820	R7	Phosphomannomutase (EC 5.4.2.8)
+ss00820	BK	Butyrate kinase (EC 2.7.2.7)

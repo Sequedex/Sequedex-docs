@@ -1,0 +1,16 @@
+ss00890	SirA?	Siderophore staphylobactin ABC transporter, substrate-binding protein SirA, putative
+ss00890	SirB?	Siderophore staphylobactin ABC transporter, permease protein SirB, putative
+ss00890	SirC?	Siderophore staphylobactin ABC transporter, permease protein SirC, putative
+ss00890	Sir?	Siderophore staphylobactin ABC transporter, ATP-binding protein, putative
+ss00890	SirA	Siderophore staphylobactin ABC transporter, substrate-binding protein SirA
+ss00890	SirB	Siderophore staphylobactin ABC transporter, permease protein SirB
+ss00890	SirC	Siderophore staphylobactin ABC transporter, permease protein SirC
+ss00890	SbnA	Siderophore staphylobactin biosynthesis protein SbnA
+ss00890	SbnB	Siderophore staphylobactin biosynthesis protein SbnB
+ss00890	SbnC	Siderophore staphylobactin biosynthesis protein SbnC
+ss00890	SbnD	Siderophore staphylobactin biosynthesis protein SbnD
+ss00890	SbnE	Siderophore staphylobactin biosynthesis protein SbnE
+ss00890	SbnF	Siderophore staphylobactin biosynthesis protein SbnF
+ss00890	SbnG	Siderophore staphylobactin biosynthesis protein SbnG
+ss00890	SbnH	Siderophore staphylobactin biosynthesis protein SbnH
+ss00890	SbnI	Siderophore staphylobactin biosynthesis protein SbnI

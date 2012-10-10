@@ -1,0 +1,16 @@
+ss00227	ExuR	Hexuronate utilization operon transcriptional repressor ExuR
+ss00227	ExuT	Hexuronate transporter
+ss00227	UxaA	Altronate hydrolase (EC 4.2.1.7)
+ss00227	UxaB	Altronate oxidoreductase (EC 1.1.1.58)
+ss00227	UxaC1	Uronate isomerase (EC 5.3.1.12)
+ss00227	UxuR	Uxu operon transcriptional regulator
+ss00227	UxuA	Mannonate dehydratase (EC 4.2.1.8)
+ss00227	UxuB	D-mannonate oxidoreductase (EC 1.1.1.57)
+ss00227	KdgA	2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+ss00227	KdgK	2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)
+ss00227	KdgR	Transcriptional regulator KdgR, KDG operon repressor
+ss00227	KdgT	2-keto-3-deoxygluconate permease (KDG permease)
+ss00227	KdgF	Pectin degradation protein KdgF
+ss00227	AlgL1	Alginate lyase precursor (EC 4.2.2.3)
+ss00227	AlgL2	poly(beta-D-mannuronate) lyase (EC 4.2.2.3)
+ss00227	UxaC2	Uronate isomerase, family BH0493 (EC 5.3.1.12)

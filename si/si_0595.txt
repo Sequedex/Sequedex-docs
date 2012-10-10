@@ -1,0 +1,45 @@
+ss00793	NifA	Nitrogenase (molybdenum-iron)-specific transcriptional regulator NifA
+ss00793	NrpR	Transcriptional repressor of nif and glnA operons
+ss00793	CysE	Cysteine desulfurase (EC 2.8.1.7)
+ss00793	NifU	Iron-sulfur cluster assembly scaffold protein NifU
+ss00793	IscU	Iron-sulfur cluster assembly scaffold protein IscU
+ss00793	IscA	Iron binding protein IscA for iron-sulfur cluster assembly
+ss00793	NifB	Nitrogenase FeMo-cofactor synthesis FeS core scaffold and assembly protein NifB
+ss00793	frdN	4Fe-4S ferredoxin, nitrogenase-associated
+ss00793	NifX	Nitrogenase FeMo-cofactor carrier protein NifX
+ss00793	NifX2	NifX-associated protein
+ss00793	NafY	Nitrogenase cofactor carrier protein NafY
+ss00793	NifB-1	NifB-domain protein
+ss00793	NifB-2	NifB-domain protein, type 2
+ss00793	NifE	Nitrogenase FeMo-cofactor scaffold and assembly protein NifE
+ss00793	NifN	Nitrogenase FeMo-cofactor scaffold and assembly protein NifN
+ss00793	NifQ	Nitrogenase FeMo-cofactor synthesis molybdenum delivery protein NifQ
+ss00793	NifV	Homocitrate synthase (EC 2.3.3.14)
+ss00793	NifV-a	Homocitrate synthase omega subunit (EC 2.3.3.14)
+ss00793	NifV-o	Homocitrate synthase alpha subunit (EC 2.3.3.14)
+ss00793	NifW	Nitrogenase stabilizing/protective protein NifW
+ss00793	NifM	NifM protein
+ss00793	NifH	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH
+ss00793	NifD	Nitrogenase (molybdenum-iron) alpha chain (EC 1.18.6.1)
+ss00793	NifK	Nitrogenase (molybdenum-iron) beta chain (EC 1.18.6.1)
+ss00793	NifZ	NifZ protein
+ss00793	NifT	NifT protein
+ss00793	NifO	Nitrogenase-associated protein NifO
+ss00793	Avin2460	LRV (FeS)4 cluster domain protein clustered with nitrogenase cofactor synthesis
+ss00793	NifY	NifY protein
+ss00793	VnfA	Nitrogenase (vanadium-iron) transcriptional regulator VnfA
+ss00793	VnfE	Nitrogenase vanadium-cofactor synthesis protein VnfE
+ss00793	VnfN	Nitrogenase vanadium-cofactor synthesis protein VnfN
+ss00793	VnfX	Nitrogenase vanadium-cofactor synthesis protein VnfX
+ss00793	VnfY	Nitrogenase vanadium-cofactor synthesis protein VnfY
+ss00793	VnfH	Nitrogenase (vanadium-iron) reductase and maturation protein VnfH
+ss00793	VnfD	Nitrogenase (vanadium-iron) alpha chain (EC 1.18.6.1)
+ss00793	VnfG	Nitrogenase (vanadium-iron) delta chain (EC 1.18.6.1)
+ss00793	VnfK	Nitrogenase (vanadium-iron) beta chain (EC 1.18.6.1)
+ss00793	AnfA	Nitrogenase (iron-iron) transcriptional regulator
+ss00793	AnfH	Nitrogenase (iron-iron) reductase and maturation protein AnfH
+ss00793	AnfD	Nitrogenase (iron-iron) alpha chain (EC 1.18.6.1)
+ss00793	AnfG	Nitrogenase (iron-iron) delta chain (EC 1.18.6.1)
+ss00793	AnfK	Nitrogenase (iron-iron) beta chain (EC 1.18.6.1)
+ss00793	AnfO	AnfO protein, required for Mo- and V-independent nitrogenase
+ss00793	AnfR	AnfR protein, required for Mo- and V-independent nitrogenase

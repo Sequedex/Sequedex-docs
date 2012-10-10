@@ -1,0 +1,25 @@
+ss00719	LpxA	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+ss00719	LpxC	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.-)
+ss00719	LpxD	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.-)
+ss00719	LpxH	UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.-)
+ss00719	DUF1009	Protein of unknown function DUF1009 clustered with KDO2-Lipid A biosynthesis genes
+ss00719	LpxB	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+ss00719	LpxK	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+ss00719	KdsA	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+ss00719	KDph	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+ss00719	KDsyn	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+ss00719	WaaA	3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
+ss00719	LpxL	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-)
+ss00719	LpxM	Lipid A biosynthesis (KDO) 2-(lauroyl)-lipid IVA acyltransferase (EC 2.3.1.-)
+ss00719	KpsD	Arabinose 5-phosphate isomerase (EC 5.3.1.13)
+ss00719	LpxH2	Ser/Thr protein phosphatase family protein, UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.-) homolog
+ss00719	YcaI	Predicted hydrolase of the metallo-beta-lactamase superfamily, clustered with KDO2-Lipid A biosynthesis genes
+ss00719	MsbA	Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.25)
+ss00719	Wzx	O-antigen flippase Wzx
+ss00719	Wzy	Oligosaccharide repeat unit polymerase Wzy
+ss00719	Wzz	regulator of length of O-antigen component of lipopolysaccharide chains
+ss00719	WaaL	Lipid A-core:surface polymer ligase WaaL
+ss00719	RlpB	LPS-assembly lipoprotein RlpB precursor (Rare lipoprotein B)
+ss00719	LptA	LptA, protein essential for LPS transport across the periplasm
+ss00719	LptB	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+ss00719	Gne	UDP-N-acetylglucosamine 4-epimerase (EC 5.1.3.7)

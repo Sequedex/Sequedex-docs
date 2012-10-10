@@ -1,0 +1,4 @@
+ss00609	R1	Phage T7 exclusion protein
+ss00609	R2	Phage T7 exclusion protein associated hypothetical protein
+ss00609	R3	FIG014574: hypothetical protein
+ss00609	R4	Putative deoxyribonuclease similar to YcfH, type 4

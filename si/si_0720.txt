@@ -1,0 +1,15 @@
+ss00845	needs	selenocysteine-containing
+ss00845	SerRS	Seryl-tRNA synthetase (EC 6.1.1.11)
+ss00845	aSerRS	Seryl-tRNA synthetase (EC 6.1.1.11), archaeal
+ss00845	SelA	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+ss00845	PSTK	L-seryl-tRNA(Sec) kinase
+ss00845	SepSecS	O-phosphoseryl-tRNA(Sec) selenium transferase
+ss00845	SelB	Selenocysteine-specific translation elongation factor
+ss00845	SelD	Selenide,water dikinase (EC 2.7.9.3)
+ss00845	2-SeU	Selenophosphate-dependent tRNA 2-selenouridine synthase
+ss00845	Cj1505c	Hypothetical protein Cj1505c
+ss00845	SelA-rel	L-seryl-tRNA(Sec) selenium transferase-related protein
+ss00845	SelA-rel2	L-seryl-tRNA(Sec) selenium transferase-related protein type 2
+ss00845	SelA-H	L-seryl-tRNA(Sec) selenium transferase, probably playing another role
+ss00845	MJ0158	protein of unknown function MJ0158
+ss00845	SBP2	SECIS-binding protein 2

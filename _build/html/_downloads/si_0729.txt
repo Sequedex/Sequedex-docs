@@ -1,0 +1,8 @@
+ss00866	Rnp1	Ribonuclease P protein component 1 (EC 3.1.26.5)
+ss00866	Rnp2	Ribonuclease P protein component 2 (EC 3.1.26.5)
+ss00866	Rnp3	Ribonuclease P protein component 3 (EC 3.1.26.5)
+ss00866	Rnp4	Ribonuclease P protein component 4 (EC 3.1.26.5)
+ss00866	Pop1	Ribonucleases P/MRP protein subunit POP1 (EC 3.1.26.5)
+ss00866	Pop6	Ribonucleases P/MRP protein subunit POP6 (EC 3.1.26.5)
+ss00866	Pop7	Ribonucleases P/MRP protein subunit POP7 (EC 3.1.26.5)
+ss00866	Pop8	Ribonucleases P/MRP protein subunit POP8 (EC 3.1.26.5)

@@ -1,0 +1,10 @@
+ss00446	A	ATP synthase A chain (EC 3.6.3.14)
+ss00446	B	ATP synthase B chain (EC 3.6.3.14)
+ss00446	B'	ATP synthase B' chain (EC 3.6.3.14)
+ss00446	C	ATP synthase C chain (EC 3.6.3.14)
+ss00446	alpha	ATP synthase alpha chain (EC 3.6.3.14)
+ss00446	beta	ATP synthase beta chain (EC 3.6.3.14)
+ss00446	gamma	ATP synthase gamma chain (EC 3.6.3.14)
+ss00446	delta	ATP synthase delta chain (EC 3.6.3.14)
+ss00446	epsilon	ATP synthase epsilon chain (EC 3.6.3.14)
+ss00446	I	ATP synthase protein I

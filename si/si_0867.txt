@@ -1,0 +1,20 @@
+ss00254	Fur	ferric uptake regulator
+ss00254	ZurR	transcriptional repressor of znuABC operon
+ss00254	PerR	Peroxide stress regulator
+ss00254	DtxR	diphtheria toxin repressor
+ss00254	SoxR	Redox-sensitive transcriptional activator SoxR
+ss00254	SoxS	regulation of superoxide response regulon
+ss00254	ArcA	Aerobic respiration control protein arcA
+ss00254	ArcB	Aerobic respiration control sensor protein arcB (EC 2.7.3.-)
+ss00254	OxyR	Oxidative stress transcriptional regulator (responsive to S-nitrosothiols)
+ss00254	OxyS	Oxidative stress regulatory protein
+ss00254	Fnr	fumarate/nitrate reduction regulatory protein
+ss00254	HPI	Peroxidase (EC 1.11.1.7)
+ss00254	HPII	Catalase HPII (EC 1.11.1.6)
+ss00254	MnSod	Superoxide dismutase [Mn] (EC 1.15.1.1)
+ss00254	FeSod	Superoxide dismutase [Fe] (EC 1.15.1.1)
+ss00254	CuZnSod	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)
+ss00254	Dps	DNA protection during starvation protein
+ss00254	RpoS	RNA polymerase sigma factor
+ss00254	OmpF	outermembrane protein F
+ss00254	micF	antisense RNA

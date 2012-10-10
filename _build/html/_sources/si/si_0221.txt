@@ -1,0 +1,7 @@
+ss00618	Hyp1	Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster
+ss00618	Hyp2	Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster
+ss00618	Hyp3	Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster
+ss00618	Hyp4	COG2071: predicted glutamine amidotransferases in hypothetical Actinobacterial gene cluster
+ss00618	Reg	Transcriptional regulator, GntR family, in hypothetical Actinobacterial gene cluster
+ss00618	Perm1	Amino acid permease in hypothetical Actinobacterial gene cluster
+ss00618	Perm2	Amino acid/metabolite permease in hypothetical Actinobacterial gene cluster

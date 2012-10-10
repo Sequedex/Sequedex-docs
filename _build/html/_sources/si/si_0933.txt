@@ -1,0 +1,2 @@
+ss00951	MR	Mercuric reductase (EC 1.16.1.1)
+ss00951	MIR	Mercuric ion reductase (EC:1.16.1.1)

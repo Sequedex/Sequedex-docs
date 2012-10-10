@@ -2,14 +2,12 @@
 Introduction to Sequedex
 *************************************
 
-Sequedex has a public repository, wiki, and mailing list on GitHub at http://github.com/joelb123/Sequedex.  In the repository will be placed analysis scripts, documentation, and results of Sequedex runs on other data sets that you may compare your data to.  Sequedex users should check the site from time to time.  The html version of the documentations contains numerous web links and downloadable files.
-
 ====================
 What is Sequedex?
 ====================
 Sequedex is a software package for genomic analysis that was developed by an interdisciplinary team of scientists at Los Alamos National Laboratory with funding from the Laboratory-Directed Research and Development (LDRD) program.  It is currently available for use with a free two month demo license from the Technology Transfer Division of Los Alamos National Laboratory at http://sequedex.lanl.gov.  The software is under active development, and information about future releases will be made available at this website, and by an email distribution to the list of users downloading the software.  A publication describing the method behind Sequedex, its underlying scientific basis in evolutionary theory and protein structure, its validation on synthetic metagenomic data, and its application to ten soil metagenomics datasets has been published. [#i1]_  It was a recepient of a 2012 R&D 100 award. [#i2]_ 
 
-Sequedex currently produces phylogenetic and functional profiles of genomic and metagenomic data.  In the near future, additional functionality will be offered, including an SQLite database of classified reads that can later be filtered and extracted to a FASTA file and a more complete set of analysis scripts.
+Sequedex has a public repository, wiki, and mailing list on GitHub at http://github.com/joelb123/Sequedex.  In the repository will be placed analysis scripts, documentation, and results of Sequedex runs on other data sets that you may compare your data to.  Sequedex users should check the site from time to time.  The html version of the documentations contains numerous web links and downloadable files.
 
 ======================
 What does Sequedex do?
@@ -151,7 +149,7 @@ of the papers describing them.  Contact the authors if you have unique
 access to data that could make use of the broader databases and if you
 are interested in collaborating on the initial papers.
 
-.. [#i1] Berendzen, J., WJ Bruno, JD Cohn, NW Hengartner, CR Kuske, BH McMahon, MA Wolinsky, G Xie, "Rapid phylogenetic and functional classification of short genomic fragments with signature Peptides", BMC Research Notes, August, 2012
+.. [#i1] Berendzen, J., WJ Bruno, JD Cohn, NW Hengartner, CR Kuske, BH McMahon, MA Wolinsky, G Xie, "Rapid phylogenetic and functional classification of short genomic fragments with signature Peptides", BMC Research Notes, August, 2012 (http://www.biomedcentral.com/1756-0500/5/460/abstract)
 
 .. [#i2] http://www.rdmag.com/Awards/Rd-100-Awards/2012/08/DNA-Defined-By-Ancestry/
 

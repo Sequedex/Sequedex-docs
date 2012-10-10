@@ -1,0 +1,3 @@
+ss00477	R1	Putative Isoquinoline 1-oxidoreductase subunit, Mll3835 protein
+ss00477	R2	Isoquinoline 1-oxidoreductase alpha subunit (EC 1.3.99.16)
+ss00477	R3	Isoquinoline 1-oxidoreductase beta subunit (EC 1.3.99.16)

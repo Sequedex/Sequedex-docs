@@ -1,0 +1,2 @@
+ss00517	R1	Transcription accessory protein (S1 RNA-binding domain)
+ss00517	R2	Putative metallopeptidase (Zinc) SprT family

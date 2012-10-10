@@ -1,0 +1,10 @@
+ss00512	GCYHI1	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+ss00512	PTPS	6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+ss00512	SPR	Sepiapterin reductase (EC 1.1.1.153)
+ss00512	DPR	Dihydropteridine reductase (EC 1.5.1.34)
+ss00512	PAH	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+ss00512	PCD	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+ss00512	BGluT	UDP-glucose:tetrahydrobiopterin glucosyltransferase [EC:2.4.1.-]
+ss00512	GluT2	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family
+ss00512	AKR1B1	Aldo-keto reductase family 1 member B10 (EC 1.1.1.-)
+ss00512	AKR1C3	Aldo-keto reductase family 1, member C3 (EC 1.1.1.-)

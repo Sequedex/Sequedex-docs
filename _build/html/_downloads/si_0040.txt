@@ -1,0 +1,27 @@
+ss00224	LDC	Lysine decarboxylase (EC 4.1.1.18)
+ss00224	LDC2	Lysine decarboxylase 2, constitutive (EC 4.1.1.18)
+ss00224	CadA	Lysine decarboxylase, inducible (EC 4.1.1.18)
+ss00224	CadB	Lysine/cadaverine antiporter membrane protein CadB
+ss00224	CadC	Transcriptional activator of cad operon
+ss00224	DavB	Lysine 2-monooxygenase (EC 1.13.12.2)
+ss00224	DavA	5-aminopentanamidase (EC 3.5.1.30)
+ss00224	DavT	5-aminovalerate aminotransferase (EC 2.6.1.48)
+ss00224	DavD	Glutarate-semialdehyde dehydrogenase (EC 1.2.1.20)
+ss00224	LD_rac	Lysine racemase (EC 5.1.1.5)
+ss00224	Dat	D-alanine transaminase (EC 2.6.1.21)
+ss00224	DpkA	Delta 1-piperideine-2-carboxylate reductase (EC 1.5.1.21)
+ss00224	AmaB	L-pipecolate dehydrogenase (EC 1.5.99.3)
+ss00224	AmaA	L-pipecolate oxidase (1.5.3.7)
+ss00224	LLP	L-lysine permease
+ss00224	KamA	Lysine 2,3-aminomutase (EC 5.4.3.2)
+ss00224	KamD	L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3)
+ss00224	KamE	L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3)
+ss00224	Lys1	Saccharopine dehydrogenase [NAD+, L-lysine-forming] (EC 1.5.1.7)
+ss00224	Lys9	Saccharopine dehydrogenase [NADP , L-glutamate-forming] (EC 1.5.1.10)
+ss00224	LKR	Lysine ketoglutarate reductase (EC 1.5.1.8) (LOR) (LKR)
+ss00224	SD	Saccharopine dehydrogenase (EC 1.5.1.9)
+ss00224	Lys2	L-aminoadipate-semialdehyde dehydrogenase large subunit (EC 1.2.1.31)
+ss00224	Lys5	L-aminoadipate-semialdehyde dehydrogenase small subunit (EC 1.2.1.31)
+ss00224	OprD	Outer membrane porin, OprD family
+ss00224	bLAT	Beta-lysine acetyltransferase (EC 2.3.1.-)
+ss00224	amR	L-lysine aminomutase regulator

@@ -1,0 +1,11 @@
+ss00584	STEP	Estrogen sulfotransferase (EC 2.8.2.4)
+ss00584	HSST	Hydroxysteroid sulfotransferase 2
+ss00584	DST	Dehydroepiandrosterone sulfotransferase
+ss00584	SS	Steryl-sulfatase precursor (EC 3.1.6.2)
+ss00584	ST2A	sulfotransferase family, cytosolic, 2A, dehydroepiandrosterone-preferring
+ss00584	ST2B	sulfotransferase family, cytosolic, 2B
+ss00584	AS	3-beta-hydroxysteroid sulfotransferase (Alcohol sulfotransferase) (Pregnenolone sulfotransferase) (Hydroxysteroid sulfotransferase 2) (HST2)
+ss00584	AST	Alcohol sulfotransferase (EC 2.8.2.2)
+ss00584	SULT2B1a	Hydroxysteroid sulfotransferase SULT2B1a (EC 2.8.2.2)
+ss00584	SULT2B	Hydroxysteroid sulfotransferase SULT2B
+ss00584	ARS	Arylsulfatase (EC 3.1.6.1)

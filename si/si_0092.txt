@@ -1,0 +1,28 @@
+ss00060	ALS_g	Acetolactate synthase large subunit (EC 2.2.1.6)
+ss00060	ALS_s	Acetolactate synthase small subunit (EC 2.2.1.6)
+ss00060	ALS_s2	Acetolactate synthase small subunit (EC 2.2.1.6), predicted
+ss00060	ALS_s3	Acetolactate synthase small subunit (EC 2.2.1.6), predicted, Archaeal type
+ss00060	ALS_s4	Acetolactate synthase small subunit (EC 2.2.1.6), predicted, Archaeal type 2
+ss00060	ALS_s5	Acetolactate synthase small subunit (EC 2.2.1.6), Xanthomonadales type
+ss00060	ALS_c	Acetolactate synthase, catabolic (EC 2.2.1.6)
+ss00060	ALDC	Alpha-acetolactate decarboxylase (EC 4.1.1.5)
+ss00060	alsR	Transcriptional regulator of alpha-acetolactate operon AlsR
+ss00060	R-BDH	2,3-butanediol dehydrogenase, R-alcohol forming, (R)- and (S)-acetoin-specific (EC 1.1.1.4)
+ss00060	m-BDH	2,3-butanediol dehydrogenase, S-alcohol forming, (R)-acetoin-specific (EC 1.1.1.4)
+ss00060	S-BDH	2,3-butanediol dehydrogenase, S-alcohol forming, (S)-acetoin-specific (EC 1.1.1.76)
+ss00060	A(D)R	Acetoin (diacetyl) reductase (EC 1.1.1.5)
+ss00060	ADH-E1a	Acetoin dehydrogenase E1 component alpha-subunit (EC 1.2.4.-)
+ss00060	ADH-E1b	Acetoin dehydrogenase E1 component beta-subunit (EC 1.2.4.-)
+ss00060	ADH-E2	Dihydrolipoamide acetyltransferase component (E2) of acetoin dehydrogenase complex (EC 2.3.1.-)
+ss00060	ADH-E3	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase (EC 1.8.1.4)
+ss00060	AcoR	Transcriptional activator of acetoin dehydrogenase operon AcoR
+ss00060	AcoX	Acetoin catabolism protein X
+ss00060	Hyp1	Short-chain alcohol dehydrogenase associated with acetoin utilization
+ss00060	TPP1	TPP-requiring enzyme co-localized with fatty acid metabolic genes
+ss00060	TPP2	TPP-requiring enzyme co-localized with putative O-antigen rfb gene cluster
+ss00060	TPP3	COG0028: Thiamine pyrophosphate-requiring enzymes
+ss00060	TPP4	Acetohydroxy acid synthase
+ss00060	CDPglDH	Similar to CDP-glucose 4,6-dehydratase (EC 4.2.1.45)
+ss00060	G1CDT	Glucose-1-phosphate cytidylyltransferase (EC 2.7.7.33)
+ss00060	4_6GDH	CDP-4-dehydro-6-deoxy-D-glucose 3-dehydratase (EC 4.2.1.-)
+ss00060	AR	Acetoin racemase (EC 5.1.2.4)

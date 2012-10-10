@@ -1,0 +1,10 @@
+ss00910	R1	FIG034458: Plasmid related protein
+ss00910	R2	FIG034376: Hypothetical protein
+ss00910	R3	FIG049434: Periplasmic protein TonB, links inner and outer membranes
+ss00910	R4	Superfamily II DNA/RNA helicases, SNF2 family
+ss00910	R5	FIG068798: Hypothetical protein
+ss00910	R6	FIG076676: Hypothetical protein
+ss00910	R7	FIG046709: Hypothetical protein
+ss00910	R8	FIG076210: Hypothetical protein
+ss00910	R9	FIG041301: Hypothetical protein
+ss00910	R10	FIG036757: Plasmid-related protein

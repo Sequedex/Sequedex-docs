@@ -1,0 +1,15 @@
+ss00088	GTPch2	GTP cyclohydrolase II (EC 3.5.4.25)
+ss00088	moeA	Molybdopterin biosynthesis protein A
+ss00088	moeB	Molybdopterin biosynthesis protein B
+ss00088	moaA	Molybdenum cofactor biosynthesis protein A
+ss00088	moaB	Molybdenum cofactor biosynthesis protein B
+ss00088	moaC	Molybdenum cofactor biosynthesis protein C
+ss00088	moaD	Molybdenum cofactor biosynthesis protein D
+ss00088	moaE	Molybdenum cofactor biosynthesis protein E
+ss00088	mobA	Molybdopterin-guanine dinucleotide biosynthesis protein A
+ss00088	mobB	Molybdopterin-guanine dinucleotide biosynthesis protein B
+ss00088	modA	Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1)
+ss00088	modB	Molybdenum transport system permease protein ModB (TC 3.A.1.8.1)
+ss00088	modC	Molybdenum transport ATP-binding protein ModC (TC 3.A.1.8.1)
+ss00088	mogA	Molybdopterin biosynthesis Mog protein, molybdochelatase
+ss00088	moaBco	Protein co-occuring with molybdenum cofactor biosynthesis protein B

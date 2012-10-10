@@ -1,0 +1,11 @@
+ss01081	RecF	DNA recombination and repair protein RecF
+ss01081	RecO	DNA recombination and repair protein RecO
+ss01081	RecR	Recombination protein RecR
+ss01081	RecQ	ATP-dependent DNA helicase RecQ
+ss01081	RecQ-f	ATP-dependent DNA helicase, RecQ family
+ss01081	RecJ	Single-stranded-DNA-specific exonuclease recJ (EC 3.1.-.-)
+ss01081	RecJ-cy	Single-stranded-DNA-specific exonuclease recJ, cyanobacterial paralog
+ss01081	RecJ-cl	Single-stranded-DNA-specific exonuclease recJ, clostridial paralog
+ss01081	RecJ-p	Single-stranded-DNA-specific exonuclease recJ, Bacteriophage SPBc2-type
+ss01081	Ssb	Single-stranded DNA-binding protein
+ss01081	RecA	RecA protein

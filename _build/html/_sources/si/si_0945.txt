@@ -1,0 +1,5 @@
+ss00045	parC	Topoisomerase IV subunit A (EC 5.99.1.-)
+ss00045	parE	Topoisomerase IV subunit B (EC 5.99.1.-)
+ss00045	gyrA	DNA gyrase subunit A (EC 5.99.1.3)
+ss00045	gyrB	DNA gyrase subunit B (EC 5.99.1.3)
+ss00045	Lde	Efflux pump Lde

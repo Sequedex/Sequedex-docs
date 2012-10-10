@@ -1,0 +1,78 @@
+ss00940	NikQ	Transmembrane component NikQ of energizing module of nickel ECF transporter
+ss00940	NikO	ATPase component NikO of energizing module of nickel ECF transporter
+ss00940	NikM	Substrate-specific component NikM of nickel ECF transporter
+ss00940	CbiQ	Transmembrane component CbiQ of energizing module of cobalt ECF transporter
+ss00940	CbiO	ATPase component CbiO of energizing module of cobalt ECF transporter
+ss00940	CbiM	Substrate-specific component CbiM of cobalt ECF transporter
+ss00940	BioN	Transmembrane component BioN of energizing module of biotin ECF transporter
+ss00940	BioM	ATPase component BioM of energizing module of biotin ECF transporter
+ss00940	BioY	Substrate-specific component BioY of biotin ECF transporter
+ss00940	MtsC	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+ss00940	MtsB	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+ss00940	MtsA	Substrate-specific component MtsA of methionine-regulated ECF transporter
+ss00940	YkoC	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+ss00940	YkoD	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+ss00940	YkoE	Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+ss00940	ECFp	Transmembrane component of general energizing module of ECF transporters
+ss00940	ECFa	ATPase component of general energizing module of ECF transporters
+ss00940	RibU	Substrate-specific component RibU of riboflavin ECF transporter
+ss00940	ThiT	Substrate-specific component ThiT of thiamin ECF transporter
+ss00940	PanT	Substrate-specific component PanT of predicted pantothenate ECF transporter
+ss00940	FolT	Substrate-specific component FolT of folate ECF transporter
+ss00940	TrpP	Substrate-specific component TrpP of tryptophan ECF transporter
+ss00940	BL0695	Substrate-specific component BL0695 of predicted ECF transporter
+ss00940	CbrT	Substrate-specific component CbrT of predicted cobalamin ECF transporter
+ss00940	STY3230	Substrate-specific component STY3230 of queuosine-regulated ECF transporter
+ss00940	CblT	Substrate-specific component CblT of predicted B12-regulated ECF transporter for dimethylbenzimidazole
+ss00940	PdxU2	Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter
+ss00940	QueT	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+ss00940	CbrU	Duplicated ATPase component CbrU of energizing module of predicted cobalamin ECF transporter
+ss00940	CbrV	Transmembrane component CbrV of energizing module of predicted cobalamin ECF transporter
+ss00940	NiaX	Substrate-specific component NiaX of predicted niacin ECF transporter
+ss00940	PdxU	Substrate-specific component PdxU of predicted pyridoxine ECF transporter
+ss00940	STY3231	Transmembrane component STY3231 of energizing module of queuosine-regulated ECF transporter
+ss00940	STY3232	ATPase component STY3232 of energizing module of queuosine-regulated ECF transporter
+ss00940	STY3233	ATPase component STY3233 of energizing module of queuosine-regulated ECF transporter
+ss00940	BL0694	Transmembrane component BL0694 of energizing module of predicted ECF transporter
+ss00940	BL0693	Duplicated ATPase component BL0693 of energizing module of predicted ECF transporter
+ss00940	TTE1586	Substrate-specific component TTE1586 of predicted methylthioadenosine ECF transporter
+ss00940	CbiN	Additional substrate-specific component CbiN of cobalt ECF transporter
+ss00940	NikN	Additional substrate-specific component NikN of nickel ECF transporter
+ss00940	ST1137	Substrate-specific component ST1137 of predicted ECF transporter
+ss00940	LipT	Substrate-specific component PAM0308 of predicted lipoate ECF transporter
+ss00940	S_Myc	Candidate substrate-specific domain of ECF transporters in Mycobacteria
+ss00940	MTH452	Substrate-specific component MTH452 of predicted ECF transporter
+ss00940	TTE1588	Transmembrane component TTE1588 of energizing module of predicted methylthioadenosine ECF transporter
+ss00940	TTE1589	Duplicated ATPase component TTE1589 of energizing module of predicted methylthioadenosine ECF transporter
+ss00940	SS1136	Duplicated ATPase component SS1136 of energizing module of predicted ECF transporter
+ss00940	SS1135	Transmembrane component SS1135 of energizing module of predicted ECF transporter
+ss00940	MTH453	Transmembrane component MTH453 of energizing module of predicted ECF transporter
+ss00940	MTH454	Duplicated ATPase component MTH454 of energizing module of predicted ECF transporter
+ss00940	TrpP_T	Transmembrane component of energizing module of predicted tryptophan ECF transporter
+ss00940	TrpP_A	Duplicated ATPase component of energizing module of predicted tryptophan ECF transporter
+ss00940	T_Myc	Transmembrane component of energizing module of ECF transporters in Mycobacteria
+ss00940	A_Myc	Duplicated ATPase component of energizing module of predicted ECF transporter in Mycobacteria
+ss00940	RibUa	Duplicated ATPase component of energizing module of riboflavin ECF transporter
+ss00940	RibUt	Transmembrane component of energizing module of riboflavin ECF transporter
+ss00940	PdxUt	Transmembrane component of energizing module of predicted pyridoxine-related ECF transporter
+ss00940	PdxUa	Duplicated ATPase component of energizing module of predicted pyridoxine-related ECF transporter
+ss00940	PanTt	Transmembrane component of energizing module of predicted pantothenate ECF transporter
+ss00940	PanTa	ATPase component of energizing module of predicted pantothenate ECF transporter
+ss00940	CblTt	Transmembrane component of energizing module of predicted B12-regulated ECF transporter for dimethylbenzimidazole
+ss00940	CblTa	Duplicated ATPase component of energizing module of predicted B12-regulated ECF transporter for dimethylbenzimidazole
+ss00940	Cyano_T	Transmembrane component of energizing module of ECF transporters in Cyanobacteria
+ss00940	glr2052	Substrate-specific component glr2052 of predicted ECF transporter
+ss00940	glr2053	Transmembrane component glr2053 of energizing module of predicted ECF transporter
+ss00940	glr2054	Duplicated ATPase component glr2054 of energizing module of predicted ECF transporter
+ss00940	Kcr_0335	Substrate-specific component Kcr_0335 of predicted ECF transporter
+ss00940	Kcr_0336	Duplicated ATPase component Kcr_0336 of energizing module of predicted ECF transporter
+ss00940	Kcr_0337	Transmembrane component Kcr_0337 of energizing module of predicted ECF transporter
+ss00940	QueTt	Transmembrane component of energizing module of predicted queuosine-regulated ECF transporter
+ss00940	QueTa	ATPase component of energizing module of predicted queuosine-regulated ECF transporter
+ss00940	ThiW	Substrate-specific component ThiW of predicted thiazole ECF transporter
+ss00940	ThiWa2	Duplicated ATPase component of energizing module of predicted thiazole ECF transporter
+ss00940	ThiWt	Transmembrane component of energizing module of predicted thiazole ECF transporter
+ss00940	ThiWa1	ATPase component of energizing module of predicted thiazole ECF transporter
+ss00940	Cce_1529	Substrate-specific component Cce_1529 of predicted ECF transporter
+ss00940	Cce_1530	Duplicated ATPase component Cce_1530 of energizing module of predicted ECF transporter
+ss00940	Cce_1531	Transmembrane component Cce_1531 of energizing module of predicted ECF transporter

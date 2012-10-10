@@ -1,0 +1,4 @@
+ss00982	mS-Asp	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase
+ss00982	ms-i(6)A37	tRNA-i(6)A37 methylthiotransferase
+ss00982	MiaB-fam	MiaB family protein, possibly involved in tRNA or rRNA modification
+ss00982	ms2t6A	tRNA N6-threonylcarbamoyladenosine 2-methylthiotransferase (putative)

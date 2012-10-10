@@ -1,0 +1,12 @@
+ss00986	tviA	Vi polysaccharide biosynthesis protein tviA
+ss00986	tviB	Vi polysaccharide biosynthesis protein tviB
+ss00986	tviC	Vi polysaccharide biosynthesis protein tviC
+ss00986	tviD	Vi polysaccharide biosynthesis protein tviD
+ss00986	insA	Insertion element IS1 protein insA
+ss00986	insB	Insertion element IS1 protein insB
+ss00986	tviE	Vi polysaccharide biosynthesis protein tviE
+ss00986	vexA	Vi polysaccharide export protein vexA
+ss00986	vexB	Vi polysaccharide export inner-membrane protein vexB
+ss00986	vexC	Vi polysaccharide export ATP-binding protein vexC
+ss00986	vexD	Vi polysaccharide export inner-membrane protein vexD
+ss00986	vexE	Vi polysaccharide export protein vexE

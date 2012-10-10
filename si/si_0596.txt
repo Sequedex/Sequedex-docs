@@ -1,0 +1,12 @@
+ss00152	HMP	Flavohemoprotein
+ss00152	HCP	Hydroxylamine reductase (EC 1.7.-.-)
+ss00152	HCR	NADH oxidoreductase hcr (EC 1.-.-.-)
+ss00152	FrdX	Ferredoxin 3 fused to uncharacterized domain
+ss00152	NorV	Anaerobic nitric oxide reductase flavorubredoxin
+ss00152	NorW	Nitric oxide reductase FlRd-NAD(+) reductase (EC 1.18.1.-)
+ss00152	qNor	Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent
+ss00152	DnrN	Nitric oxide-dependent regulator DnrN or NorA
+ss00152	NnrS	NnrS protein involved in response to NO
+ss00152	NsrR	Nitrite-sensitive transcriptional repressor NsrR
+ss00152	NorR	Functional role page for Anaerobic nitric oxide reductase transcription regulator NorR
+ss00152	HcpR	Hcp transcriptional regulator HcpR (Crp/Fnr family)

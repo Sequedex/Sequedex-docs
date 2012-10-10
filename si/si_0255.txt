@@ -1,0 +1,2 @@
+ss00847	R1	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+ss00847	R2	Hypothetical protein probably associated with Carbamoyl-phosphate synthase

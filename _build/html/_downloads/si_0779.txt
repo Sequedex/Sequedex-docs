@@ -1,0 +1,34 @@
+ss00702	AtoS	Sensory histidine kinase AtoS
+ss00702	AtoC	Acetoacetate metabolism regulatory protein AtoC
+ss00702	BarA	BarA sensory histidine kinase (= VarS = GacS)
+ss00702	UvrY	BarA-associated response regulator UvrY (= GacA = SirA)
+ss00702	GcvA	Glycine cleavage system transcriptional activator GcvA
+ss00702	GcvZ	Glycine cleavage system transcriptional activator
+ss00702	GcvR	Glycine cleavage system transcriptional antiactivator GcvR
+ss00702	TfoX	DNA transformation protein TfoX
+ss00702	BaeS	Envelope stress sensory histidine kinase BaeS
+ss00702	BaeR	Envelope stress response regulator BaeR
+ss00702	BasS	Sensor protein basS/pmrB (EC 2.7.3.-)
+ss00702	BasR	Transcriptional regulatory protein basR/pmrA
+ss00702	CitA	Sensor kinase CitA, DpiB (EC 2.7.3.-)
+ss00702	CitB	Transcriptional regulatory protein CitB, DpiA
+ss00702	CpxA	Copper sensory histidine kinase CpxA
+ss00702	CpxR	Copper-sensing two-component system response regulator CpxR
+ss00702	CreB	Sensory histidine kinase CreB
+ss00702	CreC	Two-component system response regulator CreC
+ss00702	CusS	Copper sensory histidine kinase CusS
+ss00702	CusR	Copper-sensing two-component system response regulator CusR
+ss00702	EvgA	Positive transcription regulator EvgA
+ss00702	EvgS	Hybrid sensory histidine kinase in two-component regulatory system with EvgA
+ss00702	FixL	Two-component oxygen-sensor histidine kinase FixL
+ss00702	FixJ	Two-component nitrogen fixation transcriptional regulator FixJ
+ss00702	PleC	Two-component sensor histidine kinase PleC
+ss00702	QseC	Sensory histidine kinase QseC
+ss00702	QseB	Two-component system response regulator QseB
+ss00702	RstA	Transcriptional regulatory protein RstA
+ss00702	RstB	Sensory histidine kinase in two-component regulatory system with RstA
+ss00702	YeaJ	Putative two-component response regulator and GGDEF family protein YeaJ
+ss00702	YfhA	Putative sensory histidine kinase YfhA
+ss00702	YfhK	Putative sensor-like histidine kinase YfhK
+ss00702	YedV	Putative two component system histidine kinase YedV
+ss00702	YedW	Putative two-component system response regulator YedW

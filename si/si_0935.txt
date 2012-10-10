@@ -1,0 +1,31 @@
+ss01058	Tnp	Transposase for insertion sequence-like element IS431mec
+ss01058	MecA	Penicillin-binding protein PBP2a, methicillin resistance determinant MecA, transpeptidase
+ss01058	PBP1	Penicillin-binding protein 1A/1B (PBP1)
+ss01058	PBP4	Penicillin binding protein PBP4
+ss01058	FmhB	tRNA-dependent lipid II--glycine ligase (FmhB)
+ss01058	FemA	FemA, factor essential for methicillin resistance
+ss01058	FemB	FemB, factor involved in methicillin resistance
+ss01058	FemC	FemC, factor involved in methicillin resistance
+ss01058	FemD	FemD, factor involved in methicillin resistance
+ss01058	LytH	LytH protein involved in methicillin resistance
+ss01058	HmrA	HmrA protein involved in methicillin resistance
+ss01058	HmrB	HmrB protein involved in methicillin resistance
+ss01058	MurE	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+ss01058	MurF	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+ss01058	Llm	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
+ss01058	FmtA	FmtA protein involved in methicillin resistance
+ss01058	FmtB	FmtB (Mrp) protein involved in methicillin resistance and cell wall biosynthesis
+ss01058	FmtC	FmtC (MrpF) protein involved in methicillin resistance
+ss01058	FmhA	FmhA protein of FemAB family
+ss01058	FmhC	FmhC protein of FemAB family
+ss01058	dltA	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+ss01058	dltB	D-alanyl transfer protein DltB
+ss01058	dltC	D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)
+ss01058	dltD	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+ss01058	SigB	RNA polymerase sigma factor SigB
+ss01058	MecR1	Methicillin resistance regulatory sensor-transducer MecR1
+ss01058	MecR1-t	Methicillin resistance regulatory sensor-transducer MecR1, truncated
+ss01058	MecI	Methicillin resistance repressor MecI
+ss01058	BlaR1	Beta-lactamase regulatory sensor-transducer BlaR1
+ss01058	BlaI	Beta-lactamase repressor BlaI
+ss01058	SA1665	HTH domain protein SA1665, binds to mecA promoter region

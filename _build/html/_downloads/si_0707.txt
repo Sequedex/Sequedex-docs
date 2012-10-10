@@ -1,0 +1,10 @@
+ss00718	DnaJ	Chaperone protein DnaJ
+ss00718	CbpA	DnaJ-class molecular chaperone CbpA
+ss00718	DnaK	Chaperone protein DnaK
+ss00718	HspR	HspR, transcriptional repressor of DnaK operon
+ss00718	GrpE	Heat shock protein GrpE
+ss00718	HscA	Chaperone protein HscA
+ss00718	HscB	Chaperone protein HscB
+ss00718	HtpG	Chaperone protein HtpG
+ss00718	CbpM	Chaperone-modulator protein CbpM
+ss00718	ClpB	ClpB protein

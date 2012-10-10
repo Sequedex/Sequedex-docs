@@ -1,0 +1,9 @@
+ss00435	LdpA	Light dependent period modulator LdpA
+ss00435	CikA	Circadian input kinase A
+ss00435	Pex	Circadian period extender Pex
+ss00435	KaiA	Circadian clock protein KaiA
+ss00435	KaiB	Circadian oscillation regulator KaiB
+ss00435	KaiC	Circadian clock protein KaiC
+ss00435	SasA	Clock-associated two-component sensor histidine kinase SasA
+ss00435	CPM	Circadian phase modifier
+ss00435	PSF	Group 2 RNA polymerase sigma factor

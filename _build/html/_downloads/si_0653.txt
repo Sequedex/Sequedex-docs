@@ -1,0 +1,4 @@
+ss00916	KtrA	Potassium uptake protein, integral membrane component, KtrA
+ss00916	KtrB	Potassium uptake protein, integral membrane component, KtrB
+ss00916	KtrC	Potassium uptake protein, integral membrane component, KtrC
+ss00916	KtrD	Potassium uptake protein, integral membrane component, KtrD

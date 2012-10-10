@@ -1,0 +1,17 @@
+ss00269	SsuA	Alkanesulfonates-binding protein
+ss00269	SsuD	Alkanesulfonate monooxygenase (EC 1.14.14.5)
+ss00269	SsuB	Alkanesulfonates ABC transporter ATP-binding protein
+ss00269	SsuF	Organosulfonate utilization protein SsuF
+ss00269	SsuE	FMN reductase (EC 1.5.1.29)
+ss00269	SSuC	Alkanesulfonates transport system permease protein
+ss00269	SO	sulfonate monooxygenase
+ss00269	DDE	probable dibenzothiophene desulfurization enzyme
+ss00269	Pc	ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+ss00269	Ac	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+ss00269	Prc	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+ss00269	DDEB	Dibenzothiophene desulfurization enzyme B
+ss00269	AS	Arylsulfatase (EC 3.1.6.1)
+ss00269	ASR	Putative arylsulfatase regulatory protein
+ss00269	astR	Sulfate ester binding protein
+ss00269	atsK	Putative alkylsulfatase (EC 1.14.11.17)
+ss00269	TD	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)

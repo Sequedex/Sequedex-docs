@@ -1,0 +1,12 @@
+ss00146	SrtA	Sortase A, LPXTG specific
+ss00146	SrtA1	LPXTG specific sortase A
+ss00146	SrtB1	NPQTN specific sortase B
+ss00146	SrtB	Sortase B, NPQTN specific
+ss00146	SrtC	Sortase C, subfamily 3, QVPTGV specific
+ss00146	Srt4	Sortase, subfamily 4, LPXTA(ST) specific
+ss00146	Srt5	Sortase, subfamily 5
+ss00146	Srt6	Sortase, subfamily 6 (gram-negative)
+ss00146	AP	Cell wall surface anchor family protein
+ss00146	AP_FP	Cell wall surface anchor family protein, FPXTG motif
+ss00146	IsdA	Cell surface protein IsdA, transfers heme from hemoglobin to apo-IsdC
+ss00146	AP_LP	Cell wall surface anchor family protein, LPXTG motif

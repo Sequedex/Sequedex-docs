@@ -1,0 +1,5 @@
+ss00703	HPPD	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+ss00703	HPT	Homogentisate prenyltransferase
+ss00703	MSBM	2-methyl-6-solanyl-1,4-benzoquinone methyltransferase
+ss00703	slr1737	Tocopherol cyclase (EC 5.-.-.-)
+ss00703	TMT	Gamma-tocopherol C-methyltransferase (EC 2.1.1.95)

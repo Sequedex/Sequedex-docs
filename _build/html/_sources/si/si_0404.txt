@@ -1,0 +1,10 @@
+ss00531	UvrA	Excinuclease ABC subunit A
+ss00531	UvrA-dimer	Excinuclease ABC subunit A, dimeric form
+ss00531	UvrB	Excinuclease ABC subunit B
+ss00531	UvrC	Excinuclease ABC subunit C
+ss00531	UvrC'	Excinuclease cho (excinuclease ABC alternative C subunit)
+ss00531	UvrA-BFC	Excinuclease ABC subunit A paralog in greater Bacteroides group
+ss00531	UvrA-para	Excinuclease ABC subunit A paralog of unknown function
+ss00531	UvrA-dom	Excinuclease ABC subunit A domain protein
+ss00531	UvrC''	Excinuclease ABC subunit C domain protein
+ss00531	UvrC'''	Excinuclease ABC, C subunit-like

@@ -1,0 +1,12 @@
+ss00698	GrdE-C	Glycine reductase component B alpha subunit (EC 1.21.4.2)
+ss00698	GrdE-N	Glycine reductase component B beta subunit (EC 1.21.4.2)
+ss00698	GrdB	Glycine reductase component B gamma subunit (EC 1.21.4.2)
+ss00698	GrdG	Sarcosine reductase component B alpha subunit (EC 1.21.4.3)
+ss00698	GrdF	Sarcosine reductase component B beta subunit (EC 1.21.4.3)
+ss00698	GrdI	Betaine reductase component B alpha subunit (EC 1.21.4.4)
+ss00698	GrdH	Betaine reductase component B beta subunit (EC 1.21.4.4)
+ss00698	GrdA	Glycine/sarcosine/betaine reductase protein A
+ss00698	GrdC	Glycine/sarcosine/betaine reductase component C chain 1
+ss00698	GrdD	Glycine/sarcosine/betaine reductase component C chain 2
+ss00698	TrxA	Thioredoxin
+ss00698	TrxB	Thioredoxin reductase (EC 1.8.1.9)

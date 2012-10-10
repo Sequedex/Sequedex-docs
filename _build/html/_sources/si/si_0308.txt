@@ -1,0 +1,4 @@
+ss00352	R1	Alpha-2-macroglobulin
+ss00352	PBP-1C	Penicillin-insensitive transglycosylase (EC 2.4.2.-) & transpeptidase PBP-1C
+ss00352	R3	Protein SseB
+ss00352	R4	Thiosulfate sulfurtransferase, rhodanase (EC 2.8.1.1)

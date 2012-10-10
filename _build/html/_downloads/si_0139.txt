@@ -1,0 +1,28 @@
+ss00055	EutS	Ethanolamine utilization polyhedral-body-like protein EutS
+ss00055	EutP	Ethanolamine utilization protein EutP
+ss00055	EutQ	Ethanolamine utilization protein EutQ
+ss00055	PduL-like	Ethanolamine utilization protein similar to PduL
+ss00055	PduT-like	Ethanolamine utilization protein similar to PduT
+ss00055	PduU-like	Ethanolamine utilization protein similar to PduU
+ss00055	PduV-like	Ethanolamine utilization protein similar to PduV
+ss00055	PduA-like	Ethanolamine utilization protein similar to PduA/PduJ
+ss00055	EutT	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), ethanolamine utilization
+ss00055	EutD	Phosphate acetyltransferase (EC 2.3.1.8), ethanolamine utilization-specific
+ss00055	EutM	Ethanolamine utilization polyhedral-body-like protein EutM
+ss00055	EutN	Ethanolamine utilization polyhedral-body-like protein EutN
+ss00055	EutE	Acetaldehyde dehydrogenase (acetylating) (EC 1.2.1.10)
+ss00055	EutE-like	Acetaldehyde dehydrogenase, ethanolamine utilization cluster
+ss00055	EutJ	Ethanolamine utilization protein EutJ
+ss00055	EutG	Ethanolamine utilization protein EutG
+ss00055	EutH	Ethanolamine permease
+ss00055	EutA	Ethanolamine utilization protein EutA
+ss00055	EutB	Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)
+ss00055	EutC	Ethanolamine ammonia-lyase light chain (EC 4.3.1.7)
+ss00055	EutL	Ethanolamine utilization polyhedral-body-like protein EutL
+ss00055	EutK	Ethanolamine utilization polyhedral-body-like protein EutK
+ss00055	EutR	Ethanolamine operon regulatory protein
+ss00055	HisKinase	Ethanolamine sensory transduction histidine kinase
+ss00055	RespReg	Ethanolamine two-component response regulator
+ss00055	clustered	Protein clustered with ethanolamine utilization
+ss00055	EutD*	Phosphate acetyltransferase (EC 2.3.1.8)
+ss00055	AcKinase	Acetate kinase (EC 2.7.2.1)

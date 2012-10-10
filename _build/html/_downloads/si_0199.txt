@@ -1,0 +1,4 @@
+ss00177	DltB	D-alanyl transfer protein DltB
+ss00177	DltD	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+ss00177	DltC1	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+ss00177	DltC2	D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)

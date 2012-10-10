@@ -1,0 +1,10 @@
+ss00019	R1	Methylamine dehydrogenase light chain precursor (EC 1.4.99.3)
+ss00019	R2	Methylamine dehydrogenase heavy chain precursor (EC 1.4.99.3)
+ss00019	R3	Methylamine utilization protein MauD
+ss00019	R5	Aldehyde dehydrogenase in Methylamine utilization cluster
+ss00019	R11	Cytochrome c in methylamine utilization cluster
+ss00019	R6	Methylamine utilization protein MauE
+ss00019	R7	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain
+ss00019	R8	PlcB, ORFX, ORFP, ORFB, ORFA, ldh gene
+ss00019	R9	Methylamine operon regulatory protein
+ss00019	R10	Bacillolysin (EC 3.4.24.28)

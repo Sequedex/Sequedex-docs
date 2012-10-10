@@ -1,0 +1,7 @@
+ss00067	PseB	UDP-GlcNAc-specific C4,6 dehydratase/C5 epimerase (PseB, first step of pseudaminic acid biosynthesis)
+ss00067	PseC	C4 aminotransferase specific for PseB product (PseC, second step of pseudaminic acid biosynthesis)
+ss00067	PseG	UDP-6-deoxy-AltdiNAc hydrolase (PseG, third step of pseudaminic acid biosynthesis)
+ss00067	PseI	Pseudaminic acid synthase (EC 4.1.3.-)
+ss00067	PseA	Pseudaminic acid biosynthesis protein PseA, possible Pse5Ac7Ac acetamidino synthase
+ss00067	PseH	N-Acetyltransferase PseH involved in the biosynthesis of pseudaminic acid
+ss00067	PseF	Pseudaminic acid cytidylyltransferase (EC 2.7.7.43)

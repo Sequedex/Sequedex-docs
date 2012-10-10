@@ -1,0 +1,9 @@
+ss00186	iorA	Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)
+ss00186	iorB	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+ss00186	paaK	Phenylacetate-coenzyme A ligase (EC 6.2.1.30)
+ss00186	aaACT	Amino acid-binding ACT
+ss00186	iorAB	Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits
+ss00186	iorB2	Indolepyruvate oxidoreductase subunit IorB II (EC 1.2.7.8)
+ss00186	ACTL	ACT-domain-containing protein, predicted allosteric regulator of homoserine dehydrogenase
+ss00186	IPFOL	Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits like
+ss00186	iorAL	Indolepyruvate oxidoreductase subunit IorA-like (EC 1.2.7.8)

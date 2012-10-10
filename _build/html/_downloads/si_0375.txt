@@ -1,0 +1,21 @@
+ss00345	NadB	L-aspartate oxidase (EC 1.4.3.16)
+ss00345	NadB_II	Aspartate dehydrogenase [same functional role as] (EC 1.4.3.16)
+ss00345	NadA	Quinolinate synthetase (EC 4.1.99.-)
+ss00345	NadC	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+ss00345	NadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+ss00345	NadE	NAD synthetase (EC 6.3.1.5)
+ss00345	NadV	Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)
+ss00345	NadM	Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1)
+ss00345	NMNAT_M	Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1)
+ss00345	PncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+ss00345	PncA	Nicotinamidase (EC 3.5.1.19)
+ss00345	NadR	Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1)
+ss00345	YceI	Niacin transporter NiaP
+ss00345	Spy1425	Core component Spy1425 of predicted NAD-regulated ECF transporter for niacin
+ss00345	PnuC	Ribosyl nicotinamide transporter, PnuC-like
+ss00345	BH3254	Predicted nicotinate-regulated transporter BH3254
+ss00345	NadR_HTH	NadR transcriptional regulator
+ss00345	NrtR	Nudix-related transcriptional regulator NrtR
+ss00345	YrxA	Transcriptional repressor for NAD biosynthesis in gram-positives
+ss00345	NadQ	Predicted NAD regulator in Alphaproteobacteria
+ss00345	NR1	Hypothetical Nudix-like regulator

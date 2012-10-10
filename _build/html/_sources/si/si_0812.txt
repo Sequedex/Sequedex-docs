@@ -1,0 +1,43 @@
+ss00247	NUOA	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+ss00247	NUOB	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+ss00247	NUOC	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+ss00247	NUOD	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+ss00247	NUOE	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+ss00247	NUOF	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+ss00247	NUOG	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+ss00247	NUOH	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+ss00247	NUOI	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+ss00247	NUOJ	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+ss00247	NUOK	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+ss00247	NUOL	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+ss00247	NUOM	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+ss00247	NUON	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+ss00247	ND4	NADH-ubiquinone oxidoreductase chain 4 (EC 1.6.5.3)
+ss00247	11.2kDa	F420H2:quinone oxidoreductase, 11.2 kDa subunit, putative
+ss00247	ND4Ch	chloroplast NADH dehydrogenase ND4
+ss00247	ND52	NADH dehydrogenase, subunit 5
+ss00247	NADH2	NADH dehydrogenase subunit 2
+ss00247	NdhI	NAD(P)H-quinone oxidoreductase chain I (EC 1.6.5.2)
+ss00247	4L	NADH dehydrogenase subunit 4L
+ss00247	ND3	NADH dehydrogenase subunit 3
+ss00247	ND5	NADH dehydrogenase subunit 5
+ss00247	ND6	NADH dehydrogenase subunit 6
+ss00247	ND1	NADH dehydrogenase subunit 1
+ss00247	NQD1	NAD(P)H-quinone oxidoreductase chain 1
+ss00247	NQD3	NAD(P)H-quinone oxidoreductase subunit 3 (EC 1.6.5.2)
+ss00247	NQDH	NAD(P)H-quinone oxidoreductase chain H (EC 1.6.5.2)
+ss00247	NQDJ	NAD(P)H-quinone oxidoreductase chain J (EC 1.6.5.2)
+ss00247	NQDK	NAD(P)H-quinone oxidoreductase chain K (EC 1.6.5.2)
+ss00247	NQD5	NAD(P)H-quinone oxidoreductase chain 5 (EC 1.6.5.2)
+ss00247	NQD4	NADH dehydrogenase I subunit 4, Involved in photosystem-1 cyclic electron flow
+ss00247	PND	potential NAD-reducing hydrogenase subunit
+ss00247	PS	Putative subunit of NAD(P)H:quinone oxidoreductase
+ss00247	F420R	F420H2:quinone oxidoreductase, 39 kDa subunit, putative
+ss00247	NUOG2	NADH-ubiquinone oxidoreductase chain G2 (EC 1.6.5.3)
+ss00247	nad4	NADH dehydrogenase subunit 4 (EC:1.6.99.3)
+ss00247	NUOF2	NADH-quinone oxidoreductase chain F 2 (EC 1.6.99.5)
+ss00247	ND5AS	Hypothetical transmembrane protein coupled to NADH-ubiquinone oxidoreductase chain 5 homolog
+ss00247	NuoBh	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3) homolog
+ss00247	ND15	NADH-quinone oxidoreductase subunit 15 (EC 1.6.99.5)
+ss00247	ND5ps	NADH dehydrogenase I subunit 5, Involved in photosystem-1 cyclic electron flow
+ss00247	17.2	NADH:ubiquinone oxidoreductase 17.2 kD subunit

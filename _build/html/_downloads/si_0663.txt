@@ -1,0 +1,32 @@
+ss00058	S2e	SSU ribosomal protein S2e (S5p)
+ss00058	S3e	SSU ribosomal protein S3e (S3p)
+ss00058	S3Ae	SSU ribosomal protein S3Ae
+ss00058	S4e	SSU ribosomal protein S4e
+ss00058	S5e	SSU ribosomal protein S5e (S7p)
+ss00058	S6e	SSU ribosomal protein S6e
+ss00058	S7e	SSU ribosomal protein S7e
+ss00058	S8e	SSU ribosomal protein S8e
+ss00058	S9e	SSU ribosomal protein S9e (S4p)
+ss00058	S10e	SSU ribosomal protein S10e
+ss00058	S11e	SSU ribosomal protein S11e (S17p)
+ss00058	S12e	SSU ribosomal protein S12e
+ss00058	S13e	SSU ribosomal protein S13e (S15p)
+ss00058	S14e	SSU ribosomal protein S14e (S11p)
+ss00058	S15e	SSU ribosomal protein S15e (S19p)
+ss00058	S15Ae	SSU ribosomal protein S15Ae (S8p)
+ss00058	S16e	SSU ribosomal protein S16e (S9p)
+ss00058	S17e	SSU ribosomal protein S17e
+ss00058	S18e	SSU ribosomal protein S18e (S13p)
+ss00058	S19e	SSU ribosomal protein S19e
+ss00058	S20e	SSU ribosomal protein S20e (S10p)
+ss00058	S21e	SSU ribosomal protein S21e
+ss00058	S23e	SSU ribosomal protein S23e (S12p)
+ss00058	S24e	SSU ribosomal protein S24e
+ss00058	S25e	SSU ribosomal protein S25e
+ss00058	S26e	SSU ribosomal protein S26e
+ss00058	S27e	SSU ribosomal protein S27e
+ss00058	S27Ae	SSU ribosomal protein S27Ae
+ss00058	S28e	SSU ribosomal protein S28e
+ss00058	S29e	SSU ribosomal protein S29e (S14p)
+ss00058	S30e	SSU ribosomal protein S30e
+ss00058	SAe	SSU ribosomal protein SAe (S2p)

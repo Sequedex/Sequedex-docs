@@ -15,6 +15,7 @@ Welcome to Sequedex's documentation!
    installation
    starting
    profiles
-
+   tree_of_life
+   functional
 
 

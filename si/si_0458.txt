@@ -1,0 +1,9 @@
+ss00515	DXPS	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)
+ss00515	DXPRI	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+ss00515	CDPMES	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+ss00515	CDPMEK	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+ss00515	MECDPS	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+ss00515	HMDPR	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
+ss00515	IPDDI	Isopentenyl-diphosphate delta-isomerase (EC 5.3.3.2)
+ss00515	UDPS	undecaprenyl diphosphate synthase
+ss00515	DPS	decaprenyl diphosphate synthase

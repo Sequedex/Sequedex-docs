@@ -1,0 +1,7 @@
+ss00196	gatB	GatB protein
+ss00196	dnaG	DNA primase (EC 2.7.7.-)
+ss00196	rpoD	RNA polymerase sigma factor RpoD
+ss00196	rpsU	SSU ribosomal protein S21p
+ss00196	EPe	FIG134348: essential endopeptidase
+ss00196	carA	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+ss00196	carB	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)

@@ -1,0 +1,3 @@
+ss00784	Pfs	programmed frameshift-containing
+ss00784	RF-2	Peptide chain release factor 2
+ss00784	RF-2f	Peptide chain release factor 2 unshifted fragment

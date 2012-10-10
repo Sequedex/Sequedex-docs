@@ -1,0 +1,4 @@
+ss00061	R1	Putative esterase, FIGfam005057
+ss00061	R2	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+ss00061	R3	Topoisomerase IV subunit B (EC 5.99.1.-)
+ss00061	R4	ADP-ribose pyrophosphatase (EC 3.6.1.13)

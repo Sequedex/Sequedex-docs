@@ -1,0 +1,9 @@
+ss00483	carAa	Terminal dioxygenase component of carbazole 1,9a-dioxygenase
+ss00483	carBa	2'-aminobiphenyl-2,3-diol 1,2-dioxygenase
+ss00483	carBb	Catalitic subunit of carbazole 1,9a-dioxygenase
+ss00483	carC	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)
+ss00483	carAc	Ferredoxin component of carbazole 1,9a-dioxygenase
+ss00483	carAd	Ferredoxin reductase component of carbazole 1,9a-dioxygenase
+ss00483	carD	2-hydroxypent-2,4-dienoate hydratase (EC 4.2.-.-)
+ss00483	carF	Acetaldehyde dehydrogenase (acylating)
+ss00483	carE	4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.-)

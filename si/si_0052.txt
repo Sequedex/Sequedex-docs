@@ -1,0 +1,3 @@
+ss00418	CCAH	Putative N-carbamyl-L-cysteine amidohydrolase
+ss00418	BU	Beta-ureidopropionase (EC 3.5.1.6)
+ss00418	TCAH	L-2-amino-thiazoline-4-carboxylic acid hydrolase (EC 3.5.2.-)

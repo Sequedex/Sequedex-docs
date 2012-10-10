@@ -1,0 +1,5 @@
+ss00760	RepA	Plasmid replication protein RepA
+ss00760	RepB	Plasmid replication protein RepB
+ss00760	RepC	Plasmid replication protein RepC
+ss00760	ParA	Chromosome (plasmid) partitioning protein ParA
+ss00760	ParB	Chromosome (plasmid) partitioning protein ParB

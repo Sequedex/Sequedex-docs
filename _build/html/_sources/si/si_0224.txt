@@ -1,0 +1,2 @@
+ss00392	R1	Chemotaxis protein CheC -- inhibitor of MCP methylation
+ss00392	R2	diguanylate cyclase (GGDEF domain) with PAS/PAC sensor

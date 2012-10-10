@@ -1,0 +1,3 @@
+ss00322	DFR	Dihydroflavonol-4-reductase (EC 1.1.1.219)
+ss00322	AR	Anthocyanidin reductase
+ss00322	LD	Leucoanthocyanidin dioxygenase (EC 1.14.11.19)

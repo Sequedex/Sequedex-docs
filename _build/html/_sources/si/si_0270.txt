@@ -1,0 +1,30 @@
+ss01085	R1	unknown protein encoded within prophage CP-933V
+ss01085	R2	antitermination protein Q
+ss01085	R3	Phage lysis protein S
+ss01085	R4	Protein NinG
+ss01085	R5	unknown protein encoded by bacteriophage BP-933W
+ss01085	R6	Putative antirepressor protein of cryptic prophage CP-933M
+ss01085	R7	putative endopeptidase
+ss01085	R8	Protein NinB
+ss01085	R9	ORF C81-like
+ss01085	R10	Putative lysis protein S of prophage CP-933V
+ss01085	R11	Phage endolysin
+ss01085	R12	putative DNA N-6-adenine methyltransferase
+ss01085	R13	similar bacteriphage P22 ninH
+ss01085	R14	Shiga-like toxin II subunit A precursor (EC 3.2.2.22)
+ss01085	R15	Putative DNA-binding protein Roi of bacteriophage BP-933W
+ss01085	R16	DNA packaging
+ss01085	R17	Shiga-like toxin II subunit B precursor
+ss01085	R18	Outer membrane lipoprotein Rz1
+ss01085	R19	Lipoprotein Bor
+ss01085	R20	phage replication protein P
+ss01085	R21	ORF B78
+ss01085	R22	P protein
+ss01085	R23	ORF B85
+ss01085	R24	Ren protein
+ss01085	R25	Protein NinE
+ss01085	R26	ORF B64
+ss01085	R27	Shiga toxin I subunit B precursor
+ss01085	R28	ORF-66
+ss01085	R29	Shiga toxin A-chain precursor (EC 3.2.2.22)
+ss01085	R_7	Phage endopeptidase

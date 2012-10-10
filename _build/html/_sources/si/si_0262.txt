@@ -1,0 +1,17 @@
+ss00726	R1	Transmembrane regulator protein PrtR
+ss00726	R2	RNA polymerase sigma-54 factor RpoN
+ss00726	R3	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+ss00726	R4	RNA polymerase sigma-E factor
+ss00726	R5	putative RNA polymerase sigma factor
+ss00726	R6	ECF sigma factor
+ss00726	R7	rna synthesis, modification , dna transcription
+ss00726	R8	macromolecule metabolism
+ss00726	R9	macromolecule synthesis, modification
+ss00726	R10	RNA polymerase sigma-70 factor, ECF subfamily
+ss00726	R11	ECF sigma factor PrtI, putative
+ss00726	R12	probable extracytoplasmic sigma factor EcfR
+ss00726	R13	RNA polymerase sigma-70 factor, ECF family
+ss00726	R14	Sigma-70 region 2:Sigma-70 region 4
+ss00726	R15	ECF family sigma factor
+ss00726	R16	extracytoplasmic sigma factor EcfR
+ss00726	R17	RNA polymerase sigma-70 factor

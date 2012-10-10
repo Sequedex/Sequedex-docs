@@ -1,0 +1,20 @@
+ss00105	GPDH	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+ss00105	PGL	6-phosphogluconolactonase (EC 3.1.1.31)
+ss00105	PGLe	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+ss00105	PglDH	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+ss00105	RisA	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+ss00105	RisB	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+ss00105	Repi	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+ss00105	TK	Transketolase (EC 2.2.1.1)
+ss00105	TK_C	Transketolase, C-terminal section (EC 2.2.1.1)
+ss00105	TK_N	Transketolase, N-terminal section (EC 2.2.1.1)
+ss00105	TA	Transaldolase (EC 2.2.1.2)
+ss00105	HPS	D-arabino-3-hexulose 6-phosphate formaldehyde lyase
+ss00105	PHI	6-phospho-3-hexuloisomerase
+ss00105	FPK	Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+ss00105	XPK	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9)
+ss00105	PRPPS	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+ss00105	PglD	Phosphogluconate dehydratase (EC 4.2.1.12)
+ss00105	OpcA	Putative glucose 6-phosphate dehydrogenase effector OpcA
+ss00105	OpcA_c	OpcA, an allosteric effector of glucose-6-phosphate dehydrogenase, actinobacterial
+ss00105	OpcA_a	OpcA, an allosteric effector of glucose-6-phosphate dehydrogenase, cyanobacterial

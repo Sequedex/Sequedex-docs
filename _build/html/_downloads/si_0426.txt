@@ -1,0 +1,10 @@
+ss00757	HU	DNA-binding protein HU
+ss00757	HU-a	DNA-binding protein HU-alpha
+ss00757	HU-b	DNA-binding protein HU-beta
+ss00757	HU-Bs	DNA-binding protein HBsu
+ss00757	HimA	Integration host factor alpha subunit
+ss00757	HimB	Integration host factor beta subunit
+ss00757	Fis	DNA-binding protein Fis
+ss00757	MukB	Chromosome partition protein MukB
+ss00757	MukE	Chromosome partition protein MukE
+ss00757	MukF	Chromosome partition protein MukF

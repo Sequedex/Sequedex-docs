@@ -1,0 +1,11 @@
+ss00357	A	V-type ATP synthase subunit A (EC 3.6.3.14)
+ss00357	B	V-type ATP synthase subunit B (EC 3.6.3.14)
+ss00357	C	V-type ATP synthase subunit C (EC 3.6.3.14)
+ss00357	D	V-type ATP synthase subunit D (EC 3.6.3.14)
+ss00357	E	V-type ATP synthase subunit E (EC 3.6.3.14)
+ss00357	F	V-type ATP synthase subunit F (EC 3.6.3.14)
+ss00357	G	V-type ATP synthase subunit G (EC 3.6.3.14)
+ss00357	I	V-type ATP synthase subunit I (EC 3.6.3.14)
+ss00357	K	V-type ATP synthase subunit K (EC 3.6.3.14)
+ss00357	H	V-type ATP synthase subunit H (EC 3.6.3.14)
+ss00357	Ha	Archaeal-type H+-ATPase subunit H

@@ -1,0 +1,38 @@
+ss00540	ThiC	Thiamin biosynthesis protein ThiC
+ss00540	ThiG	Thiazole biosynthesis protein ThiG
+ss00540	ThiH	Thiazole biosynthesis protein ThiH
+ss00540	ThiO	Glycine oxidase ThiO (EC 1.4.3.19)
+ss00540	ThiS	Sulfur carrier protein ThiS
+ss00540	ThiF	Sulfur carrier protein adenylyltransferase ThiF
+ss00540	Thi4	Thiazole biosynthetic enzyme Thi4
+ss00540	ThiD	Phosphomethylpyrimidine kinase (EC 2.7.4.7)
+ss00540	ThiN	Thiamin-phosphate synthase ThiN (EC 2.5.1.3)
+ss00540	ThiM	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+ss00540	ThiE	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+ss00540	TenA	Thiaminase II (EC 3.5.99.2)
+ss00540	TPK	Thiamine-monophosphate kinase (EC 2.7.4.16)
+ss00540	ThiY	Hydroxymethylpyrimidine ABC transporter, substrate-binding component
+ss00540	ThiX	Hydroxymethylpyrimidine ABC transporter, transmembrane component
+ss00540	ThiZ	Hydroxymethylpyrimidine ABC transporter, ATPase component
+ss00540	ThiT	Substrate-specific component ThiT of thiamin ECF transporter
+ss00540	ThiB	Thiamin ABC transporter, substrate-binding component
+ss00540	ThiP	Thiamin ABC transporter, transmembrane component
+ss00540	ThiQ	Thiamin ABC transporter, ATPase component
+ss00540	CytX	Predicted hydroxymethylpyrimidine transporter CytX
+ss00540	ThiW	Substrate-specific component ThiW of predicted thiazole ECF transporter
+ss00540	ThiU	Predicted thiazole transporter ThiU
+ss00540	Thi_mycopl	Predicted thiamin transporter ThiT
+ss00540	YkoE	Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+ss00540	YkoD	ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+ss00540	YkoC	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+ss00540	YkoF	Additional substrate-binding component of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+ss00540	PnuT	Predicted thiamin transporter PnuT
+ss00540	Omr1	Thiamin-regulated outer membrane receptor Omr1
+ss00540	TPPK	Thiamin pyrophosphokinase (EC 2.7.6.2)
+ss00540	YlmB	Thiamin-regulated hypothetical deacetylase
+ss00540	TK	Thiamine kinase (EC 2.7.1.89)
+ss00540	TPP	Thiamin-phosphate phosphatase (EC 3.1.3.-)
+ss00540	THI5	Hydroxymethylpyrimidine synthesis protein THI5
+ss00540	THI10	Thiamin transport gene THI10
+ss00540	FCL	5-FCL-like protein
+ss00540	YjbQ	YjbQ (alternate ThiE)

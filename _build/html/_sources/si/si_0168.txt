@@ -1,0 +1,17 @@
+ss00351	wza	Polysaccharide export lipoprotein Wza
+ss00351	wzb	Low molecular weight protein-tyrosine-phosphatase Wzb (EC 3.1.3.48)
+ss00351	wzc	Tyrosine-protein kinase Wzc (EC 2.7.10.2)
+ss00351	wcaA	Colanic acid biosynthesis glycosyl transferase WcaA
+ss00351	wcaB	Colanic acid biosynthesis acetyltransferase WcaB (EC 2.3.1.-)
+ss00351	wcaC	Colanic acid biosynthesis glycosyl transferase WcaC
+ss00351	wcaD	Colanic acid polymerase WcaD
+ss00351	wcaE	Colanic acid biosynthesis glycosyl transferase WcaE
+ss00351	wcaF	Colanic acid biosynthesis acetyltransferase WcaF (EC 2.3.1.-)
+ss00351	gmd	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
+ss00351	wcaG	GDP-L-fucose synthetase (EC 1.1.1.271)
+ss00351	wcaH	GDP-mannose mannosyl hydrolase (EC 3.6.1.-)
+ss00351	wcaI	Colanic acid biosysnthesis glycosyl transferase WcaI
+ss00351	wcaJ	Colanic acid biosynthsis UDP-glucose lipid carrier transferase WcaJ
+ss00351	wzx	Lipopolysaccharide biosynthesis protein WzxC
+ss00351	wcaK	Colanic acid biosysnthesis protein WcaK
+ss00351	wcaL	Colanic acid biosynthesis glycosyl transferase WcaL

@@ -1,0 +1,20 @@
+ss00024	BCCP	Biotin carboxyl carrier protein of ACAC1
+ss00024	BC	Biotin carboxylase of ACAC1 (EC 6.3.4.14)
+ss00024	ACACA	Acetyl-coenzyme A carboxyl transferase of ACAC1 (EC 6.4.1.2)
+ss00024	AT	[Acyl-carrier-protein] acetyl transferase of FASI (EC 2.3.1.38)
+ss00024	ER	Enoyl-[acyl-carrier-protein] reductase of FASI (EC 1.3.1.9)
+ss00024	DH	3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase of FASI (EC 4.2.1.61)
+ss00024	PT	[Acyl-carrier-protein] palmitoyl transferase of FASI (EC 2.3.1.-)
+ss00024	ACP	Acyl carrier protein of FASI
+ss00024	KR	3-oxoacyl-[acyl-carrier-protein] reductase of FASI (EC 1.1.1.100)
+ss00024	KS	3-oxoacyl-[acyl-carrier-protein] synthase of FASI (EC 2.3.1.41)
+ss00024	MT	[Acyl-carrier-protein] malonyl transferase of FASI (EC 2.3.1.39)
+ss00024	TE	Oleoyl-[acyl carrier protein] thioesterase of FASI (EC 3.1.2.14)
+ss00024	PPT	4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)
+ss00024	ELO1	Fatty acyl-coenzyme A elongase 1
+ss00024	ELO2	Fatty acyl-coenzyme A elongase 2
+ss00024	ELO3	Fatty acyl-coenzyme A elongase 3
+ss00024	ELO	Fatty acyl-coenzyme A elongase
+ss00024	KR_ELO	3-oxoacyl-coenzyme A reductase of elongase (EC 1.1.1.62)
+ss00024	DH_ELO	3-hydroxyacyl-coenzyme A dehydratase of elongase (EC 4.-.-.-)
+ss00024	ER_ELO	Trans-2,3-enoyl-cozyme A reductase of elongase (EC 1.-.-.-)

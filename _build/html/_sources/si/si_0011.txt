@@ -1,0 +1,16 @@
+ss00662	Tra?	Putative symporter in putrescine utilization cluster
+ss00662	puuP	Putrescine importer
+ss00662	puuR	Putrescine utilization regulator
+ss00662	puuA	Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)
+ss00662	puuB	Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)
+ss00662	puuC	Gamma-glutamyl-aminobutyraldehyde dehydrogenase (EC 1.2.1.-)
+ss00662	puuD	Gamma-glutamyl-GABA hydrolase (EC 3.5.1.94)
+ss00662	Hyp	Uncharacterized protein in putrescine utilization cluster
+ss00662	Ox1	Glycine/D-amino acid oxidase (deaminating) in putrescine utilization cluster
+ss00662	Ox2	Putative oxidoreductase in putrescine utilization cluster
+ss00662	Ox3	Similar to gamma-glutamyl-putrescine oxidase
+ss00662	gabaT	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+ss00662	gabaTpyr	Gamma-aminobutyrate:pyruvate aminotransferase (EC 2.6.1.-)
+ss00662	PAT	Putrescine aminotransferase (EC 2.6.1.82)
+ss00662	ABADH	4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+ss00662	PutOX	Monoamine/putrescine oxidase (EC 1.4.3.10)

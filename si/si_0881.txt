@@ -1,0 +1,34 @@
+ss00339	CysA	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+ss00339	CysW	Sulfate transport system permease protein CysW
+ss00339	CysT	Sulfate transport system permease protein CysT
+ss00339	CysP	Sulfate and thiosulfate binding protein CysP
+ss00339	SBP	Sulfate-binding protein Sbp
+ss00339	SulP	Sulfate permease, Pit-type
+ss00339	CysZ	Sulfate transporter, CysZ-type
+ss00339	SulP2	Sulfate permease, Trk-type
+ss00339	ABC_P	ABC-type probable sulfate transporter, permease protein
+ss00339	ABC_A	ABC-type probable sulfate transporter, ATPase component
+ss00339	ABC_S	ABC-type probable sulfate transporter, periplasmic binding protein
+ss00339	SulP3	Putative sulfate permease
+ss00339	SAT1	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+ss00339	SAT2	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+ss00339	DSAT	Sulfate adenylyltransferase, dissimilatory-type (EC 2.7.7.4)
+ss00339	APSR	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+ss00339	ASK	Adenylylsulfate kinase (EC 2.7.1.25)
+ss00339	PAPSR	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+ss00339	CysQ	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+ss00339	ASR_A	Adenylylsulfate reductase alpha-subunit (EC 1.8.99.2)
+ss00339	ASR_B	Adenylylsulfate reductase beta-subunit (EC 1.8.99.2)
+ss00339	SIR_FP	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+ss00339	SIR_FP2	Oxidoreductase probably involved in sulfite reduction
+ss00339	SIR_HP	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+ss00339	SIR_FDX_A	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
+ss00339	FPR_A	Ferredoxin--NADP(+) reductase, actinobacterial (eukaryote-like) type (EC 1.18.1.2)
+ss00339	CysX	Ferredoxin-like protein involved in electron transfer
+ss00339	SIR_FDX	Ferredoxin--sulfite reductase (EC 1.8.7.1)
+ss00339	SIR_FDX_B	Ferredoxin--sulfite reductase, bacillial type (EC 1.8.7.1)
+ss00339	FPR	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+ss00339	FDX	Ferredoxin
+ss00339	SulX	Conserved hypothetical protein probably involved in assimilatory sulfate reduction
+ss00339	SIR_X	Conserved hypothetical protein probably involved in sulfate reduction
+ss00339	FDX1	4Fe-4S ferredoxin, iron-sulfur binding

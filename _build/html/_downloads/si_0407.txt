@@ -1,0 +1,6 @@
+ss00679	MutL	DNA mismatch repair protein MutL
+ss00679	MutS	DNA mismatch repair protein MutS
+ss00679	MutS-fam1	MutS-related protein, family 1
+ss00679	MutS-dom	MutS domain protein, family 2
+ss00679	MutS2	Recombination inhibitory protein MutS2
+ss00679	MutS2-rel	Clostridial MutS2-related protein

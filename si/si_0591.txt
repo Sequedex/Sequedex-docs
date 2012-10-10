@@ -1,0 +1,19 @@
+ss00174	NirS	Cytochrome cd1 nitrite reductase (EC:1.7.2.1)
+ss00174	NirK	Copper-containing nitrite reductase (EC 1.7.2.1)
+ss00174	NirV	Nitrite reductase accessory protein NirV
+ss00174	qNor	Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent
+ss00174	cNor-B	Nitric-oxide reductase subunit B (EC 1.7.99.7)
+ss00174	cNor-C	Nitric-oxide reductase subunit C (EC 1.7.99.7)
+ss00174	NorE	Nitric oxide reductase activation protein NorE
+ss00174	NorD	Nitric oxide reductase activation protein NorD
+ss00174	NorQ	Nitric oxide reductase activation protein NorQ
+ss00174	NosZ	Nitrous-oxide reductase (EC 1.7.99.6)
+ss00174	NosD	Nitrous oxide reductase maturation protein NosD
+ss00174	NosF	Nitrous oxide reductase maturation protein NosF (ATPase)
+ss00174	NosY	Nitrous oxide reductase maturation transmembrane protein NosY
+ss00174	NosL	Nitrous oxide reductase maturation protein, outer-membrane lipoprotein NosL
+ss00174	NosX	Nitrous oxide reductase maturation periplasmic protein NosX
+ss00174	NosR	Nitrous oxide reductase maturation protein NosR
+ss00174	NnrS	NnrS protein involved in response to NO
+ss00174	NnrR	Nitric oxide -responding transcriptional regulator NnrR (Crp/Fnr family)
+ss00174	DNR	Nitric oxide -responding transcriptional regulator Dnr (Crp/Fnr family)

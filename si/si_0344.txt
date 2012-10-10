@@ -1,0 +1,25 @@
+ss00283	cotA	Spore coat protein A
+ss00283	cotB	Spore coat protein B
+ss00283	cotC	Spore coat protein C
+ss00283	cotD	Inner spore coat protein D
+ss00283	cotE	Outer spore coat protein E
+ss00283	cotF	Spore coat protein F
+ss00283	cotG	Spore coat protein G
+ss00283	cotH	Inner spore coat protein H
+ss00283	cotJA	Polypeptide composition of the spore coat; required for the assembly of CotJC
+ss00283	cotJC	Polypeptide composition of the spore coat protein CotJC
+ss00283	cotK	Small, acid-soluble spore protein O
+ss00283	cotL	Small, acid-soluble spore protein P
+ss00283	cotM	Spore coat protein M
+ss00283	cotS	Spore coat protein S
+ss00283	cotT	Spore coat protein T precursor
+ss00283	cotV	Spore coat protein V
+ss00283	cotW	Spore coat protein W
+ss00283	cotX	Spore coat protein X
+ss00283	cotY	Spore coat protein Y
+ss00283	cotZ	Spore coat protein Z
+ss00283	spoIVA	Stage IV sporulation protein A
+ss00283	spoVID	Stage VI sporulation protein D
+ss00283	sodA	Manganese superoxide dismutase (EC 1.15.1.1)
+ss00283	cotJB	Polypeptide composition of the spore coat protein CotJB
+ss00283	GerE	Major transcriptional regulator of spore coat formation GerE

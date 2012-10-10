@@ -1,0 +1,7 @@
+ss00884	HylP	Phage hyaluronidase
+ss00884	Lys2	Phage-associated cell wall hydrolase
+ss00884	Hol	Holin
+ss00884	Sda	_Toximoron (Nuclease)
+ss00884	SAg	_Toximoron (Superantigen)
+ss00884	Tox3	_Toximoron (Other)
+ss00884	Prx	Paratox

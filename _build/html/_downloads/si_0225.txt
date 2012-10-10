@@ -1,0 +1,10 @@
+ss00580	R1	Choline-glycine betaine transporter
+ss00580	R2	Choline monooxygenase, alpha subunit (EC 1.14.15.7)
+ss00580	R3	Putative dioxygenase, alpha subunit (EC 1.-.-.-)
+ss00580	R4	Putative dioxygenase, beta subunit (EC 1.-.-.-)
+ss00580	R5	Choline monooxygenase, beta subunit (EC 1.14.15.7)
+ss00580	R6	Positive regulator of Tartrate dehydrogenase/decarboxylase/D-malic enzyme
+ss00580	R7	D-malic enzyme (EC 1.1.1.83)
+ss00580	R8	Tartrate dehydrogenase (EC 1.1.1.93)
+ss00580	R9	Tartrate decarboxylase (EC 4.1.1.73)
+ss00580	R10	3-isopropylmalate dehydrogenase (EC 1.1.1.85)

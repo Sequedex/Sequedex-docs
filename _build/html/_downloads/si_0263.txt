@@ -1,0 +1,17 @@
+ss00170	R1	Gamma-glutamyl-aminobutyraldehyde dehydrogenase (EC 1.2.1.-)
+ss00170	R2	Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)
+ss00170	R3	Gamma-glutamyl-GABA hydrolase
+ss00170	R4	Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)
+ss00170	R5	Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)
+ss00170	R6	Putrescine transport system permease protein potH (TC 3.A.1.11.2)
+ss00170	R8	Putrescine transport ATP-binding protein potG (TC 3.A.1.11.2)
+ss00170	R9	GABA aminotransferase (EC 2.6.1.19)
+ss00170	R10	Transcriptional regulator, GABA/putrescine utiliation cluster # 3
+ss00170	R11	D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+ss00170	R12	Transcriptional regulator, GABA/putrescine utiliation cluster # 2
+ss00170	R13	Psp operon transcriptional activator
+ss00170	R14	Putrescine importer
+ss00170	R15	Putrescine utilization regulator
+ss00170	R16	Transcriptional regulator, GABA/putrescine utiliation cluster # 1
+ss00170	R17	GABA aminotransferase
+ss00170	R7	Putrescine ABC transporter putrescine-binding protein potF (TC 3.A.1.11.2)

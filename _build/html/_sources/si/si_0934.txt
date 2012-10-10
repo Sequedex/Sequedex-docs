@@ -1,0 +1,8 @@
+ss00882	MerR	Mercuric resistance operon regulatory protein
+ss00882	MerT	Mercuric transport protein, MerT
+ss00882	MerP	Periplasmic mercury(+2) binding protein
+ss00882	MerC	Mercuric transport protein, MerC
+ss00882	MerA	Mercuric ion reductase (EC:1.16.1.1)
+ss00882	MerD	Mercuric resistance operon coregulator
+ss00882	MerE	Mercuric transport protein, MerE
+ss00882	MerB	Organomercurial lyase (EC 4.99.1.2)

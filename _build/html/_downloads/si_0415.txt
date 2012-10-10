@@ -1,0 +1,38 @@
+ss00600	dnaA	Chromosomal replication initiator protein DnaA
+ss00600	dnaB	Replicative DNA helicase (EC 3.6.1.-)
+ss00600	dnaC	DNA replication protein dnaC
+ss00600	dnaG	DNA primase (EC 2.7.7.-)
+ss00600	dnaE	DNA polymerase III alpha subunit (EC 2.7.7.7)
+ss00600	dnaQ	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+ss00600	holE	DNA polymerase III theta subunit (EC 2.7.7.7)
+ss00600	dnaX	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+ss00600	holA	DNA polymerase III delta subunit (EC 2.7.7.7)
+ss00600	holB	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+ss00600	holC	DNA polymerase III chi subunit (EC 2.7.7.7)
+ss00600	holD	DNA polymerase III psi subunit (EC 2.7.7.7)
+ss00600	dnaN	DNA polymerase III beta subunit (EC 2.7.7.7)
+ss00600	dnaT	Primosomal protein I
+ss00600	priA	Primosomal replication protein N prime
+ss00600	priB	Primosomal replication protein N
+ss00600	priC	Primosomal replication protein N prime prime
+ss00600	polA	DNA polymerase I (EC 2.7.7.7)
+ss00600	polB	DNA polymerase II (EC 2.7.7.7)
+ss00600	recA	RecA protein
+ss00600	recB	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+ss00600	recC	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+ss00600	recD	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+ss00600	recF(recR)	Recombination protein RecR
+ss00600	recG	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+ss00600	recJ	Single-stranded-DNA-specific exonuclease recJ (EC 3.1.-.-)
+ss00600	recN	DNA repair protein RecN
+ss00600	ruvA	Holliday junction DNA helicase RuvA
+ss00600	ruvB	Holliday junction DNA helicase RuvB
+ss00600	ruvC	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+ss00600	dnaI	Helicase loader DnaI
+ss00600	RecQ	ATP-dependent DNA helicase RecQ
+ss00600	dnaB1	Replicative DNA helicase (EC 3.6.1.-); intein-containing
+ss00600	dnaB2	Replicative DNA helicase (EC 3.6.1.-) [SA14-24]
+ss00600	priB1	Arrested fork binding
+ss00600	priA1	Helicase PriA essential for oriC/DnaA-independent DNA replication
+ss00600	tus	DNA replication terminus site-binding protein
+ss00600	trcf	Transcription-repair coupling factor

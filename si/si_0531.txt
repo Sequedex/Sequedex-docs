@@ -1,0 +1,2 @@
+ss00290	nhaA	Na+/H+ antiporter NhaA type
+ss00290	nhaD	Na+/H+ antiporter NhaD type

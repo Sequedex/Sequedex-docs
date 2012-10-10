@@ -25,6 +25,7 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="shortcut icon" href="_static/tree.ico"/>
     <link rel="copyright" title="Copyright" href="copyright.html" />
     <link rel="top" title="Sequedex 0.9.2 documentation" href="index.html" />
     <link rel="next" title="4. Getting started" href="starting.html" />
@@ -57,11 +58,11 @@
 <div class="section" id="system-requirements">
 <h2>3.1. System requirements<a class="headerlink" href="#system-requirements" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>A 64-bit Mac (Snow Leopard or later: Mac OSX 10.6) or Linux (2.6 kernel or later) operating system with 8 GB of RAM.  Sequedex is straightforward to run under Windows and we provide installation instructions below using the Linux distribution, but we are still working on the packaging at this time.</li>
+<li>A 64-bit Mac (Snow Leopard or later: Mac OSX 10.6) or Linux (2.6 kernel or later) operating system with 8 GB of RAM.  Sequedex is straightforward to run under Windows and we provide installation instructions below using the Linux distribution, but a release packaged specifically for the Windows operating system is not available at this time.</li>
 <li>You will need to have a 64-bit Java SE 6 runtime installed.   Java 6 runtime is included in Mac OS X Snow Leopard and is automatically downloaded and installed on Mac OS X Lion and Mountain Lion the first time you run a Java program or execute Java from the command line (e.g. java -version).  Linux users should consult their distribution documentation for Java installation information, or you can download it and install it at <a class="reference external" href="http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html">http://www.oracle.com/technetwork/java/javase/downloads/jdk6-downloads-1637591.html</a>.</li>
 <li>We have done limited testing of Sequedex using Java SE 7 on a number of Macs running Lion and Mountain Lion, where it appears to work, but it requires more memory and is slower for I/O intensive steps.</li>
-<li>With the included data module, bact403.1.jar, Sequedex uses a maximum Java heap size of ~6 GB.  It is thus best if the computer has 8 GB is available as physical memory, but swap to solid state disk may give acceptable performance on some platforms.  For example, we found that Sequedex ran at ~1/2 speed on a Macbook Pro (is this right?) running Mac OS X Snow Leopard with 2 GB of memory and SSD.  Swap to conventional hard disk should be avoided if possible.</li>
-<li>If you are installing Sequedex on a Linux server, you will need to have at least a minimal X-windows environment installed, since Sequedex requires a GUI for the licensing step.</li>
+<li>With the included data module, bact403.1.jar, Sequedex uses a maximum Java heap size of ~6 GB.  It is thus best if the computer has 8 GB is available as physical memory, but swap to solid state disk may give acceptable performance on some platforms.  For example, we found that Sequedex ran at ~1/2 speed on a Macbook Pro running Mac OS X Snow Leopard with 2 GB of memory and SSD.  Swap to conventional hard disk should be avoided if possible.</li>
+<li>If you are installing Sequedex remotely on a server, you will need to have at least a minimal X-windows environment installed, since Sequedex requires a GUI for the licensing step.  Note that ssh -Y enables forwarding of X-windows on most systems.</li>
 </ul>
 </div>
 <div class="section" id="downloading-and-unpacking-for-mac">
@@ -83,9 +84,8 @@
 </div>
 <div class="section" id="downloading-and-unpacking-for-windows-7">
 <h2>3.4. Downloading and unpacking for Windows 7<a class="headerlink" href="#downloading-and-unpacking-for-windows-7" title="Permalink to this headline">¶</a></h2>
-<p>Sequedex has not been packaged as a Windows application yet, but you may be able to get it working as we did. Start with the Linux tarball.  We will create a release for Windows soon.</p>
-<p>Install Version 6.x of the 64 bit Java Runtime Environment (or Java Development Kit) from <a class="reference external" href="http://java.sun.com">http://java.sun.com</a>. Sequedex will not work properly with Version 7 or with the 32 bit versions.</p>
-<p>Optionally, install (Cygwin <a class="reference external" href="http://cygwin.com/">http://cygwin.com/</a>), a Unix-like environment that will enable a much more enjoyable command-line experience than the MS DOS prompt.  Also, most of the examples provided in this manual assume a unix-like environment, such as that provided by Cygwin.</p>
+<p>Sequedex has not been packaged as a Windows application yet, but you may be able to get it working as we did. Begin by obtaining the Linux tar.gz archive at  <a class="reference external" href="http://sequedex.lanl.gov">http://sequedex.lanl.gov</a>.</p>
+<p>If not present on your system, install Version 6.x of the 64 bit Java Runtime Environment (or Java Development Kit) from <a class="reference external" href="http://java.sun.com">http://java.sun.com</a>. Sequedex will not work properly with the 32 bit versions, and has not been tested with Version 7.</p>
 <p>Unzip the Sequedex distribution in the location of your choice (eg. c:cygwinhomeusername, or c:Program Files). The top-level Sequedex directory name will be sequedex.  Add the directory with Java to your PATH variable, and define SEQUEDEX_HOME, SEQUEDEX_DATA, and SEQUEDEX_ETC as user variables.  In the case of SEQUEDEX_HOME, the &#8216;&#8217; needs to be doubled, to &#8216;\&#8217;.  For example, SEQUEDEX_HOME should be set to C:\cygwin\home\username\sequedex.  Specifically, in Windows 7, you should:</p>
 <ol class="arabic simple">
 <li>Open Windows Explorer</li>
@@ -102,16 +102,19 @@
 <div class="highlight-python"><pre>java -Xms512m -Xmx6000M -jar %SEQUEDEX_HOME%\lib\sequescan.jar</pre>
 </div>
 <p>and the Sequedex GUI will open.  Select input files and other options as desired and click on &#8216;Run Sequescan&#8217;.  The user can place the java line into a file, sequescan.bat, right-click on this file in Windows Explorer and &#8216;send to desktop&#8217; to enable initiation of Sequedex by double-clicking on an icon.</p>
+<p>If you would like to run sequedex under the Cygwin environment, simply add the the sequedex/bin/ directory to your cygwin PATH variable.</p>
 </div>
 <div class="section" id="testing-your-installation">
 <h2>3.5. Testing your installation<a class="headerlink" href="#testing-your-installation" title="Permalink to this headline">¶</a></h2>
 <p>To test that Sequedex is installed properly, open the Sequedex GUI, click on the file chooser icon at the right edge of the &#8220;Input&#8221; text field.  Mac users should find the testData directory described in the installation instructions above.  Linux users will find the same testData directory at the top level of the Sequedex distribution directory (i.e. in the same place as the bin directory).  Under the testData directory, users will find another directory called &#8220;synthetic&#8221; and should then select one of the files under this directory.  Click &#8220;Run Sequescan&#8221; button...</p>
-<p>Note:  You need another option called &#8220;Installing a License File&#8221; where you describe how to install the license from the GUI.  You should also note that when a license is not installed, the following message will appear in the Progress window of the GUI:</p>
-<p>You are currently unlicensed.   Limited analysis will be allowed for testing
-purposes.</p>
+<p>Note:  If you have not yet installed a licens file, the following message will appear in the Progress window of the GUI:</p>
+<div class="highlight-python"><pre>You are currently unlicensed.   Limited analysis will be allowed for testing purposes.</pre>
+</div>
+<div class="section" id="instructions-for-installing-a-license-are-provided-below">
+<h3>3.5.1. Instructions for installing a license are provided below.<a class="headerlink" href="#instructions-for-installing-a-license-are-provided-below" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="running-sequedex-on-an-example-data-file">
-<h2>3.6. Running Sequedex on an example data file<a class="headerlink" href="#running-sequedex-on-an-example-data-file" title="Permalink to this headline">¶</a></h2>
+<h3>3.5.2. Running Sequedex on an example data file<a class="headerlink" href="#running-sequedex-on-an-example-data-file" title="Permalink to this headline">¶</a></h3>
 <blockquote>
 <div>To analyze a file of sequence data with Sequedex:</div></blockquote>
 <ul class="simple">
@@ -123,12 +126,13 @@ purposes.</p>
 <div class="figure">
 <img alt="_images/sequescan_gui.png" src="_images/sequescan_gui.png" style="width: 60%;" />
 </div>
-<p>After the &#8220;Run Sequescan&#8221; button is pressed, a few lines should appear in the &#8220;Progress&#8221; portion of the interface immediately. Sequedex should return results indicating success within a few minutes.  We will examine the run-time options and output files in the next chapter.</p>
+<p>After the &#8220;Run Sequescan&#8221; button is pressed, a few lines should appear in the &#8220;Progress&#8221; portion of the interface immediately. Sequedex will spend about one minute reading the bact403.1 signature list into memory.  Once this is complete, processing of the data files will occur at a rate of a few billion base pairs per second.  We will examine the run-time options and output files in the next chapter.</p>
+</div>
 </div>
 <div class="section" id="obtaining-a-license-file">
-<h2>3.7. Obtaining a license file<a class="headerlink" href="#obtaining-a-license-file" title="Permalink to this headline">¶</a></h2>
-<p>Without a license file, Sequedex will only analyze a small number of reads from a single file using a single thread, just enough to verify you have installed it correctly.  You may obtain a free 60-day node-locked demo license by submtting a license information file by e-mail.  The terms of the demo license are available <tt class="xref download docutils literal"><span class="pre">here</span></tt>.</p>
-<p>To create a license information file, start the Sequedex GUI and click on &#8216;Utilities&#8217; at the top of the GUI, then on &#8216;Request license&#8217;.  Follow the instructions to generate a license information file.  E-mail this license information file to to <a class="reference external" href="mailto:sequedex-demo-license&#37;&#52;&#48;lanl&#46;gov">sequedex-demo-license<span>&#64;</span>lanl<span>&#46;</span>gov</a>. A demo license will be returned to you immediately if your e-mail address has not requested a demo before.  This file can be installed by choosing &#8216;Install License&#8217; under the same &#8216;Utilities&#8217; tab at the top of the sequescan GUI.  If the license is correctly installed in the .sequedex subdirectory of your home directory, you will notice that mutiple threads and multi-file processing is enabled.  If &#8216;verbose&#8217; mode is selected, you will be notified that &#8216;License level is 1&#8217; will be displayed as Sequescan starts its run.  Since the license file is stored outside the sequedex root directory, this file will not be overwritten when Sequedex is upgraded with a new distribution.</p>
+<h2>3.6. Obtaining a license file<a class="headerlink" href="#obtaining-a-license-file" title="Permalink to this headline">¶</a></h2>
+<p>Without a license file, Sequedex will only analyze a few tens of thousands of reads at a time, and batch file processing is disabled.  This will enable the user to analyze bacterial genomes and portions of metagenomics data sets to verify that Sequedex is performing correctly.  You may obtain a free 60-day node-locked demo license by submtting a license information file by e-mail.  The terms of the demo license are available <tt class="xref download docutils literal"><span class="pre">here</span></tt>.</p>
+<p>To request a license, you must first create a license information file: start the Sequedex GUI and click on &#8216;Utilities&#8217; at the top of the GUI, then on &#8216;Request license&#8217;.  Follow the instructions to generate a license information file.  E-mail this license information file to to <a class="reference external" href="mailto:sequedex-demo-license&#37;&#52;&#48;lanl&#46;gov">sequedex-demo-license<span>&#64;</span>lanl<span>&#46;</span>gov</a>. A demo license will be returned to you immediately if your e-mail address has not requested a demo before.  This file can be installed by choosing &#8216;Install License&#8217; under the same &#8216;Utilities&#8217; tab at the top of the sequescan GUI.  If the license is correctly installed in the .sequedex subdirectory of your home directory, you will notice that mutiple threads and multi-file processing is enabled.  If &#8216;verbose&#8217; mode is selected, you will be notified that &#8216;License level is 1&#8217; will be displayed as Sequescan starts its run.  Since the license file is stored outside the sequedex root directory, this file will not be overwritten when Sequedex is upgraded with a new distribution.</p>
 </div>
 </div>
 
@@ -145,9 +149,12 @@ purposes.</p>
 <li><a class="reference internal" href="#downloading-and-unpacking-for-mac">3.2. Downloading and unpacking for Mac</a></li>
 <li><a class="reference internal" href="#downloading-and-unpacking-for-linux">3.3. Downloading and unpacking for Linux</a></li>
 <li><a class="reference internal" href="#downloading-and-unpacking-for-windows-7">3.4. Downloading and unpacking for Windows 7</a></li>
-<li><a class="reference internal" href="#testing-your-installation">3.5. Testing your installation</a></li>
-<li><a class="reference internal" href="#running-sequedex-on-an-example-data-file">3.6. Running Sequedex on an example data file</a></li>
-<li><a class="reference internal" href="#obtaining-a-license-file">3.7. Obtaining a license file</a></li>
+<li><a class="reference internal" href="#testing-your-installation">3.5. Testing your installation</a><ul>
+<li><a class="reference internal" href="#instructions-for-installing-a-license-are-provided-below">3.5.1. Instructions for installing a license are provided below.</a></li>
+<li><a class="reference internal" href="#running-sequedex-on-an-example-data-file">3.5.2. Running Sequedex on an example data file</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#obtaining-a-license-file">3.6. Obtaining a license file</a></li>
 </ul>
 </li>
 </ul>

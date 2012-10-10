@@ -67,7 +67,7 @@ From these raw counts files, several types of profiles can easily be computed: p
      ru(i,17)=k(i,2)+k(i,3)+k(i,4)+k(i,70)+k(i,71)+k(i,80)+k(i,81)+k(i,89)+k(i,93)+k(i,96)+k(i,150)+sum(k(i,249:254))+k(i,257)+k(i,292)+k(i,351)+sum(k(i,356:357))+k(i,369) !multiphyla
      ru(i,18)=k(i,1) !root
 
-.. figure:: hmb_proll.*
+.. figure:: hmb_proll.png
 
    Phylogenetic profile of 400 human microbiome samples, computed using the bact403 tree and Sequedex, rolled up with the above-defined classifications.
 

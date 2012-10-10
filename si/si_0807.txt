@@ -1,0 +1,12 @@
+ss00899	VhcA	CoB--CoM-reducing hydrogenase (Cys) alpha subunit
+ss00899	VhcB	CoB--CoM-reducing hydrogenase (Cys) beta subunit
+ss00899	VhcG	CoB--CoM-reducing hydrogenase (Cys) gamma subunit
+ss00899	VhcD	CoB--CoM-reducing hydrogenase (Cys) delta subunit
+ss00899	VhuA	CoB--CoM-reducing hydrogenase (Sec) alpha subunit
+ss00899	VhuU	CoB--CoM-reducing hydrogenase (Sec) alpha' subunit
+ss00899	VhuB	CoB--CoM-reducing hydrogenase (Sec) beta subunit
+ss00899	VhuG	CoB--CoM-reducing hydrogenase (Sec) gamma subunit
+ss00899	VhuD	CoB--CoM-reducing hydrogenase (Sec) delta subunit
+ss00899	HdrA	CoB--CoM heterodisulfide reductase subunit A (EC 1.8.98.1)
+ss00899	HdrB	CoB--CoM heterodisulfide reductase subunit B (EC 1.8.98.1)
+ss00899	HdrC	CoB--CoM heterodisulfide reductase subunit C (EC 1.8.98.1)

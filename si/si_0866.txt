@@ -1,0 +1,20 @@
+ss00923	SIR2	NAD-dependent protein deacetylase of SIR2 family
+ss00923	CtBP	carboxyl-terminal binding protein
+ss00923	SIR	NAD-dependent deacetylase
+ss00923	PARP-1	Poly [ADP-ribose] polymerase-1 (EC 2.4.2.30)
+ss00923	SIRT1	NAD-dependent deacetylase sirtuin 1 (EC 3.5.1.-)
+ss00923	GAPDH_6	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+ss00923	NPT1	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+ss00923	PNC1	Nicotinamidase (EC 3.5.1.19)
+ss00923	NMNAT3	Nicotinamide mononucleotide adenylyltransferase 3 (EC 2.7.7.1)
+ss00923	SGD1	Suppressor of Glycerol Defect
+ss00923	CtBP2	C-terminal binding protein 2
+ss00923	NMNAT	Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1)
+ss00923	NMNAT2	Nicotinamide-nucleotide adenylyltransferase 2 (EC 2.7.7.1)
+ss00923	SIRT2	NAD-dependent deacetylase sirtuin-2 (EC 3.5.1.-)
+ss00923	SIRT3	NAD-dependent deacetylase sirtuin-3 (EC 3.5.1.-)
+ss00923	SIRT4	NAD-dependent deacetylase sirtuin 4 (EC 3.5.1.-)
+ss00923	SIRT	NAD-dependent deacetylase (EC 3.5.1.-)
+ss00923	SIRT5	NAD-dependent deacetylase sirtuin-5 (EC 3.5.1.-)
+ss00923	NGPD3	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)
+ss00923	GAPDH_20	Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (GAPDH)

@@ -1,0 +1,15 @@
+ss00547	HCO	HCOMODA decarboxylase
+ss00547	CmtAc	p-cumate dioxygenase small subunit (CmtAc)
+ss00547	CmtAb	p-cumate dioxygenase large subunit (CmtAb)
+ss00547	CmtC	2,3-dihydroxy-p-cumate-3,4-dioxygenase (CmtC)
+ss00547	CmtAa	p-cumate dioxygenase ferredoxin reductase subunit (CmtAa)
+ss00547	pCmh	P-cymene methyl hydroxylase
+ss00547	CymAa	p-cymene monooxygenase, hydroxylase subunit(CymAa)
+ss00547	CymC	p-cumic aldehyde dehydrogenase (CymC) [EC:1.2.1.3]
+ss00547	CymB	p-cumic alcohol dehydrogenase (CymB)
+ss00547	CymAb	P-cymene monooxygenase, reductase subunit(CymAb) (EC 1.17.1.-)
+ss00547	CmtB	2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase(CmtB) (EC 1.1.1.100)
+ss00547	F	p-cumate dioxygenase ferredoxin
+ss00547	TR	p-cymene degradation operon transcriptional regulator
+ss00547	CmtF	2-hydroxypenta-2,4-dienoate hydratase (CmtF) (EC 4.2.1.-)
+ss00547	CmtE	HOMODA hydrolase (CmtE) (EC 3.7.1.-)

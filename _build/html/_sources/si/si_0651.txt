@@ -1,0 +1,13 @@
+ss01068	Prot	Proteorhodopsin
+ss01068	Xan	Xanthorhodopsin
+ss01068	Blh	Predictet Brp-like protein Blh
+ss01068	CrtB	Phytoene synthase (EC 2.5.1.32)
+ss01068	CrtI	Phytoene dehydrogenase (EC 1.14.99.-)
+ss01068	CrtY	Lycopene beta cyclase (EC 1.14.-.-)
+ss01068	CruA	Lycopene cyclase, CruA type
+ss01068	IspB	Octaprenyl-diphosphate synthase (EC 2.5.1.-)
+ss01068	CrtA	Spheroidene monooxygenase
+ss01068	CrtC	Hydroxyneurosporene synthase
+ss01068	CrtO	Beta-carotene ketolase (EC 1.14.-.-)
+ss01068	Sensory	Sensory rhodopsin II
+ss01068	TspO	Regulatory protein TspO

@@ -1,0 +1,36 @@
+ss00252	tRNAglu	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+ss00252	GltR	Glutamyl-tRNA reductase (EC 1.2.1.70)
+ss00252	GAST	Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
+ss00252	ALAS	5-aminolevulinate synthase (EC 2.3.1.37)
+ss00252	PBS	Porphobilinogen synthase (EC 4.2.1.24)
+ss00252	PBD	Porphobilinogen deaminase (EC 2.5.1.61)
+ss00252	UroS1	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+ss00252	UroS2	Uroporphyrinogen-III synthase, divergent, Francisella type (EC 4.2.1.75)
+ss00252	UroS3	Uroporphyrinogen-III synthase, divergent, Flavobacterial type (EC 4.2.1.75)
+ss00252	HemX-BS	HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase
+ss00252	HemY-EC	Homolog of E. coli HemY protein
+ss00252	HemX-EC	Homolog of E. coli HemX protein
+ss00252	HemX-EC?	Distant homolog of E. coli HemX protein in Xanthomonadaceae
+ss00252	UroM	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+ss00252	PR2O	Precorrin-2 oxidase (EC 1.3.1.76)
+ss00252	SirFC	Sirohydrochlorin ferrochelatase (EC 4.99.1.4)
+ss00252	CC	Sirohydrochlorin cobaltochelatase (EC 4.99.1.3)
+ss00252	UroD	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+ss00252	CPOae	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+ss00252	CPOan	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+ss00252	CPOdiv	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22), divergent, putative
+ss00252	CPOdiv2	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22), divergent, putative 2
+ss00252	SAM1-RdgB	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+ss00252	SAM2-HSP	Putative coproporphyrinogen III oxidase of BS HemN-type, oxygen-independent (EC 1.3.99.22), in heat shock gene cluster
+ss00252	SAM3	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+ss00252	SAM4-heme	Radical SAM family protein HutW, similar to coproporphyrinogen III oxidase, oxygen-independent, associated with heme uptake
+ss00252	PPOae	Protoporphyrinogen IX oxidase, aerobic (EC 1.3.3.4)
+ss00252	PPOan	Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)
+ss00252	C2	Hypothetical membrane protein, possible involvement in cytochrome functioning/assembly
+ss00252	FC	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+ss00252	RdgB	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15)
+ss00252	HrcA	Heat-inducible transcription repressor HrcA
+ss00252	LepA	Translation elongation factor LepA
+ss00252	CobT	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+ss00252	CobS	Cobalamin synthase
+ss00252	DUF299	Hypothetical protein DUF2999

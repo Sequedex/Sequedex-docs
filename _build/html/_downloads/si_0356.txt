@@ -1,0 +1,6 @@
+ss00238	R1	hypothetical protein SKA53_09994
+ss00238	R2	Peptide deformylase (EC 3.5.1.88)
+ss00238	R3	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities
+ss00238	R4	Glutathione S-transferase domain protein
+ss00238	R5	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+ss00238	R4-?	Glutathione S-transferase, omega (EC 2.5.1.18)

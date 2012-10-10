@@ -1,0 +1,12 @@
+ss00827	GumD	Xanthan biosynthesis glycosyltransferase GumD
+ss00827	GumM	Xanthan biosynthesis glycosyltransferase GumM
+ss00827	GumH	Xanthan biosynthesis glycosyltransferase GumH
+ss00827	GumK	Xanthan biosynthesis glucuronosyltransferase GumK
+ss00827	GumI	Xanthan biosynthesis glycosyltransferase GumI
+ss00827	GumL	Xanthan biosynthesis pyruvyltransferase GumL
+ss00827	GumF	Xanthan biosynthesis acetyltransferase GumF
+ss00827	GumB	Outer membrane protein GumB, involved in the export of xanthan
+ss00827	GumE	Xanthan biosynthesis exopolysaccharide polymerase GumE
+ss00827	GumC	Xanthan biosynthesis chain length determinant protein GumC
+ss00827	GumG	Xanthan biosynthesis acetyltransferase GumG
+ss00827	GumJ	Xanthan biosynthesis oligosaccharidyl-lipid flippase GumJ

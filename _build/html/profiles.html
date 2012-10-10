@@ -25,8 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="shortcut icon" href="_static/tree.ico"/>
     <link rel="copyright" title="Copyright" href="copyright.html" />
     <link rel="top" title="Sequedex 0.9.2 documentation" href="index.html" />
+    <link rel="next" title="6. Tree of Life" href="tree_of_life.html" />
     <link rel="prev" title="4. Getting started" href="starting.html" /> 
   </head>
   <body>
@@ -36,6 +38,9 @@
         <li class="right" style="margin-right: 10px">
           <a href="genindex.html" title="General Index"
              accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="tree_of_life.html" title="6. Tree of Life"
+             accesskey="N">next</a> |</li>
         <li class="right" >
           <a href="starting.html" title="4. Getting started"
              accesskey="P">previous</a> |</li>
@@ -83,7 +88,7 @@ paste SRR059330.j SRR059331.j SRR059338.j SRR059339.j &gt; ../hmb.b403.ph
 paste SRR059330.k SRR059331.k SRR059338.k SRR059339.k &gt; ../hmb.b403.f</pre>
 </div>
 <p>will combine the output files from four stool metagenomics data sets into a matrix of counts.  You will, of course, need to supply directory and file names corresponding to your particular analysis.  If the</p>
-<p>From these raw counts files, several types of profiles can easily be computed: phylogenetic rollups, normalized phylogenetic profiles, and normalized scalar products of the profiles.  Once again, these quantities can be computed in many ways, but the gfortran (<a class="reference external" href="http:/gcc.gnu.org/wiki/GFortran/">http:/gcc.gnu.org/wiki/GFortran/</a>) <tt class="xref download docutils literal"><span class="pre">code</span></tt> will suffice.  In particular, examination of the <a class="reference download internal" href="_downloads/Bacteria403.phyloxml"><tt class="xref download docutils literal"><span class="pre">tree</span></tt></a> with archyoptrix (<a class="reference external" href="http://www.phylosoft.org">http://www.phylosoft.org</a>) or an <a class="reference download internal" href="_downloads/infile.fasta.nodes"><tt class="xref download docutils literal"><span class="pre">output</span> <span class="pre">file</span></tt></a> reveals ninteen roll-up categories, defined in the notation of Fortran 90 <tt class="xref download docutils literal"><span class="pre">here</span></tt>.  Only eight of the most highly represented categories are shown in the human microbiome plot, while the environmental metagenomes rollup, below, shows seventeen categories, with only &#8216;multiphyla&#8217; and &#8216;root&#8217; left off.</p>
+<p>From these raw counts files, several types of profiles can easily be computed: phylogenetic rollups, normalized phylogenetic profiles, and normalized scalar products of the profiles.  Once again, these quantities can be computed in many ways, but the gfortran (<a class="reference external" href="http:/gcc.gnu.org/wiki/GFortran/">http:/gcc.gnu.org/wiki/GFortran/</a>) <tt class="xref download docutils literal"><span class="pre">code</span></tt> will suffice.  In particular, examination of the <a class="reference download internal" href="_downloads/Bacteria4031.phyloxml"><tt class="xref download docutils literal"><span class="pre">tree</span></tt></a> with archyoptrix (<a class="reference external" href="http://www.phylosoft.org">http://www.phylosoft.org</a>) or an <a class="reference download internal" href="_downloads/infile.fasta.nodes"><tt class="xref download docutils literal"><span class="pre">output</span> <span class="pre">file</span></tt></a> reveals ninteen roll-up categories, defined in the notation of Fortran 90 <tt class="xref download docutils literal"><span class="pre">here</span></tt>.  Only eight of the most highly represented categories are shown in the human microbiome plot, while the environmental metagenomes rollup, below, shows seventeen categories, with only &#8216;multiphyla&#8217; and &#8216;root&#8217; left off.</p>
 <div class="figure">
 <img alt="_images/hmbm_proll.png" src="_images/hmbm_proll.png" style="width: 100%;" />
 <p class="caption">Phylogenetic profile of 400 human microbiome samples, computed using the bact403 tree and Sequedex, rolled up with the above-defined classifications.  The original plot and data can be found in the first panel of <tt class="xref download docutils literal"><span class="pre">this</span> <span class="pre">Excel</span> <span class="pre">spreadsheet</span></tt>.  For the most parts, the samples consist of pairs of replicates, and they are nearly indistinguishable from each other in this presentation.</p>
@@ -136,14 +141,14 @@ paste SRR059330.k SRR059331.k SRR059338.k SRR059339.k &gt; ../hmb.b403.f</pre>
 </div>
 <div class="section" id="functional-profiles">
 <h2>5.3. Functional profiles<a class="headerlink" href="#functional-profiles" title="Permalink to this headline">¶</a></h2>
-<p>It is possible to produce functional profiles of the same samples used above for comparing phylogenetic profiles.  Since we are using the SEED functional classification scheme, it is also possible to &#8216;roll-up&#8217; the functional profiles into 28 categories of gene function.  Inspection of the output file SRR059330.fasta.fun reveals the following roll-up categories, defined in the notation of Fortran 90 <tt class="xref download docutils literal"><span class="pre">here</span></tt>.</p>
+<p>It is possible to produce functional profiles of the same samples used above for comparing phylogenetic profiles.  Since we are using the SEED functional classification scheme, it is also possible to &#8216;roll-up&#8217; the functional profiles into 28 categories of gene function.  Inspection of the output file SRR059330.fasta.fun reveals the following roll-up categories, defined in the notation of Fortran 90 <a class="reference download internal" href="_downloads/ruf.f90"><tt class="xref download docutils literal"><span class="pre">here</span></tt></a>.</p>
 <div class="figure">
-<img alt="hmbm_froll.*" src="hmbm_froll.*" style="width: 100%;" />
+<img alt="_images/hmbm_froll.png" src="_images/hmbm_froll.png" style="width: 100%;" />
 <p class="caption">Functional profile of 400 human microbiome samples, computed using the bact403 tree, the SEED classification, and Sequedex, rolled up with the above-defined classifications.  The functional profiles are provided above in an Excel spreadsheet.</p>
 </div>
 <p>The most striking observation about the functional profile across the 400 human microbiome samples is the consistent relative amplitude of the different functions from the different body sites.  The two sample types with the greatest variation in functional rollup profiles are the posterior fornix and the anterior nares, consistent with Figure 2 of the Nature article referenced above (Nature <strong>486</strong>:207-214 (2012)).  It is possible that this variability is a consequence of clonal populations of particular organisms that make up a significant population of some of the samples skewing the results, but we have not explored this idea further.  We observe in the environmental functional profiles, below, that these relative amplitudes are also broadly in agreement across diverse ecosystems.  We will return to this discussion below, when we examine the functional profiles in greater resolution.</p>
 <div class="figure">
-<img alt="env4_froll.*" src="env4_froll.*" style="width: 100%;" />
+<img alt="_images/env4_froll.png" src="_images/env4_froll.png" style="width: 100%;" />
 <p class="caption">Functional profile of 242 environmental microbiome samples with the same color-scheme as the HMB functional profile above, computed using the bact403 tree, the SEED classification, and Sequedex, rolled up with the above-defined classifications.  The functional profiles are provided above in an Excel spreadsheet.  As with the human microbiome samples, the consistent relative fraction of each functional rollup is quite striking, as is the enormous dispersions that arise from this uniformity.</p>
 </div>
 <div class="figure">
@@ -211,6 +216,9 @@ si_0939 Virulence      Resistance to antibiotics and toxic  Multidrug_Resistance
   <h4>Previous topic</h4>
   <p class="topless"><a href="starting.html"
                         title="previous chapter">4. Getting started</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="tree_of_life.html"
+                        title="next chapter">6. Tree of Life</a></p>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="_sources/profiles.txt"
@@ -239,6 +247,9 @@ si_0939 Virulence      Resistance to antibiotics and toxic  Multidrug_Resistance
         <li class="right" style="margin-right: 10px">
           <a href="genindex.html" title="General Index"
              >index</a></li>
+        <li class="right" >
+          <a href="tree_of_life.html" title="6. Tree of Life"
+             >next</a> |</li>
         <li class="right" >
           <a href="starting.html" title="4. Getting started"
              >previous</a> |</li>

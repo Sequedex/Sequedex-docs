@@ -1,0 +1,3 @@
+ss00166	PP	Peroxidase precursor (EC 1.11.1.7)
+ss00166	P	Peroxidase (EC 1.11.1.7)
+ss00166	AAO	L-ascorbate oxidase precursor (EC 1.10.3.3)

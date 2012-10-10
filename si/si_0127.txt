@@ -1,0 +1,15 @@
+ss00086	LldD	L-lactate dehydrogenase (EC 1.1.2.3)
+ss00086	Dld	D-Lactate dehydrogenase (EC 1.1.2.5)
+ss00086	DldD	Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing
+ss00086	LldE	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+ss00086	LldF	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+ss00086	LldG1	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+ss00086	LldG2	Predicted L-lactate dehydrogenase, hypothetical protein subunit SO1518
+ss00086	LldP	L-lactate permease
+ss00086	R1	Lactate-responsive regulator LldR in Enterobacteria, GntR family
+ss00086	R3	Lactate-responsive regulator LldR in Firmicutes, GntR family
+ss00086	R5	Predicted Lactate-responsive regulator, LysR family
+ss00086	R6	Predicted Lactate-responsive regulator, IclR family
+ss00086	R4	Lactate-responsive regulator LldR in Actinobacteria, GntR family
+ss00086	R7	Lactate-responsive regulator LldR in Betaproteobacteria, LysR family
+ss00086	R2	Predicted lactate-responsive transcriptional regulator of ykgEFG LDH gene cluster, LysR-type

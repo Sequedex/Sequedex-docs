@@ -1,0 +1,4 @@
+ss00159	YbbK	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+ss00159	YbbJ	Putative activity regulator of membrane protease YbbK
+ss00159	aq_911	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+ss00159	aq_1820	Putative membrane-bound ClpP-class protease associated with aq_911

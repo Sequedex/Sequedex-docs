@@ -1,0 +1,74 @@
+ss01018	ThiI	Thiamine biosynthesis protein thiI
+ss01018	CSD	Cysteine desulfurase (EC 2.8.1.7)
+ss01018	IscU	Iron-sulfur cluster assembly scaffold protein IscU
+ss01018	IcsA	Iron binding protein IscA for iron-sulfur cluster assembly
+ss01018	HscB	Chaperone protein HscB
+ss01018	HscA	Chaperone protein HscA
+ss01018	fdx	Ferredoxin, 2Fe-2S
+ss01018	YfhJ	Believed to be involved in assembly of Fe-S clusters
+ss01018	Psi13	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+ss01018	dusA	tRNA dihydrouridine synthase A (EC 1.-.-.-)
+ss01018	dusB	tRNA dihydrouridine synthase B (EC 1.-.-.-)
+ss01018	dusC	tRNA-dihydrouridine synthase C (EC 1.-.-.-)
+ss01018	Gm18	tRNA (Guanosine18-2'-O-) -methyltransferase (EC 2.1.1.34)
+ss01018	yfhQ	tRNA:Cm32/Um32 methyltransferase
+ss01018	S2C32	tRNA(Cytosine32)-2-thiocytidine synthetase
+ss01018	Psi32	Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+ss01018	U/Cm34	tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)
+ss01018	TusA	tRNA 5-methylaminomethyl-2-thiouridine synthase TusA
+ss01018	TusB	tRNA 5-methylaminomethyl-2-thiouridine synthase TusB
+ss01018	TusC	tRNA 5-methylaminomethyl-2-thiouridine synthase TusC
+ss01018	TusD	tRNA 5-methylaminomethyl-2-thiouridine synthase TusD
+ss01018	TusE	Putative sulfite reductase, gamma subunit (EC 1.8.99.3)
+ss01018	mnmA	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+ss01018	mnmE	GTPase and tRNA-U34 5-formylation enzyme TrmE
+ss01018	gidA	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+ss01018	mnmC	5-methylaminomethyl-2-thiouridine-forming enzyme mnmC
+ss01018	selD	Selenide,water dikinase (EC 2.7.9.3)
+ss01018	YbbB	Selenophosphate-dependent tRNA 2-selenouridine synthase
+ss01018	I34	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+ss01018	k2C34	tRNA(Ile)-lysidine synthetase
+ss01018	FolE	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+ss01018	queD	Queuosine biosynthesis QueD, PTPS-I
+ss01018	queC	Queuosine Biosynthesis QueC ATPase
+ss01018	queE	Queuosine Biosynthesis QueE Radical SAM
+ss01018	queF	NADPH dependent preQ0 reductase
+ss01018	tgt	tRNA-guanine transglycosylase (EC 2.4.2.29)
+ss01018	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+ss01018	GluQRS	glutamyl-Q-tRNA synthetase
+ss01018	CmoA	tRNA (uridine-5-oxyacetic acid methyl ester) 34 synthase
+ss01018	CmoB	tRNA (5-methoxyuridine) 34 synthase
+ss01018	cog1559	FIG004453: protein YceG like
+ss01018	m1G37	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+ss01018	m2A37	hypothetical tRNA/rRNA methyltransferase yfiF [EC:2.1.1.-]
+ss01018	i6A37	tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+ss01018	ms2i6A	tRNA-i(6)A37 methylthiotransferase
+ss01018	MiaE	tRNA-(ms[2]io[6]A)-hydroxylase (EC 1.-.-.-)
+ss01018	MetX?	m6A37
+ss01018	t6A37	Sua5 YciO YrdC YwlC family protein
+ss01018	tsaA	umknown m6t6A methyalse
+ss01018	Psi38-40	tRNA pseudouridine synthase A (EC 4.2.1.70)
+ss01018	m7G46	tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)
+ss01018	acp3U47	unknown pathway
+ss01018	m5U54	tRNA (Uracil54-C5-)-methyltransferase (EC 2.1.1.35)
+ss01018	Psi55	tRNA pseudouridine synthase B (EC 4.2.1.70)
+ss01018	Psi65	tRNA pseudouridine synthase C (EC 4.2.1.70)
+ss01018	trmFO	tRNA:m(5)U-54 MTase gid
+ss01018	yqfN	Putative tRNA-m1A22 methylase
+ss01018	yqxC	RNA binding methyltransferase FtsJ like
+ss01018	COG4123	COG4123: Predicted O-methyltransferase
+ss01018	COG0566C	RNA methyltransferase, TrmH family
+ss01018	MetX2	RNA methyltransferase, TrmH family, group 1
+ss01018	ybeA	LSU m3Psi1915 methyltransferase RlmH
+ss01018	ybeB	FIGfam135315: Iojap-related protein
+ss01018	Jag	Jag protein
+ss01018	cdd	Cytidine deaminase (EC 3.5.4.5)
+ss01018	SufD	Iron-sulfur cluster assembly protein SufD
+ss01018	SufC	Iron-sulfur cluster assembly ATPase protein SufC
+ss01018	SufB	Iron-sulfur cluster assembly protein SufB
+ss01018	Rhod	Rhodanese-related sulfurtransferases
+ss01018	YbgI	FIG137478: Hypothetical protein
+ss01018	COG1496	COG1496: Uncharacterized conserved protein
+ss01018	ac4C	Predicted P-loop ATPase fused to an acetyltransferase COG1444
+ss01018	COG0613	COG0613, Predicted metal-dependent phosphoesterases (PHP family)
+ss01018	COG11092	LSU m5C1962 methyltransferase RlmI

@@ -1,0 +1,11 @@
+ss00112	RBCsu	Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)
+ss00112	RBClu	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)
+ss00112	CDH	Carbonic anhydrase (EC 4.2.1.1)
+ss00112	PDDA	Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54)
+ss00112	CcmK	Carbon dioxide concentrating mechanism protein CcmK
+ss00112	CcmL	Carbon dioxide concentrating mechanism protein CcmL
+ss00112	CcmM	Carbon dioxide concentrating mechanism protein CcmM
+ss00112	CcmN	Carbon dioxide concentrating mechanism protein CcmN
+ss00112	CcmO	Carbon dioxide concentrating mechanism protein O
+ss00112	NADH	NADH dehydrogenase (EC 1.6.99.3)
+ss00112	HAIC	High-affnity carbon uptake protein Hat/HatR

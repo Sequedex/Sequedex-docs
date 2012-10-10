@@ -1,0 +1,2 @@
+ss00425	CytR	Transcriptional (co)regulator CytR
+ss00425	Crp	Cyclic AMP receptor protein

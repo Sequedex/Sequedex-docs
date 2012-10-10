@@ -1,0 +1,7 @@
+ss00589	flaA	Flagellin protein FlaA
+ss00589	flaB	Flagellin protein FlaB
+ss00589	flgB	Flagellar basal-body rod protein FlgB
+ss00589	flgC	Flagellar basal-body rod protein FlgC
+ss00589	flgE2	Flagellar hook subunit protein
+ss00589	FliE	Flagellar hook-basal body complex protein FliE
+ss00589	FtsI	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)

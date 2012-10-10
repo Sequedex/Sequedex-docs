@@ -1,0 +1,60 @@
+ss00730	CarBb	catalytic subunit of meta cleavage enzyme
+ss00730	C23DO	Catechol 2,3-dioxygenase (EC 1.13.11.2)
+ss00730	HMSD	2-hydroxymuconic semialdehyde dehydrogenase
+ss00730	MPC	Metapyrocatechase (EC 1.13.11.2)
+ss00730	THBPD	2,2',3-trihydroxybiphenyl dioxygenase
+ss00730	HPH	2-hydroxypenta-2,4-dienoate hydratase
+ss00730	HMSH	2-hydroxymuconic semialdehyde hydrolase
+ss00730	4-OT	4-oxalocrotonate tautomerase (EC 5.3.2.-)
+ss00730	BADD	benzaldehyde dehydrogenase
+ss00730	HMD	Hydroquinone meta-cleavage dioxygenase
+ss00730	carD	2-hydroxypent-2,4-dienoate hydratase (EC 4.2.-.-)
+ss00730	carC	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)
+ss00730	PIPD	Protein involved in meta-pathway of phenol degradation
+ss00730	PPH_14	3-(3-hydroxy-phenyl)propionate hydroxylase  (EC 1.14.13.-)
+ss00730	HPCD	homoprotocatechuate 2,3-dioxygenase
+ss00730	mhpD	2-keto-4-pentenoate hydratase (EC 4.2.1.-)
+ss00730	DHPAD	3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)
+ss00730	PR	Positive regulator of phenol hydroxylase
+ss00730	DmpK	Phenol hydroxylase, assembly protein DmpK
+ss00730	DXHA	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.2.-)
+ss00730	OHA	2-oxo-hepta-3-ene-1,7-dioic acid hydratase (EC 4.2.-.-)
+ss00730	BAD	benzyl alcohol dehydrogenase
+ss00730	CMHMSD	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60)
+ss00730	CMHMI	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+ss00730	DND	1,2-dihydroxynaphthalene dioxygenase
+ss00730	CQD	Chlorohydroquinone/hydroquinone 1,2-dioxygenase
+ss00730	HMSH2	2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)
+ss00730	DHPD	2,3-dihydroxyphenylpropionate 1,2-dioxygenase (EC 1.13.11.-)
+ss00730	PRHDl	putative ring-hydroxylating dioxygenase large subunit
+ss00730	PRHDs	putative ring-hydroxylating dioxygenase small subunit
+ss00730	P45Db	Protocatechuate 4,5-dioxygenase beta chain (EC 1.13.11.8)
+ss00730	P45Da	Protocatechuate 4,5-dioxygenase alpha chain (EC 1.13.11.8)
+ss00730	4OCD	4-oxalocrotonate dehydrogenase
+ss00730	ToMO	toluene-o-xylene monooxygenase
+ss00730	ERC	extradiol ring cleavage enzyme
+ss00730	touR	ToMO operon transcriptional activator TouR
+ss00730	HPADO	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+ss00730	EDl	extradiol dioxygenase large subunit
+ss00730	OCD	4-oxalocrotonate decarboxylase (EC 4.1.1.77)
+ss00730	KPH	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+ss00730	hpaB	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+ss00730	HPAR	4-hydroxyphenylacetate 3-monooxygenase, reductase component (EC 1.6.8.-)
+ss00730	hpaX	putative 4-hydroxyphenylacetate permease
+ss00730	HPOR	5-carboxymethyl-2-oxo-hex-3- ene-1,7-dioate decarboxylase (EC 4.1.1.68)
+ss00730	FHF	Fumarylacetoacetate hydrolase family protein
+ss00730	MhpA	3-(3-hydroxy-phenyl)propionate hydroxylase (EC 1.14.13.-)
+ss00730	MhpC	2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase (EC 3.7.1.-)
+ss00730	MhpF	Acetaldehyde dehydrogenase (EC 1.2.1.10)
+ss00730	MhpE	4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.-)
+ss00730	MhpT	4-hydroxybenzoate transporter
+ss00730	MhpR	Mhp operon transcriptional activator
+ss00730	HPAs	4-hydroxyphenylacetate symporter, major facilitator superfamily (MFS)
+ss00730	IRCD	Intradiol ring-cleavage dioxygenase (EC 1.13.11.1)
+ss00730	MhpF?	Acetaldehyde dehydrogenase, acetylating, (EC 1.2.1.10) in gene cluster for degradation of phenols, cresols, catechol
+ss00730	PPH_55	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+ss00730	DmpM	Phenol hydroxylase, P2 regulatory component DmpM (EC 1.14.13.7)
+ss00730	DmpL	Phenol hydroxylase, P1 oxygenase component DmpL (EC 1.14.13.7)
+ss00730	DmpN	Phenol hydroxylase, P1 oxygenase component DmpN (EC 1.14.13.7)
+ss00730	DmpO	Phenol hydroxylase, P1 oxygenase component DmpO (EC 1.14.13.7)
+ss00730	DmpP	Phenol hydroxylase, FAD- and [2Fe-2S]-containing reductase component DmpP

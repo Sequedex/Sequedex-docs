@@ -1,0 +1,8 @@
+ss00234	CHb	Cyanoglobin
+ss00234	HmpX	Flavohemoprotein (Hemoglobin-like protein) (Flavohemoglobin) (Nitric oxide dioxygenase) (EC 1.14.12.17)
+ss00234	HbO	Hemoglobin-like protein HbO
+ss00234	PHb	Putative bacterial haemoglobin
+ss00234	FHP	Flavohemoprotein
+ss00234	1_Cl1	Protein containing plastocyanin/azurin family domain
+ss00234	1_Cl2	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)
+ss00234	1_Cl3	Hypothetical protein in Cyanoglobin locus

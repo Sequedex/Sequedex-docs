@@ -1,0 +1,11 @@
+ss00619	R1	Inner membrane protein YccF
+ss00619	R2	Putative efflux (PET) family inner membrane protein YccS
+ss00619	R3	DNA helicase IV
+ss00619	R4	Methylglyoxal synthase (EC 4.2.3.3)
+ss00619	R5	DNA transformation protein TfoX
+ss00619	R6	UPF0319 protein YccT precursor
+ss00619	R7	Succinyl-CoA synthetase, alpha subunit-related enzymes
+ss00619	R8	hemimethylated DNA binding protein YccV
+ss00619	R9	LSU m5C1962 methyltransferase RlmI
+ss00619	R10	Cell division inhibitor
+ss00619	R11	Helicase IV (EC 3.6.1.-)

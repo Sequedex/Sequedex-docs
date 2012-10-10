@@ -1,0 +1,5 @@
+ss00104	R1	Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)
+ss00104	R2	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+ss00104	R3	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+ss00104	R4	Ribonuclease HI (EC 3.1.26.4)
+ss00104	R5	DNA polymerase III epsilon subunit (EC 2.7.7.7)

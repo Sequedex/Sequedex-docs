@@ -1,0 +1,23 @@
+ss00875	AroA<sub>I&#945;</sub>	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+ss00875	AroA<sub>I&#946;</sub>	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+ss00875	AroA<sub>II</sub>	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+ss00875	AroA'	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase (EC 2.5.1.-)
+ss00875	AroB	3-dehydroquinate synthase (EC 4.2.3.4)
+ss00875	AroB'	3,7-dideoxy-D-threo-hepto-2, 6-diulosonate synthase (EC 4.2.3.-)
+ss00875	AroC<sub>I</sub>	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+ss00875	AroC<sub>II</sub>	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+ss00875	AroD<sub>I&#945;</sub>	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+ss00875	AroD<sub>I&#946;</sub>	Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)
+ss00875	AroD<sub>I&#947;</sub>	Shikimate 5-dehydrogenase I gamma (EC 1.1.1.25)
+ss00875	AroD<sub>I&#948;</sub>	Quinate/shikimate 5-dehydrogenase I delta (EC 1.1.1.25)
+ss00875	AroE<sub>I</sub>	Shikimate kinase I (EC 2.7.1.71)
+ss00875	AroE<sub>II</sub>	Shikimate kinase II (EC 2.7.1.71)
+ss00875	Mcn-S	Cell division protein conferring mecillinam sensitivity
+ss00875	AroE<sub>III</sub>	Shikimate kinase III (EC 2.7.1.71)
+ss00875	AroEILike	Regulatory protein of benzoate catabolism
+ss00875	QaREG	Repressor Protein of Quinate Catabolism
+ss00875	AroF	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)
+ss00875	AroG	Chorismate synthase (EC 4.2.3.5)
+ss00875	KdsA	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+ss00875	TyrR	Transcriptional repressor protein TyrR
+ss00875	TrpR	Transcriptional repressor protein TrpR

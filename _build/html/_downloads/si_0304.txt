@@ -1,0 +1,6 @@
+ss00708	R1	putative; UPF0325 protein yaeH
+ss00708	R2	[Protein-PII] uridylyltransferase (EC 2.7.7.59)
+ss00708	R3	Methionine aminopeptidase (EC 3.4.11.18)
+ss00708	R4	SSU ribosomal protein S2p (SAe)
+ss00708	R5	Translation elongation factor Ts
+ss00708	R6	Uridylate kinase (EC 2.7.4.-)

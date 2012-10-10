@@ -1,0 +1,10 @@
+ss00714	RNRIa_A	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+ss00714	RNRIa_B	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+ss00714	RNRIb_A	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+ss00714	RNRIb_B	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+ss00714	NrdI	Ribonucleotide reduction protein NrdI
+ss00714	RNRII	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+ss00714	RNRIII	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+ss00714	RNRIII_AP	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+ss00714	RNRTR	Ribonucleotide reductase transcriptional regulator NrdR
+ss00714	NrdH	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib

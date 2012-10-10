@@ -1,0 +1,31 @@
+ss00434	Bt1	Benzoate transport, extracellular ligand-binding receptor
+ss00434	Bt2	Benzoate transport, inner-membrane translocator
+ss00434	Bt5	Benzoate transport, inner-membrane translocator precursor
+ss00434	Bt4	Benzoate transport, ATPase component
+ss00434	Bt5b	Benzoate transport, inner membrane transport component
+ss00434	Bt6	Benzoate transport, ATP binding protein
+ss00434	BCoAL	Benzoate-CoA ligase (EC 6.2.1.25)
+ss00434	BoxC	benzoyl-CoA-dihydrodiol lyase (BoxC)
+ss00434	SK	Shikimate kinase (EC 2.7.1.71)
+ss00434	BH	benzoate degradation ring-cleavage hydrolase
+ss00434	HBRg	4-hydroxybenzoyl-CoA reductase, gamma subunit (EC 1.3.99.20)
+ss00434	HBRb	4-hydroxybenzoyl-CoA reductase, beta subunit (EC 1.3.99.20)
+ss00434	BOB	Benzoyl-CoA oxygenase component B
+ss00434	HABL	P-hydroxylaminobenzoate lyase
+ss00434	BOA	Benzoyl-CoA oxygenase component A
+ss00434	oedah	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+ss00434	ocd	4-oxalocrotonate decarboxylase (EC 4.1.1.77)
+ss00434	BKT?	Beta-ketoadipyl CoA thiolase (EC 2.3.1.9)
+ss00434	MGH?	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+ss00434	PaaH?	3-hydroxyacyl-CoA dehydrogenase (PaaH) (EC 1.1.1.157)
+ss00434	19	Putative Acyl-CoA thiolase
+ss00434	3HBL	3-hydroxybenzoate CoA ligase
+ss00434	SKII	Shikimate kinase II (EC 2.7.1.71)
+ss00434	SKI	Shikimate kinase I (EC 2.7.1.71)
+ss00434	HBP	hydroxybenzoate permease
+ss00434	HBRs	Hydroxybenzoyl-CoA reductase subunit
+ss00434	BT?	Benzoate transport related protein
+ss00434	1?	Predicted 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase
+ss00434	3?	2-oxo-hepta-3-ene-1,7-dioic acid hydratase (EC 4.2.-.-)
+ss00434	2?	Fumarylacetoacetate hydrolase family protein
+ss00434	RP	Regulatory protein of benzoate catabolism

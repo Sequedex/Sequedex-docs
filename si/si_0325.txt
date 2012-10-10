@@ -1,0 +1,7 @@
+ss00320	yaiE	Cytoplasmic protein YaiE
+ss00320	aroM	AroM protein
+ss00320	yaiI	Protein YaiI
+ss00320	yaiA	Protein YaiA
+ss00320	SK3	Shikimate kinase III (EC 2.7.1.71)
+ss00320	ykiA	Protein YkiA
+ss00320	rdgC	DNA recombination-dependent growth factor C

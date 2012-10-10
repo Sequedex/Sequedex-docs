@@ -1,0 +1,19 @@
+ss00197	APRT	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+ss00197	PRAI	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+ss00197	IGS	Indole glycerophosphate synthase
+ss00197	TSa	Tryptophan synthase alpha chain (EC 4.2.1.20)
+ss00197	TSb	Tryptophan synthase beta chain (EC 4.2.1.20)
+ss00197	TM	tryptophan monooxygenase
+ss00197	IAH	Indole-acetamide hydrolase
+ss00197	N3	Nitrilase 1 (EC 3.5.5.1)
+ss00197	TT	Tryptophan transaminase
+ss00197	IPAC	Indole-3-pyruvate decarboxylase (EC 4.1.1.74)
+ss00197	IAD	Indole-acetaldehyde dehydrogenase
+ss00197	AAD	Aromatic-L-amino-acid decarboxylase (EC 4.1.1.28)
+ss00197	AO	Monoamine oxidase (1.4.3.4)
+ss00197	IAR	Indole-acetaldehyde reductase
+ss00197	TO	Tryptophol oxidase
+ss00197	BoundA	Indole-3-acetate beta-glucosyltransferase
+ss00197	ATFS	Flavonol 3-sulfotransferase (EC 2.8.2.25)
+ss00197	N2	Nitrilase 2 (EC 3.5.5.1)
+ss00197	AUX1	Putative AUX1-like permease

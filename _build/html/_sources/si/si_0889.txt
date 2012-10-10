@@ -1,0 +1,30 @@
+ss00788	NA	Neuraminidase (EC 3.2.1.8)
+ss00788	NB	NB glycoprotein, integral component of the membrane of influenza B virus
+ss00788	NanP	Neuraminidase NanP
+ss00788	bGS	Beta-galactosidase (EC 3.2.1.23)
+ss00788	SlP	Sialidase-like protein
+ss00788	nanIJH	Sialidase (EC 3.2.1.18)
+ss00788	pbDG	probable beta-D-galactosidase
+ss00788	nanA	Sialidase A precursor (EC 3.2.1.18)
+ss00788	nanB	Sialidase B precursor (neuraminidase B)
+ss00788	Ner3	Sialidase 3 (EC 3.2.1.18)
+ss00788	Ner1	Sialidase 1 precursor (EC 3.2.1.18)
+ss00788	GST3	Galactose-3-O-sulfotransferase 3 (EC 2.8.2.-)
+ss00788	Ner4	Neuraminidase 4
+ss00788	Ner2	Sialidase 2 (EC 3.2.1.18)
+ss00788	PCDP	Programmed cell death protein 1 precursor
+ss00788	gp2	Glycoprotein gp2
+ss00788	GST	Galactosylceramide sulfotransferase (EC 2.8.2.11)
+ss00788	LDp	D-lactate dehydrogenase, part of the retrograde regulon which consists of genes whose expression is stimulated by damage to mitochondria and reduced in cells grown with glutamate as the sole nitrogen source
+ss00788	ING1	Inhibitor of growth protein 1
+ss00788	ING5	Homo sapiens inhibitor of growth family, member 5 (ING5)
+ss00788	AG	Alpha-galactosidase (EC 3.2.1.22)
+ss00788	AGp	Alpha-galactosidase precursor (EC 3.2.1.22)
+ss00788	AS	Arylsulfatase (EC 3.1.6.1)
+ss00788	GCp	Galactocerebrosidase precursor (EC 3.2.1.46)
+ss00788	CAA	Hepatocellular carcinoma-associated antigen 59
+ss00788	G4	G protein-coupled receptor 4
+ss00788	TA	Torsin A
+ss00788	BGs	Beta-galactosidase small subunit (EC 3.2.1.23)
+ss00788	BGl	Beta-galactosidase large subunit (EC 3.2.1.23)
+ss00788	BG3	Beta-galactosidase 3

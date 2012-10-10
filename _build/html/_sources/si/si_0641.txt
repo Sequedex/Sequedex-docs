@@ -1,0 +1,4 @@
+ss01027	PepM	Phosphoenolpyruvate phosphomutase (EC 5.4.2.9)
+ss01027	deCO2	Phosphonopyruvate decarboxylase (EC 4.1.1.82)
+ss01027	2-APAT	2-aminoethylphosphonate:pyruvate aminotransferase (EC 2.6.1.37)
+ss01027	SPAT	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase

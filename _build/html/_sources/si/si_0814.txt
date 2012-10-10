@@ -1,0 +1,18 @@
+ss00258	SD556	Succinate dehydrogenase cytochrome b-556 subunit
+ss00258	SDIS	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+ss00258	SDFAD	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+ss00258	SDM	Succinate dehydrogenase hydrophobic membrane anchor protein
+ss00258	SDC2	Succinate dehydrogenase cytochrome b subunit
+ss00258	pSdhC	Putative succinate dehydrogenase cytochrome b subunit
+ss00258	HSDM	Hypothetical succinate dehydrogenase membrane anhor protein
+ss00258	FRC	Fumarate reductase subunit C
+ss00258	FRD	Fumarate reductase subunit D
+ss00258	SDMN	Succinate dehydrogenase hydrophobic membrane anchor protein(Nostoc p.)
+ss00258	SD558	Succinate dehydrogenase cytochrome b558 subunit
+ss00258	FRCB	Fumarate reductase cytochrome b subunit
+ss00258	SD560	Succinate dehydrogenase cytochrome b560 subunit
+ss00258	SD560p	Succinate dehydrogenase cytochrome b560 subunit, mitochondrial precursor
+ss00258	FRFP	Fumarate reductase flavoprotein subunit (EC 1.3.99.1)
+ss00258	PSDA	putative succinate dehydrogenase [membrane anchor subunit] (succinic dehydrogenase)
+ss00258	SFR	soluble fumarate reductase, cytoplasmic
+ss00258	FRFP?	fumarate reductase/succinate dehydrogenase flavoprotein, N-terminal:FAD dependent oxidoreductase

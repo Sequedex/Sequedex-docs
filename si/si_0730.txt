@@ -1,0 +1,2 @@
+ss00237	Fib	Fibrillarin
+ss00237	Nop5/56	rRNA biogenesis protein Nop5/Nop56

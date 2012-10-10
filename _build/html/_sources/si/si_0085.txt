@@ -1,0 +1,46 @@
+ss00885	MalE	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE
+ss00885	MalF	Maltose/maltodextrin ABC transporter, permease protein MalF
+ss00885	MalG	Maltose/maltodextrin ABC transporter, permease protein MalG
+ss00885	MalK	Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)
+ss00885	MsmK	Multiple sugar ABC transporter, ATP-binding protein
+ss00885	LamB	Maltoporin (maltose/maltodextrin high-affinity receptor, phage lambda receptor protein)
+ss00885	MalM	Maltose operon periplasmic protein MalM
+ss00885	MalP	Glycogen phosphorylase (EC 2.4.1.1)
+ss00885	MalQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+ss00885	MalT	Transcriptional activator of maltose regulon, MalT
+ss00885	MalR	Maltose operon transcriptional repressor MalR, LacI family
+ss00885	MalA	Maltodextrose utilization protein MalA
+ss00885	MalZ	Maltodextrin glucosidase (EC 3.2.1.20)
+ss00885	SusB	Alpha-glucosidase (EC 3.2.1.20)
+ss00885	MalL	Oligo-1,6-glucosidase (EC 3.2.1.10)
+ss00885	NPL	Neopullulanase (EC 3.2.1.135)
+ss00885	MalS	Periplasmic alpha-amylase (EC 3.2.1.1)
+ss00885	PgmB	Beta-phosphoglucomutase (EC 5.4.2.6)
+ss00885	MapA	Maltose phosphorylase (EC 2.4.1.8)
+ss00885	YcjW	Transcriptional regulator YcjW, LacI family, possibly involved in maltodextrin utilization pathway
+ss00885	YcjS	Putative oxidoreductase YcjS (EC 1.-.-.-), NADH-binding
+ss00885	YcjR	Sugar phosphate isomerases/epimerases family protein YcjR
+ss00885	YcjQ	Zinc-type alcohol dehydrogenase YcjQ
+ss00885	YcjM	Putative sucrose phosphorylase (EC 2.4.1.7)
+ss00885	YcjP	Inner membrane ABC transporter permease protein YcjP
+ss00885	YcjO	Inner membrane ABC transporter permease protein YcjO
+ss00885	YcjN	ABC-type sugar transport system, periplasmic binding protein YcjN
+ss00885	MalY	Maltose regulon modulator
+ss00885	MalXb	PTS system, maltose and glucose-specific IIB component (EC 2.7.1.69)
+ss00885	MalXc	PTS system, maltose and glucose-specific IIC component (EC 2.7.1.69)
+ss00885	MalXa	PTS system, maltose and glucose-specific IIA component (EC 2.7.1.69)
+ss00885	GlvA	Maltose-6'-phosphate glucosidase (EC 3.2.1.122)
+ss00885	MalI	Maltose regulon regulatory protein MalI (repressor for malXY)
+ss00885	MTrS	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+ss00885	Mlc	Mlc, transcriptional repressor of MalT (the transcriptional activator of maltose regulon) and manXYZ operon
+ss00885	maa	Maltose O-acetyltransferase (EC 2.3.1.79)
+ss00885	AmyA	Cytoplasmic alpha-amylase (EC 3.2.1.1)
+ss00885	omp_mal	Predicted maltose-specific TonB-dependent receptor
+ss00885	malR	Transcriptional regulator of maltose utilization, LacI family
+ss00885	GT_mal	Predicted glucose transporter in maltodextrin utilization gene cluster
+ss00885	malT	Predicted maltose transporter MalT
+ss00885	cga	Glucoamylase (EC 3.2.1.3)
+ss00885	AE	Aldose 1-epimerase (EC 5.1.3.3)
+ss00885	Amy	Alpha-amylase (EC 3.2.1.1)
+ss00885	MalP1	Maltodextrin phosphorylase (EC 2.4.1.1)
+ss00885	YbbP	ABC transporter, permease protein YbbP clustered with maltose/maltodextrin transporter

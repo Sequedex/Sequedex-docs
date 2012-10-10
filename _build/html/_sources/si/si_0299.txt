@@ -1,0 +1,4 @@
+ss00011	R1	Alanyl-tRNA synthetase (EC 6.1.1.7)
+ss00011	R2	FIG004453: protein YceG like
+ss00011	R3	Putative Holliday junction resolvase (EC 3.1.-.-)
+ss00011	R4a	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)

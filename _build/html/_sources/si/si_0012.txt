@@ -1,0 +1,23 @@
+ss00829	UreC	Urease alpha subunit (EC 3.5.1.5)
+ss00829	UreB	Urease beta subunit (EC 3.5.1.5)
+ss00829	UreA	Urease gamma subunit (EC 3.5.1.5)
+ss00829	UreD	Urease accessory protein UreD
+ss00829	UreE	Urease accessory protein UreE
+ss00829	UreF	Urease accessory protein UreF
+ss00829	UreG	Urease accessory protein UreG
+ss00829	UreI	Urea channel UreI
+ss00829	UrtA	Urea ABC transporter, urea binding protein
+ss00829	UrtB	Urea ABC transporter, permease protein UrtB
+ss00829	UrtC	Urea ABC transporter, permease protein UrtC
+ss00829	UrtD	Urea ABC transporter, ATPase protein UrtD
+ss00829	UrtE	Urea ABC transporter, ATPase protein UrtE
+ss00829	UT	Eukaryotic-type low-affinity urea transporter
+ss00829	UC	Urea carboxylase
+ss00829	AH	Allophanate hydrolase
+ss00829	AMT	Urea carboxylase-related aminomethyltransferase (EC 2.1.2.10)
+ss00829	UCTsb	Urea carboxylase-related ABC transporter, periplasmic substrate-binding protein
+ss00829	UCTp	Urea carboxylase-related ABC transporter, permease protein
+ss00829	UCTa	Urea carboxylase-related ABC transporter, ATPase protein
+ss00829	UCTt	Urea carboxylase-related amino acid permease
+ss00829	UreJ	HupE-UreJ family metal transporter
+ss00829	UreH	Nickel transporter UreH

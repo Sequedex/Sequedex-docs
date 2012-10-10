@@ -1,0 +1,6 @@
+ss01043	sodA	Manganese superoxide dismutase (EC 1.15.1.1)
+ss01043	sodB	Superoxide dismutase [Fe] (EC 1.15.1.1)
+ss01043	sodC	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+ss01043	HPII	Catalase (EC 1.11.1.6)
+ss01043	HPI	Peroxidase (EC 1.11.1.7)
+ss01043	CCP	Cytochrome c551 peroxidase (EC 1.11.1.5)

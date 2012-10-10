@@ -1,0 +1,8 @@
+ss00001	ptxR	HTH-type transcriptional regulator PtxR
+ss00001	ptxS	2-ketogluconate utilization repressor PtxS
+ss00001	kguE	Epimerase KguE
+ss00001	kguK	2-ketogluconate kinase (EC 2.7.1.13)
+ss00001	kguT	2-ketogluconate transporter
+ss00001	kguD	2-ketogluconate 6-phosphate reductase (EC 1.1.1.43)
+ss00001	2KGR	2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)
+ss00001	DUF2324	Membrane protein DUF2324 in 2-Ketogluconate Utilization cluster

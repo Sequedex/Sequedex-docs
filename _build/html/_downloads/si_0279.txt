@@ -1,0 +1,28 @@
+ss00421	ftsA	Cell division protein FtsA
+ss00421	ftsW	Cell division protein FtsW
+ss00421	ftsZ	Cell division protein FtsZ (EC 3.4.24.-)
+ss00421	ftsQ	Cell division protein FtsQ
+ss00421	ftsI	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+ss00421	ftsJ	Cell division protein ftsJ
+ss00421	minC	Septum site-determining protein MinC
+ss00421	minD	Septum site-determining protein MinD
+ss00421	minE	Cell division topological specificity factor MinE
+ss00421	tig	Cell division trigger factor (EC 5.2.1.8)
+ss00421	ftsH	Cell division protein FtsH (EC 3.4.24.-)
+ss00421	mraZ	Cell division protein MraZ
+ss00421	ftsE	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
+ss00421	ftsX	Cell division protein FtsX
+ss00421	era	GTP-binding protein Era
+ss00421	ftsK	Cell division protein FtsK
+ss00421	ftsL	Cell division protein FtsL
+ss00421	cafA	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+ss00421	mreD	Rod shape-determining protein MreD
+ss00421	mreC	Rod shape-determining protein MreC
+ss00421	bolA	Cell division protein BolA
+ss00421	parA	Chromosome partitioning protein parA
+ss00421	maf	Septum formation protein Maf
+ss00421	mreB	Rod shape-determining protein MreB
+ss00421	DivIVA	Cell division initiation protein DivIVA
+ss00421	mraW	S-adenosyl-methyltransferase MraW (EC 2.1.1.-)
+ss00421	ftsY	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+ss00421	DivIC	Cell division protein DivIC

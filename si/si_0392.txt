@@ -1,0 +1,66 @@
+ss00544	CbiM	Substrate-specific component CbiM of cobalt ECF transporter
+ss00544	CbiN	Additional substrate-specific component CbiN of cobalt ECF transporter
+ss00544	CbiQ	Transmembrane component CbiQ of energizing module of cobalt ECF transporter
+ss00544	CbiO	ATPase component CbiO of energizing module of cobalt ECF transporter
+ss00544	NiCoT	HoxN/HupN/NixA family cobalt transporter
+ss00544	HupE	HupE-UreJ family cobalt transporter
+ss00544	CbtA	Predicted cobalt transporter CbtA
+ss00544	CbtC	Predicted cobalt transporter CbtC
+ss00544	CbiK	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)
+ss00544	CobA	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+ss00544	CbiL	Cobalt-precorrin-2 C20-methyltransferase (EC 2.1.1.130)
+ss00544	CbiH	Cobalt-precorrin-3b C17-methyltransferase
+ss00544	CbiG	Cobalamin biosynthesis protein CbiG
+ss00544	CobG	Cobalamin biosynthesis protein CobG
+ss00544	CbiF	Cobalt-precorrin-4 C11-methyltransferase (EC 2.1.1.133)
+ss00544	CbiD	Cobalt-precorrin-6 synthase, anaerobic
+ss00544	CbiJ	Cobalt-precorrin-6x reductase (EC 1.3.1.54)
+ss00544	CbiE	Cobalt-precorrin-6y C5-methyltransferase (EC 2.1.1.-)
+ss00544	CbiT	Cobalt-precorrin-6y C15-methyltransferase [decarboxylating] (EC 2.1.1.-)
+ss00544	CbiC	Cobalt-precorrin-8x methylmutase (EC 5.4.1.2)
+ss00544	CbiA	Cobyrinic acid A,C-diamide synthase
+ss00544	BtuR	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+ss00544	CbiP	Cobyric acid synthase
+ss00544	CobD	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+ss00544	CbiB	Adenosylcobinamide-phosphate synthase
+ss00544	CobU	Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+ss00544	CobT	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+ss00544	CobC	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)
+ss00544	CobS	Cobalamin synthase
+ss00544	BluB	5,6-dimethylbenzimidazole synthase, flavin destructase family
+ss00544	CbtG	Predicted cobalt transporter in Mycobacteria
+ss00544	CbtT	Predicted cobalt transporter in Thermoplasma
+ss00544	CbtD	Predicted cobalt transporter in Bacteroides_Porphyromonas
+ss00544	CbtF	Predicted cobalt ABC transporter periplasmic component
+ss00544	CbtX	Predicted cobalt transporter in sulfate-reducing delta-proteobacteria
+ss00544	CbiW	Putative 2Fe-2S ferredoxin CbiW involved in B12 biosynthesis
+ss00544	CobW	CobW GTPase involved in cobalt insertion for B12 biosynthesis
+ss00544	CobN	CobN component of cobalt chelatase involved in B12 biosynthesis
+ss00544	ChlI	ChlI component of cobalt chelatase involved in B12 biosynthesis
+ss00544	ChlD	ChlD component of cobalt chelatase involved in B12 biosynthesis
+ss00544	pCobS	Aerobic cobaltochelatase cobS subunit (EC 6.6.1.2)
+ss00544	pCobT	Aerobic cobaltochelatase cobT subunit (EC 6.6.1.2)
+ss00544	CbiX	Sirohydrochlorin cobaltochelatase (EC 4.99.1.3)
+ss00544	CobF	Precorrin-6A synthase (EC 2.1.1.152)
+ss00544	PduO	Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)
+ss00544	CblT	Substrate-specific component CblT of predicted B12-regulated ECF transporter for dimethylbenzimidazole
+ss00544	CblS	Predicted alpha-ribazole-5-phosphate synthase CblS for cobalamin biosynthesis
+ss00544	PduX	Threonine kinase in B12 biosynthesis
+ss00544	PduS	Cob(II)alamin reductase
+ss00544	CobZ	Predicted alpha-ribazole-5'-phosphate phosphatase CobZ (EC 3.1.3.73)
+ss00544	CbiZ	Adenosylcobinamide amidohydrolase (EC 3.5.1.90)
+ss00544	CobY	Predicted adenosylcobinamide-phosphate guanylyltransferase CobY (EC 2.7.7.62)
+ss00544	BtuB	Outer membrane vitamin B12 receptor BtuB
+ss00544	BtuF	Vitamin B12 ABC transporter, B12-binding component BtuF
+ss00544	BtuC	Vitamin B12 ABC transporter, permease component BtuC
+ss00544	BtuD	Vitamin B12 ABC transporter, ATPase component BtuD
+ss00544	CrdX	Cobalamine-related hypothetical metal-binding protein CrdX
+ss00544	BtuN	Optional hypothetical component of the B12 transporter BtuN
+ss00544	BtuM	Optional hypothetical component of the B12 transporter BtuM
+ss00544	CblY	CblY, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase
+ss00544	CblX	CblX, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase
+ss00544	CblZ	CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase
+ss00544	CbrT	Substrate-specific component CbrT of predicted cobalamin ECF transporter
+ss00544	B12_LP	Additional lipoprotein component of predicted cobalamin ECF transporter
+ss00544	CbrU	Duplicated ATPase component CbrU of energizing module of predicted cobalamin ECF transporter
+ss00544	CbrV	Transmembrane component CbrV of energizing module of predicted cobalamin ECF transporter

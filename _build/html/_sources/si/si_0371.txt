@@ -1,0 +1,4 @@
+ss01062	AbgT	Aminobenzoyl-glutamate transport protein
+ss01062	AbgA	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A
+ss01062	AbgB	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit B
+ss01062	AbgR	Regulatory protein (induces abgABT, used to catabolize p-aminobenzoyl-glutamate)

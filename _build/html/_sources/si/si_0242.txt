@@ -1,0 +1,4 @@
+ss01035	R1	Putative lipase in cluster with Phosphatidate cytidylyltransferase
+ss01035	R2	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+ss01035	R3	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+ss01035	R4	Ser/Thr and Tyr protein phosphatase (dual specificity)

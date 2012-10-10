@@ -1,0 +1,2 @@
+ss00191	R1	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+ss00191	R2	FIG138056: a glutathione-dependent thiol reductase

@@ -1,0 +1,10 @@
+ss00069	A	Malonate decarboxylase alpha subunit
+ss00069	B	Malonate decarboxylase beta subunit
+ss00069	C	Malonate decarboxylase gamma subunit
+ss00069	D	Malonate decarboxylase delta subunit
+ss00069	TL	Malonate transporter, MadL subunit
+ss00069	TM	Malonate transporter, MadM subunit
+ss00069	MCACPT	Malonyl CoA acyl carrier protein transacylase (EC 2.3.1.39)
+ss00069	TDCoAS	Triphosphoribosyl-dephospho-CoA synthetase (EC 2.7.8.25)
+ss00069	PDCoT	Phosphoribosyl-dephospho-CoA transferase (EC 2.7.7.-)
+ss00069	TRma	Malonate utilization transcriptional regulator

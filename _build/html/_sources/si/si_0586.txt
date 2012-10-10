@@ -1,0 +1,23 @@
+ss00076	aer	Aerotaxis sensor receptor protein
+ss00076	tap	Methyl-accepting chemotaxis protein IV (dipeptide chemoreceptor protein)
+ss00076	tar	Methyl-accepting chemotaxis protein II (aspartate chemoreceptor protein)
+ss00076	tsr	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+ss00076	trg	Methyl-accepting chemotaxis protein III (ribose and galactose chemoreceptor protein)
+ss00076	cheW	Positive regulator of CheA protein activity (CheW)
+ss00076	cheA	Signal transduction histidine kinase CheA (EC 2.7.3.-)
+ss00076	cheY	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
+ss00076	cheZ	Chemotaxis response - phosphatase CheZ
+ss00076	cheB	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+ss00076	fliG	Flagellar motor switch protein FliG
+ss00076	fliM	Flagellar motor switch protein FliM
+ss00076	fliN	Flagellar motor switch protein FliN
+ss00076	malE	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE
+ss00076	rbsB	Ribose ABC transporter, periplasmic ribose-binding protein rbsB (TC 3.A.1.2.1)
+ss00076	mglB	Galactose/methyl galactoside ABC transport system, D-galactose-binding periplasmic protein MglB (TC 3.A.1.2.3)
+ss00076	dppA	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+ss00076	cheR	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+ss00076	cheV	Chemotaxis protein CheV (EC 2.7.3.-)
+ss00076	cheD	Chemotaxis protein CheD
+ss00076	mcp	Methyl-accepting chemotaxis protein (force no match)
+ss00076	cheC	Chemotaxis protein CheC -- inhibitor of MCP methylation
+ss00076	cheX	Chemotaxis protein CheX

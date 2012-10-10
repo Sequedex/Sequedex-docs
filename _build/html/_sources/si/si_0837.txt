@@ -1,0 +1,5 @@
+ss00813	CM	trans-cinnamate 4-monooxygenase
+ss00813	CL	4-coumarate--CoA ligase 1 (EC 6.2.1.12)
+ss00813	ChS	Chalcone synthase (EC 2.3.1.74)
+ss00813	ChI	Chalcone--flavonone isomerase (EC 5.5.1.6)
+ss00813	FH	Flavanone-3-hydroxylase (EC 1.14.11.9)

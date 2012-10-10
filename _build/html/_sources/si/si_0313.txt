@@ -1,0 +1,3 @@
+ss00399	R1	Ycf36 protein
+ss00399	R2	L-asparaginase (EC 3.5.1.1)
+ss00399	R3	FIGfam135315: Iojap-related protein

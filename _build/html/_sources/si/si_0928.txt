@@ -1,0 +1,3 @@
+ss00407	cadA	Cadmium-transporting ATPase (EC 3.6.3.3)
+ss00407	cadC	Cadmium efflux system accessory protein
+ss00407	cadD	Cadmium resistance protein

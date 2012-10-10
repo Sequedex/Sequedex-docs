@@ -1,0 +1,6 @@
+ss00942	R1	Lin1875 protein
+ss00942	R2	DNA ligase (EC 6.5.1.2)
+ss00942	R3	ATP-dependent DNA helicase UvrD/PcrA
+ss00942	R4	(S)-3-O-geranylgeranylglyceryl phosphate synthase
+ss00942	R5	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+ss00942	R1?	His repressor

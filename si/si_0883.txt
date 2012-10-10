@@ -1,0 +1,5 @@
+ss00432	ssuA	Alkanesulfonates-binding protein
+ss00432	ssuB	Alkanesulfonates ABC transporter ATP-binding protein
+ss00432	ssuC	Alkanesulfonates transport system permease protein
+ss00432	ssuD	Alkanesulfonate monooxygenase (EC 1.14.14.5)
+ss00432	ssuE	FMN reductase (EC 1.5.1.29)

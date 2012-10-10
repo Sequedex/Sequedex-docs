@@ -1,0 +1,63 @@
+ss00741	flgA	Flagellar basal-body P-ring formation protein FlgA
+ss00741	flgB	Flagellar basal-body rod protein FlgB
+ss00741	flgC	Flagellar basal-body rod protein FlgC
+ss00741	flgD	Flagellar basal-body rod modification protein FlgD
+ss00741	flgE	Flagellar hook protein FlgE
+ss00741	flgF	Flagellar basal-body rod protein FlgF
+ss00741	flgG	Flagellar basal-body rod protein FlgG
+ss00741	flgH	Flagellar L-ring protein FlgH
+ss00741	flgI	Flagellar P-ring protein FlgI
+ss00741	flgJ	Flagellar protein FlgJ [peptidoglycan hydrolase] (EC 3.2.1.-)
+ss00741	flgK	Flagellar hook-associated protein FlgK
+ss00741	flgL	Flagellar hook-associated protein FlgL
+ss00741	flgN	Flagellar biosynthesis protein FlgN
+ss00741	flhA	Flagellar biosynthesis protein FlhA
+ss00741	fliE	Flagellar hook-basal body complex protein FliE
+ss00741	fliF	Flagellar M-ring protein FliF
+ss00741	fliG	Flagellar motor switch protein FliG
+ss00741	fliH	Flagellar assembly protein FliH
+ss00741	fliI	Flagellum-specific ATP synthase FliI
+ss00741	fliJ	Flagellar protein FliJ
+ss00741	fliK	Flagellar hook-length control protein FliK
+ss00741	fliM	Flagellar motor switch protein FliM
+ss00741	fliN	Flagellar motor switch protein FliN
+ss00741	fliP	Flagellar biosynthesis protein FliP
+ss00741	fliQ	Flagellar biosynthesis protein FliQ
+ss00741	fliR	Flagellar biosynthesis protein FliR
+ss00741	fliZ	Flagellar biosynthesis protein FliZ
+ss00741	fliC	Flagellar biosynthesis protein FliC
+ss00741	fliD	Flagellar hook-associated protein FliD
+ss00741	fliS	Flagellar biosynthesis protein FliS
+ss00741	fliT	Flagellar biosynthesis protein FliT
+ss00741	fliO	Flagellar biosynthesis protein FliO
+ss00741	flhB	Flagellar biosynthesis protein FlhB
+ss00741	flhF	Flagellar biosynthesis protein FlhF
+ss00741	RP-Sigma	RNA polymerase sigma factor for flagellar operon
+ss00741	fleN	Flagellar synthesis regulator FleN
+ss00741	motA	Flagellar motor rotation protein MotA
+ss00741	motB	Flagellar motor rotation protein MotB
+ss00741	flaA	Flagellin protein FlaA
+ss00741	flaB	Flagellin protein FlaB
+ss00741	rpoD	RNA polymerase sigma factor RpoD
+ss00741	flhE	Flagellar protein FlhE
+ss00741	flhC1	Flagellar biosynthesis protein flhC
+ss00741	flhD2	Flagellar biosynthesis protein flhD
+ss00741	fliA	Flagellar biosynthesis protein fliA
+ss00741	flgM	Flagellar biosynthesis protein flgM
+ss00741	flhD	Flagellar transcriptional activator FlhD
+ss00741	flhC	Flagellar transcriptional activator FlhC
+ss00741	fliX	Flagellar trans-acting factor FliX
+ss00741	flbD	Flagellar protein FlbD
+ss00741	flbB	Flagellar protein FlbB
+ss00741	NegReg2	Negative regulator of flagellin synthesis FlgM
+ss00741	NegReg	Negative regulator of flagellin synthesis
+ss00741	flaG	Flagellin protein FlaG
+ss00741	flaC	Flagellin protein FlaC
+ss00741	flaD	Flagellin protein FlaD
+ss00741	flaE	Flagellin protein FlaE
+ss00741	flaF	Flagellin protein FlaF
+ss00741	fleQ	Flagellar regulatory protein FleQ
+ss00741	rpoN	RNA polymerase sigma-54 factor RpoN
+ss00741	hook3	Flagellar hook-associated protein 3
+ss00741	fleS	Flagellar sensor histidine kinase FleS
+ss00741	fliL	Flagellar biosynthesis protein FliL

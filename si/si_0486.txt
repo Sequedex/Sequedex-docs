@@ -1,0 +1,70 @@
+ss00286	ViuA	Ferric vibriobactin receptor ViuA
+ss00286	ViuB	Vibriobactin utilization protein ViuB
+ss00286	VibF	Non-ribosomal peptide synthetase modules, siderophore biosynthesis
+ss00286	VuuA	Ferric vulnibactin receptor VuuA
+ss00286	VuuB	Vulnibactin utilization protein VuuB
+ss00286	IchPL	Isochorismate pyruvate-lyase of siderophore biosynthesis
+ss00286	VibA	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28)
+ss00286	VibB	Isochorismatase (EC 3.3.2.1) of siderophore biosynthesis
+ss00286	VibC	Isochorismate synthase (EC 5.4.4.2) of siderophore biosynthesis
+ss00286	VibD	Phosphopantetheinyl transferase component of siderophore synthetase (EC 2.7.8.-)
+ss00286	VibH	Amide synthase component of siderophore synthetase
+ss00286	VibE	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58)
+ss00286	ViuP	Ferric vibriobactin, enterobactin transport system, substrate-binding protein ViuP (TC 3.A.1.14.6)
+ss00286	ViuD	Ferric vibriobactin, enterobactin transport system, permease protein ViuD (TC 3.A.1.14.6)
+ss00286	ViuG	Ferric vibriobactin, enterobactin transport system, permease protein ViuG (TC 3.A.1.14.6)
+ss00286	ViuC	Ferric vibriobactin, enterobactin transport system, ATP-binding protein ViuC (TC 3.A.1.14.6)
+ss00286	Reg?	Transcriptional regulator near Vibriobactin biosynthetic gene custer
+ss00286	VctP	Ferric vibriobactin, enterobactin transport system, substrate-binding protein VctP (TC 3.A.1.14.6)
+ss00286	VctD	Ferric vibriobactin, enterobactin transport system, permease protein VctD (TC 3.A.1.14.6)
+ss00286	VctG	Ferric vibriobactin, enterobactin transport system, permease protein VctG (TC 3.A.1.14.6)
+ss00286	VctC	Ferric vibriobactin, enterobactin transport system, ATP-binding protein (TC 3.A.1.14.6)
+ss00286	VCA0231	Transcriptional regulator, VCA0231 ortholog
+ss00286	VctA	Enterobactin receptor VctA
+ss00286	Hyp1	Hypothetical protein colocalized with Enterobactin receptor VctA
+ss00286	IrgA	Enterobactin receptor IrgA
+ss00286	IrgB	Iron-regulated virulence regulatory protein irgB
+ss00286	TonB	TonB-dependent receptor
+ss00286	FhuA	Ferrichrome-iron receptor
+ss00286	FhuB	Ferrichrome transport system permease protein fhuB (TC 3.A.1.14.3)
+ss00286	FhuC	Ferrichrome transport ATP-binding protein FhuC (TC 3.A.1.14.3)
+ss00286	FhuD	Ferrichrome-binding periplasmic protein precursor (TC 3.A.1.14.3)
+ss00286	FhuA2	Ferric hydroxamate outer membrane receptor FhuA
+ss00286	FhuD2	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), periplasmic substrate binding protein FhuD
+ss00286	FhuC2	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), ATP-binding protein FhuC
+ss00286	FhuB2	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), permease component FhuB
+ss00286	FeoA	Ferrous iron transport protein A
+ss00286	FeoB	Ferrous iron transport protein B
+ss00286	FeoC	Ferrous iron transport protein C
+ss00286	FbpA	Ferric iron ABC transporter, iron-binding protein
+ss00286	FbpB	Ferric iron ABC transporter, permease protein
+ss00286	FbpC	Ferric iron ABC transporter, ATP-binding protein
+ss00286	FUR	Ferric uptake regulation protein FUR
+ss00286	VatD	Ferric aerobactin ABC transporter, periplasmic substrate binding protein
+ss00286	VatB	Ferric aerobactin ABC transporter, permease component
+ss00286	VatC	Ferric aerobactin ABC transporter, ATPase component
+ss00286	iutA	Aerobactin siderophore receptor IutA
+ss00286	iutR	Transcriptional repressor of aerobactin receptor iutR
+ss00286	iucA	Citrate:6-N-acetyl-6-N-hydroxy-L-lysine ligase, alpha subunit (EC 6.3.2.27), aerobactin biosynthesis protein IucA
+ss00286	iucB	N6-hydroxylysine O-acetyltransferase (EC 2.3.1.102), aerobactin biosynthesis protein IucB
+ss00286	iucC	Citrate:6-N-acetyl-6-N-hydroxy-L-lysine ligase, beta subunit (EC 6.3.2.27), aerobactin biosynthesis protein IucC
+ss00286	iucD	L-lysine 6-monooxygenase [NADPH] (EC 1.14.13.59), aerobactin biosynthesis protein IucD
+ss00286	abc4	Catechol siderophore ABC transporter, substrate-binding protein
+ss00286	abc1	Catechol siderophore ABC transporter, ATP-binding component
+ss00286	abc23	Catechol siderophore ABC transporter, permease component
+ss00286	UtX	Utilization protein for unknown catechol-siderophore X
+ss00286	BFR	Bacterioferritin
+ss00286	BFD	Bacterioferritin-associated ferredoxin
+ss00286	hutW	Similar to coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+ss00286	HutX	Putative heme iron utilization protein
+ss00286	HutZ	Pyridoxamine 5'-phosphate oxidase-related putative heme iron utilization protein
+ss00286	HutA	TonB-dependent heme and hemoglobin receptor HutA
+ss00286	HasR	Putative TonB-dependent heme receptor HasR
+ss00286	HutR	TonB-dependent heme receptor HutR
+ss00286	PtrB	Protease II (EC 3.4.21.83)
+ss00286	VCA065	Hypothetical with regulatory P domain of a subtilisin-like proprotein convertase
+ss00286	VCA066	Hypothetical protein in cluster with HutR, VCA0066 homolog
+ss00286	VCA067	Hypothetical protein in cluster with HutR, VCA0067 homolog
+ss00286	Hyp2	Hypothetical protein in aerobactin uptake cluster
+ss00286	Hem_abc1	Hemin ABC transporter, permease protein
+ss00286	RyhB	Regulatory small RNA involved in iron homeostasis RyhB

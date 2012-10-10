@@ -1,0 +1,4 @@
+ss00207	MexA	Multidrug efflux membrane fusion protein MexA
+ss00207	MexB	Multidrug efflux transporter MexB
+ss00207	OprM	Outer membrane protein OprM
+ss00207	MexR	Transcriptional regulator MexR

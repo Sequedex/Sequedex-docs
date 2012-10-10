@@ -1,0 +1,2 @@
+ss00617	FCFS	Flavocytochrome c flavin subunit
+ss00617	FCHS	Flavocytochrome c heme subunit

@@ -1,0 +1,5 @@
+ss00176	R1	LppC putative lipoprotein
+ss00176	R2	Tetrapyrrole (Corrin-Porphyrin) methylase family protein UPF0011
+ss00176	R3	Predicted endonuclease distantly related to archaeal Holliday junction resolvase
+ss00176	R4	Phosphoheptose isomerase (EC 5.3.1.-)
+ss00176	R5	21 kDa hemolysin precursor

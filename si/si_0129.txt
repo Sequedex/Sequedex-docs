@@ -1,0 +1,12 @@
+ss00194	PrpE	Propionate--CoA ligase (EC 6.2.1.17)
+ss00194	PrpC	2-methylcitrate synthase (EC 2.3.3.5)
+ss00194	PrpD	2-methylcitrate dehydratase (EC 4.2.1.79)
+ss00194	AcnD	2-methylcitrate dehydratase FeS dependent (EC 4.2.1.79)
+ss00194	PrpF	PrpF protein involved in 2-methylcitrate cycle
+ss00194	MICDH	2-methylisocitrate dehydratase (EC 4.2.1.99)
+ss00194	PrpB	Methylisocitrate lyase (EC 4.1.3.30)
+ss00194	PrpR	Propionate catabolism operon regulatory protein PrpR
+ss00194	PrpR1	Propionate catabolism operon transcriptional regulator of GntR family [predicted]
+ss00194	AcnB	Aconitate hydratase 2 (EC 4.2.1.3)
+ss00194	TdcD	Propionate kinase (EC 2.7.2.15)
+ss00194	Acs	Acetyl-coenzyme A synthetase (EC 6.2.1.1)

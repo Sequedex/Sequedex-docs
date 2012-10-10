@@ -1,0 +1,7 @@
+ss00120	COG0779	COG0779: clustered with transcription termination protein NusA
+ss00120	NusA	Transcription termination protein NusA
+ss00120	COG2740	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+ss00120	L7Ae-like	ribosomal protein L7Ae family protein
+ss00120	TF2	Translation initiation factor 2
+ss00120	YlxP	YlxP-like protein
+ss00120	RbfA	Ribosome-binding factor A

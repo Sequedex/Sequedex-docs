@@ -1,0 +1,14 @@
+ss00660	R1	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)
+ss00660	R2	Exopolysaccharide production protein ExoF precursor
+ss00660	R3	Glycosyltransferase
+ss00660	R4	Tyrosine-protein kinase Wzc (EC 2.7.10.2)
+ss00660	R5	Exopolysaccharide production protein ExoQ
+ss00660	R6	STRUCTURAL ELEMENTS; Cell Exterior; surface polysaccharides/antigens
+ss00660	R7	putative glycosyltransferase protein
+ss00660	R8	Glycosyl transferase, group 1
+ss00660	R9	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+ss00660	R10	Aldehyde dehydrogenase-like protein
+ss00660	R11	Putative glycosyltransferase protein
+ss00660	R12	Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)
+ss00660	R16	Secretion protein, HlyD family
+ss00660	R17	Exopolysaccharide production protein ExoZ

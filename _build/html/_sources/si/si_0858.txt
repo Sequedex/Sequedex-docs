@@ -1,0 +1,30 @@
+ss00722	MTGR	Uncharacterized monothiol glutaredoxin ycf64-like
+ss00722	GR3	Glutaredoxin 3
+ss00722	GR1	Glutaredoxin 1
+ss00722	AUX2	Protein export cytoplasm chaperone protein (SecB, maintains protein to be exported in unfolded state)
+ss00722	AUX3	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+ss00722	AUX4	tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)
+ss00722	AUX5	Competence protein F
+ss00722	AUX6	Glutathione synthetase (EC 6.3.2.3)
+ss00722	AUX7	Phosphocarrier protein, nitrogen regulation associated
+ss00722	AUX8	ATP/GTP-binding site motif A (P-loop) :BolA-like protein
+ss00722	AUX9	Cell wall endopeptidase, family M23/M37
+ss00722	RLDP	Rhodanese-like domain protein
+ss00722	GrxC	Glutaredoxin GrxC
+ss00722	AUX10	Multidrug resistance protein Atm1
+ss00722	AUX11a	Chaperone protein HscB
+ss00722	AUX11b	Chaperone protein HscA
+ss00722	grlA	Probable monothiol glutaredoxin GrlA
+ss00722	GRR	Glutaredoxin-related protein
+ss00722	AUX12	Peptide chain release factor 1
+ss00722	AUX1	Cell division protein BolA
+ss00722	AUX13	TrkA, Potassium channel-family protein
+ss00722	AUX14	23S rRNA (Uracil-5-) -methyltransferase rumB (EC 2.1.1.-)
+ss00722	AUX15	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)
+ss00722	GR_N?	Glutaredoxin
+ss00722	AUX16	Riboflavin kinase (EC 2.7.1.26)
+ss00722	AUX17	Flavohemoprotein (Hemoglobin-like protein) (Flavohemoglobin) (Nitric oxide dioxygenase) (EC 1.14.12.17)
+ss00722	AUX18	Thiol-disulfide isomerase
+ss00722	AUX19	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+ss00722	GR2	Glutaredoxin 2
+ss00722	GRNrdH	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib

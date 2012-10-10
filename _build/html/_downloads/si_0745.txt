@@ -1,0 +1,5 @@
+ss01020	TBP	TATA-box binding protein
+ss01020	TFB	Transcription initiation factor B
+ss01020	TFE	Archaeal transcription factor E
+ss01020	TFB-rel	Transcription initiation factor B-related protein
+ss01020	TFB-like	Zinc finger, TFIIB-type domain protein

@@ -1,0 +1,13 @@
+ss00537	FruIIA	PTS system, fructose-specific IIA component (EC 2.7.1.69)
+ss00537	Fpr	Fructose-specific phosphocarrier protein HPr (EC 2.7.1.69)
+ss00537	FruIIB	PTS system, fructose-specific IIB component (EC 2.7.1.69)
+ss00537	FruIIC	PTS system, fructose-specific IIC component (EC 2.7.1.69)
+ss00537	FruK	1-phosphofructokinase (EC 2.7.1.56)
+ss00537	FrcA	Fructose ABC transporter, ATP-binding component FrcA
+ss00537	FrcB	Fructose ABC transporter, substrate-binding component FrcB
+ss00537	FrcC	Fructose ABC transporter, permease component FrcC
+ss00537	FrcK	Fructokinase FrcK (EC 2.7.1.4)
+ss00537	FrcR	Transcriptional regulator FrcR for fructose utilization, ROK family
+ss00537	FK	Fructokinase (EC 2.7.1.4)
+ss00537	FruR2	Transcriptional repressor of the fructose operon, DeoR family
+ss00537	FruR1	Fructose repressor FruR, LacI family

@@ -1,0 +1,48 @@
+ss00463	KinA	Sporulation kinase A (EC 2.7.13.3)
+ss00463	KapD	KapD, inhibitor of KinA pathway to sporulation
+ss00463	KinB	Sporulation kinase B (EC 2.7.13.3)
+ss00463	KapB	KapB, lipoprotein required for KinB pathway to sporulation
+ss00463	KinC	Sporulation kinase C (EC 2.7.13.3)
+ss00463	Spo0A	Stage 0 sporulation two-component response regulator (Spo0A)
+ss00463	SpoIVB	Stage IV sporulation protein B
+ss00463	SpoIIM	Stage II sporulation protein M (SpoIIM)
+ss00463	Spo0B	Sporulation initiation phosphotransferase B (Spo0B)
+ss00463	SpoIVFA	Stage IV sporulation protein FA (SpoIVFA)
+ss00463	SpoIVFB	Stage IV sporulation pro-sigma-K processing enzyme (SpoIVFB)
+ss00463	Spo0F	Sporulation initiation phosphotransferase (Spo0F)
+ss00463	SpoIIB	Stage II sporulation protein B
+ss00463	SpoIID	Stage II sporulation protein D (SpoIID)
+ss00463	SpoIIQ	Stage II sporulation protein related to metaloproteases (SpoIIQ)
+ss00463	SpoIIID	Stage III sporulation protein D
+ss00463	SpoIIE	Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)
+ss00463	SpoIIGA	Sporulation sigma-E factor processing peptidase (SpoIIGA)
+ss00463	SigE	RNA polymerase sporulation specific sigma factor SigE
+ss00463	SigG	RNA polymerase sporulation specific sigma factor SigG
+ss00463	SpoIIP	Stage II sporulation protein P
+ss00463	SpoIIR	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+ss00463	SpoIIIAA	Stage III sporulation protein AA
+ss00463	SpoIIIAB	Stage III sporulation protein AB
+ss00463	SpoIIIAC	Stage III sporulation protein AC
+ss00463	SpoIIIAD	Stage III sporulation protein AD
+ss00463	spoIIIE	Stage III sporulation protein AE
+ss00463	spoIIIF	Stage III sporulation protein AF
+ss00463	spoIIIG	Stage III sporulation protein AG
+ss00463	spoIIIH	Stage III sporulation protein AH
+ss00463	SpoIVA	Stage IV sporulation protein A
+ss00463	SpoVAA	Stage V sporulation protein AA (SpoVAA)
+ss00463	SpoVAB	Stage V sporulation protein AB (SpoVAB)
+ss00463	SpoVAC	Stage V sporulation protein AC (SpoVAC)
+ss00463	SpoVAD	Stage V sporulation protein AD (SpoVAD)
+ss00463	SpoVAE	Stage V sporulation protein AE (SpoVAE)
+ss00463	SpoVAF	Stage V sporulation protein AF (SpoVAF)
+ss00463	SigF	RNA polymerase sporulation specific sigma factor SigF
+ss00463	SpoVB	Stage V sporulation protein B
+ss00463	SpoVT	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+ss00463	SpoVD	Stage V sporulation protein D (Sporulation-specific penicillin-binding protein)
+ss00463	SpoVE	Stage V sporulation protein E
+ss00463	SpoVK	Stage V sporulation protein whose disruption leads to the production of immature spores (SpoVK)
+ss00463	SpoVM	Stage V sporulation protein required for normal spore cortex and coat synthesis (SpoVM)
+ss00463	SpoVR	Stage V sporulation protein involved in spore cortex synthesis (SpoVR)
+ss00463	SpoVS	Stage V sporulation protein required for dehydratation of the spore core and assembly of the coat (SpoVS)
+ss00463	SpoVID	Stage VI sporulation protein D
+ss00463	SigK	RNA polymerase sporulation specific sigma factor SigK

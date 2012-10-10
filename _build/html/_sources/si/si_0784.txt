@@ -1,0 +1,7 @@
+ss00938	SpoT	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+ss00938	Spo	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+ss00938	RelA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+ss00938	APRT	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+ss00938	His-tRS	Histidyl-tRNA synthetase (EC 6.1.1.21)
+ss00938	Tyr-tRD	D-tyrosyl-tRNA(Tyr) deacylase (EC 3.1.-.-)
+ss00938	gpp	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase (EC 3.6.1.40)

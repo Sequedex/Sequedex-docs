@@ -1,0 +1,3 @@
+ss01034	LepB	Signal peptidase I (EC 3.4.21.89)
+ss01034	LspA	Lipoprotein signal peptidase (EC 3.4.23.36)
+ss01034	PibD	Signal peptidase, type IV - prepilin/preflagellin

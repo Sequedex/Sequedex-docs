@@ -1,0 +1,14 @@
+ss00641	ScrB	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)
+ss00641	FruK	Fructokinase (EC 2.7.1.4)
+ss00641	ScrR_3	Sucrose operon repressor ScrR, LacI family
+ss00641	CscR	Sucrose specific transcriptional regulator CscR, LacI family
+ss00641	EIIB	PTS system, sucrose-specific IIB component (EC 2.7.1.69)
+ss00641	EIIC	PTS system, sucrose-specific IIC component (EC 2.7.1.69)
+ss00641	EIIA	PTS system, sucrose-specific IIA component (EC 2.7.1.69)
+ss00641	GH13	Family 13 glycosyl hydrolase, row 724
+ss00641	SucP	Sucrose permease, major facilitator superfamily
+ss00641	ScrP	Sucrose phosphorylase (EC 2.4.1.7)
+ss00641	ScrT2	Predicted sucrose permease, MFS family, FucP subfamily
+ss00641	ScrR_shew	Sucrose repressor, LacI family, Shewanella subfamily
+ss00641	omp_scr	Predicted sucrose-specific TonB-dependent receptor
+ss00641	ScrT1	Sucrose transporter ScrT, MFS family

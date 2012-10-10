@@ -1,0 +1,4 @@
+ss00337	DinG	ATP-dependent helicase DinG/Rad3
+ss00337	YoaA	DinG family ATP-dependent helicase YoaA
+ss00337	YpvA	DinG family ATP-dependent helicase YpvA
+ss00337	CPE1197	DinG family ATP-dependent helicase CPE1197

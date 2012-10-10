@@ -1,0 +1,70 @@
+ss00543	m22G10	tRNA-(G10-N2) methyltransferase; tRNA-(G10-N2) dimethyltransferase
+ss00543	Psi132228?	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+ss00543	preQ0G15	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 1
+ss00543	G*G15	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 2
+ss00543	m22G26	tRNA N2,N2-dimethyl(Guanine26-N2)-methyltransferase (EC 2.1.1.32)
+ss00543	Cm32?	tRNA:Cm32/Um32 methyltransferase
+ss00543	ac4C34?	Predicted P-loop ATPase fused to an acetyltransferase COG1444
+ss00543	o5U34	missing gene
+ss00543	trm9-like	5-carboxymethyl uridine and 5-carboxymethyl 2-thiouridine methyltransferase
+ss00543	TUC1	TilS and TtcA-like
+ss00543	ELP3	histone acetyltransferase, ELP3 family
+ss00543	cm34/Um39	guideRNA
+ss00543	COG2118	DNA-binding protein MTH1615
+ss00543	COG2117	COG2117: Predicted ATPase of the PP-loop superfamily
+ss00543	t6A37	Sua5 YciO YrdC YwlC family protein
+ss00543	m1G37	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+ss00543	mimG	Fe-S OXIDOREDUCTASE (1.8.-.-) Wyeosine biosynthesis
+ss00543	Psi38/39	tRNA pseudouridine synthase A (EC 4.2.1.70)
+ss00543	m5C4748	tRNA m5C48-49 methylase
+ss00543	metX	tRNA/RNA cytosine-C5-methylase (EC 2.1.1.-)
+ss00543	m1Psi54?	protein of unknown function DUF358
+ss00543	PsuX	tRNA pseudouridine 55 synthase Archaea
+ss00543	Cbf5	tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+ss00543	Cm56	tRNA cytosine methylase Pos56
+ss00543	m1A57/58	tRNA (adenine57/58-N1)-methyltransferase (EC 2.1.1.36)
+ss00543	COG1491	Predicted RNA-binding protein COG1491
+ss00543	MTA	Methylthioadenosine deaminase
+ss00543	COG2016	conserved protein with predicted RNA binding PUA domain
+ss00543	Dus	tRNA dihydrouridine synthase B (EC 1.-.-.-)
+ss00543	COG2263	Predicted RNA methylase COG2263
+ss00543	cog1537	COG1537: Predicted RNA-binding proteins
+ss00543	Nop10	Ribosome biogenesis protein Nop10
+ss00543	COG1568	Predicted methyltransferase, DUF43 family
+ss00543	MetThump	Predicted N6-adenine-specific RNA methylase containing THUMP domain
+ss00543	trmA-like	tRNA (Uracil54-C5-)-methyltransferase (EC 2.1.1.35)
+ss00543	ATPbind	Hypothetical ATP-binding protein, containing DUF265 domain
+ss00543	Archease	Archease
+ss00543	tusA-like	Rhodanese-like domain protein
+ss00543	COG1848	predicted nucleic acid-binding protein, containing PIN domain COG1848
+ss00543	rimO	tRNA-i(6)A37 methylthiotransferase
+ss00543	metY?	tRNA and rRNA cytosine-C5-methylase Type 1
+ss00543	ThiI	Thiamine biosynthesis protein thiI
+ss00543	CDS	Cysteine desulfurase (EC 2.8.1.7)
+ss00543	COG1094	Putative RNA-binding protein COG1094
+ss00543	DUF71	conserved hypothetical protein [Pyrococcus horikoshii]; COG2102: Predicted ATPases of PP-loop superfamily; IPR002761: Domain of unknown function DUF71
+ss00543	COG2047	COG2047: Uncharacterized protein (ATP-grasp superfamily)
+ss00543	?	archaeal ATPase, fused to C-terminal DUF234 domain
+ss00543	COG1571	OB-fold nucleic acid binding domain protein COG1571
+ss00543	COG2078	COG2078: Uncharacterized ACR
+ss00543	COG1355	COG1355, Predicted dioxygenase
+ss00543	COF1180	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+ss00543	TgtA3	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) PUA domain
+ss00543	RtcB	Protein RtcB
+ss00543	Met	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+ss00543	yaeB	COG1720: Uncharacterized conserved protein
+ss00543	s2C	tRNA(Cytosine32)-2-thiocytidine synthetase
+ss00543	tilS3	TilS-like 3
+ss00543	tilS4	TilS-like 4
+ss00543	s2T	tRNA(U54)-2-thioribothymidine synthetase
+ss00543	tilS2	TilS-like type 2
+ss00543	thiIlike	Thiamine biosynthesis protein thiI-like
+ss00543	AsnSlike	Asparagine--tRNA ligase related protein
+ss00543	AsnS	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+ss00543	PUApaps	PUA-PAPS reductase like fusion
+ss00543	IscU	Iron-sulfur cluster assembly scaffold protein IscU
+ss00543	TtuB	TtuB
+ss00543	COG3269	COG3269, Predicted RNA-binding protein, contains TRAM domain
+ss00543	Era	GTP-binding protein Era
+ss00543	COG1293	COG1293, Predicted RNA-binding protein homologous to eukaryotic snRNP
+ss00543	alaX	Alanyl-tRNA synthetase domain protein

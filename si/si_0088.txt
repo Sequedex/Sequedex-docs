@@ -1,0 +1,5 @@
+ss00904	ScrP	Sucrose phosphorylase (EC 2.4.1.7)
+ss00904	ScrT	Predicted sucrose permease, MFS family, FucP subfamily
+ss00904	ScrK	Fructokinase (EC 2.7.1.4)
+ss00904	OMP	Predicted sucrose-specific TonB-dependent receptor
+ss00904	ScrR	Sucrose repressor, LacI family, Shewanella subfamily

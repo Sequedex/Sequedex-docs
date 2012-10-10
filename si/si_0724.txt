@@ -1,0 +1,10 @@
+ss00666	Rrp41	Exosome complex exonuclease RRP41 (EC 3.1.13.-)
+ss00666	Rrp42	Exosome complex exonuclease RRP42 (EC 3.1.13.-)
+ss00666	Rrp43	Exosome complex exonuclease RRP43 (EC 3.1.13.-)
+ss00666	Rrp45	Exosome complex exonuclease RRP45 (EC 3.1.13.-)
+ss00666	Rrp46	Exosome complex exonuclease RRP46 (EC 3.1.13.-)
+ss00666	Mtr3	Exosome complex exonuclease MTR3 (EC 3.1.13.-)
+ss00666	Csl4	Exosome complex RNA binding Csl4
+ss00666	Rrp4	Exosome complex exonuclease RRP4
+ss00666	Rrp40	Exosome complex RNA binding RRP40
+ss00666	Rrp6	Exosome complex exonuclease RRP6 (EC 3.1.13.-)

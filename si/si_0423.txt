@@ -1,0 +1,17 @@
+ss00818	comC	Late competence protein ComC, processing protease
+ss00818	comEA	Late competence protein ComEA, DNA receptor
+ss00818	comEC	Late competence protein ComEC, DNA transport
+ss00818	comFA	ComF operon protein A, DNA transporter ATPase
+ss00818	comFC	ComF operon protein C
+ss00818	comGA	Late competence protein ComGA, access of DNA to ComEA
+ss00818	comGB	Late competence protein ComGB, access of DNA to ComEA
+ss00818	comGC	late competence protein ComGC, access of DNA to ComEA
+ss00818	comGD	late competence protein ComGD, access of DNA to ComEA
+ss00818	comGE	late competence protein ComGE, access of DNA to ComEA
+ss00818	comGF	late competence protein ComGF, access of DNA to ComEA
+ss00818	comGG	late competence protein ComGG, access of DNA to ComEA
+ss00818	comG6	late competence protein B.cereus like ComG6, access of DNA to ComEA
+ss00818	comG7	late competence protein B.cereus like ComG7, access of DNA to ComEA
+ss00818	coiA	Competence protein CoiA
+ss00818	MecA	Negative regulator of genetic competence MecA
+ss00818	entNuc	DNA-entry nuclease (Competence-specific nuclease) (EC 3.1.30.-)

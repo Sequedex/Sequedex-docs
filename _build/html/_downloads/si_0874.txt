@@ -1,0 +1,5 @@
+ss00464	DMAAH	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+ss00464	PRMT1	protein arginine methyltransferase type 1 (ADMA formation)
+ss00464	PRMT2	protein arginine methyltransferase type 2 (SDMA formation)
+ss00464	PRMT12	Protein arginine N-methyltransferase 1 (EC 2.1.1.-)
+ss00464	OAT	Ornithine aminotransferase (EC 2.6.1.13)

@@ -1,0 +1,9 @@
+ss00919	YwlE	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+ss00919	YwlF	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+ss00919	YwlG	Hypothetical protein ywlG
+ss00919	GlyA	Serine hydroxymethyltransferase (EC 2.1.2.1)
+ss00919	Upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+ss00919	YwlD	Hypothetical transmembrane protein ywlD
+ss00919	YwlC	Sua5 YciO YrdC YwlC family protein
+ss00919	HemK	Protein methyltransferase HemK homolog (EC 2.1.1.-)
+ss00919	PrfA	Peptide chain release factor 1

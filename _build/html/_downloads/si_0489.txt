@@ -1,0 +1,6 @@
+ss00536	livF	Branched-chain amino acid transport ATP-binding protein livF (TC 3.A.1.4.1)
+ss00536	livG	Branched-chain amino acid transport ATP-binding protein livG (TC 3.A.1.4.1)
+ss00536	livM	Branched-chain amino acid transport system permease protein livM (TC 3.A.1.4.1)
+ss00536	livH	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+ss00536	livJ	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+ss00536	livK	High-affinity leucine-specific transport system, periplasmic binding protein livK (TC 3.A.1.4.1)

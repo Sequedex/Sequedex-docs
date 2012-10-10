@@ -1,0 +1,5 @@
+ss00239	CcpA	Catabolite control protein A
+ss00239	Crh	Catabolite repression HPr-like protein Crh
+ss00239	HPrK/P	HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)
+ss00239	PpaX	Inorganic pyrophospatase PpaX
+ss00239	PtsH	Phosphocarrier protein of PTS system

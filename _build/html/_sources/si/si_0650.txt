@@ -1,0 +1,7 @@
+ss00358	BR	Bacteriorhodopsin
+ss00358	Bat	Transcription regulator Bat, regulates bacteriorhodopsin synthesis
+ss00358	Brp	Bacteriorhodopsin related protein Brp, likely catalyses oxidative cleavage of betañcarotene to retinal
+ss00358	Blp	Bacteriorhodopsin related protein Blp
+ss00358	CrtB1	Protein CrtB1 involved in bacteriorhodopsin synthesis
+ss00358	Brp?	Brp-like protein
+ss00358	GPPtr	Geranylgeranyl-diphosphate geranylgeranyl-transferase

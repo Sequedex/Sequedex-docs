@@ -1,0 +1,3 @@
+ss00767	NspS	Predicted polyamine sensor NspS, involved in biofilm formation
+ss00767	MbaA	C-di-GMP phosphodiesterase MbaA, repressor of biofilm formation
+ss00767	Hyp1	Hypothetical cytoplasmic protein in cluster with NspS

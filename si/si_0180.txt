@@ -1,0 +1,10 @@
+ss00016	cpsA	Capsular polysaccharide synthesis enzyme CpsA, sugar transferase
+ss00016	cpsB	Capsular polysaccharide synthesis enzyme CpsB
+ss00016	cpsC	Capsular polysaccharide synthesis enzyme CpsC, polysaccharide export
+ss00016	cpsD	Capsular polysaccharide synthesis enzyme CpsD, exopolysaccharide synthesis
+ss00016	cpsE	Capsular polysaccharide synthesis enzyme CpsE
+ss00016	cpsF	Capsular polysaccharide synthesis enzyme CpsF, glycosyltransferase
+ss00016	cpsG	Capsular polysaccharide synthesis enzyme CpsG, Lipid A core - O-antigen ligase
+ss00016	cpsH	Capsular polysaccharide synthesis enzyme CpsH
+ss00016	cpsI	Capsular polysaccharide synthesis enzyme CpsI, glycosyltransferase
+ss00016	cpsJ	Capsular polysaccharide synthesis enzyme CpsJ, membrane protein, export of O-antigen and teichoic acid

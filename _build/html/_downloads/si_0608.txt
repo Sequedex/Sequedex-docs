@@ -1,0 +1,18 @@
+ss00219	RutA	Predicted monooxygenase RutA in novel pyrimidine catabolism pathway
+ss00219	RutB	Predicted amidohydrolase RutB in novel pyrimidine catabolism pathway
+ss00219	RutC	Possible ring-opening amidohydrolase RutC in novel pyrimidine catabolism pathway
+ss00219	RutD	Possible hydrolase or acyltransferase RutD in novel pyrimidine catabolism pathway
+ss00219	RutE	Predicted reductase RutE in novel pyrimidine catabolism pathway
+ss00219	RutF	Predicted flavin reductase RutF in novel pyrimidine catabolism pathway
+ss00219	RutG	Predicted pyrimidine permease RutG in novel pyrimidine catabolism pathway
+ss00219	RutR	Transcriptional regulator RutR of pyrimidine catabolism (TetR family)
+ss00219	PydX	Pyridine nucleotide-disulphide oxidoreductase associated with reductive pyrimidine catabolism
+ss00219	PydA	Dihydropyrimidine dehydrogenase [NADP+] (EC 1.3.1.2)
+ss00219	PydB	Dihydropyrimidinase (EC 3.5.2.2)
+ss00219	PydC	Beta-ureidopropionase (EC 3.5.1.6)
+ss00219	BUP1	Beta-ureidopropionase, eukaryotic type (EC 3.5.1.6)
+ss00219	PydABC_s	Pyrimidine ABC transporter, substrate-binding component
+ss00219	PydABC_m1	Pyrimidine ABC transporter, transmembrane component 1
+ss00219	PydABC_m2	Pyrimidine ABC transporter, transmembrane component 2
+ss00219	PydABC_a	Pyrimidine ABC transporter, ATP-binding protein
+ss00219	PydP	Possible pyrimidine permease in reductive pathway

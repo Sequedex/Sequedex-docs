@@ -1,0 +1,10 @@
+ss00009	DsrM	Sulfite reduction-associated complex DsrMKJOP protein DsrM (= HmeC)
+ss00009	DsrK	Sulfite reduction-associated complex DsrMKJOP protein DsrK (=HmeD)
+ss00009	DsrJ	Sulfite reduction-associated complex DsrMKJOP multiheme protein DsrJ (=HmeF)
+ss00009	DsrO	Sulfite reduction-associated complex DsrMKJOP iron-sulfur protein DsrO (=HmeA)
+ss00009	DsrP	Sulfite reduction-associated complex DsrMKJOP protein DsrP (= HmeB)
+ss00009	Clus1	Protein similar to glutamate synthase [NADPH] small chain, clustered with sulfite reductase
+ss00009	DsrA	Sulfite reductase alpha subunit (EC 1.8.99.1)
+ss00009	DsrB	Sulfite reductase beta subunit (EC 1.8.99.1)
+ss00009	DsrC	Sulfite reductase, dissimilatory-type gamma subunit (EC 1.8.99.3)
+ss00009	TusE	tRNA 2-thiouridine synthesizing protein E (EC 2.8.1.-)

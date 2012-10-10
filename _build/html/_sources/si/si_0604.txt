@@ -1,0 +1,6 @@
+ss00134	XapA	Xanthosine phosphorylase (EC 2.4.2.1)
+ss00134	XapB	Xanthosine permease
+ss00134	XapR	Xanthosine operon regulatory protein XapR, LysR family
+ss00134	pXapB	Putative xanthosine permease
+ss00134	psXapB	Xanthosine permease pseudogene caused by IS154 insertion
+ss00134	cXapB	Xanthosine permease, C-terminus

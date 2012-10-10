@@ -1,0 +1,24 @@
+ss00653	EpoA	dihydroxyphenylalanine oxidase
+ss00653	BldA	Acyl coenzyme A dehydrogenase, BldA, contributes to the proper timing of aerial mycelium formation and antibiotic production
+ss00653	BldH	Inducers of aerial mycelium formation biosynthesis protein BldH
+ss00653	BldC	Inducers of aerial mycelium formation biosynthesis protein BldC
+ss00653	BldG	Inducers of aerial mycelium formation biosynthesis protein BldG
+ss00653	BldD	Pleiotropic negative regulator for morphological and physiological development in Streptomyces, BldD
+ss00653	BldK	BldK oligopeptide import system
+ss00653	BldL	Inducers of aerial mycelium formation biosynthesis protein BldL
+ss00653	bld261	Responsible for a first signal in a cascade of Streptomyces differentiation extracellular
+ss00653	SapB	Small morphogenetic protein, SapB
+ss00653	AfsA	A-factor biosynthesis protein AfsA
+ss00653	AfsK	A-factor biosynthesis in Streptomyces, protein AfsK
+ss00653	AfsB	A-factor biosynthesis in Streptomyces, protein AfsB
+ss00653	BarX	A-factor biosynthesis in Streptomyces, protein BarX
+ss00653	MetH	5-Methyltetrahydrofolate--homocysteine methyltransferase
+ss00653	BldM	Putative methyltransferase,bldM, influences various aspects of colony growth and development
+ss00653	ChpA	Hydrophobic secreted aerial hyphae protein, ChpA
+ss00653	ChpB	Hydrophobic secreted aerial hyphae protein, ChpB
+ss00653	ChpC	Hydrophobic secreted aerial hyphae protein, ChpC
+ss00653	ChpD	Hydrophobic secreted aerial hyphae protein, ChpD
+ss00653	ChpE	Hydrophobic secreted aerial hyphae protein, ChpE
+ss00653	ChpF	Hydrophobic secreted aerial hyphae protein, ChpF
+ss00653	ChpG	Hydrophobic secreted aerial hyphae protein, ChpG
+ss00653	ChpH	Hydrophobic secreted aerial hyphae protein, ChpH

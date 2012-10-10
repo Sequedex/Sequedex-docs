@@ -1,0 +1,28 @@
+ss00727	Hyp1	Uncharacterized protein with LysM domain, COG1652
+ss00727	SMG	Protein of unknown function Smg
+ss00727	SMF	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+ss00727	TopI	DNA topoisomerase I (EC 5.99.1.2)
+ss00727	ZnFD	Similar to C-terminal Zn-finger domain of DNA topoisomerase I
+ss00727	Gid	tRNA:m(5)U-54 MTase gid
+ss00727	CodY	GTP-sensing transcriptional pleiotropic repressor codY
+ss00727	RNAse	Ribonuclease HII (EC 3.1.26.4)
+ss00727	RbgA	50S ribosomal subunit maturation GTPase RbgA (B. subtilis YlqF)
+ss00727	PDF	Peptide deformylase (EC 3.5.1.88)
+ss00727	MFT	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+ss00727	RPE	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+ss00727	SUN	Ribosomal RNA small subunit methyltransferase B (EC 2.1.1.-)
+ss00727	SUNsp	16S rRNA m(5)C 967 methyltransferase (EC 2.1.1.-)
+ss00727	PriA	Helicase PriA essential for oriC/DnaA-independent DNA replication
+ss00727	RlmN	Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)
+ss00727	PrpC	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+ss00727	PrkC	Serine/threonine protein kinase PrkC, regulator of stationary phase
+ss00727	PrkC?	Serine/threonine protein kinase PrkC, regulator of stationary phase, short form
+ss00727	Hyp2	Protein of unknown function DUF1447
+ss00727	Zn-hydr	Zn-dependent hydrolase, RNA-metabolising
+ss00727	TrkA	Trk system potassium uptake protein trkA
+ss00727	HAD	Hydrolase (HAD superfamily) in cluster with DUF1447
+ss00727	cydB	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+ss00727	cydB?	cytochrome d ubiquinol oxidase, subunit II-related protein
+ss00727	YdiE	FIG134348: essential endopeptidase
+ss00727	S18-AA	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)
+ss00727	YeaZ	Inactive homolog of metal-dependent proteases, putative molecular chaperone

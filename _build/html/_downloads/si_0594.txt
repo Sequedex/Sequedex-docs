@@ -1,0 +1,6 @@
+ss00049	Sod2	Manganese superoxide dismutase (EC 1.15.1.1)
+ss00049	p450h	putative cytochrome P450 hydroxylase
+ss00049	NOSOx	Nitric oxide synthase oxygenase (EC 1.-.-.-)
+ss00049	iNOS	Nitric oxide synthase, inducible (EC 1.14.13.39)
+ss00049	eNOS	Nitric-oxide synthase, endothelial (EC 1.14.13.39)
+ss00049	nNOS	Nitric-oxide synthase, brain (EC 1.14.13.39)

@@ -1,0 +1,8 @@
+ss00705	AA	Stage III sporulation protein AA
+ss00705	AB	Stage III sporulation protein AB
+ss00705	AC	Stage III sporulation protein AC
+ss00705	AD	Stage III sporulation protein AD
+ss00705	AE	Stage III sporulation protein AE
+ss00705	AF	Stage III sporulation protein AF
+ss00705	AG	Stage III sporulation protein AG
+ss00705	AH	Stage III sporulation protein AH

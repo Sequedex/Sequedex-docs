@@ -1,0 +1,21 @@
+ss00869	cidR	LysR family regulatory protein CidR
+ss00869	cidA	Holin-like protein CidA
+ss00869	cidB	CidA-associated membrane protein CidB
+ss00869	cidC	Pyruvate oxidase, CidC
+ss00869	lytS	Autolysis histidine kinase LytS
+ss00869	lytR	Autolysis response regulater LytR
+ss00869	lrgA	Antiholin-like protein LrgA
+ss00869	lrgB	LrgA-associated membrane protein LrgB
+ss00869	CDA	Cytidine deaminase (EC 3.5.4.5)
+ss00869	tDS	tRNA-dihydrouridine synthase C (EC 1.-.-.-)
+ss00869	H1	Holin-like protein 1
+ss00869	HA1	Holin associated membrane protein 1
+ss00869	H1hyp	Holin associated hypothetical protein
+ss00869	H2	Holin-like protein 2
+ss00869	HA2	Holin associated membrane protein 2
+ss00869	H2secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+ss00869	Sap	S-layer protein Sap
+ss00869	eag	S-layer protein EA1
+ss00869	alsS	Acetolactate synthase, catabolic (EC 2.2.1.6)
+ss00869	alsD	Alpha-acetolactate decarboxylase (EC 4.1.1.5)
+ss00869	map_w	Truncated cell surface protein map-w

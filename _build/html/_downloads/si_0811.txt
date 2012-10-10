@@ -1,0 +1,13 @@
+ss01023	HypA	[NiFe] hydrogenase nickel incorporation protein HypA
+ss01023	HybF	[NiFe] hydrogenase nickel incorporation protein HybF
+ss01023	HybF2	[NiFe] hydrogenase nickel incorporation HybF-like protein
+ss01023	HypB	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+ss01023	HypC	[NiFe] hydrogenase metallocenter assembly protein HypC
+ss01023	HybG	[NiFe] hydrogenase metallocenter assembly protein HybG
+ss01023	HypD	[NiFe] hydrogenase metallocenter assembly protein HypD
+ss01023	HypE	[NiFe] hydrogenase metallocenter assembly protein HypE
+ss01023	HypF	[NiFe] hydrogenase metallocenter assembly protein HypF
+ss01023	Ech	Energy-conserving hydrogenase (ferredoxin), subunit A
+ss01023	FrcA	Coenzyme F420 hydrogenase alpha subunit (FrcA) (EC 1.12.98.1)
+ss01023	FruA	Coenzyme F420 hydrogenase alpha subunit (FruA) (EC 1.12.98.1)
+ss01023	Vho	Methanophenazine hydrogenase large subunit (EC 1.12.98.3)

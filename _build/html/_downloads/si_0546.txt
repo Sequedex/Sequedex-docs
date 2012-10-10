@@ -1,0 +1,6 @@
+ss00775	catD	3-Oxoadipate enol-lactonase (EC 3.1.1.24)
+ss00775	catF	Beta-ketoadipyl CoA thiolase (EC 2.3.1.-)
+ss00775	catI	3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6)
+ss00775	catJ	3-oxoadipate CoA-transferase subunit A (EC 2.8.3.6)
+ss00775	KAEL	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+ss00775	tfdC	Chlorocatechol 1,2-dioxygenase

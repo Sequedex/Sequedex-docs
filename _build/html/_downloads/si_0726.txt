@@ -1,0 +1,6 @@
+ss00091	pap	Poly(A) polymerase (EC 2.7.7.19)
+ss00091	hfq	RNA-binding protein Hfq
+ss00091	pnp	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+ss00091	cca	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)
+ss00091	cc-	tRNA nucleotidyltransferase, CC-adding (EC 2.7.7.21)
+ss00091	--a	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.25)

@@ -1,0 +1,2 @@
+ss00971	GroEL	Heat shock protein 60 family chaperone GroEL
+ss00971	GroES	Heat shock protein 60 family co-chaperone GroES

@@ -1,0 +1,6 @@
+ss00676	Hfq	RNA-binding protein Hfq
+ss00676	HflX	GTP-binding protein HflX
+ss00676	HflK	HflK protein
+ss00676	HflC	HflC protein
+ss00676	YjeT	Putative inner membrane protein YjeT (clustered with HflC)
+ss00676	HflX-r	GTP-binding protein related to HflX

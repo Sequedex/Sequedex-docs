@@ -1,0 +1,17 @@
+ss00922	RnpA	Ribonuclease P protein component (EC 3.1.26.5)
+ss00922	thg1	tRNAHis-5'-guanylyltransferase
+ss00922	Rbn	Ribonuclease BN (EC 3.1.-.-)
+ss00922	Rnd	Ribonuclease D (EC 3.1.26.3)
+ss00922	Rph	Ribonuclease PH (EC 2.7.7.56)
+ss00922	Rnt	Ribonuclease T (EC 3.1.13.-)
+ss00922	Rnz	Ribonuclease Z (EC 3.1.26.11)
+ss00922	MiaA	tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+ss00922	MiaB	tRNA-i(6)A37 methylthiotransferase
+ss00922	mcm5U	5-carboxymethyl uridine and 5-carboxymethyl 2-thiouridine methyltransferase
+ss00922	TruA	tRNA pseudouridine synthase A (EC 4.2.1.70)
+ss00922	TruB-	tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+ss00922	TruB	tRNA pseudouridine synthase B (EC 4.2.1.70)
+ss00922	TruD	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+ss00922	k2C	tRNA(Ile)-lysidine synthetase
+ss00922	Tad2	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+ss00922	Tad3	tRNA-specific adenosine-34 deaminase subunit Tad3p

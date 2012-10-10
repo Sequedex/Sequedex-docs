@@ -25,8 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="shortcut icon" href="_static/tree.ico"/>
     <link rel="copyright" title="Copyright" href="copyright.html" />
     <link rel="top" title="Sequedex 0.9.2 documentation" href="index.html" />
+    <link rel="next" title="5. Phylogenetic and functional profiles" href="profiles.html" />
     <link rel="prev" title="3. Installation instructions" href="installation.html" /> 
   </head>
   <body>
@@ -36,6 +38,9 @@
         <li class="right" style="margin-right: 10px">
           <a href="genindex.html" title="General Index"
              accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="profiles.html" title="5. Phylogenetic and functional profiles"
+             accesskey="N">next</a> |</li>
         <li class="right" >
           <a href="installation.html" title="3. Installation instructions"
              accesskey="P">previous</a> |</li>
@@ -50,12 +55,12 @@
             
   <div class="section" id="getting-started">
 <h1>4. Getting started<a class="headerlink" href="#getting-started" title="Permalink to this headline">¶</a></h1>
-<p>Sequedex can be run in several modes with either a simple graphical user interface or directly from the command line.  The platform-specific instructions for starting the graphical user interface and obtaining a license file were provided in the previous chapter, and a description of command line use of Sequedex is provided at the end of this chapter.  If the license file is not obtained or installed correctly, sequedex will process a limited number of reads (~10,000) and work only in single-thread mode.  For the bulk of this chapter, we will assume the graphical user interface is being used, and that the user has some way of looking at the tab-delimited text output files, whether that be Excel, a text editor, or an analysis environment like R or Matlab.</p>
+<p>Sequedex can be run in several modes with either a simple graphical user interface or directly from the command line.  The platform-specific instructions for starting the graphical user interface and obtaining a license file were provided in the previous chapter, and a description of command line use of Sequedex is provided at the end of this chapter.  If the license file is not obtained or installed incorrectly, sequedex will process a limited number of reads (~10,000) and work only in single-thread mode.  For the bulk of this chapter, we will assume the graphical user interface is being used, and that the user has some way of looking at the tab-delimited text output files, whether that be Excel, a text editor, or an analysis environment like R or Matlab.</p>
 <p>Sequedex is distributed with several sets of test data for demonstration and validation.  In this chapter, we illustrate how to use Sequedex on these datasets.   Two metagenomics data files are provided, one from a stool sample sequenced under the human microbiome program and two from a soil sample collected from a Maryland estuary.  Also provided are synthetic data files constructed from the draft genomes of four novel organisms cultured from desert cyanobacterial mats, <em>Bacillus mojavensis, Bosea thiooxidans, Herbaspirillum seropedicae,</em> and <em>Microbacterium trichotecenolyticum.</em>  The complete stool sample file can be obtained at <a class="reference external" href="http://www.ncbi.nlm.nih.gov/Traces/sra/?view=run_browser&amp;run=SRR059346">http://www.ncbi.nlm.nih.gov/Traces/sra/?view=run_browser&amp;run=SRR059346</a> and the Maryland estuary sample analysis can be compared to the analysis in Figure 7 of Berendzen, et al. <a class="footnote-reference" href="#s1" id="id1">[1]</a> as well as additional files 5 and 6 of this work.  The synthetic data sets were used in this same manuscript to explore the read-length dependence of Sequedex&#8217;s sensitivity and specificity, illustrated in Figure 6.</p>
 <p>The test data set for the human microbiome sample is located in the directory sequedex/testData/metagenomes/humanMicrobiome/gut/.  If you are starting the Sequedex GUI from the command line, it may be easiest to navigate this directory before typing sequescan.  Alternatively, you can start the sequescan GUI from the applications menu and navigate to the data directory with the dialog box.  In either case, you should see a screen that looks like this when you start the Sequedex application:</p>
 <div class="figure">
 <img alt="_images/sequescan_gui.png" src="_images/sequescan_gui.png" style="width: 60%;" />
-<p class="caption"><strong>The graphical user interface for sequescan.</strong>  At the top are two pull-down menus that enable the user to request and install a license and to quit the program.  Three input selections allow the user to choose the signature data module, the functional data module and select whether the fasta input files will be chosen by name, by directory, or by an input file listing the complete path of files to be analyzed.  The appropriate type of input is chosen in the next box.  A configuration file is selected to select additional program options.  The top-level output directory can be selected.  Finally, the number of threads used and whether verbose output messages are desired can be selected.  Note that at present multiple threads can only be used when multiple files are simultaneously analyzed.</p>
+<p class="caption"><strong>The graphical user interface for Sequescan.</strong>  At the top are two pull-down menus that enable the user to request and install a license and to quit the program.  Three input selections allow the user to choose the signature data module, the functional data module and select whether the fasta input files will be chosen by name, by directory, or by an input file listing the complete path of files to be analyzed.  The &#8216;Input&#8217; box is used to select a data file, data directory, or a text file listing data files to be analyzed, depending on &#8216;Input type&#8217; selected above.  A configuration file is selected to specify additional program options.  The top-level directory to which output files will be written can be selected.  Finally, the number of threads used and whether verbose output messages are desired can be selected.  Note that at present multiple threads can only be used when multiple files are simultaneously analyzed; each file is assigned a thread.</p>
 </div>
 <p>Click on the button to the right of the &#8216;input&#8217; field and locate the human microbiome file &#8216;SRR059346-first100kReads.fasta&#8217;.  After opening this file and clicking the &#8216;Run Sequescan&#8217; button at the bottom of the dialog box, Sequescan will begin reading the bacterial signature list into memory, then classifying the reads in SRR059346-first100kReads.fasta against this signature list.  Output similar to that below will appear in the &#8216;Progress&#8217; box at the bottom of the GUI.:</p>
 <div class="highlight-python"><pre>Sep 14, 2012 11:58:01 AM  Start Sequescan Program (mode=run)
@@ -68,7 +73,7 @@ Sep 14, 2012 11:59:33 AM  End Sequescan Program</pre>
 <p>The output files will appear in subdirectories &#8216;log&#8217; and &#8216;data&#8217; in the directory where the input file was (if you used the default settings).  The log directory will contain a subdirectory with an html file that can be opened with a web-browser, indicating any errors or warnings associated with this Sequescan run.  The data directory will contain a subdirectory with four types of outputs in two seperate formats (tab-separated-variables and json / tsvj); we examine the four types of tsv files in the next section.  These files can be imported into Excel, a text editor, or simply examined on the command line with the &#8216;less&#8217; or &#8216;cat&#8217; commands.</p>
 <div class="section" id="output-files-stats">
 <h2>4.1. Output files - stats<a class="headerlink" href="#output-files-stats" title="Permalink to this headline">¶</a></h2>
-<p>The output file SRR059346-first100kReads.fasta-bact403.1-stats.tsv contains basic statistics about the computation. It contains:</p>
+<p>The output file SRR059346-first100kReads.fasta-bact403.1-stats.tsv contains basic statistics about the computation. The stats file resulting for the above run contains:</p>
 <div class="highlight-python"><pre>Data Input File /home/localhost/mcmahon/sequedex/testData/metagenomes/humanMicrobiome/gut/SRR059346-first100kReads.fasta
 Percent of File Processed                    100.0
 Processing Complete                          true
@@ -98,7 +103,13 @@ Assignment Time (ms)                         297
 Other Time (ms)                              753
 Total Time (ms)                              15273</pre>
 </div>
-<p>Most of this is self-explanatory, with the terms &#8216;Single-signature&#8217; &#8216;Single-node&#8217;, and &#8216;Monophyletic&#8217; defined below.</p>
+<p>The input file is listed on the top line, followed by the fraction of the file processed, which in this case is 100%.  For large files, intermediate results are written to output files, and this line indicates an estimated fraction processed.  In the case of a missing or invalid license file, only a fraction is prcessed, and that fraction would be indicated here.  The &#8216;Processing Complete&#8217; line indicates &#8216;true&#8217; if the processing completed normally, whether because the end of the input file was reached or because a valid license was not found.</p>
+<p>The Thread Pool Size of one is indicated, together with a processing rate of 4.761 Gbp/hr.  When processing multiple files simultaneously, it is possible to have a dedicated Java thread processing each file, all comparing to the same memory map.  The processing rate provided is of the single thread dedicated to this particular file.  Typical values for computers in use as of this writing are 3.5 to 7 Gbp/hr, with the rate per thread dropping roughly a factor of two when 40-60 processors are running together.  Thus a 64 core machine capable of 3.7 Gbp/hr on a single thread was able to process fasta files at the cumulative rate of 100 Gbp/hr, and each output file had a processing rate of 1.7 Gbp/hr.</p>
+<p>The 100,000 reads and 20,200,000 base pairs processed are indicated next, from which the average read length of 202 base pairs can be computed.  Of the 100,000 reads processed, 99,347 contained at least one region with 15 or more consecutive amino acids uninterrupted by an undetermined nucleotide or stop codon.  This cutoff value of 15 amino acides necessary for further consideration by Sequedex can be changed in the configuration file.  Sequedex at present does not recognize ambiguity codons.</p>
+<p>From the 100,000 reads, 600,000 reading frames were processed, of which 591,859 contained an amino acid region with 15 or more concecutive amino acids.  Since many of the reads contained mulitple fragments, 2,388,546 peptide fragments were identified, of which 931,895 (less than half) were of length 15 amino acids or longer.</p>
+<p>Over-all, 69,170 reads (69% of the processed reads) contained at least one signature peptide and thus could be assigned a phylogenetic placement.  This number is in line with expections from the synthetic data described in Berendzen et al. <em>BMC Res. Rep.</em> <strong>5</strong> :460 (2012) for 200 base pair reads from a bacteria similar to those in the reference data base.  The 69,170 reads are sub-divided into four types: 2,117 reads contained only one signature; 16,035 contained more than one signature, but all signatures were from the same node; 49,835 reads, or 72% of those assigned were monophyletic, or contained signatures assigned along a single path from the root of the reference phylogeny to a particular set of leaves; 1,183 assigned reads were non-monophyletic, or contained at least two signatures that were not on a single path from the root to a particular set of leaves on the reference tree.</p>
+<p>A total of 123,589 peptide fragments were assigned a phylogeny; these fragments came from the 69.2% of the reads with an assignable fragment, and consisted of 18,635,964 base pairs. A total of 93,977 peptide fragments were also assigned a function; these fragments consisted of 14,288,283 base pairs.</p>
+<p>The next six lines break the total processing time (15.2 seconds) into input, translating, matching, assignment steps, as well as &#8216;other&#8217;.</p>
 </div>
 <div class="section" id="output-files-phylogeny-counts">
 <h2>4.2. Output files - phylogeny counts<a class="headerlink" href="#output-files-phylogeny-counts" title="Permalink to this headline">¶</a></h2>
@@ -134,7 +145,7 @@ Total Time (ms)                              15273</pre>
 <p>The columns of the phylogenetic profile are:</p>
 <ul class="simple">
 <li>indx:   Index starting at 0</li>
-<li>id:     node id. consistent with  <a class="reference download internal" href="_downloads/Bacteria403.newick"><tt class="xref download docutils literal"><span class="pre">newick</span></tt></a>, and <a class="reference download internal" href="_downloads/Bacteria403.phyloxml"><tt class="xref download docutils literal"><span class="pre">phyloxml</span></tt></a> reference tree.</li>
+<li>id:     node id. consistent with  <a class="reference download internal" href="_downloads/Bacteria403.newick"><tt class="xref download docutils literal"><span class="pre">newick</span></tt></a>, and <a class="reference download internal" href="_downloads/Bacteria4031.phyloxml"><tt class="xref download docutils literal"><span class="pre">phyloxml</span></tt></a> reference tree.</li>
 <li>rollup_category: general category name.  May include several phylum for nodes near the root</li>
 <li>total:   Total number of reads attributed to the node</li>
 <li>single_sig:  Number of reads containing only one signatures</li>
@@ -143,7 +154,7 @@ Total Time (ms)                              15273</pre>
 <li>non_monophyl: Number of reads containing multiple signatures that are inconsistent with the phylogeny</li>
 </ul>
 <p>Visualization of the phylogenetic profiles can be aided by placing the counts onto the phylogenetic
-tree <a class="reference download internal" href="_downloads/Bacteria403.newick"><tt class="xref download docutils literal"><span class="pre">newick</span></tt></a>, or <a class="reference download internal" href="_downloads/Bacteria403.phyloxml"><tt class="xref download docutils literal"><span class="pre">phyloxml.</span></tt></a>  See
+tree <a class="reference download internal" href="_downloads/Bacteria403.newick"><tt class="xref download docutils literal"><span class="pre">newick</span></tt></a>, or <a class="reference download internal" href="_downloads/Bacteria4031.phyloxml"><tt class="xref download docutils literal"><span class="pre">phyloxml.</span></tt></a>  See
 Chapter 6 for how to do this.</p>
 </div>
 <div class="section" id="output-files-function-counts">
@@ -345,6 +356,9 @@ Parameter definitions:
   <h4>Previous topic</h4>
   <p class="topless"><a href="installation.html"
                         title="previous chapter">3. Installation instructions</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="profiles.html"
+                        title="next chapter">5. Phylogenetic and functional profiles</a></p>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="_sources/starting.txt"
@@ -373,6 +387,9 @@ Parameter definitions:
         <li class="right" style="margin-right: 10px">
           <a href="genindex.html" title="General Index"
              >index</a></li>
+        <li class="right" >
+          <a href="profiles.html" title="5. Phylogenetic and functional profiles"
+             >next</a> |</li>
         <li class="right" >
           <a href="installation.html" title="3. Installation instructions"
              >previous</a> |</li>

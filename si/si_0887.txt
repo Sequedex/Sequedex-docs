@@ -1,0 +1,5 @@
+ss00576	GGTP	Gamma-glutamyltranspeptidase (EC 2.3.2.2)
+ss00576	SBC	Putative gluthatione transporter,solute-binding component
+ss00576	PC2	Putative glutathione transporter, permease component
+ss00576	AB	Putative glutathione transporter, ATP-binding component
+ss00576	SBC2	Putative glutathione transporter,solute-binding component

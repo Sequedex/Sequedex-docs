@@ -1,0 +1,4 @@
+ss00785	R1	Sarcosine oxidase alpha subunit (EC 1.5.3.1)
+ss00785	R2	Sarcosine oxidase beta subunit (EC 1.5.3.1)
+ss00785	R3	Sarcosine oxidase gamma subunit (EC 1.5.3.1)
+ss00785	R4	Sarcosine oxidase delta subunit (EC 1.5.3.1)

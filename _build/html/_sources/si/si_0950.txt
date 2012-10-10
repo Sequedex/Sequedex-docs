@@ -1,0 +1,3 @@
+ss00042	ZraS	Sensor protein of zinc sigma-54-dependent two-component system
+ss00042	ZraR	Response regulator of zinc sigma-54-dependent two-component system
+ss00042	ZraP	Zinc resistance-associated protein

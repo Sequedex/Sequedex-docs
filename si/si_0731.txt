@@ -1,0 +1,4 @@
+ss00389	RtcA	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+ss00389	RtcB	Protein RtcB
+ss00389	RtcB-hom	Protein with similarity to RtcB
+ss00389	RtcR	Transcriptional regulatory protein RtcR

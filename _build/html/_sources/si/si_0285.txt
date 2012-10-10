@@ -1,0 +1,5 @@
+ss01030	R1	LSU ribosomal protein L21p
+ss01030	R2	FIG139598: Potential ribosomal protein
+ss01030	R3	LSU ribosomal protein L27p
+ss01030	R4	COG0536: GTP-binding protein Obg
+ss01030	R5	50S ribosomal protein acetyltransferase

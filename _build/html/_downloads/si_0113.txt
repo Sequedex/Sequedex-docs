@@ -1,0 +1,23 @@
+ss00644	FucI	L-fucose isomerase (EC 5.3.1.25)
+ss00644	FucK	L-fuculokinase (EC 2.7.1.51)
+ss00644	FucA	L-fuculose phosphate aldolase (EC 4.1.2.17)
+ss00644	FucU	L-fucose mutarotase
+ss00644	FucP	Fucose permease
+ss00644	FucR	L-fucose operon activator
+ss00644	FucO	Lactaldehyde reductase (EC 1.1.1.77)
+ss00644	FucZ	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization (EC 1.2.1.22)
+ss00644	FucY	Possible alternative L-fucose mutarotase
+ss00644	RR1	Transcriptional regulator of fucose utilization, GntR family
+ss00644	EIID	Predicted L-fucose-specific phosphotransferase system, EIID component
+ss00644	EIIA	Predicted L-fucose-specific phosphotransferase system, EIIA component
+ss00644	EIIB	Predicted L-fucose-specific phosphotransferase system, EIIB component
+ss00644	EIIC	Predicted L-fucose-specific phosphotransferase system, EIIC component
+ss00644	ABCa	Possible fucose ABC transporter, ATP-binding component
+ss00644	ABCb	Possible fucose ABC transporter, permease component
+ss00644	ABCc	Possible fucose ABC transporter, substrate-binding component
+ss00644	Fucase	Alpha-L-fucosidase (EC 3.2.1.51)
+ss00644	KFD	2-keto-3-deoxy-L-fuconate dehydrogenase
+ss00644	DFH	2,4-diketo-3-deoxy-L-fuconate hydrolase
+ss00644	FLH	L-fuconolactone hydrolase
+ss00644	DH	dehydrogenase clustered with L-fuconate utilization genes
+ss00644	FDH	L-fuconate dehydratase (EC 4.2.1.68)

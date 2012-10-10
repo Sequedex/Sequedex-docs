@@ -1,0 +1,19 @@
+ss01014	R1	Ribonuclease BN (EC 3.1.-.-)
+ss01014	R2	Monofunctional biosynthetic peptidoglycan transglycosylase (EC 2.4.2.-)
+ss01014	VraS	Sensor histidine kinase VraS
+ss01014	R4	Acyl-CoA hydrolase (EC 3.1.2.20)
+ss01014	R5	Hypothetical protein SAV1869
+ss01014	R6	Hypothetical protein SAV1877
+ss01014	R8	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+ss01014	R9	Hypothetical protein FIG009695
+ss01014	YfkK	Hypothetical protein YfkK
+ss01014	R11	A/G-specific adenine glycosylase (EC 3.2.2.-)
+ss01014	R12	ThiJ/PfpI family protein
+ss01014	R13	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+ss01014	R20	FIG133424: Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+ss01014	VraR	Two component transcriptional regulator VraR
+ss01014	R15	Teichoic acid translocation permease protein TagG
+ss01014	R16	Transporter associated with VraSR
+ss01014	R17	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+ss01014	R18	FIG010063: hypothetical protein
+ss01014	R19	Transcription regulator CDS_ID OB0894

@@ -1,0 +1,11 @@
+ss00295	COG2154	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+ss00295	COG5154-l	Pterin-4-alpha-carbinolamine dehydratase-like
+ss00295	PAH	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+ss00295	PAH-L	Phenylalanine-4-hydroxylase (EC 1.14.16.1) - Long
+ss00295	PhhC	Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+ss00295	Hpd	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+ss00295	HmgA	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+ss00295	HmgC	Maleylacetoacetate isomerase (EC 5.2.1.2)
+ss00295	HmgC'	Maleylacetoacetate isomerase (EC 5.2.1.2)
+ss00295	HmgB	Fumarylacetoacetate hydrolase family protein
+ss00295	HmgB'	Fumarylacetoacetase (EC 3.7.1.2)

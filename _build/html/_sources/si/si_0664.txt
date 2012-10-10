@@ -1,0 +1,5 @@
+ss00762	Rmf	Ribosome modulation factor
+ss00762	YhbH	Ribosome hibernation protein YhbH
+ss00762	YfiA	Ribosome hibernation protein YfiA
+ss00762	Sra	Stationary-phase-induced ribosome-associated protein
+ss00762	RSIP	Ribosomal subunit interface protein

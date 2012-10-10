@@ -1,0 +1,7 @@
+ss01073	RibK	CTP-dependent archaeal riboflavin kinase
+ss01073	RK	Riboflavin kinase (EC 2.7.1.26)
+ss01073	FMNAT	FMN adenylyltransferase (EC 2.7.7.2)
+ss01073	FMNATe	FMN adenylyltransferase, type 2 eukaryotic (EC 2.7.7.2)
+ss01073	RSA	Riboflavin synthase alpha chain (EC 2.5.1.9)
+ss01073	RSAa	Riboflavin synthase archaeal (EC 2.5.1.9)
+ss01073	DHBPS	3,4-dihydroxy-2-butanone 4-phosphate synthase

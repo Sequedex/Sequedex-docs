@@ -1,0 +1,24 @@
+ss01005	GP	Guanine-hypoxanthine permease
+ss01005	XDA	Xanthine dehydrogenase, iron-sulfur cluster and FAD-binding subunit A (1.17.1.4)
+ss01005	XO	Xanthine oxidase (EC 1.17.3.2)
+ss01005	XdhC	XdhC protein (assists in molybdopterin insertion into xanthine dehydrogenase)
+ss01005	XT_5	Xanthine transporter,putative
+ss01005	AIH	4-aminoimidazole hydrolase (EC 3.5.4.8)
+ss01005	CAH	Cyclic amide hydrolase (EC 3.5.2.-)
+ss01005	AH	Amidine hydrolase (EC 3.5.3.-)
+ss01005	UC	Uricase (EC 1.7.3.3)
+ss01005	BH?	beta-hexosaminidase precursor
+ss01005	CoxF	Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family
+ss01005	XDFB	Periplasmic aromatic aldehyde oxidoreductase, FAD binding subunit YagS
+ss01005	AR	Allantoin racemase (EC 5.1.99.3)
+ss01005	PT	Cytosine/purine/uracil/thiamine/allantoin permease family protein
+ss01005	AP	Allantoin permease
+ss01005	XP	Xanthine permease
+ss01005	BH	Beta-hexosaminidase (EC 3.2.1.52)
+ss01005	XDMB	Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)
+ss01005	XT_19	Xanthine/uracil/thiamine/ascorbate permease family protein
+ss01005	XDIS	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)
+ss01005	XDFAD	Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)
+ss01005	GDA	Guanine deaminase (EC 3.5.4.3)
+ss01005	UXP	Uracil-xanthine permease
+ss01005	UXP?	Xanthine/uracil transporter

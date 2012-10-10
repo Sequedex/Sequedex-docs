@@ -1,0 +1,12 @@
+ss00437	DGPT	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+ss00437	RecA	RecA protein
+ss00437	CinA	Competence/damage-inducible protein CinA
+ss00437	CinA-n	Similar to N-terminal domain of competence/damage-inducible protein CinA, molybdopterin binding motif
+ss00437	CinA-c	Similar to C-terminal domain of competence/damage-inducible protein CinA
+ss00437	fam	Competence/damage-inducible protein CinA family
+ss00437	fam-a	Competence/damage-inducible protein CinA family, archaeal branch
+ss00437	LS	Lipoate synthase
+ss00437	Hyp1	Putative oligoketide cyclase/lipid transport protein
+ss00437	SsrA	tmRNA-binding protein SmpB
+ss00437	YfjF	UPF0125 protein yfjF
+ss00437	Hyp2	FIG006442: Integral membrane protein

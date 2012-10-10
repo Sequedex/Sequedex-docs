@@ -1,0 +1,16 @@
+ss00190	spy0181	Transcriptional antiterminator with PTS regulation domain, SPy0181 ortholog
+ss00190	b4191	Putative DeoR-type transcriptional regulator, eco:b4191 ortholog
+ss00190	APL	Putative L-ascorbate 6-phosphate lactonase (EC 3.1.1.-)
+ss00190	PtxA	PTS system, 3-keto-L-gulonate/L-ascorbate specific IIA component (PtxA)
+ss00190	SgaB	PTS system, 3-keto-L-gulonate/L-ascorbate specific IIB component (SgaB)
+ss00190	SgaT	PTS system, 3-keto-L-gulonate/L-ascorbate specific IIC component (SgaT)
+ss00190	SgaH	3-keto-L-gulonate 6-phosphate decarboxylase
+ss00190	SgaU	L-xylulose 5-phosphate 3-epimerase (EC 5.1.3.-)
+ss00190	SgaESgbE	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+ss00190	SgbH	3-keto-L-gulonate 6-phosphate decarboxylase homolog
+ss00190	SgbU	L-xylulose 5-phosphate 3-epimerase (EC 5.1.3.-) homolog
+ss00190	LyxK	L-xylulose/3-keto-L-gulonate kinase (EC 2.7.1.-)
+ss00190	KDGK?	Putative 2-keto-3-deoxygluconate kinase (EC 2.7.1.45)
+ss00190	3DGDH	3-dehydro-L-gulonate 2-dehydrogenase (EC 1.1.1.130)
+ss00190	RK	Ribulokinase (EC 2.7.1.16)
+ss00190	RK_a	alternative Ribulokinase (EC 2.7.1.16)

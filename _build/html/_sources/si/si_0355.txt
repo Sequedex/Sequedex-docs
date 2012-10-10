@@ -1,0 +1,5 @@
+ss00633	R1	Regulatory protein RecX
+ss00633	R2	Cysteinyl-tRNA synthetase related protein
+ss00633	R3	A/G-specific adenine glycosylase (EC 3.2.2.-)
+ss00633	R4	Cell division inhibitor
+ss00633	R5	Transcription regulator CDS_ID OB0894

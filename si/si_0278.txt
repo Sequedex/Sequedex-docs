@@ -1,0 +1,94 @@
+ss00822	R1	Type III secretion outermembrane negative regulator of secretion (TyeA)
+ss00822	R2	required for Yop secretion
+ss00822	R3	Type III secretion spans bacterial envelope protein (YscO)
+ss00822	R4	Type III secretion inner membrane protein (YscS,homologous to flagellar export components)
+ss00822	R5	Type III secretion inner membrane protein (YscQ,homologous to flagellar export components)
+ss00822	R6	Type III secretion host injection protein (YopB)
+ss00822	R7	Type III secretion inner membrane protein (YscT,HrcT,SpaR,EscT,EpaR1,homologous to flagellar export components)
+ss00822	R8	Type III secretion inner membrane protein (YscR,SpaR,HrcR,EscR,homologous to flagellar export components)
+ss00822	R9	putative type III secretion protein YscX
+ss00822	R10	Type III secretion chaperone protein for YopD (SycD)
+ss00822	R11	Type III secretion inner membrane channel protein (LcrD,HrcV,EscV,SsaV)
+ss00822	R12	Type III secretion low calcium response protein (LcrR)
+ss00822	R13	Type III secretion host injection and negative regulator protein (YopD)
+ss00822	R14	putative type III secretion protein SycN
+ss00822	R15	Type III secretion cytoplasmic LcrG inhibitor (LcrV,secretion and targeting control protein, V antigen)
+ss00822	R16	Type III secretion cytoplasmic ATP synthase (EC 3.6.3.14, YscN,SpaL,MxiB,HrcN,EscN)
+ss00822	R17	Type III secretion cytoplasmic plug protein (LcrG)
+ss00822	R18	Type III secretion outermembrane contact sensing protein( yopN,Yop4b,LcrE)
+ss00822	R19	Type III secretion protein (YscP)
+ss00822	R20	Type III secretion inner membrane protein (YscU,SpaS,EscU,HrcU,SsaU, homologous to flagellar export components)
+ss00822	R21	Type III secretion, hypotetical protein
+ss00822	R22	Type III secretion transporter lipoprotein (YscW,VirG)
+ss00822	R23	hypothetical protein pYVe8081_p05
+ss00822	R24	Unknown, probably involved in type III secretion
+ss00822	R25	Type III secretion possible injected virulence protein (YopM)
+ss00822	R27	Type III secretion negative modulator of injection (YopK,YopQ,controls size of translocator pore)
+ss00822	R28	Type III secretion chaperone protein for YopT (SycT)
+ss00822	R29	Type III secretion inner membrane protein SctS
+ss00822	R30	Type III secretion injected virulence protein (EC 3.4.22.-,YopT,cysteine protease,depolymerizes actin filaments of cytoskeleton,causes cytotoxicity)
+ss00822	R31	type III secretion protein HrpJ
+ss00822	R32	type III secretion protein HrcQa
+ss00822	R33	Surface presentation of antigens protein SpaQ
+ss00822	R92	type III secretion protein HrcQb
+ss00822	R34	Type III secretion protein EprH
+ss00822	R36	Surface presentation of antigens protein SpaP
+ss00822	R37	cell invasion protein SipB
+ss00822	R38	Type III secretion bridge between inner and outermembrane lipoprotein (yscJ,HrcJ,EscJ, PscJ)
+ss00822	R39	type III secretion protein HrpO
+ss00822	R40	type III secretion protein HrpP
+ss00822	R41	type III secretion protein HrpQb
+ss00822	R42	type III secretion protein HrpQ
+ss00822	R43	negative regulator of hrp expression HrpV
+ss00822	R44	type III secretion protein HrpT
+ss00822	R45	type III secretion protein HrpG
+ss00822	R46	type III secretion protein HrpE
+ss00822	R47	type III secretion protein HrpD
+ss00822	R48	type III secretion protein HrpB(Pto)
+ss00822	R49	Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)
+ss00822	R50	putative type III secretion system EscC protein
+ss00822	R51	MxiG protein
+ss00822	R52	MxiH protein
+ss00822	R54	Surface presentation of antigens protein
+ss00822	R55	Type III secretion system protein BsaR
+ss00822	R56	Type III secretion system protein
+ss00822	R57	Type III secretion bridge between inner and outermembrane lipoprotein (YscJ,HrcJ,EscJ, PscJ)
+ss00822	R58	Oxygen-regulated invasion protein OrgB
+ss00822	R59_59_59_59	Invasion protein invH precursor
+ss00822	R60	Oxygen-regulated invasion protein OrgA
+ss00822	R61	Surface presentation of antigens protein SpaK
+ss00822	R62	Surface presentation of antigens protein SpaM
+ss00822	R63	Surface presentation of antigens protein SpaN
+ss00822	R64	MxiK protein
+ss00822	R65	MxiN
+ss00822	R66	Invasion protein IagB precursor
+ss00822	R67_67_67_67	Type III secretion apparatus protein
+ss00822	R68	Type III secretion inner membrane protein SctT
+ss00822	R69	Type III secretion inner membrane protein SctR
+ss00822	R70	Type III secretion translocase SctL
+ss00822	R71	Type III secretion protein SctJ
+ss00822	R72	probable translocation protein involved in type-III secretion process, HrcQ-like
+ss00822	R73	probable translocation protein involved in type-III secretion process
+ss00822	R74	Type III secretion system apparatus protein
+ss00822	R75	Putative type III secretion system apparatus protein
+ss00822	R76	Type III secretion outermembrane pore forming protein (YscC,MxiD,HrcC, InvG)
+ss00822	R77	Type III secretion injected virulence protein (YopP,YopJ, induces apoptosis, prevents cytokine induction, inhibits NFkb activation)
+ss00822	R78_78	putative type III secretion system lipoprotein precursor EprK
+ss00822	R79_79	Putative type III secretion apparatus precursor
+ss00822	R80_80	putative type III secretion protein
+ss00822	R81_81	HrpB2 protein
+ss00822	R82_82	HrpB4 protein
+ss00822	R83	Type III secretion inner membrane protein SctL
+ss00822	R84	HrpF protein
+ss00822	R85	Type III effector
+ss00822	R86	HpaP protein
+ss00822	R87	HrpD6 protein
+ss00822	R88	HrpD5 protein
+ss00822	R89	HrcQ protein
+ss00822	R90	HpaA protein
+ss00822	R91	HrpB1 protein
+ss00822	R79_92	Probable ATP synthase SpaL (EC 3.6.3.14) (Invasion protein InvC)
+ss00822	R80_93	Surface presentation of antigens protein SpaN (Invasion protein InvJ)
+ss00822	R81_94	Cell invasion protein SipD (Salmonella invasion protein D)
+ss00822	R82_95	Invasion protein InvA
+ss00822	R78_96	Surface presentation of antigens protein SpaO

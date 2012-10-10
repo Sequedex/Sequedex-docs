@@ -1,0 +1,17 @@
+ss01011	SpeA	Streptococcal pyrogenic exotoxin A (SpeA)
+ss01011	SpeC	Streptococcal pyrogenic exotoxin C (SpeC)
+ss01011	SpeH	Streptococcal pyrogenic exotoxin H (SpeH)
+ss01011	SpeI	Streptococcal pyrogenic exotoxin I (SpeI)
+ss01011	SpeK	Streptococcal pyrogenic exotoxin K (SpeK)
+ss01011	SpeL	Streptococcal pyrogenic exotoxin L (SpeL)
+ss01011	SpeM	Streptococcal pyrogenic exotoxin M (SpeM)
+ss01011	Ssa	Streptococcal superantigen A (Ssa)
+ss01011	SEE	Staphylococcal enterotoxin E
+ss01011	SEB	Staphylococcal enterotoxin B
+ss01011	SEC3	Staphylococcal enterotoxin C3
+ss01011	SEL	Staphylococcal enterotoxin L
+ss01011	Sda	Streptodornase D
+ss01011	Spd2	Mitogenic factor 2
+ss01011	Spd3	Mitogenic factor 3
+ss01011	Spd4	Mitogenic factor 4
+ss01011	SEQ	Staphylococcal enterotoxin Q

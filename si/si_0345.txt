@@ -1,0 +1,16 @@
+ss00302	R1	repetative hypothetical protein , fig|282458.1.peg.574 homolog
+ss00302	R2	Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
+ss00302	R3	hypothetical fig|282458.1.peg.573 homolog
+ss00302	R4	Oxidoreductase ion channel
+ss00302	R5	hypothetical fig|282458.1.peg.581 homolog
+ss00302	R6	hypothetical fig|282458.1.peg.578 homolog
+ss00302	R7	hypothetical fig|282458.1.peg.572 homolog
+ss00302	R8	hypothetical fig|282458.1.peg.579 homolog
+ss00302	R9	hypothetical fig|418127.4.peg.560 homolog
+ss00302	R10	Putative Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+ss00302	R11	Probable pyridine nucleotide-disulfide oxidoreductase YkgC
+ss00302	R12	Mercuric reductase (EC 1.16.1.1)
+ss00302	R13	Alcohol dehydrogenase (EC 1.1.1.1)
+ss00302	R14	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+ss00302	R15	Phosphomevalonate kinase (EC 2.7.4.2)
+ss00302	R16	hypothetical fig|282458.1.peg.583 homolog

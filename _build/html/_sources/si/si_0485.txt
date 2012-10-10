@@ -1,0 +1,10 @@
+ss00096	pitA	Ferric iron ABC transporter, iron-binding protein
+ss00096	pitD	Ferric iron ABC transporter, ATP-binding protein
+ss00096	pitC	Ferric iron ABC transporter, permease protein
+ss00096	piaA	Iron compound ABC uptake transporter substrate-binding protein
+ss00096	piaD	Iron compound ABC uptake transporter ATP-binding protein
+ss00096	piaBC	Iron compound ABC uptake transporter permease protein
+ss00096	piuA	Iron compound ABC uptake transporter substrate-binding protein piuA
+ss00096	piuB	Iron compound ABC uptake transporter permease protein piuB
+ss00096	piuC	Iron compound ABC uptake transporter permease protein piuC
+ss00096	piuD	Iron compound ABC uptake transporter ATP-binding protein piuD

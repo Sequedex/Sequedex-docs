@@ -1,0 +1,8 @@
+ss01050	R1	Hypothetical, similarity to phosphoglycerate mutase
+ss01050	R2	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
+ss01050	R3	Cytochrome c-type biogenesis protein CcsA/ResC
+ss01050	R4	Thiol:disulfide oxidoreductase related to ResA
+ss01050	R5	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+ss01050	R7	Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
+ss01050	R1_2	Hypothetical, related to broad specificity phosphatases COG0406
+ss01050	R3_2	HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase

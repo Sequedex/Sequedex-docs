@@ -1,0 +1,31 @@
+ss00341	FCL-like	5-FCL-like protein
+ss00341	FCL	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+ss00341	MTHFR-Like	MTHFR (MetF)-like
+ss00341	FolD	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+ss00341	MTHFR	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+ss00341	SHMT	Serine hydroxymethyltransferase (EC 2.1.2.1)
+ss00341	SHMT-A	H4MPt-dependent SHMT
+ss00341	FTHFL	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+ss00341	GLuF	Glutamate formiminotransferase (EC 2.1.2.5)
+ss00341	CD	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+ss00341	PurN	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+ss00341	PurU	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+ss00341	PurH	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+ss00341	FolA	Dihydrofolate reductase (EC 1.5.1.3)
+ss00341	FolA1	Alternative dihydrofolate reductase 2
+ss00341	ThiD	Phosphomethylpyrimidine kinase (EC 2.7.4.7)
+ss00341	ThiN	Thiamin-phosphate synthase ThiN (EC 2.5.1.3)
+ss00341	ThiW	Substrate-specific component ThiW of predicted thiazole ECF transporter
+ss00341	E3	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+ss00341	E2	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+ss00341	E1	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+ss00341	SDH	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+ss00341	ICDH	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+ss00341	ADH	Alcohol dehydrogenase (EC 1.1.1.1)
+ss00341	SCAD	Butyryl-CoA dehydrogenase (EC 1.3.99.2)
+ss00341	ThiL	Thiamine-monophosphate kinase (EC 2.7.4.16)
+ss00341	ThiK	Thiamine kinase (EC 2.7.1.89)
+ss00341	ThiE	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+ss00341	YjbQ	YjbQ (alternate ThiE)
+ss00341	YlmB	YlmB
+ss00341	TenA	Thiaminase II (EC 3.5.99.2)

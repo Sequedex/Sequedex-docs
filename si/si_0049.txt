@@ -1,0 +1,48 @@
+ss00125	oper	putPA fragment of control region
+ss00125	PutP	Proline/sodium symporter PutP (TC 2.A.21.2.1)
+ss00125	PutR	PutR, transcriptional activator of PutA and PutP
+ss00125	Reg	Transcriptional repressor of PutA and PutP
+ss00125	PrDH	Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase)
+ss00125	P5CDH	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)
+ss00125	Hyp1	Delta 1-pyrroline-5-carboxylate dehydrogenase domain protein
+ss00125	OAT	Ornithine aminotransferase (EC 2.6.1.13)
+ss00125	AAT	Aspartate aminotransferase (EC 2.6.1.1)
+ss00125	KHGA	4-Hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16)
+ss00125	ODCa	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)
+ss00125	ODCb	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)
+ss00125	ODCg	Oxaloacetate decarboxylase gamma chain (EC 4.1.1.3)
+ss00125	PR	Proline racemase (EC 5.1.1.4)
+ss00125	PrdA1	D-proline reductase, 45 kDa subunit (EC 1.21.4.1)
+ss00125	PrdA2	D-proline reductase, 23 kDa subunit (EC 1.21.4.1)
+ss00125	PrdB	D-proline reductase, 26 kDa subunit (EC 1.21.4.1)
+ss00125	Col	Microbial collagenase, secreted (EC 3.4.24.3)
+ss00125	HyPrE	4-hydroxyproline epimerase (EC 5.1.1.8)
+ss00125	DAO	D-amino-acid oxidase (EC 1.4.3.3)
+ss00125	DADH?	D-amino acid dehydrogenase (EC 1.4.99.1) family protein in hydroxy-L-proline catabolic cluster
+ss00125	HPCD	1-pyrroline-4-hydroxy-2-carboxylate deaminase (EC 3.5.4.22)
+ss00125	KGSADH	Ketoglutarate semialdehyde dehydrogenase (EC 1.2.1.26)
+ss00125	ADH	Aldehyde dehydrogenase (EC 1.2.1.3) in 4-hydroxyproline catabolic gene cluster
+ss00125	Hyp2	Putative oxidoreductase in 4-hydroxyproline catabolic gene cluster
+ss00125	Hyp3	Hypothetical, similar to sarcosine oxidase alpha subunit, 2Fe-2S domain
+ss00125	DH?	Ureidoglycolate/malate/sulfolactate dehydrogenase family (EC 1.1.1.-)
+ss00125	Perm	Amino acid permease in 4-hydroxyproline catabolic gene cluster
+ss00125	Pep	Predicted 4-hydroxyproline dipeptidase
+ss00125	diPEP	Dipeptidyl peptidase IV in 4-hydroxyproline catabolic gene cluster
+ss00125	bGal	Putative beta-galactosidase in 4-hydroxyproline catabolic gene cluster
+ss00125	Reg?	Predicted regulator PutR for proline utilization, GntR family
+ss00125	PIP	Proline iminopeptidase (EC 3.4.11.5)
+ss00125	ProP	L-Proline/Glycine betaine transporter ProP
+ss00125	ProQ	ProQ: influences osmotic activation of compatible solute ProP
+ss00125	ProY	Proline-specific permease proY
+ss00125	OCDA	Ornithine cyclodeaminase (EC 4.3.1.12)
+ss00125	PPrHL?	Similar to eukaryotic Peptidyl prolyl 4-hydroxylase, alpha subunit (EC 1.14.11.2)
+ss00125	PPrHL	Peptidyl prolyl 4-hydroxylase, alpha subunit (EC 1.14.11.2)
+ss00125	PtRNA	Prolyl-tRNA synthetase (EC 6.1.1.15)
+ss00125	DADH	D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+ss00125	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+ss00125	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+ss00125	proB	Glutamate 5-kinase (EC 2.7.2.11)
+ss00125	gdhA	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+ss00125	gdhA?	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large
+ss00125	Hyp4	Pyrroline-5-carboxylate reductase (EC 1.5.1.2), ProG-like
+ss00125	Hyp5	Not a Proline racemase, nor 4-hydroxyproline epimerase [missing catalytic residues]

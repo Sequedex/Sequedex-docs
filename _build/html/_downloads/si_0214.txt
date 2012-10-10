@@ -1,0 +1,11 @@
+ss00175	R1	Glycosyltransferase (EC 2.4.1.-)
+ss00175	R2	glycosyl transferase, family 2
+ss00175	R3	Glycosyl transferase, family 2
+ss00175	R4	Glycosyl transferase, group 1 (EC 2.-.-.-)
+ss00175	R5	Bacterial sugar transferase
+ss00175	R6	hypothetical protein FP1254
+ss00175	R7	Oligosaccharide repeat unit polymerase Wzy
+ss00175	R8	Alpha-1,4-N-acetylgalactosamine transferase PglH (EC 2.4.1.-)
+ss00175	R9	Hexapeptide transferase family protein
+ss00175	R10	Glycosyl transferase, group 1
+ss00175	R11	Apolipoprotein N-acyltransferase (EC 2.3.1.-)

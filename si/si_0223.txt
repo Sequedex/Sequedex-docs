@@ -1,0 +1,10 @@
+ss00143	UDP-ac	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+ss00143	FtsQ	Cell division protein FtsQ
+ss00143	FtsA	Cell division protein FtsA
+ss00143	FtsZ	Cell division protein FtsZ (EC 3.4.24.-)
+ss00143	FIG001583	FIG001583: hypothetical protein, contains S4-like RNA binding domain
+ss00143	FIG001960	FIG001960: FtsZ-interacting protein related to cell division
+ss00143	FIG003955	FIG003955: protein of unknown function
+ss00143	FIG013736	FIG013736: cell division protein (putative)
+ss00143	DivIVA	Cell division initiation protein DivIVA
+ss00143	IleS	Isoleucyl-tRNA synthetase (EC 6.1.1.5)

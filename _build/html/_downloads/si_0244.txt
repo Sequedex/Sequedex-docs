@@ -1,0 +1,11 @@
+ss00994	R1	Membrane-associated zinc metalloprotease
+ss00994	R2	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+ss00994	R3	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)
+ss00994	R4	GCN5-related N-acetyltransferase, FIGfam019367
+ss00994	R5	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+ss00994	R6	penicillin-binding protein, putative
+ss00994	UPS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)
+ss00994	R5A	Penicillin-binding protein 2B
+ss00994	R5B	Stage V sporulation protein D (Sporulation-specific penicillin-binding protein)
+ss00994	R5C	Penicillin-binding protein 2 (PBP-2)
+ss00994	R5D	Penicillin-binding protein 3

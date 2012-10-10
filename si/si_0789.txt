@@ -1,0 +1,13 @@
+ss00241	Zur	Zinc uptake regulation protein ZUR
+ss00241	COG0523	COG0523: Putative GTPases (G3E family)
+ss00241	FolE1	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+ss00241	FolE2	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+ss00241	PyrC	Dihydroorotase (EC 3.5.2.3)
+ss00241	HemB	Porphobilinogen synthase (EC 4.2.1.24)
+ss00241	CynT	Carbonic anhydrase (EC 4.2.1.1)
+ss00241	HisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+ss00241	DksA	C4-type zinc finger protein, DksA/TraR family
+ss00241	AmiA	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+ss00241	QueD	Queuosine biosynthesis QueD, PTPS-I
+ss00241	CysS	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+ss00241	Cam	Carbonic anhydrase, gamma class (EC 4.2.1.1)

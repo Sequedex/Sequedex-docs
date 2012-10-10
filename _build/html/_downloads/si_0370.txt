@@ -1,0 +1,8 @@
+ss00348	GTPCIII	GTP cyclohydrolase III (methanopterin)
+ss00348	TAPTPPM	Triaminopyrimidine triphosphate phosphomutase
+ss00348	DHPCPH	7,8-dihydronepterin 2' :3'-cyclicphosphate hydrolase
+ss00348	DNMPPA	Dihydroneopterin monophosphate dephosphorylase
+ss00348	DHNPA2	Dihydroneopterin aldolase (methanopterin)
+ss00348	HPPK2	6-hydroxymethyl-dihydropterin pyrophosphokinase
+ss00348	DHPS3	7,8 dihydropteroate synthase (methanopterin)
+ss00348	BRFAPS	beta-ribofuranosylaminobenzene 5'-phosphate synthase

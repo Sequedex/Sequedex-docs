@@ -1,0 +1,2 @@
+ss00335	A	ATP-dependent nuclease, subunit A
+ss00335	B	ATP-dependent nuclease, subunit B

@@ -1,0 +1,4 @@
+ss00171	R1	Possible divergent polysaccharide deacetylase
+ss00171	R2	FIG000735: Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase (EC 3.6.1.-)
+ss00171	R3	Carboxyl-terminal protease (EC 3.4.21.102)
+ss00171	R4	Peptidase M23B precursor

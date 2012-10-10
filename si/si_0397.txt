@@ -1,0 +1,24 @@
+ss01040	CasReg	CRISPR-associated negative autoregulator
+ss01040	Cas1	CRISPR-associated protein Cas1
+ss01040	Cas2	CRISPR-associated protein Cas2
+ss01040	Cas3	CRISPR-associated helicase Cas3
+ss01040	Cas3p	CRISPR-associated helicase Cas3, protein
+ss01040	STY3070	corresponds to STY3070 from Accession AL513382: Salmonella typhi CT18
+ss01040	Cas4a	CRISPR-associated RecB family exonuclease Cas4a
+ss01040	Cas4b	CRISPR-associated RecB family exonuclease Cas4b
+ss01040	WS1616	CRISPR-associated protein, WS1616 family
+ss01040	Cas7	CRISPR-associated protein Cas7
+ss01040	TM1800	CRISPR-associated protein, TM1800 family
+ss01040	TM1801	CRISPR-associated protein, TM1801 family
+ss01040	TM1802	CRISPR-associated protein, TM1802 family
+ss01040	CT1133	CRISPR-associated protein, CT1133 family
+ss01040	CT1134	CRISPR-associated protein, CT1134 family
+ss01040	CT1972	CRISPR-associated protein, CT1972 family
+ss01040	CT1973	CRISPR-associated protein, CT1973 family
+ss01040	CT1974	CRISPR-associated protein, CT1974
+ss01040	CT1975	CRISPR-associated protein, CT1975 family
+ss01040	CT1976	CRISPR-associated protein, CT1976
+ss01040	MJ0381	CRISPR-associated protein, MJ0381 family
+ss01040	MTH1087	CRISPR-associated protein MTH1087
+ss01040	SAG0894	CRISPR-associated protein, SAG0894 family
+ss01040	Csn1	CRISPR-associated protein, Csn1 family

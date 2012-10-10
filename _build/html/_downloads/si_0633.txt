@@ -1,0 +1,18 @@
+ss00458	R1	TniB NTP-binding protein
+ss00458	R2	TniA putative transposase
+ss00458	R3	FIGfam050825
+ss00458	R4	Resolvase/Integrase TinR protein
+ss00458	R5	ISPsy4, transposition helper protein
+ss00458	R6	Mll9366 protein
+ss00458	R7	TniQ
+ss00458	R8	ComM-related protein
+ss00458	R9	MG(2+) CHELATASE FAMILY PROTEIN
+ss00458	R10	Transposase OrfAB, subunit B
+ss00458	R11	FIGfam110555
+ss00458	R12	ISPsy4, transposase
+ss00458	R13	Plasmid replication protein RepA
+ss00458	R14	Integrase/recombinase clustered with segregation and condensation protein B
+ss00458	R15	protein of unknown function DUF1612
+ss00458	R16	Predicted nucleotidyltransferases
+ss00458	R17	Segregation and condensation protein B
+ss00458	R18	protein of unknown function DUF1403

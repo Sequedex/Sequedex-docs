@@ -1,0 +1,3 @@
+ss00826	MelR	Melibiose operon regulatory protein
+ss00826	MelA	Alpha-galactosidase (EC 3.2.1.22)
+ss00826	MelB	Melibiose carrier protein, Na+/melibiose symporter

@@ -1,0 +1,11 @@
+ss00362	Ugd	UDP-glucose dehydrogenase (EC 1.1.1.22)
+ss00362	ArnA_DH	Polymyxin resistance protein ArnA_DH, UDP-glucuronic acid decarboxylase (EC 4.1.1.-)
+ss00362	ArnA_FT	Polymyxin resistance protein ArnA_FT, UDP-4-amino-4-deoxy-L-arabinose formylase (EC 2.1.2.-)
+ss00362	ArnB	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.-)
+ss00362	ArnC	Polymyxin resistance protein ArnC, glycosyl transferase (EC 2.4.-.-)
+ss00362	ArnT	Polymyxin resistance protein ArnT, undecaprenyl phosphate-alpha-L-Ara4N transferase
+ss00362	PmrJ	Polymyxin resistance protein PmrJ, predicted deacetylase
+ss00362	PmrL	Polymyxin resistance protein PmrL, sucrose-6 phosphate hydrolase
+ss00362	PmrD	Polymyxin resistance protein PmrD
+ss00362	PmrM	Polymyxin resistance protein PmrM
+ss00362	PmrG	Polymyxin resistance protein PmrG

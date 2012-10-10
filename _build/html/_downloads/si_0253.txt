@@ -1,0 +1,4 @@
+ss01065	R1	Indigoidine synthase A-like protein, uncharacterized enzyme involved in pigment biosynthesis
+ss01065	R2	Hypothetical sugar kinase in cluster with indigoidine synthase indA , PfkB family of kinases
+ss01065	R3	Probable pyrimidine nucleoside transport protein
+ss01065	R4	Uncharacterized sugar kinase yeiI clustered with IndA

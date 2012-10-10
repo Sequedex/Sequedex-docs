@@ -1,0 +1,22 @@
+ss00248	HRR	Putative Heme-regulated two-component response regulator
+ss00248	HBL	Putative hemin-binding lipoprotein
+ss00248	DOS	Heme-regulated cyclic AMP phosphodiesterase (EC 3.1.4.-)
+ss00248	HTa	Putative hemine transporter ATP-binding subunit
+ss00248	PHP	putative hemin permease
+ss00248	PHT	puatative hemin transporter subunit
+ss00248	HL	Hemolysins and related proteins containing CBS domains
+ss00248	FRP	Ferric uptake regulation protein
+ss00248	FrpB	iron-regulated outer membrane protein FrpB
+ss00248	FeZN	Fe2+/Zn2+ uptake regulation proteins
+ss00248	CorC	Magnesium and cobalt efflux protein CorC
+ss00248	PhoH	Phosphate starvation-inducible protein PhoH, predicted ATPase
+ss00248	Mg2+	probable Mg2+ transport protein
+ss00248	Ries	probable phytoene dehydrogenase Rieske iron-sulfur component
+ss00248	ThRR	Thioredoxin reductase (EC 1.8.1.9)
+ss00248	MDP	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+ss00248	ZUR	Zinc uptake regulation protein ZUR
+ss00248	FUR	Transcriptional regulator, FUR family
+ss00248	Irr	Iron-responsive regulator Irr
+ss00248	PerR	Peroxide stress regulator PerR, FUR family
+ss00248	MT	Magnesium transporter
+ss00248	TPP	Hemin ABC transporter, permease protein

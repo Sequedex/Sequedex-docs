@@ -144,14 +144,14 @@ Functional profiles
 
 It is possible to produce functional profiles of the same samples used above for comparing phylogenetic profiles.  Since we are using the SEED functional classification scheme, it is also possible to 'roll-up' the functional profiles into 28 categories of gene function.  Inspection of the output file SRR059330.fasta.fun reveals the following roll-up categories, defined in the notation of Fortran 90 :download:`here <./ruf.f90>`.
 
-.. figure:: hmbm_froll.*
+.. figure:: hmbm_froll.png
    :width: 100%
 
    Functional profile of 400 human microbiome samples, computed using the bact403 tree, the SEED classification, and Sequedex, rolled up with the above-defined classifications.  The functional profiles are provided above in an Excel spreadsheet.
 
 The most striking observation about the functional profile across the 400 human microbiome samples is the consistent relative amplitude of the different functions from the different body sites.  The two sample types with the greatest variation in functional rollup profiles are the posterior fornix and the anterior nares, consistent with Figure 2 of the Nature article referenced above (Nature **486**:207-214 (2012)).  It is possible that this variability is a consequence of clonal populations of particular organisms that make up a significant population of some of the samples skewing the results, but we have not explored this idea further.  We observe in the environmental functional profiles, below, that these relative amplitudes are also broadly in agreement across diverse ecosystems.  We will return to this discussion below, when we examine the functional profiles in greater resolution.
 
-.. figure:: env4_froll.*
+.. figure:: env4_froll.png
    :width: 100%
 
    Functional profile of 242 environmental microbiome samples with the same color-scheme as the HMB functional profile above, computed using the bact403 tree, the SEED classification, and Sequedex, rolled up with the above-defined classifications.  The functional profiles are provided above in an Excel spreadsheet.  As with the human microbiome samples, the consistent relative fraction of each functional rollup is quite striking, as is the enormous dispersions that arise from this uniformity.  

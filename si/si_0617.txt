@@ -1,0 +1,7 @@
+ss00539	R1	Phage DNA binding ATPase
+ss00539	R2	Phage DNA binding protein HkaK
+ss00539	R3	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB
+ss00539	R4	Phage resistance protein
+ss00539	R5	Exodeoxyribonuclease X (EC 3.1.11.-)
+ss00539	R6	Phage DNA repair protein
+ss00539	R7	Phage DNA and RNA binding protein

@@ -1,0 +1,16 @@
+ss00441	A	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.-)
+ss00441	B	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.-)
+ss00441	C	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.-)
+ss00441	D	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.-)
+ss00441	E	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.-)
+ss00441	F	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.-)
+ss00441	rnfA	Electron transport complex protein RnfA
+ss00441	rnfB	Electron transport complex protein RnfB
+ss00441	rnfC	Electron transport complex protein RnfC
+ss00441	rnfD	Electron transport complex protein RnfD
+ss00441	rnfE	Electron transport complex protein RnfE
+ss00441	rnfG	Electron transport complex protein RnfG
+ss00441	ApbE	Thiamin biosynthesis lipoprotein ApbE
+ss00441	PEorPP	Probable exported or periplasmic protein in ApbE locus
+ss00441	YPO3233	probable exported protein YPO3233
+ss00441	Hp	Hypothetical protein in ApbE locus

@@ -1,0 +1,19 @@
+ss00582	CamE	Pheromone cAM373 precursor lipoprotein CamE
+ss00582	CamS	Putative pheromone cAM373 precursor lipoprotein CamS
+ss00582	Cad	Pheromone cAD1 precursor lipoprotein Cad
+ss00582	Cad?	Putative pheromone precursor lipoprotein
+ss00582	DH	NADH dehydrogenase (EC 1.6.99.3) in cluster with putative pheromone precursor
+ss00582	Hyp1	Hypothetical similar to thiamin biosynthesis lipoprotein ApbE
+ss00582	Hyp2	Putative prenyltransferase, contains 1,4-dihydroxy-2-naphthoate octaprenyltransferase domain
+ss00582	Hyp3	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+ss00582	Hyp4	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+ss00582	Eep	Metalloprotease Eep, required for pheromone maturation
+ss00582	MP	Membrane-associated zinc metalloprotease
+ss00582	SPaseII	Lipoprotein signal peptidase (EC 3.4.23.36)
+ss00582	PrgA	Surface exclusion protein Sea1/PrgA
+ss00582	PrgB	Aggregation substance Asa1/PrgB
+ss00582	PrgC	Pheromone response surface protein PrgC
+ss00582	PrgX	Negative regulator of pheromone responce genes TraA/PrgX
+ss00582	PrgY	Pheromone shutdown protein TraB/PrgY
+ss00582	PrgZ	Pheromone binding protein TraC/PrgZ
+ss00582	OppA	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein oppA (TC 3.A.1.5.1)

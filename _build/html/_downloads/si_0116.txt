@@ -1,0 +1,21 @@
+ss00043	ManR	Activator of the mannose operon (transcriptional antiterminator), BglG family
+ss00043	ManO	Putative regulator of the mannose operon, ManO
+ss00043	ManA	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+ss00043	ManXb	PTS system, mannose-specific IIB component (EC 2.7.1.69)
+ss00043	ManXa	PTS system, mannose-specific IIA component (EC 2.7.1.69)
+ss00043	ManY	PTS system, mannose-specific IIC component (EC 2.7.1.69)
+ss00043	ManZ	PTS system, mannose-specific IID component (EC 2.7.1.69)
+ss00043	ManB	Phosphomannomutase (EC 5.4.2.8)
+ss00043	ManC	Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22)
+ss00043	MPGT	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13 )
+ss00043	WbdQ	GDP-mannose mannosyl hydrolase (EC 3.6.1.-)
+ss00043	MnnB	Beta-mannosidase (EC 3.2.1.25)
+ss00043	ManR-I	Transcriptional regulator of mannoside utilization, LacI family
+ss00043	ManR-II	Transcriptional regulator of mannoside utilization, variant 2, LacI family
+ss00043	MnnA	Alpha-1,2-mannosidase
+ss00043	ManP	Predicted mannose transporter, GGP family
+ss00043	ManI	D-mannose isomerase (EC 5.3.1.7)
+ss00043	ManK	Fructokinase in mannoside utilization gene cluster (EC 2.7.1.4)
+ss00043	Omp_man	Mannosides-regulated TonB-dependent outer membrane receptor
+ss00043	MnnA-II	Endo-alpha-mannosidase
+ss00043	ManP-II	Predicted sodium-dependent mannose transporter

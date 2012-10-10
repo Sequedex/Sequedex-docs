@@ -1,0 +1,4 @@
+ss00265	R1	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+ss00265	R2	Hypothetical protein SAV1840
+ss00265	R3	Hypothetical protein SAV1839
+ss00265	R4	Foldase clustered with pyrimidine conversion

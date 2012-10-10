@@ -1,0 +1,10 @@
+ss00279	PagP	Lipid A acylation protein PagP, palmitoyltransferase
+ss00279	PagL	Lipid A 3-O-deacylase
+ss00279	LpxO	Fe(2+)/alpha-ketoglutarate-dependent dioxygenase LpxO
+ss00279	PhoQ	Sensor protein PhoQ (EC 2.7.13.3)
+ss00279	PhoP	Transcriptional regulatory protein PhoP
+ss00279	PmrA	Transcriptional regulatory protein basR/pmrA
+ss00279	PmrB	Sensor protein basS/pmrB (EC 2.7.3.-)
+ss00279	EptA	Phosphoethanolamine transferase EptA specific for the 1 phosphate group of core-lipid A
+ss00279	EptB	Phosphoethanolamine transferase specific for the outer Kdo residue of lipopolysaccharide
+ss00279	YijP	UPF0141 membrane protein YijP possibly required for phosphoethanolamine modification of lipopolysaccharide

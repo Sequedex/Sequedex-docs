@@ -1,0 +1,17 @@
+ss00709	rndk	Regulator of nucleoside diphosphate kinase
+ss00709	GreA	Transcription elongation factor GreA
+ss00709	GreB	Transcription elongation factor GreB
+ss00709	GreB*	Transcription elongation factor GreB-related protein
+ss00709	Gfh1	Anti-cleavage anti-GreA transcription factor Gfh1
+ss00709	Rho	Transcription termination factor Rho
+ss00709	COG0779	COG0779: clustered with transcription termination protein NusA
+ss00709	NusA	Transcription termination protein NusA
+ss00709	COG2740	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+ss00709	L7Ae-like	ribosomal protein L7Ae family protein
+ss00709	NusB	Transcription termination protein NusB
+ss00709	NusG	Transcription antitermination protein NusG
+ss00709	UpdY	Transcription antitermination protein UpdY
+ss00709	RfaH	Transcriptional activator RfaH
+ss00709	TrcF	Transcription-repair coupling factor
+ss00709	RecG	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+ss00709	YaeO	Rho-specific inhibitor of transcription termination (YaeO)

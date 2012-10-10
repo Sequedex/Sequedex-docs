@@ -1,0 +1,9 @@
+ss00643	LHIa	Light-harvesting LHI, alpha subunit
+ss00643	LHIb	Light-harvesting LHI, beta subunit
+ss00643	pufL	Photosynthetic reaction center L subunit
+ss00643	pufM	Photosynthetic reaction center M subunit
+ss00643	puf2C	Photosynthetic reaction center cytochrome c subunit
+ss00643	pufQ	Protein PufQ, involved in assembly of B875 and B800-850 pigment-protein complexes
+ss00643	pufX	Protein PufX, involved in assembly of B875 and B800-850 pigment-protein complexes
+ss00643	puhA	Photosynthetic reaction center H subunit
+ss00643	Hyp1	Putative photosynthetic complex assembly protein

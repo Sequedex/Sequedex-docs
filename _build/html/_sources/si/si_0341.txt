@@ -1,0 +1,3 @@
+ss01069	LysR	LysR-family transcriptional regulator clustered with PA0057
+ss01069	PA0057	Metallo-beta-lactamase superfamily protein PA0057
+ss01069	Tdx-like	Thioredoxin-like protein clustered with PA0057

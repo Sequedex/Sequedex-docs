@@ -1,0 +1,8 @@
+ss01032	R1	Dihydroxyacetone kinase family protein
+ss01032	R2	FIG001802: Putative alkaline-shock protein
+ss01032	R3	LSU ribosomal protein L28p
+ss01032	R4	Serine/threonine protein kinase PrkC, regulator of stationary phase
+ss01032	R5	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+ss01032	R6	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+ss01032	R7	Ribosome small subunit-stimulated GTPase EngC
+ss01032	R8	Thiamin pyrophosphokinase (EC 2.7.6.2)

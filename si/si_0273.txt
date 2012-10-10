@@ -1,0 +1,7 @@
+ss00255	R1	FIG003879: Predicted amidohydrolase
+ss00255	R2	FIG005080: Possible exported protein
+ss00255	R3	TldD protein, part of proposed TldE/TldD proteolytic complex (PMID 12029038)
+ss00255	R4	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+ss00255	R5	Septum formation protein Maf
+ss00255	R6	Rod shape-determining protein MreC
+ss00255	R7	Rod shape-determining protein MreD
