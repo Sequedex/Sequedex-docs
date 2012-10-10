@@ -1,9 +1,9 @@
-ss00355	Phn-reg	Phosphonate uptake and metabolism regulator, LysR-family
-ss00355	PhnR	2-aminoethylphosphonate uptake and metabolism regulator
-ss00355	PhnS	2-aminoethylphosphonate ABC transporter periplasmic binding component (TC 3.A.1.9.1)
-ss00355	PhnT	2-aminoethylphosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)
-ss00355	PhnU	2-aminoethylphosphonate ABC transporter permease protein I (TC 3.A.1.9.1)
-ss00355	PhnV	2-aminoethylphosphonate ABC transporter permease protein II (TC 3.A.1.9.1)
-ss00355	PhnW	2-aminoethylphosphonate:pyruvate aminotransferase (EC 2.6.1.37)
-ss00355	PhnX	Phosphonoacetaldehyde hydrolase (EC 3.11.1.1)
-ss00355	PhnA	Phosphonoacetate hydrolase (EC 3.11.1.2)
+si_0642	Phosphonate_metabolism	Phosphonate uptake and metabolism regulator, LysR-family
+si_0642	Phosphonate_metabolism	2-aminoethylphosphonate uptake and metabolism regulator
+si_0642	Phosphonate_metabolism	2-aminoethylphosphonate ABC transporter periplasmic binding component (TC 3.A.1.9.1)
+si_0642	Phosphonate_metabolism	2-aminoethylphosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)
+si_0642	Phosphonate_metabolism	2-aminoethylphosphonate ABC transporter permease protein I (TC 3.A.1.9.1)
+si_0642	Phosphonate_metabolism	2-aminoethylphosphonate ABC transporter permease protein II (TC 3.A.1.9.1)
+si_0642	Phosphonate_metabolism	2-aminoethylphosphonate:pyruvate aminotransferase (EC 2.6.1.37)
+si_0642	Phosphonate_metabolism	Phosphonoacetaldehyde hydrolase (EC 3.11.1.1)
+si_0642	Phosphonate_metabolism	Phosphonoacetate hydrolase (EC 3.11.1.2)

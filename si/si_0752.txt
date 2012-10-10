@@ -1,1 +1,1 @@
-ss00978	RT	Retron-type reverse transcriptase
+si_0752	Group_II_intron-associated_genes	Retron-type reverse transcriptase

@@ -1,8 +1,8 @@
-ss00556	luxR	Transcriptional activator protein LuxR
-ss00556	luxI	Autoinducer synthesis protein LuxI
-ss00556	luxC	LuxC, acyl-CoA reductase (EC 1.2.1.50)
-ss00556	luxD	LuxD. acyl transferase (EC 2.3.1.-)
-ss00556	luxA	LuxA, luciferase alpha chain (EC 1.14.14.3)
-ss00556	luxB	LuxB, luciferase beta chain (EC 1.14.14.3)
-ss00556	luxE	LuxE, long-chain-fatty-acid ligase (EC 6.2.1.19)
-ss00556	luxG	LuxG, NAD(P)H-dependent FMN reductase (EC 1.5.1.29)
+si_0573	Luciferases	Transcriptional activator protein LuxR
+si_0573	Luciferases	Autoinducer synthesis protein LuxI
+si_0573	Luciferases	LuxC, acyl-CoA reductase (EC 1.2.1.50)
+si_0573	Luciferases	LuxD. acyl transferase (EC 2.3.1.-)
+si_0573	Luciferases	LuxA, luciferase alpha chain (EC 1.14.14.3)
+si_0573	Luciferases	LuxB, luciferase beta chain (EC 1.14.14.3)
+si_0573	Luciferases	LuxE, long-chain-fatty-acid ligase (EC 6.2.1.19)
+si_0573	Luciferases	LuxG, NAD(P)H-dependent FMN reductase (EC 1.5.1.29)

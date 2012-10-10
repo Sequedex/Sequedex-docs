@@ -1,20 +1,8 @@
-ss00574	GlucDH	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
-ss00574	AlkDH	Alkan-1-ol dehydrogenase, PQQ-dependent (EC 1.1.99.20)
-ss00574	CholDH	Choline dehydrogenase (EC 1.1.99.1)
-ss00574	PVDH	Polyvinyl-alcohol dehydrogenase, PQQ-dependent (EC 1.1.99.23)
-ss00574	SldA	Broad-specificity glycerol dehydrogenase (EC 1.1.99.22), subunit SldA
-ss00574	SldB	Broad-specificity glycerol dehydrogenase (EC 1.1.99.22), subunit SldB
-ss00574	UnkDH	Uncharacterized dehydrogenase [pyrroloquinoline-quinone]
-ss00574	MeDH	Methanol dehydrogenase large subunit protein (EC 1.1.99.8)
-ss00574	IsoQOR	Isoquinoline 1-oxidoreductase beta subunit (EC 1.3.99.16)
-ss00574	AldoseDH	Soluble aldose sugar dehydrogenase, PQQ-dependent (EC 1.1.5.-)
-ss00574	GdhB	PQQ-dependent oxidoreductase, gdhB family
-ss00574	ADH	Quino(hemo)protein alcohol dehydrogenase, PQQ-dependent (EC 1.1.99.8)
-ss00574	PqqA	Coenzyme PQQ synthesis protein A
-ss00574	PqqB	Coenzyme PQQ synthesis protein B
-ss00574	PqqC	Coenzyme PQQ synthesis protein C
-ss00574	PqqD	Coenzyme PQQ synthesis protein D
-ss00574	PqqE	Coenzyme PQQ synthesis protein E
-ss00574	PqqF	Coenzyme PQQ synthesis protein F (EC 3.4.99.-)
-ss00574	PqqB-like	Simiarl to coenzyme PQQ synthesis protein B
-ss00574	PqqC-like	Paralog of coenzyme PQQ synthesis protein C
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein A
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein B
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein C
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein D
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein E
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein F (EC 3.4.99.-)
+si_0378	Coenzyme_PQQ_synthesis	Paralog of coenzyme PQQ synthesis protein C
+si_0378	Coenzyme_PQQ_synthesis	Similar to coenzyme PQQ synthesis protein B

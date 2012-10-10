@@ -1,8 +1,7 @@
-ss00313	PXO	Pyridoxine 4-oxidase (EC 1.1.3.12)
-ss00313	PDH	Pyridoxal 4-dehydrogenase (EC 1.1.1.107)
-ss00313	PXL	4-pyridoxolactonase (EC 3.1.1.27)
-ss00313	PADH	4-pyridoxic acid dehydrogenase
-ss00313	HMDD	3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase (EC 4.1.1.51)
-ss00313	MHCO	2-methyl-3-hydroxypyridine-5-carboxylic acid oxygenase (EC 1.14.12.4)
-ss00313	AASH	2-(acetamidomethylene)succinate hydrolase (EC 3.5.1.29)
-ss00313	Pdxp	Pyridoxal phosphatase (EC 3.1.3.74)
+si_0376	Pyridoxin(Vitamin_B6)_Degradation_Pathway	2-(acetamidomethylene)succinate hydrolase (EC 3.5.1.29)
+si_0376	Pyridoxin(Vitamin_B6)_Degradation_Pathway	2-methyl-3-hydroxypyridine-5-carboxylic acid oxygenase (EC 1.14.12.4)
+si_0376	Pyridoxin(Vitamin_B6)_Degradation_Pathway	3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase (EC 4.1.1.51)
+si_0376	Pyridoxin(Vitamin_B6)_Degradation_Pathway	4-pyridoxic acid dehydrogenase
+si_0376	Pyridoxin(Vitamin_B6)_Degradation_Pathway	4-pyridoxolactonase (EC 3.1.1.27)
+si_0376	Pyridoxin(Vitamin_B6)_Degradation_Pathway	Pyridoxal 4-dehydrogenase (EC 1.1.1.107)
+si_0376	Pyridoxin(Vitamin_B6)_Degradation_Pathway	Pyridoxine 4-oxidase (EC 1.1.3.12)

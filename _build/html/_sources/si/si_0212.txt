@@ -1,0 +1,14 @@
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II--L-alanine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II--L-serine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-Ala--L-alanine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-Ser--L-alanine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-Ala--L-serine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-AlaAla--L-alanine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-AlaAla--L-serine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II--glycine ligase (FmhB)
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II--glycine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-Gly--glycine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-GlyGly--glycine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-GlyGlyGly--glycine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II-GlyGlyGlyGly--glycine ligase
+si_0212	tRNA-dependent_amino_acid_transfers	tRNA-dependent lipid II--amino acid ligase

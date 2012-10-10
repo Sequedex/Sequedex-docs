@@ -1,0 +1,6 @@
+si_0629	Prophage_lysogenic_conversion_modules	Phage hyaluronidase
+si_0629	Prophage_lysogenic_conversion_modules	Phage-associated cell wall hydrolase
+si_0629	Prophage_lysogenic_conversion_modules	_Toximoron (Other)
+si_0629	Prophage_lysogenic_conversion_modules	_Toximoron (Superantigen)
+si_0629	Prophage_lysogenic_conversion_modules	Holin
+si_0629	Prophage_lysogenic_conversion_modules	Paratox

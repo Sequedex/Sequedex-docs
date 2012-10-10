@@ -1,38 +1,33 @@
-ss01052	PS	Phytoene synthase (EC 2.5.1.32)
-ss01052	PDS	Phytoene desaturase, pro-zeta-carotene producing (EC 1.-.-.-)
-ss01052	NDS	Neurosporene desaturase (EC 1.-.-.-)
-ss01052	GPS	Geranylgeranyl pyrophosphate synthetase (EC 2.5.1.29)
-ss01052	CI	Carotenoid cis-trans isomerase (EC 5.2.-.-)
-ss01052	ZDS	Pro-zeta-carotene desaturase, prolycopene producing (EC 1.-.-.-)
-ss01052	BCH	Beta-carotene hydroxylase
-ss01052	BLCY	Lycopene beta cyclase (EC 1.14.-.-)
-ss01052	BCK	Beta-carotene ketolase (EC 1.14.-.-)
-ss01052	ELCY	Lycopene epsilon cyclase
-ss01052	ZGT	Zeaxanthin glucosyl transferase
-ss01052	PCS	"phi-Carotenoid synthase" (EC 1.3.-.- and EC 2.1.1-)
-ss01052	HNS	Hydroxyneurosporene synthase
-ss01052	HNM	Hydroxyneurosporene methyltransferase (EC 2.1.1.-)
-ss01052	RP	Phytoene dehydrogenase and related proteins
-ss01052	VM	CrtV-methyltransferase-like protein
-ss01052	TM	CrtT-methyltransferase-like protein
-ss01052	BCHF	2-vinyl bacteriochlorophillide hydratase (EC 4.2.1.-)
-ss01052	PDSB	Phytoene desaturase, neurosporene or lycopene producing (EC 1.3.-.-)
-ss01052	DSS	Dehydrosqualene synthase (EC 2.5.1.-)
-ss01052	SD	Squalene desaturase
-ss01052	SM	Spheroidene/spirilloxanthin monooxygenase
-ss01052	LE	Lycopene elongase (EC 2.5.1.-)
-ss01052	SRCB	sigma-factor-like regulator of carotenoid biosynthesis
-ss01052	RCB	Regulator of carotenoid biosynthesis
-ss01052	BCHF1	2-vinyl bacteriochlorophyllide hydratase BchF (EC 4.2.1.-)
-ss01052	CrtNb	4,4'-diapolycopene oxidase
-ss01052	PD	Phytoene desaturase (EC 1.14.99.-)
-ss01052	gCD	gamma-carotene desaturase, putative
-ss01052	LC	Lycopene cyclase
-ss01052	DAPD	probable diapophytoene dehydrogenase
-ss01052	PDh	Phytoene dehydrogenase (EC 1.14.99.-)
-ss01052	gCH	gamma-carotene hydroxylase
-ss01052	MND	Methoxyneurosporene dehydrogenase (EC 1.14.99.-)
-ss01052	C50C	C50 carotenoid epsilon cyclase
-ss01052	HNSD	Hydroxyneurosporene dehydrogenase (EC 1.-.-.-)
-ss01052	SHC	Squalene--hopene cyclase (EC 5.4.99.17)
-ss01052	FPS	Geranyltranstransferase (farnesyldiphosphate synthase) (EC 2.5.1.10)
+si_0454	Carotenoids	"phi-Carotenoid synthase" (EC 1.3.-.- and EC 2.1.1-)
+si_0454	Carotenoids	2-vinyl bacteriochlorophyllide hydratase BchF (EC 4.2.1.-)
+si_0454	Carotenoids	4,4'-diapolycopene oxidase
+si_0454	Carotenoids	Beta-carotene hydroxylase
+si_0454	Carotenoids	Beta-carotene ketolase (EC 1.14.-.-)
+si_0454	Carotenoids	C50 carotenoid epsilon cyclase
+si_0454	Carotenoids	Carotenoid cis-trans isomerase (EC 5.2.-.-)
+si_0454	Carotenoids	CrtT-methyltransferase-like protein
+si_0454	Carotenoids	CrtV-methyltransferase-like protein
+si_0454	Carotenoids	Dehydrosqualene synthase (EC 2.5.1.-)
+si_0454	Carotenoids	Geranylgeranyl pyrophosphate synthetase (EC 2.5.1.29)
+si_0454	Carotenoids	Geranyltranstransferase (farnesyldiphosphate synthase) (EC 2.5.1.10)
+si_0454	Carotenoids	Hydroxyneurosporene dehydrogenase (EC 1.-.-.-)
+si_0454	Carotenoids	Hydroxyneurosporene methyltransferase (EC 2.1.1.-)
+si_0454	Carotenoids	Hydroxyneurosporene synthase
+si_0454	Carotenoids	Lycopene beta cyclase (EC 1.14.-.-)
+si_0454	Carotenoids	Lycopene cyclase
+si_0454	Carotenoids	Lycopene elongase (EC 2.5.1.-)
+si_0454	Carotenoids	Lycopene epsilon cyclase
+si_0454	Carotenoids	Methoxyneurosporene dehydrogenase (EC 1.14.99.-)
+si_0454	Carotenoids	Neurosporene desaturase (EC 1.-.-.-)
+si_0454	Carotenoids	Phytoene dehydrogenase (EC 1.14.99.-)
+si_0454	Carotenoids	Phytoene dehydrogenase and related proteins
+si_0454	Carotenoids	Phytoene desaturase (EC 1.14.99.-)
+si_0454	Carotenoids	Phytoene desaturase, neurosporene or lycopene producing (EC 1.3.-.-)
+si_0454	Carotenoids	Phytoene desaturase, pro-zeta-carotene producing (EC 1.-.-.-)
+si_0454	Carotenoids	Phytoene synthase (EC 2.5.1.32)
+si_0454	Carotenoids	Pro-zeta-carotene desaturase, prolycopene producing (EC 1.-.-.-)
+si_0454	Carotenoids	Regulator of carotenoid biosynthesis
+si_0454	Carotenoids	Squalene--hopene cyclase (EC 5.4.99.17)
+si_0454	Carotenoids	Zeaxanthin glucosyl transferase
+si_0454	Carotenoids	gamma-carotene desaturase, putative
+si_0454	Carotenoids	gamma-carotene hydroxylase

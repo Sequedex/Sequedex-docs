@@ -1,0 +1,3 @@
+si_0897	&#946;-Fimbriae	Beta-fimbriae usher protein
+si_0897	&#946;-Fimbriae	Beta-fimbriae probable major subunit
+si_0897	&#946;-Fimbriae	Beta-fimbriae chaperone protein

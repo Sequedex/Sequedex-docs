@@ -1,13 +1,13 @@
-ss01023	HypA	[NiFe] hydrogenase nickel incorporation protein HypA
-ss01023	HybF	[NiFe] hydrogenase nickel incorporation protein HybF
-ss01023	HybF2	[NiFe] hydrogenase nickel incorporation HybF-like protein
-ss01023	HypB	[NiFe] hydrogenase nickel incorporation-associated protein HypB
-ss01023	HypC	[NiFe] hydrogenase metallocenter assembly protein HypC
-ss01023	HybG	[NiFe] hydrogenase metallocenter assembly protein HybG
-ss01023	HypD	[NiFe] hydrogenase metallocenter assembly protein HypD
-ss01023	HypE	[NiFe] hydrogenase metallocenter assembly protein HypE
-ss01023	HypF	[NiFe] hydrogenase metallocenter assembly protein HypF
-ss01023	Ech	Energy-conserving hydrogenase (ferredoxin), subunit A
-ss01023	FrcA	Coenzyme F420 hydrogenase alpha subunit (FrcA) (EC 1.12.98.1)
-ss01023	FruA	Coenzyme F420 hydrogenase alpha subunit (FruA) (EC 1.12.98.1)
-ss01023	Vho	Methanophenazine hydrogenase large subunit (EC 1.12.98.3)
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase nickel incorporation protein HypA
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase nickel incorporation protein HybF
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase nickel incorporation HybF-like protein
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase metallocenter assembly protein HypC
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase metallocenter assembly protein HybG
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase metallocenter assembly protein HypD
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase metallocenter assembly protein HypE
+si_0811	NiFe_hydrogenase_maturation	[NiFe] hydrogenase metallocenter assembly protein HypF
+si_0811	NiFe_hydrogenase_maturation	Energy-conserving hydrogenase (ferredoxin), subunit A
+si_0811	NiFe_hydrogenase_maturation	Coenzyme F420 hydrogenase alpha subunit (FrcA) (EC 1.12.98.1)
+si_0811	NiFe_hydrogenase_maturation	Coenzyme F420 hydrogenase alpha subunit (FruA) (EC 1.12.98.1)
+si_0811	NiFe_hydrogenase_maturation	Methanophenazine hydrogenase large subunit (EC 1.12.98.3)

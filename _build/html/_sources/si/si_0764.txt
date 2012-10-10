@@ -1,3 +1,10 @@
-ss00767	NspS	Predicted polyamine sensor NspS, involved in biofilm formation
-ss00767	MbaA	C-di-GMP phosphodiesterase MbaA, repressor of biofilm formation
-ss00767	Hyp1	Hypothetical cytoplasmic protein in cluster with NspS
+si_0764	Quorum-sensing_in_Vibrio	Autoinducer 1 sensor kinase/phosphatase LuxN (EC 2.7.3.-) (EC 3.1.3.-)
+si_0764	Quorum-sensing_in_Vibrio	N-(3-hydroxybutanoyl)-L- homoserine lactone synthase LuxM
+si_0764	Quorum-sensing_in_Vibrio	S-ribosylhomocysteine lyase (EC 4.4.1.21) / Autoinducer-2 production protein LuxS
+si_0764	Quorum-sensing_in_Vibrio	Autoinducer 2-binding periplasmic protein LuxP precursor
+si_0764	Quorum-sensing_in_Vibrio	Autoinducer 2 sensor kinase/phosphatase LuxQ (EC 2.7.3.-) (EC 3.1.3.-)
+si_0764	Quorum-sensing_in_Vibrio	8-amino-7-oxononanoate synthase (EC 2.3.1.47) / CqsA
+si_0764	Quorum-sensing_in_Vibrio	Sensor histidine kinase CqsS
+si_0764	Quorum-sensing_in_Vibrio	Phosphorelay protein LuxU
+si_0764	Quorum-sensing_in_Vibrio	Regulatory protein LuxO
+si_0764	Quorum-sensing_in_Vibrio	Quorum-sensing regulator of virulence HapR

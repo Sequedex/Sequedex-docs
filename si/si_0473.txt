@@ -1,42 +1,41 @@
-ss00426	PA2384	Hypothetical protein in pyoverdin gene cluster
-ss00426	PvdQ	Acyl-homoserine lactone acylase PvdQ (EC 3.5.1.-), quorum-quenching
-ss00426	PvdA	L-ornithine 5-monooxygenase (EC 1.13.12.-), PvdA of pyoverdin biosynthesis
-ss00426	PvdF	Pyoverdine synthetase PvdF, N5-hydroxyornithine formyltransferase
-ss00426	FpvR	Antisigma transmembrane sensor FpvR
-ss00426	FpvI	Sigma-70 factor FpvI (ECF subfamily), controling pyoverdin biosynthesis
-ss00426	PA2389	pyoverdine-specific efflux macA-like protein
-ss00426	PA2390	Pyoverdine efflux carrier and ATP binding protein
-ss00426	PA2391	Outer membrane pyoverdine eflux protein
-ss00426	PvdP	Pyoverdine biosynthesis related protein PvdP
-ss00426	PvdM	Putative dipeptidase, pyoverdin biosynthesis PvdM
-ss00426	PvdN	Pyoverdin biosynthesis protein PvdN, putative aminotransferase, class V
-ss00426	PvdO	PvdO, pyoverdine responsive serine/threonine kinase (predicted by OlgaV)
-ss00426	PvdE	PvdE, pyoverdine ABC export system, fused ATPase and permease components
-ss00426	FpvA	Outer membrane ferripyoverdine receptor FpvA, TonB-dependent
-ss00426	FpvB	Outer membrane ferripyoverdine receptor FpvB, for Type I pyoverdine
-ss00426	Pyo-rec?	Outer membrane ferripyoverdine receptor
-ss00426	PvdD	Pyoverdine sidechain non-ribosomal peptide synthetase PvdD
-ss00426	PvdJ	Pyoverdine sidechain non-ribosomal peptide synthetase PvdJ
-ss00426	PvdI	Pyoverdine sidechain non-ribosomal peptide synthetase PvdI
-ss00426	NR-PS	Non-ribosomal peptide synthetase modules, pyoverdine
-ss00426	NR-PS?	Non-ribosomal peptide synthetase modules, pyoverdine??
-ss00426	PA2403_23	Putative iron-regulated membrane protein, PA2403 homolog
-ss00426	PA2403_24	Putative thiamine pyrophosphate-requiring enzyme, PA2404 homolog
-ss00426	PA2405	Hypothetical protein in pyoverdin gene cluster, PA2405 homolog
-ss00426	PA2406	Hypothetical protein in pyoverdin gene cluster, PA2406 homolog
-ss00426	PA2407	Cation ABC transporter, periplasmic cation-binding protein, PA2407 homolog
-ss00426	ABC1	ABC transporter in pyoverdin gene cluster, ATP-binding component
-ss00426	ABC2	ABC transporter in pyoverdin gene cluster, permease component
-ss00426	ABC3	ABC transporter in pyoverdin gene cluster, periplasmic component
-ss00426	PA2411	Probable thioesterase involved in non-ribosomal peptide biosynthesis, PA2411 homolog
-ss00426	PA2412	Hypothetical MbtH-like protein, PA2412 homolog
-ss00426	PvdH	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)
-ss00426	PA2418	Pirin-related protein, coexpressed with pyoverdine biosynthesis regulon
-ss00426	PA2419	Probable hydrolase, coexpressed with pyoverdine biosynthesis regulon
-ss00426	PA2420	Outer membrane porin, coexpressed with pyoverdine biosynthesis regulon
-ss00426	PA2421	Hypothertical protein, coexpressed with pyoverdine biosynthesis regulon
-ss00426	PvdL	Pyoverdine chromophore precursor synthetase PvdL
-ss00426	PvdG	Thioesterase PvdG involved in non-ribosomal peptide biosynthesis
-ss00426	PvdS	Sigma factor PvdS, controling pyoverdin biosynthesis
-ss00426	PvdY	Hypothetical protein PvdY
-ss00426	PvdX	Hypothetical protein PvdX
+si_0473	Siderophore_Pyoverdine	Cation ABC transporter, periplasmic cation-binding protein, PA2407 homolog
+si_0473	Siderophore_Pyoverdine	Hypothetical MbtH-like protein, PA2412 homolog
+si_0473	Siderophore_Pyoverdine	Hypothetical protein PvdX
+si_0473	Siderophore_Pyoverdine	Hypothetical protein PvdY
+si_0473	Siderophore_Pyoverdine	Hypothetical protein in pyoverdin gene cluster
+si_0473	Siderophore_Pyoverdine	Hypothetical protein in pyoverdin gene cluster, PA2405 homolog
+si_0473	Siderophore_Pyoverdine	Hypothetical protein in pyoverdin gene cluster, PA2406 homolog
+si_0473	Siderophore_Pyoverdine	L-ornithine 5-monooxygenase (EC 1.13.12.-), PvdA of pyoverdin biosynthesis
+si_0473	Siderophore_Pyoverdine	Non-ribosomal peptide synthetase modules, pyoverdine
+si_0473	Siderophore_Pyoverdine	Non-ribosomal peptide synthetase modules, pyoverdine??
+si_0473	Siderophore_Pyoverdine	Outer membrane ferripyoverdine receptor
+si_0473	Siderophore_Pyoverdine	Outer membrane ferripyoverdine receptor FpvA, TonB-dependent
+si_0473	Siderophore_Pyoverdine	Outer membrane ferripyoverdine receptor FpvB, for Type I pyoverdine
+si_0473	Siderophore_Pyoverdine	Outer membrane porin, coexpressed with pyoverdine biosynthesis regulon
+si_0473	Siderophore_Pyoverdine	Outer membrane pyoverdine eflux protein
+si_0473	Siderophore_Pyoverdine	Pirin-related protein, coexpressed with pyoverdine biosynthesis regulon
+si_0473	Siderophore_Pyoverdine	Probable hydrolase, coexpressed with pyoverdine biosynthesis regulon
+si_0473	Siderophore_Pyoverdine	Probable thioesterase involved in non-ribosomal peptide biosynthesis, PA2411 homolog
+si_0473	Siderophore_Pyoverdine	Putative dipeptidase, pyoverdin biosynthesis PvdM
+si_0473	Siderophore_Pyoverdine	Putative iron-regulated membrane protein, PA2403 homolog
+si_0473	Siderophore_Pyoverdine	Putative thiamine pyrophosphate-requiring enzyme, PA2404 homolog
+si_0473	Siderophore_Pyoverdine	PvdE, pyoverdine ABC export system, fused ATPase and permease components
+si_0473	Siderophore_Pyoverdine	PvdO, pyoverdine responsive serine/threonine kinase (predicted by OlgaV)
+si_0473	Siderophore_Pyoverdine	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)
+si_0473	Siderophore_Pyoverdine	Pyoverdin biosynthesis protein PvdN, putative aminotransferase, class V
+si_0473	Siderophore_Pyoverdine	Pyoverdine biosynthesis related protein PvdP
+si_0473	Siderophore_Pyoverdine	Pyoverdine chromophore precursor synthetase PvdL
+si_0473	Siderophore_Pyoverdine	Pyoverdine efflux carrier and ATP binding protein
+si_0473	Siderophore_Pyoverdine	Pyoverdine sidechain non-ribosomal peptide synthetase PvdD
+si_0473	Siderophore_Pyoverdine	Pyoverdine sidechain non-ribosomal peptide synthetase PvdI
+si_0473	Siderophore_Pyoverdine	Pyoverdine sidechain non-ribosomal peptide synthetase PvdJ
+si_0473	Siderophore_Pyoverdine	Pyoverdine synthetase PvdF, N5-hydroxyornithine formyltransferase
+si_0473	Siderophore_Pyoverdine	Sigma factor PvdS, controling pyoverdin biosynthesis
+si_0473	Siderophore_Pyoverdine	Sigma-70 factor FpvI (ECF subfamily), controling pyoverdin biosynthesis
+si_0473	Siderophore_Pyoverdine	Thioesterase PvdG involved in non-ribosomal peptide biosynthesis
+si_0473	Siderophore_Pyoverdine	pyoverdine-specific efflux macA-like protein
+si_0473	Siderophore_Pyoverdine	ABC transporter in pyoverdin gene cluster, ATP-binding component
+si_0473	Siderophore_Pyoverdine	ABC transporter in pyoverdin gene cluster, periplasmic component
+si_0473	Siderophore_Pyoverdine	ABC transporter in pyoverdin gene cluster, permease component
+si_0473	Siderophore_Pyoverdine	Acyl-homoserine lactone acylase PvdQ (EC 3.5.1.-), quorum-quenching
+si_0473	Siderophore_Pyoverdine	Antisigma transmembrane sensor FpvR

@@ -1,0 +1,7 @@
+si_0684	tRNA_aminoacylation,_Met	Methionyl-tRNA synthetase (EC 6.1.1.10)
+si_0684	tRNA_aminoacylation,_Met	Methionyl-tRNA synthetase, clostridial paralog
+si_0684	tRNA_aminoacylation,_Met	Methionyl-tRNA synthetase-related protein
+si_0684	tRNA_aminoacylation,_Met	Methionyl-tRNA synthetase-related protein 2
+si_0684	tRNA_aminoacylation,_Met	Structure-specific tRNA-binding protein
+si_0684	tRNA_aminoacylation,_Met	Structure-specific tRNA-binding protein trbp111
+si_0684	tRNA_aminoacylation,_Met	tRNA-binding protein YgjH

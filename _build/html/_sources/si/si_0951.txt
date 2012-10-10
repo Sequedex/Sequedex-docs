@@ -1,7 +1,7 @@
-ss00495	ctxA	Enterotoxin, A subunit (NAD(+)--diphthamide ADP- ribosyltransferase) (EC 2.4.2.36)
-ss00495	ctxB	Enterotoxin, B subunit
-ss00495	ace	Accessory cholera enterotoxin
-ss00495	zot	Zona occludens toxin
-ss00495	toxT	TCP pilus virulence regulatory protein ToxT, transcription activator
-ss00495	toxR	Transcriptional activator ToxR
-ss00495	toxS	Transmembrane regulatory protein ToxS
+si_0951	Cholera_toxin	Enterotoxin, A subunit (NAD(+)--diphthamide ADP- ribosyltransferase) (EC 2.4.2.36)
+si_0951	Cholera_toxin	Enterotoxin, B subunit
+si_0951	Cholera_toxin	Accessory cholera enterotoxin
+si_0951	Cholera_toxin	Zona occludens toxin
+si_0951	Cholera_toxin	TCP pilus virulence regulatory protein ToxT, transcription activator
+si_0951	Cholera_toxin	Transcriptional activator ToxR
+si_0951	Cholera_toxin	Transmembrane regulatory protein ToxS

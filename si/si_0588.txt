@@ -1,12 +1,1 @@
-ss00935	amidase	Amidase clustered with urea ABC transporter and nitrile hydratase functions
-ss00935	UreI	Urea channel UreI
-ss00935	UrtA	Urea ABC transporter, urea binding protein
-ss00935	UrtB	Urea ABC transporter, permease protein UrtB
-ss00935	UrtC	Urea ABC transporter, permease protein UrtC
-ss00935	UrtD	Urea ABC transporter, ATPase protein UrtD
-ss00935	UrtE	Urea ABC transporter, ATPase protein UrtE
-ss00935	regul	Putative nitrile hydratase regulator clustered with urea transport
-ss00935	NthA	Cobalt-containing nitrile hydratase subunit alpha (EC 4.2.1.84)
-ss00935	NthB	Cobalt-containing nitrile hydratase subunit beta (EC 4.2.1.84)
-ss00935	FrmA	Formamidase (EC 3.5.1.49)
-ss00935	AmiE	Aliphatic amidase amiE (EC 3.5.1.4)
+si_0588	Amidase_clustered_with_urea_and_nitrile_hydratase_functions	Amidase clustered with urea ABC transporter and nitrile hydratase functions

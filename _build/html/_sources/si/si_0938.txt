@@ -1,4 +1,4 @@
-ss00800	MexE	Multidrug efflux membrane fusion protein MexE
-ss00800	MexF	Multidrug efflux transporter MexF
-ss00800	OprN	Outer membrane protein OprN
-ss00800	MexT	Transcriptional regulator MexT
+si_0938	MexE-MexF-OprN_Multidrug_Efflux_System	Multidrug efflux membrane fusion protein MexE
+si_0938	MexE-MexF-OprN_Multidrug_Efflux_System	Multidrug efflux transporter MexF
+si_0938	MexE-MexF-OprN_Multidrug_Efflux_System	Outer membrane protein OprN
+si_0938	MexE-MexF-OprN_Multidrug_Efflux_System	Transcriptional regulator MexT

@@ -1,12 +1,12 @@
-ss00546	R1	Putative TEGT family carrier/transport protein
-ss00546	R2	tRNA 2-thiouridine synthesizing protein E (EC 2.8.1.-)
-ss00546	R3	LSU m5C1962 methyltransferase RlmI
-ss00546	R4	tRNA 5-methylaminomethyl-2-thiouridine synthase TusC
-ss00546	R5	tRNA 5-methylaminomethyl-2-thiouridine synthase TusD
-ss00546	R6	Seryl-tRNA synthetase (EC 6.1.1.11)
-ss00546	R7	ABC-type polar amino acid transport system, ATPase component
-ss00546	R8	Hypothetical lysR-family transcriptional regulator YdhB
-ss00546	R10	tRNA(Cytosine32)-2-thiocytidine synthetase
-ss00546	R11	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
-ss00546	R12	Cytosine deaminase (EC 3.5.4.1)
-ss00546	R13	RNA polymerase associated protein RapA (EC 3.6.1.-)
+si_0275	CBSS-326442.4.peg.1852	Putative TEGT family carrier/transport protein
+si_0275	CBSS-326442.4.peg.1852	tRNA 2-thiouridine synthesizing protein E (EC 2.8.1.-)
+si_0275	CBSS-326442.4.peg.1852	LSU m5C1962 methyltransferase RlmI
+si_0275	CBSS-326442.4.peg.1852	tRNA 5-methylaminomethyl-2-thiouridine synthase TusC
+si_0275	CBSS-326442.4.peg.1852	tRNA 5-methylaminomethyl-2-thiouridine synthase TusD
+si_0275	CBSS-326442.4.peg.1852	Seryl-tRNA synthetase (EC 6.1.1.11)
+si_0275	CBSS-326442.4.peg.1852	ABC-type polar amino acid transport system, ATPase component
+si_0275	CBSS-326442.4.peg.1852	Hypothetical lysR-family transcriptional regulator YdhB
+si_0275	CBSS-326442.4.peg.1852	tRNA(Cytosine32)-2-thiocytidine synthetase
+si_0275	CBSS-326442.4.peg.1852	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+si_0275	CBSS-326442.4.peg.1852	Cytosine deaminase (EC 3.5.4.1)
+si_0275	CBSS-326442.4.peg.1852	RNA polymerase associated protein RapA (EC 3.6.1.-)

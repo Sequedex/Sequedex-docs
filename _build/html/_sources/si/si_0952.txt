@@ -1,3 +1,3 @@
-ss01015	CdtA	Cytolethal distending toxin subunit A
-ss01015	CdtB	Cytolethal distending toxin subunit B
-ss01015	CdtC	Cytolethal distending toxin subunit C
+si_0952	Cytolethal_distending_toxin_of_Campylobacter_jejuni	Cytolethal distending toxin subunit A
+si_0952	Cytolethal_distending_toxin_of_Campylobacter_jejuni	Cytolethal distending toxin subunit B
+si_0952	Cytolethal_distending_toxin_of_Campylobacter_jejuni	Cytolethal distending toxin subunit C

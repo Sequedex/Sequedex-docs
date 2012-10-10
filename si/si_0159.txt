@@ -1,5 +1,5 @@
-ss01044	YcbC	Membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism
-ss01044	SmtA	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
-ss01044	MukF	Chromosome partition protein MukF
-ss01044	MukE	Chromosome partition protein MukE
-ss01044	MukB	Chromosome partition protein MukB
+si_0159	MukBEF_Chromosome_Condensation	Membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism
+si_0159	MukBEF_Chromosome_Condensation	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+si_0159	MukBEF_Chromosome_Condensation	Chromosome partition protein MukF
+si_0159	MukBEF_Chromosome_Condensation	Chromosome partition protein MukE
+si_0159	MukBEF_Chromosome_Condensation	Chromosome partition protein MukB

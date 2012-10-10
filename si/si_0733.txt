@@ -1,0 +1,11 @@
+si_0733	Wyeosine-MimG_Biosynthesis	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+si_0733	Wyeosine-MimG_Biosynthesis	PAB2272 methyltransferase homolog
+si_0733	Wyeosine-MimG_Biosynthesis	Fe-S OXIDOREDUCTASE (1.8.-.-) Wyeosine biosynthesis
+si_0733	Wyeosine-MimG_Biosynthesis	Thioredoxin reductase (EC 1.8.1.9)
+si_0733	Wyeosine-MimG_Biosynthesis	tRNA methylase YGL050w homolog Wyeosine biosynthesis
+si_0733	Wyeosine-MimG_Biosynthesis	tRNA methylase YGL050w homolog Wyeosine biosynthesis type 2
+si_0733	Wyeosine-MimG_Biosynthesis	tRNA methylase Trm12p Wyeosine biosynthesis
+si_0733	Wyeosine-MimG_Biosynthesis	tRNA methylase Yol141w homolog Wyeosine biosynthesis
+si_0733	Wyeosine-MimG_Biosynthesis	Iron-sulfur cluster assembly scaffold protein IscU
+si_0733	Wyeosine-MimG_Biosynthesis	Uncharacterized protein conserved in archaea (DUF531)
+si_0733	Wyeosine-MimG_Biosynthesis	Hypothetical ATP-binding protein, containing DUF265 domain

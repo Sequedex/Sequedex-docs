@@ -1,9 +1,9 @@
-ss00398	Rth	Rubrerythrin
-ss00398	SOR	Superoxide reductase (EC 1.15.1.2)
-ss00398	Rdx	Rubredoxin
-ss00398	ROO	rubredoxin-oxygen oxidoreductase
-ss00398	NRO	Rubredoxin-NAD(+) reductase (EC 1.18.1.1)
-ss00398	AHR	Alkyl hydroperoxide reductase subunit C-like protein
-ss00398	PP	Probable peroxiredoxin (EC 1.11.1.15)
-ss00398	HP1	Hypothetical protein i Rubrerythrin cluster
-ss00398	HP2	Fe-S oxidoreductase-like protein in Rubrerythrin cluster
+si_0868	Rubrerythrin	Rubrerythrin
+si_0868	Rubrerythrin	Superoxide reductase (EC 1.15.1.2)
+si_0868	Rubrerythrin	Rubredoxin
+si_0868	Rubrerythrin	rubredoxin-oxygen oxidoreductase
+si_0868	Rubrerythrin	Rubredoxin-NAD(+) reductase (EC 1.18.1.1)
+si_0868	Rubrerythrin	Alkyl hydroperoxide reductase subunit C-like protein
+si_0868	Rubrerythrin	Probable peroxiredoxin (EC 1.11.1.15)
+si_0868	Rubrerythrin	Hypothetical protein i Rubrerythrin cluster
+si_0868	Rubrerythrin	Fe-S oxidoreductase-like protein in Rubrerythrin cluster

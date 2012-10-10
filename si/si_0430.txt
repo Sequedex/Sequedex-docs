@@ -1,7 +1,7 @@
-ss00952	YcfH	Putative deoxyribonuclease YcfH
-ss00952	YcfH2	Putative deoxyribonuclease similar to YcfH, type 2
-ss00952	YcfH3	Putative deoxyribonuclease similar to YcfH, type 3
-ss00952	YcfH4	Putative deoxyribonuclease similar to YcfH, type 4
-ss00952	YcfH5	Putative deoxyribonuclease similar to YcfH, type 5
-ss00952	YjjV	Putative deoxyribonuclease YjjV
-ss00952	TatD	Deoxyribonuclease TatD
+si_0430	YcfH	Putative deoxyribonuclease YcfH
+si_0430	YcfH	Putative deoxyribonuclease similar to YcfH, type 2
+si_0430	YcfH	Putative deoxyribonuclease similar to YcfH, type 3
+si_0430	YcfH	Putative deoxyribonuclease similar to YcfH, type 4
+si_0430	YcfH	Putative deoxyribonuclease similar to YcfH, type 5
+si_0430	YcfH	Putative deoxyribonuclease YjjV
+si_0430	YcfH	Deoxyribonuclease TatD

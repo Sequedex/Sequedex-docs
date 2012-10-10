@@ -1,0 +1,2 @@
+si_0681	tRNA_aminoacylation,_Ile	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+si_0681	tRNA_aminoacylation,_Ile	Isoleucyl-tRNA synthetase related gene in Burkholderia

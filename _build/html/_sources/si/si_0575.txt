@@ -1,5 +1,5 @@
-ss00893	N-SRKR	N-succinyl arginine/lysine racemase
-ss00893	OSBS	O-succinylbenzoate-CoA synthase (EC 4.2.1.-)
-ss00893	NAAAR	N-acylamino acid racemase
-ss00893	CatB	Muconate cycloisomerase (EC 5.5.1.1)
-ss00893	AEE	L-alanine-DL-glutamate epimerase
+si_0575	Muconate_lactonizing_enzyme_family	N-succinyl arginine/lysine racemase
+si_0575	Muconate_lactonizing_enzyme_family	O-succinylbenzoate-CoA synthase (EC 4.2.1.-)
+si_0575	Muconate_lactonizing_enzyme_family	N-acylamino acid racemase
+si_0575	Muconate_lactonizing_enzyme_family	Muconate cycloisomerase (EC 5.5.1.1)
+si_0575	Muconate_lactonizing_enzyme_family	L-alanine-DL-glutamate epimerase

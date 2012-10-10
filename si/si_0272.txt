@@ -1,4 +1,4 @@
-ss00849	R1	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)
-ss00849	R2	COG1496: Uncharacterized conserved protein
-ss00849	R3	COG1565: Uncharacterized conserved protein
-ss00849	R4	FIG018229: hypothetical protein
+si_0272	CBSS-188.1.peg.9880	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)
+si_0272	CBSS-188.1.peg.9880	COG1496: Uncharacterized conserved protein
+si_0272	CBSS-188.1.peg.9880	COG1565: Uncharacterized conserved protein
+si_0272	CBSS-188.1.peg.9880	FIG018229: hypothetical protein

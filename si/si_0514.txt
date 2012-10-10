@@ -1,0 +1,24 @@
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	ESAT-6/Esx family secreted protein EsxA/YukE
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	ESAT-6/Esx family secreted protein EsxB
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	EsaC protein within ESAT-6 gene cluster (S.aureus type)
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	FtsK/SpoIIIE family protein, putative secretion system component EssC/YukA
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Lmo0065 homolog within ESAT-6 gene cluster
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Lmo0066 homolog within ESAT-6 gene cluster, similarity to ADP-ribosylating toxins
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Lmo0069 homolog within ESAT-6 gene cluster
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative ESAT-secreted protein, BA2187 homolog
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative ESAT-secreted protein, BA2188 homolog
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative ESAT-secreted protein, BA2189 homolog
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative EsaC protein analog (Listeria type 1)
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative EsaC protein analog (Listeria type 2)
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative EsaC protein analog (Listeria type 3)
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative EsaC protein analog (Listeria type 4)
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative secretion accessory protein EsaA/YueB
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative secretion accessory protein EsaB/YukD
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative secretion system component EssA
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative secretion system component EssB/YukC
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Putative toxin component near putative ESAT-related proteins, repetitive
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Repetitive hypothetical protein in ESAT cluster, BH0979 homolog
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Repetitive hypothetical protein near ESAT cluster, SA0282 homolog
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	SAG1025 homolog within ESAT-6 gene cluster
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	SAV0291 homolog within ESAT-6 gene cluster
+si_0514	ESAT-6_proteins_secretion_system_in_Firmicutes	Tetratrico-peptide repeat (TPR) protein within ESAT-6 gene cluster

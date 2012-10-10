@@ -1,0 +1,4 @@
+si_0281	CBSS-138119.3.peg.2719	FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type
+si_0281	CBSS-138119.3.peg.2719	Translation initiation factor 2
+si_0281	CBSS-138119.3.peg.2719	Ribosome-binding factor A
+si_0281	CBSS-138119.3.peg.2719	tRNA pseudouridine synthase B (EC 4.2.1.70)

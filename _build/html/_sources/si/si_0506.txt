@@ -1,0 +1,10 @@
+si_0506	Type_III_secretion_system_orphans	BarA sensory histidine kinase (= VarS = GacS)
+si_0506	Type_III_secretion_system_orphans	BarA-associated response regulator UvrY (= GacA = SirA)
+si_0506	Type_III_secretion_system_orphans	Type III secretion transcriptional activator HilA
+si_0506	Type_III_secretion_system_orphans	SPI1-associated transcriptional regulator SprB
+si_0506	Type_III_secretion_system_orphans	Type III secretion transcriptional regulator HilC (= SirC)
+si_0506	Type_III_secretion_system_orphans	Type III secretion transcriptional regulator HilD
+si_0506	Type_III_secretion_system_orphans	Type III secretion and flagellar regulator RtsA
+si_0506	Type_III_secretion_system_orphans	Flagellar regulon repressor RtsB
+si_0506	Type_III_secretion_system_orphans	OrgB protein, associated with InvC ATPase of type III secretion system
+si_0506	Type_III_secretion_system_orphans	Putative effector protein OrgC of SPI-1 type III secretion system

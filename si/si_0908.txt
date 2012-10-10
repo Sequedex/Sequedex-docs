@@ -1,0 +1,4 @@
+si_0908	Accessory_colonization_factor	Accessory colonization factor AcfA
+si_0908	Accessory_colonization_factor	Accessory colonization factor AcfB
+si_0908	Accessory_colonization_factor	Accessory colonization factor AcfC
+si_0908	Accessory_colonization_factor	Accessory colonization factor AcfD precursor

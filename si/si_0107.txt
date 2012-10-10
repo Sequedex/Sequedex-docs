@@ -1,17 +1,18 @@
-ss00758	RbsK	Ribokinase (EC 2.7.1.15)
-ss00758	RbsA	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)
-ss00758	RbsB	Ribose ABC transport system, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)
-ss00758	RbsC	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)
-ss00758	RbsD	Ribose ABC transport system, high affinity permease RbsD (TC 3.A.1.2.1)
-ss00758	RbsR	Ribose operon repressor
-ss00758	RbsU	Putative ribose uptake protein RbsU, GRP transporter family (TC 2.A.7.5)
-ss00758	RpiA	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
-ss00758	RpiB	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
-ss00758	A	Predicted nucleoside ABC transporter, permease 1 component
-ss00758	B	Predicted nucleoside ABC transporter, permease 2 component
-ss00758	C	Predicted nucleoside ABC transporter, ATP-binding component
-ss00758	D	Predicted nucleoside ABC transporter, substrate-binding component
-ss00758	AraH1	Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease component 1
-ss00758	AraH2	Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease component 2
-ss00758	AraH3	Ribose/xylose/arabinose/galactoside ABC-type transport systems, ATP-binding protein (EC 3.6.3.17)
-ss00758	AraH4	Ribose/xylose/arabinose/galactoside ABC-type transport systems, periplasmic sugar binding protein
+si_0107	D-ribose_utilization	Ribokinase (EC 2.7.1.15)
+si_0107	D-ribose_utilization	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)
+si_0107	D-ribose_utilization	Ribose ABC transport system, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)
+si_0107	D-ribose_utilization	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)
+si_0107	D-ribose_utilization	Ribose ABC transport system, high affinity permease RbsD (TC 3.A.1.2.1)
+si_0107	D-ribose_utilization	Ribose operon repressor
+si_0107	D-ribose_utilization	Putative ribose uptake protein RbsU, GRP transporter family (TC 2.A.7.5)
+si_0107	D-ribose_utilization	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+si_0107	D-ribose_utilization	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+si_0107	D-ribose_utilization	Predicted nucleoside ABC transporter, permease 1 component
+si_0107	D-ribose_utilization	Predicted nucleoside ABC transporter, permease 2 component
+si_0107	D-ribose_utilization	Predicted nucleoside ABC transporter, ATP-binding component
+si_0107	D-ribose_utilization	Predicted nucleoside ABC transporter, substrate-binding component
+si_0107	D-ribose_utilization	Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease component 1
+si_0107	D-ribose_utilization	Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease component 2
+si_0107	D-ribose_utilization	Ribose/xylose/arabinose/galactoside ABC-type transport systems, ATP-binding protein (EC 3.6.3.17)
+si_0107	D-ribose_utilization	Ribose/xylose/arabinose/galactoside ABC-type transport systems, periplasmic sugar binding protein
+si_0107	D-ribose_utilization	Predicted regulator of ribose utilization, LacI family

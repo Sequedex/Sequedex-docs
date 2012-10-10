@@ -1,12 +1,12 @@
-ss01092	PglF	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
-ss01092	PglE	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
-ss01092	PglD	4-amino-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) acetyltrasferase
-ss01092	PglC	Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
-ss01092	GalE	UDP-glucose 4-epimerase (EC 5.1.3.2)
-ss01092	PglA	Alpha-1,3-N-acetylgalactosamine transferase PglA (EC 2.4.1.-)
-ss01092	PglH	Alpha-1,4-N-acetylgalactosamine transferase PglH (EC 2.4.1.-)
-ss01092	PglJ	Alpha-1,4-N-acetylgalactosamine transferase PglJ (EC 2.4.1.-)
-ss01092	PglI	Glycosyltransferase PglI (EC 2.4.1.-)
-ss01092	WlaB	Phospholipid-lipopolysaccharide ABC transporter
-ss01092	PglB	Oligosaccharyltransferase PglB (EC 2.4.1.119)
-ss01092	PglG	N-linked glycosylation glycosyltransferase PglG
+si_0711	N-linked_Glycosylation_in_Bacteria	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+si_0711	N-linked_Glycosylation_in_Bacteria	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+si_0711	N-linked_Glycosylation_in_Bacteria	4-amino-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) acetyltrasferase
+si_0711	N-linked_Glycosylation_in_Bacteria	Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
+si_0711	N-linked_Glycosylation_in_Bacteria	UDP-glucose 4-epimerase (EC 5.1.3.2)
+si_0711	N-linked_Glycosylation_in_Bacteria	Alpha-1,3-N-acetylgalactosamine transferase PglA (EC 2.4.1.-)
+si_0711	N-linked_Glycosylation_in_Bacteria	Alpha-1,4-N-acetylgalactosamine transferase PglH (EC 2.4.1.-)
+si_0711	N-linked_Glycosylation_in_Bacteria	Alpha-1,4-N-acetylgalactosamine transferase PglJ (EC 2.4.1.-)
+si_0711	N-linked_Glycosylation_in_Bacteria	Glycosyltransferase PglI (EC 2.4.1.-)
+si_0711	N-linked_Glycosylation_in_Bacteria	Phospholipid-lipopolysaccharide ABC transporter
+si_0711	N-linked_Glycosylation_in_Bacteria	Oligosaccharyltransferase PglB (EC 2.4.1.119)
+si_0711	N-linked_Glycosylation_in_Bacteria	N-linked glycosylation glycosyltransferase PglG

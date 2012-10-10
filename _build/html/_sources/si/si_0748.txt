@@ -1,0 +1,7 @@
+si_0748	Transcription_elongation_factors,_archaeal	NusA protein homolog, archaeal
+si_0748	Transcription_elongation_factors,_archaeal	NusA protein homolog 2, archaeal
+si_0748	Transcription_elongation_factors,_archaeal	Putative transcription antitermination protein NusG
+si_0748	Transcription_elongation_factors,_archaeal	Transcription factor S
+si_0748	Transcription_elongation_factors,_archaeal	Transcription factor S-related protein 1
+si_0748	Transcription_elongation_factors,_archaeal	Transcription factor S-related protein 2
+si_0748	Transcription_elongation_factors,_archaeal	Transcription factor S-related protein 3

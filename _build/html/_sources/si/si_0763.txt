@@ -1,12 +1,12 @@
-ss00360	IcaA	Polysaccharide intercellular adhesin (PIA) biosynthesis N-glycosyltransferase IcaA (EC 2.4.-.-)
-ss00360	IcaB	Polysaccharide intercellular adhesin (PIA) biosynthesis deacetylase IcaB (EC 3.-.-.-)
-ss00360	IcaC	Polysaccharide intercellular adhesin (PIA) biosynthesis protein IcaC
-ss00360	IcaD	Polysaccharide intercellular adhesin (PIA) biosynthesis protein IcaD
-ss00360	IcaR	Biofilm operon icaABCD HTH-type negative transcriptional regulator IcaR
-ss00360	AAP	Accumulation-associated protein AAP
-ss00360	Pls	Antiadhesin Pls, binding to squamous nasal epithelial cells
-ss00360	Atl	Bifunctional autolysin Atl
-ss00360	Rbf	Transcriptional regulator of biofilm formation (AraC/XylS family)
-ss00360	TcaR	Teicoplanin-resistance associated HTH-type transcriptional regulator TcaR
-ss00360	SarA	Staphylococcal accessory regulator A (SarA)
-ss00360	SigB	RNA polymerase sigma factor SigB
+si_0763	Biofilm_formation_in_Staphylococcus	Polysaccharide intercellular adhesin (PIA) biosynthesis N-glycosyltransferase IcaA (EC 2.4.-.-)
+si_0763	Biofilm_formation_in_Staphylococcus	Polysaccharide intercellular adhesin (PIA) biosynthesis deacetylase IcaB (EC 3.-.-.-)
+si_0763	Biofilm_formation_in_Staphylococcus	Polysaccharide intercellular adhesin (PIA) biosynthesis protein IcaC
+si_0763	Biofilm_formation_in_Staphylococcus	Polysaccharide intercellular adhesin (PIA) biosynthesis protein IcaD
+si_0763	Biofilm_formation_in_Staphylococcus	Biofilm operon icaABCD HTH-type negative transcriptional regulator IcaR
+si_0763	Biofilm_formation_in_Staphylococcus	Accumulation-associated protein AAP
+si_0763	Biofilm_formation_in_Staphylococcus	Antiadhesin Pls, binding to squamous nasal epithelial cells
+si_0763	Biofilm_formation_in_Staphylococcus	Bifunctional autolysin Atl
+si_0763	Biofilm_formation_in_Staphylococcus	Transcriptional regulator of biofilm formation (AraC/XylS family)
+si_0763	Biofilm_formation_in_Staphylococcus	Teicoplanin-resistance associated HTH-type transcriptional regulator TcaR
+si_0763	Biofilm_formation_in_Staphylococcus	Staphylococcal accessory regulator A (SarA)
+si_0763	Biofilm_formation_in_Staphylococcus	RNA polymerase sigma factor SigB

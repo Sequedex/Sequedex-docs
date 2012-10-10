@@ -1,0 +1,7 @@
+si_0150	Unknown_sugar_utilization_(cluster_yphABCDEFG)	Inner membrane protein YphA
+si_0150	Unknown_sugar_utilization_(cluster_yphABCDEFG)	Aldose 1-epimerase family protein YphB
+si_0150	Unknown_sugar_utilization_(cluster_yphABCDEFG)	Hypothetical zinc-type alcohol dehydrogenase-like protein YphC
+si_0150	Unknown_sugar_utilization_(cluster_yphABCDEFG)	Predicted sugar ABC transport system, permease protein YphD
+si_0150	Unknown_sugar_utilization_(cluster_yphABCDEFG)	Predicted sugar ABC transport system, periplasmic binding protein YphF precursor
+si_0150	Unknown_sugar_utilization_(cluster_yphABCDEFG)	Predicted sugar ABC transport system, ATP-binding protein YphE
+si_0150	Unknown_sugar_utilization_(cluster_yphABCDEFG)	Uncharacterized protein YphG, TPR-domain containing

@@ -1,28 +1,28 @@
-ss01048	GmhA	Phosphoheptose isomerase (EC 5.3.1.-)
-ss01048	GmhA1	Phosphoheptose isomerase 1 (EC 5.3.1.-)
-ss01048	GmhA2	Phosphoheptose isomerase 2 (EC 5.3.1.-)
-ss01048	HldE_k	D-glycero-beta-D-manno-heptose 7-phosphate kinase
-ss01048	HldE_s	ADP-heptose synthase (EC 2.7.-.-)
-ss01048	GmhB	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (EC 3.1.1.-)
-ss01048	GmhD	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
-ss01048	WaaA	3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
-ss01048	WaaC	Lipopolysaccharide heptosyltransferase I (EC 2.4.1.-)
-ss01048	WaaF	ADP-heptose--lipooligosaccharide heptosyltransferase II (EC 2.4.1.-)
-ss01048	WaaP	Lipopolysaccharide core biosynthesis protein WaaP (EC 2.7.-.-), heptosyl-I-kinase
-ss01048	WaaQ	Lipopolysaccharide heptosyltransferase III (EC 2.4.1.-)
-ss01048	WaaY	Lipopolysaccharide core biosynthesis protein RfaY
-ss01048	WaaG	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG (EC 2.4.1.-)
-ss01048	WaaO	UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,3-glucosyltransferase WaaO (EC 2.4.1.-)
-ss01048	WaaV	Beta-1,3-glucosyltransferase
-ss01048	WaaT	UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,2-glucosyltransferase (EC 2.4.1.58)
-ss01048	WaaW	UDP-galactose:(galactosyl) LPS alpha1,2-galactosyltransferase WaaW (EC 2.4.1.-)
-ss01048	WaaX	Beta-1,4-galactosyltransferase
-ss01048	WaaK	Lipopolysaccharide 1,2-N-acetylglucosaminetransferase (EC 2.4.1.56)
-ss01048	WaaZ	Lipopolysaccharide core biosynthesis protein RfaZ
-ss01048	WaaB	Lipopolysaccharide 1,6-galactosyltransferase (EC 2.4.1.-)
-ss01048	CTDG	Putative two-domain glycosyltransferase
-ss01048	WaaL	O-antigen ligase
-ss01048	Glf	UDP-galactopyranose mutase (EC 5.4.99.9)
-ss01048	WAA	Lipopolysaccharide core biosynthesis glycosyltransferase, group 2 family protein (EC 2.4.1.-)
-ss01048	Hep	Heptosyltransferase family protein, lipopolysaccharide core biosynthesis
-ss01048	RfaS	Lipopolysaccharide core biosynthesis protein RfaS
+si_0188	LOS_core_oligosaccharide_biosynthesis	UDP-galactopyranose mutase (EC 5.4.99.9)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide core biosynthesis glycosyltransferase, group 2 family protein (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Heptosyltransferase family protein, lipopolysaccharide core biosynthesis
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide core biosynthesis protein RfaS
+si_0188	LOS_core_oligosaccharide_biosynthesis	Phosphoheptose isomerase (EC 5.3.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Phosphoheptose isomerase 1 (EC 5.3.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Phosphoheptose isomerase 2 (EC 5.3.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	D-glycero-beta-D-manno-heptose 7-phosphate kinase
+si_0188	LOS_core_oligosaccharide_biosynthesis	ADP-heptose synthase (EC 2.7.-.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (EC 3.1.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+si_0188	LOS_core_oligosaccharide_biosynthesis	3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide heptosyltransferase I (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	ADP-heptose--lipooligosaccharide heptosyltransferase II (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide core biosynthesis protein WaaP (EC 2.7.-.-), heptosyl-I-kinase
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide heptosyltransferase III (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide core biosynthesis protein RfaY
+si_0188	LOS_core_oligosaccharide_biosynthesis	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,3-glucosyltransferase WaaO (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Beta-1,3-glucosyltransferase
+si_0188	LOS_core_oligosaccharide_biosynthesis	UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,2-glucosyltransferase (EC 2.4.1.58)
+si_0188	LOS_core_oligosaccharide_biosynthesis	UDP-galactose:(galactosyl) LPS alpha1,2-galactosyltransferase WaaW (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Beta-1,4-galactosyltransferase
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide 1,2-N-acetylglucosaminetransferase (EC 2.4.1.56)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide core biosynthesis protein RfaZ
+si_0188	LOS_core_oligosaccharide_biosynthesis	Lipopolysaccharide 1,6-galactosyltransferase (EC 2.4.1.-)
+si_0188	LOS_core_oligosaccharide_biosynthesis	Putative two-domain glycosyltransferase
+si_0188	LOS_core_oligosaccharide_biosynthesis	O-antigen ligase

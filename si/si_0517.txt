@@ -1,0 +1,5 @@
+si_0517	Twin-arginine_translocation_system	Twin-arginine translocation protein TatA
+si_0517	Twin-arginine_translocation_system	Twin-arginine translocation protein TatB
+si_0517	Twin-arginine_translocation_system	Twin-arginine translocation protein TatC
+si_0517	Twin-arginine_translocation_system	Twin-arginine translocation protein TatE
+si_0517	Twin-arginine_translocation_system	Deoxyribonuclease TatD

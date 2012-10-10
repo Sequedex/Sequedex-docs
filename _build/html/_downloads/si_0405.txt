@@ -1,30 +1,30 @@
-ss00092	RecA	RecA protein
-ss00092	RadA	DNA repair protein RadA
-ss00092	RadC	DNA repair protein RadC
-ss00092	Dam	Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
-ss00092	MutH	DNA mismatch repair endonuclease MutH
-ss00092	RdgC	DNA recombination-dependent growth factor C
-ss00092	SbcC	Exonuclease SbcC
-ss00092	SbcD	Exonuclease SbcD
-ss00092	YhaO	DNA repair exonuclease family protein YhaO
-ss00092	XseA	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
-ss00092	XseB	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
-ss00092	LexA	SOS-response repressor and protease LexA (EC 3.4.21.88)
-ss00092	DinP	DNA polymerase IV (EC 2.7.7.7)
-ss00092	PA0670	DNA polymerase-like protein PA0670
-ss00092	MT3142	DNA polymerase-like protein MT3142
-ss00092	DinI	DNA-damage-inducible protein I
-ss00092	DinJ	DNA-damage-inducible protein J
-ss00092	Ssb	Single-stranded DNA-binding protein
-ss00092	EndoIV	Endonuclease IV (EC 3.1.21.2)
-ss00092	EndoV	Endonuclease V (EC 3.1.21.7)
-ss00092	ExoIII	Exodeoxyribonuclease III (EC 3.1.11.2)
-ss00092	Ogt	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
-ss00092	Ada	ADA regulatory protein
-ss00092	AlkB	Alkylated DNA repair protein AlkB
-ss00092	RecN	DNA repair protein RecN
-ss00092	RecT	Recombinational DNA repair protein RecT (prophage associated)
-ss00092	RmuC	DNA recombination protein RmuC
-ss00092	Vsp	Very-short-patch mismatch repair endonuclease (G-T specific)
-ss00092	MutY	A/G-specific adenine glycosylase (EC 3.2.2.-)
-ss00092	Mug	G:T/U mismatch-specific uracil/thymine DNA-glycosylase
+si_0405	DNA_repair,_bacterial	RecA protein
+si_0405	DNA_repair,_bacterial	DNA repair protein RadA
+si_0405	DNA_repair,_bacterial	DNA repair protein RadC
+si_0405	DNA_repair,_bacterial	Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
+si_0405	DNA_repair,_bacterial	DNA mismatch repair endonuclease MutH
+si_0405	DNA_repair,_bacterial	DNA recombination-dependent growth factor C
+si_0405	DNA_repair,_bacterial	Exonuclease SbcC
+si_0405	DNA_repair,_bacterial	Exonuclease SbcD
+si_0405	DNA_repair,_bacterial	DNA repair exonuclease family protein YhaO
+si_0405	DNA_repair,_bacterial	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+si_0405	DNA_repair,_bacterial	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+si_0405	DNA_repair,_bacterial	SOS-response repressor and protease LexA (EC 3.4.21.88)
+si_0405	DNA_repair,_bacterial	DNA polymerase IV (EC 2.7.7.7)
+si_0405	DNA_repair,_bacterial	DNA polymerase-like protein PA0670
+si_0405	DNA_repair,_bacterial	DNA polymerase-like protein MT3142
+si_0405	DNA_repair,_bacterial	DNA-damage-inducible protein I
+si_0405	DNA_repair,_bacterial	DNA-damage-inducible protein J
+si_0405	DNA_repair,_bacterial	Single-stranded DNA-binding protein
+si_0405	DNA_repair,_bacterial	Endonuclease IV (EC 3.1.21.2)
+si_0405	DNA_repair,_bacterial	Endonuclease V (EC 3.1.21.7)
+si_0405	DNA_repair,_bacterial	Exodeoxyribonuclease III (EC 3.1.11.2)
+si_0405	DNA_repair,_bacterial	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+si_0405	DNA_repair,_bacterial	ADA regulatory protein
+si_0405	DNA_repair,_bacterial	Alkylated DNA repair protein AlkB
+si_0405	DNA_repair,_bacterial	DNA repair protein RecN
+si_0405	DNA_repair,_bacterial	Recombinational DNA repair protein RecT (prophage associated)
+si_0405	DNA_repair,_bacterial	DNA recombination protein RmuC
+si_0405	DNA_repair,_bacterial	Very-short-patch mismatch repair endonuclease (G-T specific)
+si_0405	DNA_repair,_bacterial	A/G-specific adenine glycosylase (EC 3.2.2.-)
+si_0405	DNA_repair,_bacterial	G:T/U mismatch-specific uracil/thymine DNA-glycosylase

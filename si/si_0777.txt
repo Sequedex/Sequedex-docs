@@ -1,0 +1,2 @@
+si_0777	Global_Two-component_Regulator_PrrBA_in_Proteobacteria	Dna binding response regulator PrrA (RegA)
+si_0777	Global_Two-component_Regulator_PrrBA_in_Proteobacteria	Sensor histidine kinase PrrB (RegB) (EC 2.7.3.-)

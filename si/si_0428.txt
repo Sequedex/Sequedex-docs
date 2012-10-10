@@ -1,8 +1,8 @@
-ss00499	HsdM	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)
-ss00499	HsdR	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)
-ss00499	HsdS	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)
-ss00499	RhuM	Putative predicted metal-dependent hydrolase
-ss00499	DBP	Putative DNA-binding protein in cluster with Type I restriction-modification system
-ss00499	Res	Type III restriction-modification system StyLTI enzyme res (EC 3.1.21.5)
-ss00499	Res1	Type III restriction-modification system DNA endonuclease res (EC 3.1.21.5)
-ss00499	Mod	Type III restriction-modification system methylation subunit (EC 2.1.1.72)
+si_0428	Restriction-Modification_System	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)
+si_0428	Restriction-Modification_System	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)
+si_0428	Restriction-Modification_System	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)
+si_0428	Restriction-Modification_System	Putative predicted metal-dependent hydrolase
+si_0428	Restriction-Modification_System	Putative DNA-binding protein in cluster with Type I restriction-modification system
+si_0428	Restriction-Modification_System	Type III restriction-modification system StyLTI enzyme res (EC 3.1.21.5)
+si_0428	Restriction-Modification_System	Type III restriction-modification system DNA endonuclease res (EC 3.1.21.5)
+si_0428	Restriction-Modification_System	Type III restriction-modification system methylation subunit (EC 2.1.1.72)

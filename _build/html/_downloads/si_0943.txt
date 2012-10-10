@@ -1,7 +1,7 @@
-ss00465	vanR	Vancomycin response regulator VanR
-ss00465	vanS	Sensor histidine kinase VanS (EC 2.7.3.-)
-ss00465	vanH	Vancomycin resistance protein VanH
-ss00465	vanA	Vancomycin Teicoplanin A-type resistance protein VanA
-ss00465	vanX	Vancomycin B-type resistance protein VanX
-ss00465	vanW	Vancomycin B-type resistance protein VanW
-ss00465	vanZ	Protein VanZ
+si_0943	Resistance_to_Vancomycin	Vancomycin response regulator VanR
+si_0943	Resistance_to_Vancomycin	Sensor histidine kinase VanS (EC 2.7.3.-)
+si_0943	Resistance_to_Vancomycin	Vancomycin resistance protein VanH
+si_0943	Resistance_to_Vancomycin	Vancomycin Teicoplanin A-type resistance protein VanA
+si_0943	Resistance_to_Vancomycin	Vancomycin B-type resistance protein VanX
+si_0943	Resistance_to_Vancomycin	Vancomycin B-type resistance protein VanW
+si_0943	Resistance_to_Vancomycin	Protein VanZ

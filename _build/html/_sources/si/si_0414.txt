@@ -1,0 +1,10 @@
+si_0414	Uracil-DNA_glycosylase	Uracil-DNA glycosylase, family 1
+si_0414	Uracil-DNA_glycosylase	G:T/U mismatch-specific uracil/thymine DNA-glycosylase
+si_0414	Uracil-DNA_glycosylase	Uracil-DNA glycosylase, family 3
+si_0414	Uracil-DNA_glycosylase	Uracil-DNA glycosylase, family 4
+si_0414	Uracil-DNA_glycosylase	Uracil-DNA glycosylase, family 5
+si_0414	Uracil-DNA_glycosylase	Uracil-DNA glycosylase, putative family 6
+si_0414	Uracil-DNA_glycosylase	U/G & T/G mismatch specific glycosylase (Pa-MIG)
+si_0414	Uracil-DNA_glycosylase	Domain often clustered or fused with uracil-DNA glycosylase
+si_0414	Uracil-DNA_glycosylase	Uracil-DNA glycosylase family protein, clostridial type
+si_0414	Uracil-DNA_glycosylase	Uracil DNA glycosylase superfamily protein

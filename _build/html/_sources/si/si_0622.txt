@@ -1,0 +1,8 @@
+si_0622	Phage_baseplate_proteins	Phage baseplate
+si_0622	Phage_baseplate_proteins	Phage baseplate distal hub
+si_0622	Phage_baseplate_proteins	Phage baseplate hub
+si_0622	Phage_baseplate_proteins	Phage baseplate protein
+si_0622	Phage_baseplate_proteins	Phage baseplate tail tube cap
+si_0622	Phage_baseplate_proteins	Phage baseplate wedge
+si_0622	Phage_baseplate_proteins	Phage baseplate wedge initiator
+si_0622	Phage_baseplate_proteins	Phage baseplate-tail tube initiator

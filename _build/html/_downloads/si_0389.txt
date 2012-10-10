@@ -1,27 +1,23 @@
-ss00235	PMgCD	Protoporphyrin IX Mg-chelatase subunit D (EC 6.6.1.1)
-ss00235	PMgCH	Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1)
-ss00235	PMgCI	Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1)
-ss00235	PMgMT	Mg-protoporphyrin O-methyltransferase (EC 2.1.1.11)
-ss00235	ChlEAe	Mg protoporphyrin IX monomethyl ester oxidative cyclase (aerobic) (EC 1.14.13.81)
-ss00235	ChlEAn	Mg-protoporphyrin IX monomethyl ester oxidative cyclase (anaerobic) (EC 1.14.13.81)
-ss00235	not_BchE	Hypothetical with similarity to BchE, but NOT Mg-protoporphyrin monomethyl ester cyclase (anaerobic)
-ss00235	BchJ	Protein BchJ, involved in reduction of C-8 vinyl of divinyl protochlorophyllide
-ss00235	DVR	Divinyl protochlorophyllide a 8-vinyl-reductase (EC 1.3.1.75)
-ss00235	Ycf39	Putative chaperon-like protein Ycf39 for quinone binding in Photosystem II
-ss00235	ChlL	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein ChlL (EC 1.18.-.-)
-ss00235	ChlN	Light-independent protochlorophyllide reductase subunit N (EC 1.18.-.-)
-ss00235	ChlB	Light-independent protochlorophyllide reductase subunit B (EC 1.18.-.-)
-ss00235	POR	Light-dependent protochlorophyllide reductase (EC 1.3.1.33)
-ss00235	ChlG	Chlorophyll a synthase ChlG (EC 2.5.1.62)
-ss00235	BchP	Geranylgeranyl hydrogenase BchP
-ss00235	CAO	Chlorophyll a, chlorophyllide a oxygenase (EC 1.14.13.-)
-ss00235	BchX	Chlorophyllide reductase subunit BchX (EC 1.18.-.-)
-ss00235	BchY	Chlorophyllide reductase subunit BchY (EC 1.18.-.-)
-ss00235	BchZ	Chlorophyllide reductase subunit BchZ (EC 1.18.-.-)
-ss00235	BchF	2-vinyl bacteriochlorophyllide hydratase BchF (EC 4.2.1.-)
-ss00235	BchC	2-desacetyl-2-hydroxyethyl bacteriochlorophyllide A dehydrogenase BchC
-ss00235	BchQ	Bacteriochlorophyllide c C8 methyltransefase BchQ
-ss00235	BchR	Bacteriochlorophyllide c C12 methyltransefase BchR
-ss00235	Rubisco1	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)
-ss00235	RuBisCo2	Ribulose bisphosphate carboxylase (EC 4.1.1.39)
-ss00235	RuBisCo3	Ribulose-1,5-bisphosphate carboxylase, Type III (EC 4.1.1.39)
+si_0389	Chlorophyll_Biosynthesis	Protoporphyrin IX Mg-chelatase subunit D (EC 6.6.1.1)
+si_0389	Chlorophyll_Biosynthesis	Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1)
+si_0389	Chlorophyll_Biosynthesis	Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1)
+si_0389	Chlorophyll_Biosynthesis	Mg-protoporphyrin O-methyltransferase (EC 2.1.1.11)
+si_0389	Chlorophyll_Biosynthesis	Mg protoporphyrin IX monomethyl ester oxidative cyclase (aerobic) (EC 1.14.13.81)
+si_0389	Chlorophyll_Biosynthesis	Mg-protoporphyrin IX monomethyl ester oxidative cyclase (anaerobic) (EC 1.14.13.81)
+si_0389	Chlorophyll_Biosynthesis	Protein BchJ, involved in reduction of C-8 vinyl of divinyl protochlorophyllide
+si_0389	Chlorophyll_Biosynthesis	Divinyl protochlorophyllide a 8-vinyl-reductase (EC 1.3.1.75)
+si_0389	Chlorophyll_Biosynthesis	Putative chaperon-like protein Ycf39 for quinone binding in Photosystem II
+si_0389	Chlorophyll_Biosynthesis	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein ChlL (EC 1.18.-.-)
+si_0389	Chlorophyll_Biosynthesis	Light-independent protochlorophyllide reductase subunit N (EC 1.18.-.-)
+si_0389	Chlorophyll_Biosynthesis	Light-independent protochlorophyllide reductase subunit B (EC 1.18.-.-)
+si_0389	Chlorophyll_Biosynthesis	Light-dependent protochlorophyllide reductase (EC 1.3.1.33)
+si_0389	Chlorophyll_Biosynthesis	Chlorophyll a synthase ChlG (EC 2.5.1.62)
+si_0389	Chlorophyll_Biosynthesis	Geranylgeranyl hydrogenase BchP
+si_0389	Chlorophyll_Biosynthesis	Chlorophyll a, chlorophyllide a oxygenase (EC 1.14.13.-)
+si_0389	Chlorophyll_Biosynthesis	Chlorophyllide reductase subunit BchX (EC 1.18.-.-)
+si_0389	Chlorophyll_Biosynthesis	Chlorophyllide reductase subunit BchY (EC 1.18.-.-)
+si_0389	Chlorophyll_Biosynthesis	Chlorophyllide reductase subunit BchZ (EC 1.18.-.-)
+si_0389	Chlorophyll_Biosynthesis	2-vinyl bacteriochlorophyllide hydratase BchF (EC 4.2.1.-)
+si_0389	Chlorophyll_Biosynthesis	2-desacetyl-2-hydroxyethyl bacteriochlorophyllide A dehydrogenase BchC
+si_0389	Chlorophyll_Biosynthesis	Bacteriochlorophyllide c C8 methyltransefase BchQ
+si_0389	Chlorophyll_Biosynthesis	Bacteriochlorophyllide c C12 methyltransefase BchR

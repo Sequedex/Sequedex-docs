@@ -1,0 +1,6 @@
+si_0696	Metalloendopeptidases_(EC_3.4.24.-)	Microbial collagenase (EC 3.4.24.3)
+si_0696	Metalloendopeptidases_(EC_3.4.24.-)	Microbial collagenase, secreted (EC 3.4.24.3)
+si_0696	Metalloendopeptidases_(EC_3.4.24.-)	Vibriolysin, extracellular zinc protease (EC 3.4.24.25)
+si_0696	Metalloendopeptidases_(EC_3.4.24.-)	Pseudolysin, extracellular zinc protease (EC 3.4.24.26)
+si_0696	Metalloendopeptidases_(EC_3.4.24.-)	Bacillolysin, extracellular neutral metalloprotease (EC 3.4.24.28)
+si_0696	Metalloendopeptidases_(EC_3.4.24.-)	Glycyl-glycine endopeptidase LytM precursor (EC 3.4.24.75)

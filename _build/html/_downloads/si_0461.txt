@@ -1,10 +1,7 @@
-ss00931	AGK	Acylglycerolkinase (EC 2.7.1.94)
-ss00931	MGAT	monoacylglycerol O-acyltransferase 1 (EC 2.3.1.22)
-ss00931	DGAT	Diacylglycerol O-acyltransferase 1 (EC 2.3.1.20)
-ss00931	MAGL	Monoglyceride lipase (EC 3.1.1.23)
-ss00931	TAGLll	Triacylglycerol lipase (EC 3.1.1.3)
-ss00931	LPLec	Lysophospholipase (EC 3.1.1.5)
-ss00931	LPL2	Lysophospholipase L2 (EC 3.1.1.5)
-ss00931	PLA1	Phospholipase A1 precursor (EC 3.1.1.32, EC 3.1.1.4)
-ss00931	PL	Putative lipase in cluster with Phosphatidate cytidylyltransferase
-ss00931	TAGLL	Triacylglycerol lipase precursor (EC 3.1.1.3)
+si_0461	Triacylglycerol_metabolism	Lysophospholipase (EC 3.1.1.5)
+si_0461	Triacylglycerol_metabolism	Lysophospholipase L2 (EC 3.1.1.5)
+si_0461	Triacylglycerol_metabolism	Monoglyceride lipase (EC 3.1.1.23)
+si_0461	Triacylglycerol_metabolism	Phospholipase A1 precursor (EC 3.1.1.32, EC 3.1.1.4)
+si_0461	Triacylglycerol_metabolism	Putative lipase in cluster with Phosphatidate cytidylyltransferase
+si_0461	Triacylglycerol_metabolism	Triacylglycerol lipase (EC 3.1.1.3)
+si_0461	Triacylglycerol_metabolism	Triacylglycerol lipase precursor (EC 3.1.1.3)

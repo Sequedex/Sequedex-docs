@@ -1,2 +1,2 @@
-ss00951	MR	Mercuric reductase (EC 1.16.1.1)
-ss00951	MIR	Mercuric ion reductase (EC:1.16.1.1)
+si_0933	Mercuric_reductase	Mercuric ion reductase (EC 1.16.1.1)
+si_0933	Mercuric_reductase	PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase

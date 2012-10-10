@@ -1,0 +1,5 @@
+si_0193	Lipoprotein_sorting_system	Lipoprotein releasing system transmembrane protein LolC
+si_0193	Lipoprotein_sorting_system	Lipoprotein releasing system ATP-binding protein LolD
+si_0193	Lipoprotein_sorting_system	Lipoprotein releasing system transmembrane protein LolE
+si_0193	Lipoprotein_sorting_system	Outer membrane lipoprotein carrier protein LolA
+si_0193	Lipoprotein_sorting_system	Outer membrane lipoprotein LolB precursor

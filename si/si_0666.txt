@@ -1,2 +1,2 @@
-ss00887	SmpB	tmRNA-binding protein SmpB
-ss00887	tmRNA	Transfer-messenger RNA (tmRNA) involved in trans-translation
+si_0666	Trans-translation_by_stalled_ribosomes	tmRNA-binding protein SmpB
+si_0666	Trans-translation_by_stalled_ribosomes	Transfer-messenger RNA (tmRNA) involved in trans-translation

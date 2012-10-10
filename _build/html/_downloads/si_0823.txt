@@ -1,62 +1,50 @@
-ss00804	HycA	Formate hydrogenlyase regulatory protein HycA
-ss00804	FH2	Formate hydrogenlyase subunit 2
-ss00804	FH3	Formate hydrogenlyase subunit 3
-ss00804	FH4	Formate hydrogenlyase subunit 4
-ss00804	FH5	Formate hydrogenlyase subunit 5
-ss00804	FH6	Formate hydrogenlyase subunit 6
-ss00804	FH7	Formate hydrogenlyase subunit 7
-ss00804	HyfA	Hydrogenase IV Fe-S protein HyfA
-ss00804	HyfB	Hydrogenase-4 component B (EC 1.-.-.-)
-ss00804	HyfC	Hydrogenase-4 component C (EC 1.-.-.-)
-ss00804	HyfD	Hydrogenase-4 component D (EC 1.-.-.-)
-ss00804	HyfE	Hydrogenase-4 component E (EC 1.-.-.-)
-ss00804	HyfF	Hydrogenase-4 component F (EC 1.-.-.-)
-ss00804	HyfG	Hydrogenase-4 component G (EC 1.-.-.-)
-ss00804	HyfH	Hydrogenase-4 component H (EC 1.-.-.-)
-ss00804	HyfA2	Hydrogenase-4 component A (EC 1.-.-.-)
-ss00804	TA	Hydrogenase-4 transcriptional activator
-ss00804	FDD1	NAD-dependent formate dehydrogenase delta subunit
-ss00804	FDG	NAD-dependent formate dehydrogenase gamma subunit
-ss00804	FDA	NAD-dependent formate dehydrogenase alpha subunit
-ss00804	FDB	NAD-dependent formate dehydrogenase beta subunit
-ss00804	TA2	Formate hydrogenlyase transcriptional activator
-ss00804	FDD2	FdhD protein
-ss00804	FDO	Formate dehydrogenase-O, major subunit (EC 1.2.1.2)
-ss00804	FDOa	Formate dehydrogenase O alpha subunit (EC 1.2.1.2)
-ss00804	FDD	Formate dehydrogenase chain D (EC 1.2.1.2)
-ss00804	FDOg2	Formate dehydrogenase -O, gamma subunit (EC 1.2.1.2)
-ss00804	FDOb2	Formate dehydrogenase-O, iron-sulfur subunit (EC 1.2.1.2)
-ss00804	FDOb	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
-ss00804	FDOg	Formate dehydrogenase O gamma subunit (EC 1.2.1.2)
-ss00804	FDNa	Formate dehydrogenase N alpha subunit (EC 1.2.1.2); selenocysteine-containing
-ss00804	FDNb	Formate dehydrogenase N beta subunit (EC 1.2.1.2)
-ss00804	FDNg	Formate dehydrogenase N gamma subunit (EC 1.2.1.2)
-ss00804	FdhE2	FdhE protein
-ss00804	FT	Formate transporter
-ss00804	PFD	Putative formate dehydrogenase oxidoreductase protein
-ss00804	FDH	Formate dehydrogenase H (EC 1.2.1.2); selenocysteine-containing
-ss00804	PFL	Pyruvate formate-lyase (EC 2.3.1.54)
-ss00804	PFLae	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
-ss00804	FET	Formate efflux transporter (TC 2.A.44 family)
-ss00804	HycG	hydrogenase, group 4, HycG subunit, putative
-ss00804	HycE	hydrogenase, group 4, HycE subunit, putative
-ss00804	HycC	hydrogenase, HycC subunit, putative
-ss00804	HycD	hydrogenase, HycD subunit, putative
-ss00804	MnhD	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit
-ss00804	FdhDh	FdhD protein homolog
-ss00804	hyfI	Hydrogenase-4 component I (EC 1.-.-.-)
-ss00804	FdNa	Formate dehydrogenase N alpha subunit (EC 1.2.1.2)
-ss00804	FdhE	formate dehydrogenase formation protein FdhE
-ss00804	FDp	Formate dehydrogenase putative subunit (EC 1.2.1.2)
-ss00804	FDR	Formate dehydrogenase related protein
-ss00804	yrhD	Hypothetical protein YrhD
-ss00804	ISCBp	Putative iron-sulfur cluster-binding protein involved in  formate hydrogenase maturation
-ss00804	FDCp	Putative formate dehydrogenase-specific chaperone
-ss00804	FHHS	Formate hydrogenlyase hypothetical subunit
-ss00804	PDsB	Putative formate dehydrogenase, cytochrome B subunit (EC 1.2.1.2)
-ss00804	PDISs	Putative formate dehydrogenase iron-sulfur subunit (EC 1.2.1.2)
-ss00804	FOps	Formate dehydrogenase O putative subunit
-ss00804	TcB	tungsten-containing formate dehydrogenase beta subunit
-ss00804	TcA	tungsten-containing formate dehydrogenase alpha subunit
-ss00804	NDFD	NAD-dependent formate dehydrogenase (EC 1.2.1.2)
-ss00804	HP?	Hypothetical protein probably related to Formate dehydrogenase function
+si_0823	Formate_hydrogenase	Formate dehydrogenase -O, gamma subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase N alpha subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase N beta subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase N gamma subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase O alpha subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase O gamma subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase O putative subunit
+si_0823	Formate_hydrogenase	Formate dehydrogenase chain D (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase putative subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase related protein
+si_0823	Formate_hydrogenase	Formate dehydrogenase-O, iron-sulfur subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate dehydrogenase-O, major subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Formate hydrogenlyase hypothetical subunit
+si_0823	Formate_hydrogenase	Formate hydrogenlyase regulatory protein HycA
+si_0823	Formate_hydrogenase	Formate hydrogenlyase subunit 2
+si_0823	Formate_hydrogenase	Formate hydrogenlyase subunit 3
+si_0823	Formate_hydrogenase	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit
+si_0823	Formate_hydrogenase	Formate hydrogenlyase subunit 4
+si_0823	Formate_hydrogenase	Formate hydrogenlyase subunit 5
+si_0823	Formate_hydrogenase	Formate hydrogenlyase subunit 6
+si_0823	Formate_hydrogenase	Formate hydrogenlyase subunit 7
+si_0823	Formate_hydrogenase	Formate hydrogenlyase transcriptional activator
+si_0823	Formate_hydrogenase	Hydrogenase-4 component A (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component B (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component C (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component D (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component E (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component F (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component G (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component H (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 component I (EC 1.-.-.-)
+si_0823	Formate_hydrogenase	Hydrogenase-4 transcriptional activator
+si_0823	Formate_hydrogenase	Hypothetical protein YrhD
+si_0823	Formate_hydrogenase	Hypothetical protein probably related to Formate dehydrogenase function
+si_0823	Formate_hydrogenase	NAD-dependent formate dehydrogenase (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	NAD-dependent formate dehydrogenase alpha subunit
+si_0823	Formate_hydrogenase	NAD-dependent formate dehydrogenase beta subunit
+si_0823	Formate_hydrogenase	NAD-dependent formate dehydrogenase delta subunit
+si_0823	Formate_hydrogenase	NAD-dependent formate dehydrogenase gamma subunit
+si_0823	Formate_hydrogenase	Putative formate dehydrogenase iron-sulfur subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Putative formate dehydrogenase oxidoreductase protein
+si_0823	Formate_hydrogenase	Putative formate dehydrogenase, cytochrome B subunit (EC 1.2.1.2)
+si_0823	Formate_hydrogenase	Putative formate dehydrogenase-specific chaperone
+si_0823	Formate_hydrogenase	formate dehydrogenase formation protein FdhE
+si_0823	Formate_hydrogenase	hydrogenase, HycC subunit, putative
+si_0823	Formate_hydrogenase	hydrogenase, group 4, HycE subunit, putative
+si_0823	Formate_hydrogenase	hydrogenase, group 4, HycG subunit, putative
+si_0823	Formate_hydrogenase	tungsten-containing formate dehydrogenase alpha subunit
+si_0823	Formate_hydrogenase	tungsten-containing formate dehydrogenase beta subunit

@@ -1,0 +1,8 @@
+si_0770	Streptococcal_Mga_Regulon	Two-component system response regulator
+si_0770	Streptococcal_Mga_Regulon	Two-component system histidine kinase
+si_0770	Streptococcal_Mga_Regulon	Immunogenic secreted protein
+si_0770	Streptococcal_Mga_Regulon	M protein trans-acting positive regulator (Mga)
+si_0770	Streptococcal_Mga_Regulon	Mga-associated protein
+si_0770	Streptococcal_Mga_Regulon	Hypothetical mga-associated protein
+si_0770	Streptococcal_Mga_Regulon	Antiphagocytic M protein
+si_0770	Streptococcal_Mga_Regulon	C5a peptidase (EC 3.4.21.-)

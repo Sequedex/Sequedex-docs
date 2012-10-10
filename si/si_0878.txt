@@ -1,17 +1,8 @@
-ss00671	SigB	RNA polymerase sigma factor SigB
-ss00671	RsbU	Serine phosphatase RsbU, regulator of sigma subunit
-ss00671	RsbW	Serine-protein kinase rsbW (EC 2.7.11.1)
-ss00671	PemK	transcriptional regulator, PemK family
-ss00671	ASF	Anti-sigma F factor (EC 2.7.11.1)
-ss00671	RsbR	RsbR, positive regulator of sigma-B
-ss00671	RsbS	RsbS, negative regulator of sigma-B
-ss00671	RsbT	anti-sigma B factor RsbT
-ss00671	RsbV	anti sigma b factor antagonist RsbV
-ss00671	RsbX	Phosphoserine phosphatase rsbX (EC 3.1.3.3)
-ss00671	PemK2	SIGB gene
-ss00671	SigF	RNA polymerase sporulation specific sigma factor SigF
-ss00671	SigG	RNA polymerase sporulation specific sigma factor SigG
-ss00671	PSig	putative RNA polymerase sigma factor
-ss00671	SigFV	anti-sigma F factor antagonist (spoIIAA-2)
-ss00671	PSP	Putative SigmaB asociated two-component system sensor protein
-ss00671	sig70	RNA polymerase sigma-70 factor
+si_0878	SigmaB_stress_responce_regulation	Putative SigmaB asociated two-component system sensor protein
+si_0878	SigmaB_stress_responce_regulation	RNA polymerase sigma factor SigB
+si_0878	SigmaB_stress_responce_regulation	RsbR, positive regulator of sigma-B
+si_0878	SigmaB_stress_responce_regulation	RsbS, negative regulator of sigma-B
+si_0878	SigmaB_stress_responce_regulation	Serine phosphatase RsbU, regulator of sigma subunit
+si_0878	SigmaB_stress_responce_regulation	Serine-protein kinase rsbW (EC 2.7.11.1)
+si_0878	SigmaB_stress_responce_regulation	anti sigma b factor antagonist RsbV
+si_0878	SigmaB_stress_responce_regulation	anti-sigma B factor RsbT

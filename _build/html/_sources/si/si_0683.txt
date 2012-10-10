@@ -1,0 +1,5 @@
+si_0683	tRNA_aminoacylation,_Lys	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+si_0683	tRNA_aminoacylation,_Lys	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+si_0683	tRNA_aminoacylation,_Lys	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6), mitochondrial
+si_0683	tRNA_aminoacylation,_Lys	Lysyl-tRNA synthetase (class II) related protein found fused to membrane protein
+si_0683	tRNA_aminoacylation,_Lys	Putative membrane protein found fused to lysyl-tRNA synthetase like protein

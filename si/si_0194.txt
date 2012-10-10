@@ -1,0 +1,18 @@
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein OmpT
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein A precursor
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein H precursor
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein OmpK
+si_0194	Major_Outer_Membrane_Proteins	Two-component system response regulator OmpR
+si_0194	Major_Outer_Membrane_Proteins	Osmolarity sensory histidine kinase EnvZ
+si_0194	Major_Outer_Membrane_Proteins	Protease VII (Omptin) precursor (EC 3.4.23.49)
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein X precursor
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein C precursor
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein N precursor
+si_0194	Major_Outer_Membrane_Proteins	Nucleoside-specific channel-forming protein Tsx precursor
+si_0194	Major_Outer_Membrane_Proteins	Attachment invasion locus protein precursor
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein Lom
+si_0194	Major_Outer_Membrane_Proteins	Integral membrane protein YfiB
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein W precursor
+si_0194	Major_Outer_Membrane_Proteins	Maltoporin (maltose/maltodextrin high-affinity receptor, phage lambda receptor protein)
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein OmpU
+si_0194	Major_Outer_Membrane_Proteins	Outer membrane protein OmpV

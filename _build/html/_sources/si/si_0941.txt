@@ -1,4 +1,4 @@
-ss00733	CmeA	RND efflux system, membrane fusion protein CmeA
-ss00733	CmeB	RND efflux system, inner membrane transporter CmeB
-ss00733	CmeC	RND efflux system, outer membrane lipoprotein CmeC
-ss00733	CmeR	Transcriptional repressor of CmeABC operon, CmeR
+si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	RND efflux system, membrane fusion protein CmeA
+si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	RND efflux system, inner membrane transporter CmeB
+si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	RND efflux system, outer membrane lipoprotein CmeC
+si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	Transcriptional repressor of CmeABC operon, CmeR

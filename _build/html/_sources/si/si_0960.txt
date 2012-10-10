@@ -1,22 +1,22 @@
-ss00697	Cj0019c	MCP-domain signal transduction protein
-ss00697	Cj0020c	Cytochrome C551 peroxidase (EC 1.11.1.5)
-ss00697	Cj0061c	RNA polymerase sigma factor for flagellar operon
-ss00697	Cj0248	Predicted signal transduction protein
-ss00697	Cj0336c	Flagellar motor rotation protein MotB
-ss00697	Cj0337c	Flagellar motor rotation protein MotA
-ss00697	Cj0454c	Cj0454c
-ss00697	Cj0456c	Cj0456c
-ss00697	Cj0618	Cj0618
-ss00697	Cj0670	RNA polymerase sigma-54 factor RpoN
-ss00697	Cj0688	Phosphate acetyltransferase (EC 2.3.1.8)
-ss00697	Cj0883c	Rrf2 family transcriptional regulator
-ss00697	Cj0903c	Putative amino-acid transport protein
-ss00697	Cj0938c	acyl-acyl carrier protein synthetase (EC 6.2.1.20)
-ss00697	Cj1019c	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
-ss00697	Cj1118c	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
-ss00697	Cj1120c	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
-ss00697	Cj1121c	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
-ss00697	Cj1129c	Alpha-1,4-N-acetylgalactosamine transferase PglH (EC 2.4.1.-)
-ss00697	Cj1179c	Flagellar biosynthesis protein FliR
-ss00697	Cj1466	Flagellar hook-associated protein FlgK
-ss00697	Cj1565c	Paralysed flagella protein PflA
+si_0960	C_jejuni_colonization_of_chick_caeca	MCP-domain signal transduction protein
+si_0960	C_jejuni_colonization_of_chick_caeca	Cytochrome C551 peroxidase (EC 1.11.1.5)
+si_0960	C_jejuni_colonization_of_chick_caeca	RNA polymerase sigma factor for flagellar operon
+si_0960	C_jejuni_colonization_of_chick_caeca	Predicted signal transduction protein
+si_0960	C_jejuni_colonization_of_chick_caeca	Flagellar motor rotation protein MotB
+si_0960	C_jejuni_colonization_of_chick_caeca	Flagellar motor rotation protein MotA
+si_0960	C_jejuni_colonization_of_chick_caeca	Cj0454c
+si_0960	C_jejuni_colonization_of_chick_caeca	Cj0456c
+si_0960	C_jejuni_colonization_of_chick_caeca	Cj0618
+si_0960	C_jejuni_colonization_of_chick_caeca	RNA polymerase sigma-54 factor RpoN
+si_0960	C_jejuni_colonization_of_chick_caeca	Phosphate acetyltransferase (EC 2.3.1.8)
+si_0960	C_jejuni_colonization_of_chick_caeca	Rrf2 family transcriptional regulator
+si_0960	C_jejuni_colonization_of_chick_caeca	Putative amino-acid transport protein
+si_0960	C_jejuni_colonization_of_chick_caeca	acyl-acyl carrier protein synthetase (EC 6.2.1.20)
+si_0960	C_jejuni_colonization_of_chick_caeca	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+si_0960	C_jejuni_colonization_of_chick_caeca	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
+si_0960	C_jejuni_colonization_of_chick_caeca	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+si_0960	C_jejuni_colonization_of_chick_caeca	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+si_0960	C_jejuni_colonization_of_chick_caeca	Alpha-1,4-N-acetylgalactosamine transferase PglH (EC 2.4.1.-)
+si_0960	C_jejuni_colonization_of_chick_caeca	Flagellar biosynthesis protein FliR
+si_0960	C_jejuni_colonization_of_chick_caeca	Flagellar hook-associated protein FlgK
+si_0960	C_jejuni_colonization_of_chick_caeca	Paralysed flagella protein PflA

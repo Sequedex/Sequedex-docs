@@ -1,10 +1,6 @@
-ss00973	GadA/B	Glutamate decarboxylase (EC 4.1.1.15)
-ss00973	GadC	Probable glutamate/gamma-aminobutyrate antiporter
-ss00973	ADC	Arginine decarboxylase (EC 4.1.1.19)
-ss00973	ADC_b	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
-ss00973	ADC_c	Arginine decarboxylase, catabolic (EC 4.1.1.19)
-ss00973	Arg/AgTr	Arginine/agmatine antiporter
-ss00973	Gln-se	Glutaminase (EC 3.5.1.2)
-ss00973	GlnT	Sodium/glutamine symporter glnT
-ss00973	Reg-R	Two-component sensor histidine kinase, controling glutamine utilization
-ss00973	Reg-S	Two-component response regulator, controling glutamine utilization
+si_0843	Acid_resistance_mechanisms	Glutamate decarboxylase (EC 4.1.1.15)
+si_0843	Acid_resistance_mechanisms	Probable glutamate/gamma-aminobutyrate antiporter
+si_0843	Acid_resistance_mechanisms	Arginine decarboxylase (EC 4.1.1.19)
+si_0843	Acid_resistance_mechanisms	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+si_0843	Acid_resistance_mechanisms	Arginine decarboxylase, catabolic (EC 4.1.1.19)
+si_0843	Acid_resistance_mechanisms	Arginine/agmatine antiporter

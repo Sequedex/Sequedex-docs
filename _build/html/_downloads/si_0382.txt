@@ -1,7 +1,7 @@
-ss00526	PqqA	Coenzyme PQQ synthesis protein A
-ss00526	PqqB	Coenzyme PQQ synthesis protein B
-ss00526	PqqC	Coenzyme PQQ synthesis protein C
-ss00526	PqqD	Coenzyme PQQ synthesis protein D
-ss00526	PqqE	Coenzyme PQQ synthesis protein E
-ss00526	PqqF	Coenzyme PQQ synthesis protein F (EC 3.4.99.-)
-ss00526	MDP	Microsomal dipeptidase (EC 3.4.13.19)
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein A
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein B
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein C
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein D
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein E
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein F (EC 3.4.99.-)
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Microsomal dipeptidase (EC 3.4.13.19)

@@ -1,42 +1,56 @@
-ss00201	RhaA	L-rhamnose isomerase (EC 5.3.1.14)
-ss00201	RhaI	Predicted L-rhamnose isomerase RhaI (EC 5.3.1.14)
-ss00201	RhaB	Rhamnulokinase (EC 2.7.1.5)
-ss00201	RhaD	Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
-ss00201	RhaE	Predicted rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
-ss00201	RhaW	Predicted lactaldehyde dehydrogenase (EC 1.2.1.22)
-ss00201	RhaZ	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization (EC 1.2.1.22)
-ss00201	RhaM	L-rhamnose mutarotase
-ss00201	RhaT	L-rhamnose-proton symporter
-ss00201	RhaY	Predicted L-rhamnose permease RhaY
-ss00201	RhaF	Predicted L-rhamnose ABC transporter, substrate-binding component
-ss00201	RhaG	Predicted L-rhamnose ABC transporter, transmembrane component 1
-ss00201	RhaH	Predicted L-rhamnose ABC transporter, transmembrane component 2
-ss00201	RhaJ	Predicted L-rhamnose ABC transporter, ATP-binding component
-ss00201	RhaR	L-rhamnose operon transcriptional activator RhaR
-ss00201	RhaS	L-rhamnose operon regulatory protein RhaS
-ss00201	RR1	Transcriptional regulator of rhamnose utilization, LacI family
-ss00201	RR2	Transcriptional regulator of rhamnose utilization, DeoR family
-ss00201	RhiT	Rhamnogalacturonide transporter RhiT
-ss00201	RhiA	Predicted rhamnogalacturonide-specific TRAP-type transporter, substrate-binding component RhiA
-ss00201	RhiB	Predicted rhamnogalacturonide-specific TRAP-type transporter, small transmembrane component RhiB
-ss00201	RhiC	Predicted rhamnogalacturonide-specific TRAP-type transporter, large transmembrane component RhiC
-ss00201	RhiN	Rhamnogalacturonides degradation protein RhiN
-ss00201	FucO	Lactaldehyde reductase (EC 1.1.1.77)
-ss00201	RR3	Transcriptional regulator of rhamnose utilization, GntR family
-ss00201	RamA	Alfa-L-rhamnosidase (EC 3.2.1.40) in L-rhamnose subsystem
-ss00201	RR4	Transcriptional regulator of rhamnose utilization, AraC family
-ss00201	RGL	Predicted rhamnogalacturonan lyase in rhamnose utilization cluster
-ss00201	RGA	rhamnogalacturonan acetylesterase
-ss00201	ABCa	Predicted rhamnose oligosaccharide ABC transport system, permease component
-ss00201	ABCb	Predicted rhamnose oligosaccharide ABC transport system, permease component 2
-ss00201	ABCc	Predicted rhamnose oligosaccharide ABC transport system, substrate-binding component
-ss00201	TMa	Possible rhamnose ABC transporter, substrate-binding component
-ss00201	TMb	Possible rhamnose ABC transporter, permease component 1
-ss00201	TMc	Possible rhamnose ABC transporter, permease component 2
-ss00201	TMd	Possible rhamnose ABC transporter, ATP-binding component
-ss00201	LRA1	L-rhamnose-1-dehydrogenase ( EC 1.1.1.173)
-ss00201	LRA2	L-rhamno-gamma-lactonase (EC 3.1.1.65)
-ss00201	LRA3	L-rhamnonate dehydratase (EC 4.2.1.90)
-ss00201	LRA4	L-2-keto-3-deoxyrhamnonate (l-KDR) aldolase
-ss00201	LRA5	L-2-keto-3-deoxyrhamnonate-(4)-dehydrogenase
-ss00201	LRA6	L-2,4-diketo-3-deoxyrhamnonate hydrolase
+si_0115	L-rhamnose_utilization	L-rhamnose isomerase (EC 5.3.1.14)
+si_0115	L-rhamnose_utilization	L-rhamnose isomerase (EC 5.3.1.14)
+si_0115	L-rhamnose_utilization	Rhamnulokinase (EC 2.7.1.5)
+si_0115	L-rhamnose_utilization	Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
+si_0115	L-rhamnose_utilization	Predicted rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
+si_0115	L-rhamnose_utilization	Predicted lactaldehyde dehydrogenase (EC 1.2.1.22)
+si_0115	L-rhamnose_utilization	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization (EC 1.2.1.22)
+si_0115	L-rhamnose_utilization	L-rhamnose mutarotase
+si_0115	L-rhamnose_utilization	L-rhamnose-proton symporter
+si_0115	L-rhamnose_utilization	Predicted L-rhamnose permease RhaY
+si_0115	L-rhamnose_utilization	Predicted L-rhamnose ABC transporter, substrate-binding component
+si_0115	L-rhamnose_utilization	Predicted L-rhamnose ABC transporter, transmembrane component 1
+si_0115	L-rhamnose_utilization	Predicted L-rhamnose ABC transporter, transmembrane component 2
+si_0115	L-rhamnose_utilization	Predicted L-rhamnose ABC transporter, ATP-binding component
+si_0115	L-rhamnose_utilization	L-rhamnose operon transcriptional activator RhaR
+si_0115	L-rhamnose_utilization	L-rhamnose operon regulatory protein RhaS
+si_0115	L-rhamnose_utilization	Transcriptional regulator of rhamnose utilization, LacI family
+si_0115	L-rhamnose_utilization	Transcriptional regulator of rhamnose utilization, DeoR family
+si_0115	L-rhamnose_utilization	Rhamnogalacturonide transporter RhiT
+si_0115	L-rhamnose_utilization	Predicted rhamnogalacturonide-specific TRAP-type transporter, substrate-binding component RhiA
+si_0115	L-rhamnose_utilization	Predicted rhamnogalacturonide-specific TRAP-type transporter, small transmembrane component RhiB
+si_0115	L-rhamnose_utilization	Predicted rhamnogalacturonide-specific TRAP-type transporter, large transmembrane component RhiC
+si_0115	L-rhamnose_utilization	Rhamnogalacturonides degradation protein RhiN
+si_0115	L-rhamnose_utilization	Lactaldehyde reductase (EC 1.1.1.77)
+si_0115	L-rhamnose_utilization	Transcriptional regulator of rhamnose utilization, GntR family
+si_0115	L-rhamnose_utilization	Alfa-L-rhamnosidase (EC 3.2.1.40)
+si_0115	L-rhamnose_utilization	Transcriptional regulator of rhamnose utilization, AraC family
+si_0115	L-rhamnose_utilization	Predicted rhamnogalacturonan lyase in rhamnose utilization cluster
+si_0115	L-rhamnose_utilization	rhamnogalacturonan acetylesterase
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide ABC transport system, permease component
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide ABC transport system, permease component 2
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide ABC transport system, substrate-binding component
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide ABC transporter, substrate-binding component
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide ABC transporter, permease component 1
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide ABC transporter, permease component 2
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide ABC transporter, ATP-binding component 2
+si_0115	L-rhamnose_utilization	Predicted rhamnose oligosaccharide  ABC transporter, ATP-binding component 1
+si_0115	L-rhamnose_utilization	L-rhamnose-1-dehydrogenase ( EC 1.1.1.173)
+si_0115	L-rhamnose_utilization	L-rhamno-gamma-lactonase (EC 3.1.1.65)
+si_0115	L-rhamnose_utilization	L-rhamnonate dehydratase (EC 4.2.1.90)
+si_0115	L-rhamnose_utilization	L-2-keto-3-deoxyrhamnonate (l-KDR) aldolase
+si_0115	L-rhamnose_utilization	L-2-keto-3-deoxyrhamnonate-(4)-dehydrogenase
+si_0115	L-rhamnose_utilization	L-2,4-diketo-3-deoxyrhamnonate hydrolase
+si_0115	L-rhamnose_utilization	Pedicted L-rhamnose permease, NCS1 Family
+si_0115	L-rhamnose_utilization	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+si_0115	L-rhamnose_utilization	L-lactate dehydrogenase (EC 1.1.2.3)
+si_0115	L-rhamnose_utilization	Predicted L-rhamnose mutarotase
+si_0115	L-rhamnose_utilization	Predicted alpha-L-rhamnosidase
+si_0115	L-rhamnose_utilization	Transcriptional regulator of rhamnose utilization, LysR family
+si_0115	L-rhamnose_utilization	Aldehyde dehydrogenase A (EC 1.2.1.22)
+si_0115	L-rhamnose_utilization	Rhamnulokinase RhaK in alpha-proteobacteria (EC 2.7.1.5)
+si_0115	L-rhamnose_utilization	Putative beta-glucuronidase
+si_0115	L-rhamnose_utilization	Alternative L-rhamnose isomerase (EC 5.3.1.14)
+si_0115	L-rhamnose_utilization	Glycoside hydrolase family 2, sugar binding
+si_0115	L-rhamnose_utilization	Putative unsaturated glucuronyl hydrolase
+si_0115	L-rhamnose_utilization	Predicted regulator of rhamnose oligosacchoride utilization, DeoR family

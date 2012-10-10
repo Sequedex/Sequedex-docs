@@ -1,21 +1,5 @@
-ss00753	AgtA	Agropine transporter ATP-binding protein AgtA
-ss00753	AgtB	Agropine transporter periplasmic substrate-binding protein AgtB
-ss00753	AgtC	Agropine transporter permease protein AgtC
-ss00753	AgtD	Agropine transporter permease protein AgtD
-ss00753	AgaA	Agropinic acid transporter periplasmic substrate-binding protein AgaA
-ss00753	AgaB	Agropinic acid transporter permease protein AgaB
-ss00753	AgaC	Agropinic acid transporter permease protein AgaC
-ss00753	AgaD	Agropinic acid transporter ATP-binding protein AgaD
-ss00753	MotA	Mannopine transporter periplasmic substrate-binding protein MotA
-ss00753	MotB	Mannopine transporter ATP-binding protein MotB
-ss00753	MotC	Mannopine transporter permease protein MotC
-ss00753	MotD	Mannopine transporter permease protein MotD
-ss00753	MoaA	Mannopinic acid transporter periplasmic substrate-binding protein MoaA
-ss00753	MoaB	Mannopinic acid transporter permease protein MoaB
-ss00753	MoaC	Mannopinic acid transporter permease protein MoaC
-ss00753	MoaD	Mannopinic acid transporter ATP-binding protein MoaD
-ss00753	NocR	LysR-type transcriptional regulator for nopaline catabolism NocR
-ss00753	NocP	Nopaline transporter ATP-binding protein NocP
-ss00753	NocT	Nopaline transporter periplasmic substrate-binding protein NocT
-ss00753	NocQ	Nopaline transporter permease protein NocQ
-ss00753	NocM	Nopaline transporter permease protein NocM
+si_0521	Agrobacterium_opine_transport	LysR-type transcriptional regulator for nopaline catabolism NocR
+si_0521	Agrobacterium_opine_transport	Nopaline transporter ATP-binding protein NocP
+si_0521	Agrobacterium_opine_transport	Nopaline transporter periplasmic substrate-binding protein NocT
+si_0521	Agrobacterium_opine_transport	Nopaline transporter permease protein NocM
+si_0521	Agrobacterium_opine_transport	Nopaline transporter permease protein NocQ

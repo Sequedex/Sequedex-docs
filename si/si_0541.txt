@@ -1,17 +1,14 @@
-ss00611	pcaQ	Pca regulon regulatory protein PcaR
-ss00611	pcaH	Protocatechuate 3,4-dioxygenase beta chain (EC 1.13.11.3)
-ss00611	pcaG	Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)
-ss00611	pcaB	3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
-ss00611	pcaC	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
-ss00611	pcaD	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
-ss00611	pcaI	3-oxoadipate CoA-transferase subunit A (EC 2.8.3.6)
-ss00611	pcaJ	3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6)
-ss00611	pcaF	Beta-ketoadipyl CoA thiolase (EC 2.3.1.-)
-ss00611	pcaF2	putative acetyl-CoA:acetyltransferase
-ss00611	pcaD2	3-oxoadipate enol-lactone hydrolase
-ss00611	pcaI2	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
-ss00611	pcaJ2	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
-ss00611	pcaC2	3-oxoadipate enol-lactone hydrolase/4-carboxymuconolactone decarboxylase
-ss00611	PcaT	dicarboxylic acid transporter PcaT
-ss00611	PhaK	PhaK-like protein
-ss00611	pcaFn	Beta-ketoadipyl CoA thiolase (EC 2.3.1.9)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	3-oxoadipate CoA-transferase subunit A (EC 2.8.3.6)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	3-oxoadipate enol-lactone hydrolase/4-carboxymuconolactone decarboxylase
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	Beta-ketoadipyl CoA thiolase (EC 2.3.1.-)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	Pca regulon regulatory protein PcaR
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	PhaK-like protein
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	Protocatechuate 3,4-dioxygenase beta chain (EC 1.13.11.3)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+si_0541	Protocatechuate_branch_of_beta-ketoadipate_pathway	dicarboxylic acid transporter PcaT

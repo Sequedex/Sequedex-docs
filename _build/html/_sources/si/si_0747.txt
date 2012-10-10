@@ -1,11 +1,11 @@
-ss00023	NsrR	Nitrite-sensitive transcriptional repressor NsrR
-ss00023	RirA	Iron-responsive repressor RirA
-ss00023	IscR	Iron-sulfur cluster regulator IscR
-ss00023	SATR	Predicted transcriptional regulator of sulfate adenylyltransferase, Rrf2 family
-ss00023	CTR	Predicted transcriptional regulator of sulfate transport, Rrf2 family
-ss00023	Rrf2	Hmc operon transcriptional regulator Rrf2
-ss00023	CMLDR	Predicted transcriptional regulator of 4-carboxymuconolactone decarboxylase, Rrf2 family
-ss00023	Others	Rrf2 family transcriptional regulator
-ss00023	NdhR	Predicted transcriptional regulator of NADH dehydrogenase, Rrf2 family
-ss00023	CSR	Predicted transcriptional regulator of cysteine synthase, Rrf2 family
-ss00023	Rrf2-III	Rrf2 family transcriptional regulator, group III
+si_0747	Rrf2_family_transcriptional_regulators	Nitrite-sensitive transcriptional repressor NsrR
+si_0747	Rrf2_family_transcriptional_regulators	Iron-responsive repressor RirA
+si_0747	Rrf2_family_transcriptional_regulators	Iron-sulfur cluster regulator IscR
+si_0747	Rrf2_family_transcriptional_regulators	Predicted transcriptional regulator of sulfate adenylyltransferase, Rrf2 family
+si_0747	Rrf2_family_transcriptional_regulators	Predicted transcriptional regulator of sulfate transport, Rrf2 family
+si_0747	Rrf2_family_transcriptional_regulators	Hmc operon transcriptional regulator Rrf2
+si_0747	Rrf2_family_transcriptional_regulators	Predicted transcriptional regulator of 4-carboxymuconolactone decarboxylase, Rrf2 family
+si_0747	Rrf2_family_transcriptional_regulators	Rrf2 family transcriptional regulator
+si_0747	Rrf2_family_transcriptional_regulators	Predicted transcriptional regulator of NADH dehydrogenase, Rrf2 family
+si_0747	Rrf2_family_transcriptional_regulators	Predicted transcriptional regulator of cysteine synthase, Rrf2 family
+si_0747	Rrf2_family_transcriptional_regulators	Rrf2 family transcriptional regulator, group III

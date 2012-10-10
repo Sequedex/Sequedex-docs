@@ -1,32 +1,45 @@
-ss00349	XylA	Xylose isomerase (EC 5.3.1.5)
-ss00349	XylB	Xylulose kinase (EC 2.7.1.17)
-ss00349	XylR_BS	Xylose repressor XylR (ROK family)
-ss00349	XylR_EC	Xylose activator XylR (AraC family)
-ss00349	XylF	Xylose ABC transporter, periplasmic xylose-binding protein xylF
-ss00349	XylG	D-xylose transport ATP-binding protein xylG
-ss00349	XylH	Xylose ABC transporter, permease protein xylH
-ss00349	XylT	D-xylose proton-symporter XylT
-ss00349	XylE	D-xylose proton-symporter XylE
-ss00349	XynT	Xyloside transporter XynT
-ss00349	RR1	Novel Xylose regulator from LacI family
-ss00349	XylS	Alpha-xylosidase (EC 3.2.1.-)
-ss00349	XynB	Beta-xylosidase (EC 3.2.1.37)
-ss00349	aX_ABCa	Possible alpha-xyloside ABC transporter, substrate-binding component
-ss00349	aX_ABCb	Possible alpha-xyloside ABC transporter, permease component
-ss00349	aX_ABCc	Possible alpha-xyloside ABC transporter, ATP-binding component
-ss00349	XynA	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)
-ss00349	Mut	D-xylose-specific 1-epimerase (mutarotase)
-ss00349	bX_ABCa	Predicted beta-xyloside ABC transporter, substrate-binding component
-ss00349	bX_ABCb	Predicted beta-xyloside ABC transporter, permease component
-ss00349	bX_ABCc	Predicted beta-xyloside ABC transporter, ATP-binding component
-ss00349	EIIA	Phosphotransferase system for xylose-containing disaccharide, EIIA component
-ss00349	EIIB	Phosphotransferase system for xylose-containing disaccharide, EIIB component
-ss00349	EIIC	Phosphotransferase system for xylose-containing disaccharide, EIIC component
-ss00349	EIID	Phosphotransferase system for xylose-containing disaccharide, EIID component
-ss00349	XDH	D-xylose 1-dehydrogenase (EC 1.1.1.175)
-ss00349	XL	xylonolactonase (EC 3.1.1.68)
-ss00349	XTD	xylonate dehydratase (EC 4.2.1.82)
-ss00349	KDXD	predicted 2-keto-3-deoxyxylonate dehydratase
-ss00349	KSAD	2-ketoglutaric semialdehyde dehydrogenase (EC 1.2.1.26)
-ss00349	XR	NAD(P)H-dependent D-xylose reductase (EC 1.1.1.-)
-ss00349	XylA-II	predicted xylose isomerase
+si_0117	Xylose_utilization	Xylose isomerase (EC 5.3.1.5)
+si_0117	Xylose_utilization	Xylulose kinase (EC 2.7.1.17)
+si_0117	Xylose_utilization	Xylose-responsive transcription regulator, ROK family
+si_0117	Xylose_utilization	Xylose activator XylR (AraC family)
+si_0117	Xylose_utilization	Xylose ABC transporter, periplasmic xylose-binding protein XylF
+si_0117	Xylose_utilization	D-xylose transport ATP-binding protein XylG
+si_0117	Xylose_utilization	Xylose ABC transporter, permease protein XylH
+si_0117	Xylose_utilization	D-xylose proton-symporter XylT
+si_0117	Xylose_utilization	D-xylose proton-symporter XylE
+si_0117	Xylose_utilization	Xyloside transporter XynT
+si_0117	Xylose_utilization	Novel Xylose regulator from LacI family
+si_0117	Xylose_utilization	Alpha-xylosidase (EC 3.2.1.-)
+si_0117	Xylose_utilization	Beta-xylosidase (EC 3.2.1.37)
+si_0117	Xylose_utilization	Possible alpha-xyloside ABC transporter, substrate-binding component
+si_0117	Xylose_utilization	Possible alpha-xyloside ABC transporter, permease component
+si_0117	Xylose_utilization	Possible alpha-xyloside ABC transporter, ATP-binding component
+si_0117	Xylose_utilization	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)
+si_0117	Xylose_utilization	D-xylose-specific 1-epimerase (mutarotase)
+si_0117	Xylose_utilization	Xylose ABC transporter, substrate-binding component
+si_0117	Xylose_utilization	Xylose ABC transporter, permease component
+si_0117	Xylose_utilization	Xylose ABC transporter, ATP-binding component
+si_0117	Xylose_utilization	Phosphotransferase system for xylose-containing disaccharide, EIIA component
+si_0117	Xylose_utilization	Phosphotransferase system for xylose-containing disaccharide, EIIB component
+si_0117	Xylose_utilization	Phosphotransferase system for xylose-containing disaccharide, EIIC component
+si_0117	Xylose_utilization	Phosphotransferase system for xylose-containing disaccharide, EIID component
+si_0117	Xylose_utilization	D-xylose 1-dehydrogenase (EC 1.1.1.175)
+si_0117	Xylose_utilization	Xylonolactonase (EC 3.1.1.68)
+si_0117	Xylose_utilization	Xylonate dehydratase (EC 4.2.1.82)
+si_0117	Xylose_utilization	predicted 2-keto-3-deoxyxylonate dehydratase
+si_0117	Xylose_utilization	2-ketoglutaric semialdehyde dehydrogenase (EC 1.2.1.26)
+si_0117	Xylose_utilization	NAD(P)H-dependent D-xylose reductase (EC 1.1.1.-)
+si_0117	Xylose_utilization	predicted xylose isomerase
+si_0117	Xylose_utilization	Putative xylulose kinase (EC 2.7.1.17)
+si_0117	Xylose_utilization	Xylanase
+si_0117	Xylose_utilization	Xylose oligosaccharides ABC transporter, sugar-binding protein
+si_0117	Xylose_utilization	Xylose oligosaccharides ABC transporter, permease protein 1
+si_0117	Xylose_utilization	Xylose oligosaccharides ABC transporter, permease protein 2
+si_0117	Xylose_utilization	Xylose oligosaccharides ABC transporter, ATP-binding protein 1
+si_0117	Xylose_utilization	Xylose oligosaccharides ABC transporter, ATP-binding protein 2
+si_0117	Xylose_utilization	Acetyl xylan esterase (EC 3.1.1.41)
+si_0117	Xylose_utilization	Endo-1,4-beta-xylanase B ( EC 3.2.1.8 )
+si_0117	Xylose_utilization	Endo-1,4-beta-xylanase C precursor (EC 3.2.1.8)
+si_0117	Xylose_utilization	Putative alpha-xylosidase (EC 3.2.1.-)
+si_0117	Xylose_utilization	Predicted xylose oligosaccharide ABC transporter, substrate-binding component
+si_0117	Xylose_utilization	Acetyl xylan esterase XylU (EC 3.1.1.41)

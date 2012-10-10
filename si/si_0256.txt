@@ -1,4 +1,4 @@
-ss00858	R1	Outer membrane protein/protective antigen OMA87
-ss00858	R2	Polysialic acid capsule sugar isomerase, KpsF/GutQ family
-ss00858	R3	Putative activity regulator of membrane protease YbbK
-ss00858	R4	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+si_0256	CBSS-316057.3.peg.659	Outer membrane protein/protective antigen OMA87
+si_0256	CBSS-316057.3.peg.659	Polysialic acid capsule sugar isomerase, KpsF/GutQ family
+si_0256	CBSS-316057.3.peg.659	Putative activity regulator of membrane protease YbbK
+si_0256	CBSS-316057.3.peg.659	Putative stomatin/prohibitin-family membrane protease subunit YbbK

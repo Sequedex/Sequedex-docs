@@ -1,7 +1,7 @@
-ss00486	PspF	Psp operon transcriptional activator
-ss00486	PspA	Phage shock protein A
-ss00486	PspB	Phage shock protein B
-ss00486	PspC	Phage shock protein C
-ss00486	PspD	Phage shock protein D
-ss00486	PspE1	Phage shock protein E precursor
-ss00486	PspE2	Phage shock protein E
+si_0877	Phage_shock_protein_(psp)_operon	Psp operon transcriptional activator
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein A
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein B
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein C
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein D
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein E precursor
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein E

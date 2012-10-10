@@ -1,13 +1,13 @@
-ss00330	GmhA1	Phosphoheptose isomerase 1 (EC 5.3.1.-)
-ss00330	GmhA2	Phosphoheptose isomerase 2 (EC 5.3.1.-)
-ss00330	GmhA	Phosphoheptose isomerase (EC 5.3.1.-)
-ss00330	HddA	D,D-heptose 7-phosphate kinase
-ss00330	GhmB	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (EC 3.1.1.-)
-ss00330	HddC	D-glycero-D-manno-heptose 1-phosphate guanosyltransferase
-ss00330	HddD	Capsular polysaccharide biosynthesis heptosyltransferase HddD
-ss00330	FS	GDP-L-fucose synthetase (EC 1.1.1.271)
-ss00330	ManDH	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
-ss00330	FkbM	Methyltransferase, FkbM family protein
-ss00330	WcbR	Capsular polysaccharide biosynthesis fatty acid synthase WcbR
-ss00330	DRE	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
-ss00330	WcbJ	Capsular polysaccharide biosynthesis protein WcbJ, NAD-dependent epimerase/dehydratase family
+si_0166	Capsular_heptose_biosynthesis	Phosphoheptose isomerase 1 (EC 5.3.1.-)
+si_0166	Capsular_heptose_biosynthesis	Phosphoheptose isomerase 2 (EC 5.3.1.-)
+si_0166	Capsular_heptose_biosynthesis	Phosphoheptose isomerase (EC 5.3.1.-)
+si_0166	Capsular_heptose_biosynthesis	D,D-heptose 7-phosphate kinase
+si_0166	Capsular_heptose_biosynthesis	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (EC 3.1.1.-)
+si_0166	Capsular_heptose_biosynthesis	D-glycero-D-manno-heptose 1-phosphate guanosyltransferase
+si_0166	Capsular_heptose_biosynthesis	Capsular polysaccharide biosynthesis heptosyltransferase HddD
+si_0166	Capsular_heptose_biosynthesis	GDP-L-fucose synthetase (EC 1.1.1.271)
+si_0166	Capsular_heptose_biosynthesis	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
+si_0166	Capsular_heptose_biosynthesis	Methyltransferase, FkbM family protein
+si_0166	Capsular_heptose_biosynthesis	Capsular polysaccharide biosynthesis fatty acid synthase WcbR
+si_0166	Capsular_heptose_biosynthesis	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+si_0166	Capsular_heptose_biosynthesis	Capsular polysaccharide biosynthesis protein WcbJ, NAD-dependent epimerase/dehydratase family

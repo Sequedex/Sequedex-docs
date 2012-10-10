@@ -1,17 +1,5 @@
-ss00673	CDS	Cysteine desulfurase (EC 2.8.1.7)
-ss00673	IscA	Iron binding protein IscA for iron-sulfur cluster assembly
-ss00673	SufA	Iron binding protein SufA for iron-sulfur cluster assembly
-ss00673	SufA2	probable iron binding protein for iron-sulfur cluster assembly
-ss00673	HesB	probable iron binding protein from the HesB_IscA_SufA family
-ss00673	IscU	Iron-sulfur cluster assembly scaffold protein IscU
-ss00673	NifU	Iron-sulfur cluster assembly scaffold protein NifU
-ss00673	SufE	Sulfur acceptor protein SufE for iron-sulfur cluster assembly
-ss00673	SufD	Iron-sulfur cluster assembly protein SufD
-ss00673	SufB	Iron-sulfur cluster assembly protein SufB
-ss00673	SufC	Iron-sulfur cluster assembly ATPase protein SufC
-ss00673	HscB	Chaperone protein HscB
-ss00673	HscA	Chaperone protein HscA
-ss00673	Fdx	Ferredoxin, 2Fe-2S
-ss00673	IscR	Iron-sulfur cluster regulator IscR
-ss00673	SufR	Iron-sulfur cluster regulator SufR
-ss00673	CsdE	Sulfur acceptor protein CsdE for iron-sulfur cluster assembly
+si_0346	USS-DB-1	Hypothetical protein USSDB1A
+si_0346	USS-DB-1	Sugar ABC transporter, periplasmic sugar-binding protein USSDB1B
+si_0346	USS-DB-1	Sugar ABC transporter, sugar permease protein 1 USSDB1C
+si_0346	USS-DB-1	Sugar ABC transporter, sugar permease protein 2 USSDB1D
+si_0346	USS-DB-1	Hypothetical protein USSDB1E

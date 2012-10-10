@@ -1,16 +1,16 @@
-ss00623	UvrD	ATP-dependent DNA helicase UvrD/PcrA
-ss00623	Rep	ATP-dependent DNA helicase Rep
-ss00623	UvrD/Rep	ATP-dependent DNA helicase UvrD/PcrA/Rep
-ss00623	UvrD1	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 1
-ss00623	UvrD2	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 2
-ss00623	HelD	DNA helicase IV
-ss00623	YjcD	putative ATP-dependent DNA helicase YjcD
-ss00623	bogus_PcrA	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
-ss00623	UvrD-clos	ATP-dependent DNA helicase UvrD/PcrA, clostridial paralog
-ss00623	UvrD-clos2	ATP-dependent DNA helicase UvrD/PcrA, clostridial paralog 2
-ss00623	UvrD-prot	ATP-dependent DNA helicase UvrD/PcrA, proteobacterial paralog
-ss00623	UvrD-franc	ATP-dependent DNA helicase UvrD/PcrA/Rep family, Francisella type
-ss00623	TrhI	Plasmid conjugative transfer DNA helicase TrhI
-ss00623	CTn	Conjugative transposon transfer DNA helicase
-ss00623	UvrD-cyano	ATP-dependent DNA helicase UvrD/PcrA/Rep, cyanobacterial paralog
-ss00623	UvrD-actino	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA/Rep, cyanobacterial paralog
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase Rep
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA/Rep
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 1
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 2
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	DNA helicase IV
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	putative ATP-dependent DNA helicase YjcD
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA, clostridial paralog
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA, clostridial paralog 2
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA, proteobacterial paralog
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	ATP-dependent DNA helicase UvrD/PcrA/Rep family, Francisella type
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	Plasmid conjugative transfer DNA helicase TrhI
+si_0411	DNA_repair,_bacterial_UvrD_and_related_helicases	Conjugative transposon transfer DNA helicase

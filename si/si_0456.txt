@@ -1,0 +1,4 @@
+si_0456	Myxoxanthophyll_biosynthesis_in_Cyanobacteria	C-1'-hydroxylase CruF
+si_0456	Myxoxanthophyll_biosynthesis_in_Cyanobacteria	2'-O-glycosyltransferase CruG
+si_0456	Myxoxanthophyll_biosynthesis_in_Cyanobacteria	Lycopene cyclase, CruA type
+si_0456	Myxoxanthophyll_biosynthesis_in_Cyanobacteria	Beta-carotene hydroxylase

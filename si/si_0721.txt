@@ -1,1 +1,1 @@
-ss00072	SelO	Selenoprotein O and cysteine-containing homologs
+si_0721	Selenoprotein_O	Selenoprotein O and cysteine-containing homologs

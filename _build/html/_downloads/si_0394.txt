@@ -1,13 +1,13 @@
-ss00783	NirS	Cytochrome cd1 nitrite reductase (EC:1.7.2.1)
-ss00783	NirD	Heme d1 biosynthesis protein NirD
-ss00783	NirG	Heme d1 biosynthesis protein NirG
-ss00783	NirL	Heme d1 biosynthesis protein NirL
-ss00783	NirH	Heme d1 biosynthesis protein NirH
-ss00783	Nirj	Heme d1 biosynthesis protein NirJ
-ss00783	NirD2	Heme biosynthesis protein related to NirD
-ss00783	NirG2	Heme biosynthesis protein related to NirG
-ss00783	NirL2	Heme biosynthesis protein related to NirL
-ss00783	NirH2	Heme biosynthesis protein related to NirH
-ss00783	NirDG	Heme biosynthesis protein related to NirD and NirG
-ss00783	NirLH	Heme biosynthesis protein related to NirL and NirH
-ss00783	NirJ2	Radical SAM domain heme biosynthesis protein
+si_0394	Heme_biosynthesis_orphans	Cytochrome cd1 nitrite reductase (EC:1.7.2.1)
+si_0394	Heme_biosynthesis_orphans	Heme d1 biosynthesis protein NirD
+si_0394	Heme_biosynthesis_orphans	Heme d1 biosynthesis protein NirG
+si_0394	Heme_biosynthesis_orphans	Heme d1 biosynthesis protein NirL
+si_0394	Heme_biosynthesis_orphans	Heme d1 biosynthesis protein NirH
+si_0394	Heme_biosynthesis_orphans	Heme d1 biosynthesis protein NirJ
+si_0394	Heme_biosynthesis_orphans	Heme biosynthesis protein related to NirD
+si_0394	Heme_biosynthesis_orphans	Heme biosynthesis protein related to NirG
+si_0394	Heme_biosynthesis_orphans	Heme biosynthesis protein related to NirL
+si_0394	Heme_biosynthesis_orphans	Heme biosynthesis protein related to NirH
+si_0394	Heme_biosynthesis_orphans	Heme biosynthesis protein related to NirD and NirG
+si_0394	Heme_biosynthesis_orphans	Heme biosynthesis protein related to NirL and NirH
+si_0394	Heme_biosynthesis_orphans	Radical SAM domain heme biosynthesis protein

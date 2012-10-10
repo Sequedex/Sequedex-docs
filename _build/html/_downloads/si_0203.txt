@@ -1,9 +1,7 @@
-ss00828	TuaD	UDP-glucose dehydrogenase (EC 1.1.1.22)
-ss00828	TuaC	Putative teichuronic acid biosynthesis glycosyl transferase TuaC
-ss00828	TuaB	Teichuronic acid biosynthesis protein TuaB
-ss00828	TuaA	Putative undecaprenyl-phosphate N-acetylgalactosaminyl 1-phosphate transferase ; teichuronic acid biosynthesis glycosyltransferase TuaA
-ss00828	TagO	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
-ss00828	TuaF	Teichuronic acid biosynthesis protein TuaF
-ss00828	TuaG	Putative N-acetylgalactosaminyl-diphosphoundecaprenol glucuronosyltransferase
-ss00828	TuaH	Putative teichuronic acid biosynthesis glycosyl transferase TuaH
-ss00828	TuaE	Teichuronic acid biosynthesis protein TuaE, putative secreted polysaccharide polymerase
+si_0203	Teichuronic_acid_biosynthesis	Putative N-acetylgalactosaminyl-diphosphoundecaprenol glucuronosyltransferase
+si_0203	Teichuronic_acid_biosynthesis	Putative teichuronic acid biosynthesis glycosyl transferase TuaC
+si_0203	Teichuronic_acid_biosynthesis	Putative teichuronic acid biosynthesis glycosyl transferase TuaH
+si_0203	Teichuronic_acid_biosynthesis	Teichuronic acid biosynthesis protein TuaB
+si_0203	Teichuronic_acid_biosynthesis	Teichuronic acid biosynthesis protein TuaE, putative secreted polysaccharide polymerase
+si_0203	Teichuronic_acid_biosynthesis	Teichuronic acid biosynthesis protein TuaF
+si_0203	Teichuronic_acid_biosynthesis	UDP-glucose dehydrogenase (EC 1.1.1.22)

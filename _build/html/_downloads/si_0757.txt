@@ -1,21 +1,18 @@
-ss00869	cidR	LysR family regulatory protein CidR
-ss00869	cidA	Holin-like protein CidA
-ss00869	cidB	CidA-associated membrane protein CidB
-ss00869	cidC	Pyruvate oxidase, CidC
-ss00869	lytS	Autolysis histidine kinase LytS
-ss00869	lytR	Autolysis response regulater LytR
-ss00869	lrgA	Antiholin-like protein LrgA
-ss00869	lrgB	LrgA-associated membrane protein LrgB
-ss00869	CDA	Cytidine deaminase (EC 3.5.4.5)
-ss00869	tDS	tRNA-dihydrouridine synthase C (EC 1.-.-.-)
-ss00869	H1	Holin-like protein 1
-ss00869	HA1	Holin associated membrane protein 1
-ss00869	H1hyp	Holin associated hypothetical protein
-ss00869	H2	Holin-like protein 2
-ss00869	HA2	Holin associated membrane protein 2
-ss00869	H2secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
-ss00869	Sap	S-layer protein Sap
-ss00869	eag	S-layer protein EA1
-ss00869	alsS	Acetolactate synthase, catabolic (EC 2.2.1.6)
-ss00869	alsD	Alpha-acetolactate decarboxylase (EC 4.1.1.5)
-ss00869	map_w	Truncated cell surface protein map-w
+si_0757	Murein_hydrolase_regulation_and_cell_death	LysR family regulatory protein CidR
+si_0757	Murein_hydrolase_regulation_and_cell_death	Holin-like protein CidA
+si_0757	Murein_hydrolase_regulation_and_cell_death	CidA-associated membrane protein CidB
+si_0757	Murein_hydrolase_regulation_and_cell_death	Pyruvate oxidase, CidC
+si_0757	Murein_hydrolase_regulation_and_cell_death	Autolysis histidine kinase LytS
+si_0757	Murein_hydrolase_regulation_and_cell_death	Autolysis response regulater LytR
+si_0757	Murein_hydrolase_regulation_and_cell_death	Antiholin-like protein LrgA
+si_0757	Murein_hydrolase_regulation_and_cell_death	LrgA-associated membrane protein LrgB
+si_0757	Murein_hydrolase_regulation_and_cell_death	Cytidine deaminase (EC 3.5.4.5)
+si_0757	Murein_hydrolase_regulation_and_cell_death	tRNA-dihydrouridine synthase C (EC 1.-.-.-)
+si_0757	Murein_hydrolase_regulation_and_cell_death	Holin-like protein 1
+si_0757	Murein_hydrolase_regulation_and_cell_death	Holin associated membrane protein 1
+si_0757	Murein_hydrolase_regulation_and_cell_death	Holin associated hypothetical protein
+si_0757	Murein_hydrolase_regulation_and_cell_death	Holin-like protein 2
+si_0757	Murein_hydrolase_regulation_and_cell_death	Holin associated membrane protein 2
+si_0757	Murein_hydrolase_regulation_and_cell_death	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+si_0757	Murein_hydrolase_regulation_and_cell_death	S-layer protein Sap
+si_0757	Murein_hydrolase_regulation_and_cell_death	S-layer protein EA1

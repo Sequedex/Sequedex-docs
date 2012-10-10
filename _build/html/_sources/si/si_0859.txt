@@ -1,0 +1,10 @@
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	5-oxoprolinase (EC 3.5.2.9)
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Gamma-glutamyltranspeptidase (EC 2.3.2.2)
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Glutamate--cysteine ligase (EC 6.3.2.2)
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Glutamate--cysteine ligase archaeal (EC 6.3.2.2)
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Glutathione biosynthesis bifunctional protein gshF (EC 6.3.2.2)(EC 6.3.2.3)
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Glutathione synthetase (EC 6.3.2.3)
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Predicted alternative glutathione synthetase (EC 6.3.2.3)
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Putative exported protein clustered with Gamma-glutamyltranspeptidase
+si_0859	Glutathione:_Biosynthesis_and_gamma-glutamyl_cycle	Similar to 5-oxoprolinase (EC 3.5.2.9) and Methylhydantoinases A, B (EC 3.5.2.14), contradiction in experimental data (see Annotation)

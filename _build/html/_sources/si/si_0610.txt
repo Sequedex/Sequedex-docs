@@ -1,6 +1,4 @@
-ss00471	AMP-PH	AMP phosphohydrolase
-ss00471	RibBisI	Ribose-1,5-bisphosphate isomerase
-ss00471	RuBisCO-III	Ribulose-1,5-bisphosphate carboxylase, Type III (EC 4.1.1.39)
-ss00471	RuBisCO	Ribulose bisphosphate carboxylase (EC 4.1.1.39)
-ss00471	GlcK	ADP-dependent glucokinase (EC 2.7.1.147)
-ss00471	PFK	ADP-dependent phosphofructokinase (EC 2.7.1.146)
+si_0610	AMP_to_3-phosphoglycerate	AMP phosphohydrolase
+si_0610	AMP_to_3-phosphoglycerate	Ribose-1,5-bisphosphate isomerase
+si_0610	AMP_to_3-phosphoglycerate	Ribulose-1,5-bisphosphate carboxylase, Type III (EC 4.1.1.39)
+si_0610	AMP_to_3-phosphoglycerate	Ribulose bisphosphate carboxylase (EC 4.1.1.39)

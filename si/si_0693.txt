@@ -1,0 +1,6 @@
+si_0693	Aminopeptidases_(EC_3.4.11.-)	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+si_0693	Aminopeptidases_(EC_3.4.11.-)	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+si_0693	Aminopeptidases_(EC_3.4.11.-)	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+si_0693	Aminopeptidases_(EC_3.4.11.-)	Peptidase B (EC 3.4.11.23)
+si_0693	Aminopeptidases_(EC_3.4.11.-)	Aminopeptidase Y (Arg, Lys, Leu preference) (EC 3.4.11.15)
+si_0693	Aminopeptidases_(EC_3.4.11.-)	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)

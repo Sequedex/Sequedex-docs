@@ -1,2 +1,2 @@
-ss00178	R1	Transcription accessory protein (S1 RNA-binding domain)
-ss00178	R2	Transcription elongation factor GreB
+si_0274	CBSS-243265.1.peg.198	Transcription accessory protein (S1 RNA-binding domain)
+si_0274	CBSS-243265.1.peg.198	Transcription elongation factor GreB

@@ -1,3 +1,3 @@
-ss00902	YGR262c	p53-regulating protein kinase (human PRPK/yeast YGR262c)
-ss00902	YgjD	FIG134348: essential endopeptidase
-ss00902	YeaZ	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+si_0161	YgjD_and_YeaZ	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+si_0161	YgjD_and_YeaZ	YgjD/Kae1/Qri7 family, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
+si_0161	YgjD_and_YeaZ	p53-regulating protein kinase (human PRPK/yeast YGR262c)

@@ -1,0 +1,5 @@
+si_0888	Dimethylsulfoniopropionate_(DMSP)_mineralization	DMSP demethylase (DmdA) (EC 2.1.2.10)
+si_0888	Dimethylsulfoniopropionate_(DMSP)_mineralization	3-methylmercaptopropionyl-CoA ligase (DmdB)
+si_0888	Dimethylsulfoniopropionate_(DMSP)_mineralization	3-methylmercaptopropionyl-CoA dehydrogenase (DmdC)
+si_0888	Dimethylsulfoniopropionate_(DMSP)_mineralization	3-methylthioacryloyl-CoA hydratase (DmdD)
+si_0888	Dimethylsulfoniopropionate_(DMSP)_mineralization	Methylthioacryloyl-CoA hydratase 2

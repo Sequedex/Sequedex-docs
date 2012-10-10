@@ -1,17 +1,17 @@
-ss00180	UrpA	Universal stress protein A
-ss00180	UrpC	Universal stress protein C
-ss00180	UrpB	Universal stress protein B
-ss00180	UrpD	Universal stress protein D
-ss00180	UrpE	Universal stress protein E
-ss00180	UrpF	Universal stress protein F
-ss00180	UrpG	Universal stress protein G
-ss00180	Urp1	Universal stress protein family 1
-ss00180	Urp8	Universal stress protein family 8
-ss00180	Urp2	Universal stress protein family 2
-ss00180	Urp3	Universal stress protein family 3
-ss00180	Urp4	Universal stress protein family 4
-ss00180	Urp5	Universal stress protein family 5
-ss00180	Urp6	Universal stress protein family 6
-ss00180	Urp7	Universal stress protein family 7
-ss00180	Urp-fam	Universal stress protein family COG0589
-ss00180	Urp-famil	Universal stress protein family
+si_0880	Universal_stress_protein_family	Universal stress protein A
+si_0880	Universal_stress_protein_family	Universal stress protein C
+si_0880	Universal_stress_protein_family	Universal stress protein B
+si_0880	Universal_stress_protein_family	Universal stress protein D
+si_0880	Universal_stress_protein_family	Universal stress protein E
+si_0880	Universal_stress_protein_family	Universal stress protein F
+si_0880	Universal_stress_protein_family	Universal stress protein G
+si_0880	Universal_stress_protein_family	Universal stress protein family 1
+si_0880	Universal_stress_protein_family	Universal stress protein family 8
+si_0880	Universal_stress_protein_family	Universal stress protein family 2
+si_0880	Universal_stress_protein_family	Universal stress protein family 3
+si_0880	Universal_stress_protein_family	Universal stress protein family 4
+si_0880	Universal_stress_protein_family	Universal stress protein family 5
+si_0880	Universal_stress_protein_family	Universal stress protein family 6
+si_0880	Universal_stress_protein_family	Universal stress protein family 7
+si_0880	Universal_stress_protein_family	Universal stress protein family COG0589
+si_0880	Universal_stress_protein_family	Universal stress protein family

@@ -1,0 +1,20 @@
+si_0566	COG2363	COG2363
+si_0566	COG2363	Sulfur carrier protein ThiS
+si_0566	COG2363	Thiazole biosynthesis protein ThiG
+si_0566	COG2363	Thiamine biosynthesis protein thiI
+si_0566	COG2363	Phosphomethylpyrimidine kinase (EC 2.7.4.7)
+si_0566	COG2363	ThiJ/PfpI family protein
+si_0566	COG2363	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+si_0566	COG2363	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+si_0566	COG2363	Thiaminase II (EC 3.5.99.2)
+si_0566	COG2363	Cysteine desulfurase CsdA-CsdE, sulfur acceptor protein CsdE
+si_0566	COG2363	Cysteine desulfurase CsdA-CsdE (EC 2.8.1.7), main protein CsdA
+si_0566	COG2363	Cysteine desulfurase (EC 2.8.1.7)
+si_0566	COG2363	Cysteine desulfurase (EC 2.8.1.7), IscS subfamily
+si_0566	COG2363	Cysteine desulfurase (EC 2.8.1.7), NifS subfamily
+si_0566	COG2363	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily
+si_0566	COG2363	Sulfur acceptor protein SufE for iron-sulfur cluster assembly
+si_0566	COG2363	Thiamin biosynthesis protein ThiC
+si_0566	COG2363	Hydroxymethylpyrimidine ABC transporter, substrate-binding component
+si_0566	COG2363	Predicted thiazole transporter ThiW
+si_0566	COG2363	Predicted thiazole transporter ThiU

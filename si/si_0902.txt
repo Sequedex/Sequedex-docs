@@ -1,0 +1,4 @@
+si_0902	Erythromycin_resistance	rRNA adenine N-6-methyltransferase (EC 2.1.1.48) (Macrolide-lincosamide-streptogramin B resistance protein) (Erythromycin resistance protein)
+si_0902	Erythromycin_resistance	rRNA adenine N-6-methyltransferase (EC 2.1.1.48)
+si_0902	Erythromycin_resistance	rRNA adenine N-6-methyltransferase (erm/ksgA)
+si_0902	Erythromycin_resistance	Dimethyladenosine transferase (EC 2.1.1.-)

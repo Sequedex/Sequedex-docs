@@ -1,22 +1,20 @@
-ss00568	CC2	Cytochrome c2
-ss00568	C550	Cytochrome C550 (Soluble cytochrome C)
-ss00568	C550PS	Photosystem II protein PsbV, cytochrome c550
-ss00568	C550m	Membrane-attached cytochrome c550
-ss00568	C553	Cytochrome C553 (soluble cytochrome f)
-ss00568	PC553	Putative diheme cytochrome c-553
-ss00568	C552p	Cytochrome c552 precursor (EC 1.7.2.2)
-ss00568	C552	Cytochrome c552
-ss00568	C-552p	Cytochrome c-552 precursor
-ss00568	C551/c552	Cytochrome c551/c552
-ss00568	B562	Soluble cytochrome b562
-ss00568	SF	soluble [2Fe-2S] ferredoxin
-ss00568	Fx	Ferredoxin
-ss00568	b-5	cytochrome b-5
-ss00568	ISB	Iron-sulfur cluster-binding protein
-ss00568	PF	Probable ferredoxin
-ss00568	C4	Cytochrome c4
-ss00568	Fe2F2S	Ferredoxin, 2Fe-2S
-ss00568	c2p	Probable cytochrome c2
-ss00568	c552p	Probable cytochrome c-552
-ss00568	c553	Cytochrome c553
-ss00568	c551	cytochrome c-551
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome C550 (Soluble cytochrome C)
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome C553 (soluble cytochrome f)
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome c-552 precursor
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome c2
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome c4
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome c551/c552
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome c552
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome c552 precursor (EC 1.7.2.2)
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Cytochrome c553
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	FIG135464: Cytochrome c4
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Ferredoxin
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Ferredoxin, 2Fe-2S
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Membrane-attached cytochrome c550
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Photosystem II protein PsbV, cytochrome c550
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Probable cytochrome c-552
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Probable cytochrome c2
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Putative diheme cytochrome c-553
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	Soluble cytochrome b562
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	cytochrome c-551
+si_0826	Soluble_cytochromes_and_functionally_related_electron_carriers	soluble [2Fe-2S] ferredoxin

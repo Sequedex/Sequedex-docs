@@ -1,3 +1,3 @@
-ss00296	R1	Probable carboxyvinyl-carboxyphosphonate phosphorylmutase (EC 2.7.8.23)
-ss00296	R2	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
-ss00296	R3	ADA regulatory protein
+si_0322	CBSS-393124.3.peg.2657	Probable carboxyvinyl-carboxyphosphonate phosphorylmutase (EC 2.7.8.23)
+si_0322	CBSS-393124.3.peg.2657	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+si_0322	CBSS-393124.3.peg.2657	ADA regulatory protein

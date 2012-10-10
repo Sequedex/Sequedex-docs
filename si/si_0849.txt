@@ -1,0 +1,5 @@
+si_0849	Tellurite_resistance:_Chromosomal_determinants	FIG005189: putative transferase clustered with tellurite resistance proteins TehA/TehB
+si_0849	Tellurite_resistance:_Chromosomal_determinants	Tellurite resistance protein TehA
+si_0849	Tellurite_resistance:_Chromosomal_determinants	Tellurite resistance protein TehB
+si_0849	Tellurite_resistance:_Chromosomal_determinants	Tellurite resistance protein TrgA
+si_0849	Tellurite_resistance:_Chromosomal_determinants	Uncharacterized membrane lipoprotein clustered with tellurite resistance proteins TehA/TehB

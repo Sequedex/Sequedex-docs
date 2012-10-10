@@ -1,4 +1,1 @@
-ss00124	MexC	Multidrug efflux membrane fusion protein MexC
-ss00124	MexD	Multidrug efflux transporter MexD
-ss00124	OprJ	Outer membrane protein OprJ
-ss00124	NfxB	Transcriptional regulator NfxB
+si_0937	MexC-MexD-OprJ_Multidrug_Efflux_System	Transcriptional regulator NfxB

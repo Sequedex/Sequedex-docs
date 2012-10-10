@@ -1,0 +1,2 @@
+si_0911	Decorin_binding_proteins_of_Borrelia	Decorin binding protein B
+si_0911	Decorin_binding_proteins_of_Borrelia	Decorin binding protein A

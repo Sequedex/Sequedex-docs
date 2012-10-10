@@ -1,3 +1,2 @@
-ss00015	R1	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
-ss00015	R2	Arginine decarboxylase (EC 4.1.1.19) / Lysine decarboxylase (EC 4.1.1.18)
-ss00015	R3	Thymidylate kinase (EC 2.7.4.9)
+si_0324	CBSS-393133.3.peg.2787	Thymidylate kinase (EC 2.7.4.9)
+si_0324	CBSS-393133.3.peg.2787	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis

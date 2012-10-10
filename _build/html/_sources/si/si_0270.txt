@@ -1,30 +1,30 @@
-ss01085	R1	unknown protein encoded within prophage CP-933V
-ss01085	R2	antitermination protein Q
-ss01085	R3	Phage lysis protein S
-ss01085	R4	Protein NinG
-ss01085	R5	unknown protein encoded by bacteriophage BP-933W
-ss01085	R6	Putative antirepressor protein of cryptic prophage CP-933M
-ss01085	R7	putative endopeptidase
-ss01085	R8	Protein NinB
-ss01085	R9	ORF C81-like
-ss01085	R10	Putative lysis protein S of prophage CP-933V
-ss01085	R11	Phage endolysin
-ss01085	R12	putative DNA N-6-adenine methyltransferase
-ss01085	R13	similar bacteriphage P22 ninH
-ss01085	R14	Shiga-like toxin II subunit A precursor (EC 3.2.2.22)
-ss01085	R15	Putative DNA-binding protein Roi of bacteriophage BP-933W
-ss01085	R16	DNA packaging
-ss01085	R17	Shiga-like toxin II subunit B precursor
-ss01085	R18	Outer membrane lipoprotein Rz1
-ss01085	R19	Lipoprotein Bor
-ss01085	R20	phage replication protein P
-ss01085	R21	ORF B78
-ss01085	R22	P protein
-ss01085	R23	ORF B85
-ss01085	R24	Ren protein
-ss01085	R25	Protein NinE
-ss01085	R26	ORF B64
-ss01085	R27	Shiga toxin I subunit B precursor
-ss01085	R28	ORF-66
-ss01085	R29	Shiga toxin A-chain precursor (EC 3.2.2.22)
-ss01085	R_7	Phage endopeptidase
+si_0270	CBSS-194948.1.peg.143	ORF B78
+si_0270	CBSS-194948.1.peg.143	P protein
+si_0270	CBSS-194948.1.peg.143	ORF B85
+si_0270	CBSS-194948.1.peg.143	Ren protein
+si_0270	CBSS-194948.1.peg.143	Protein NinE
+si_0270	CBSS-194948.1.peg.143	ORF B64
+si_0270	CBSS-194948.1.peg.143	Shiga toxin I subunit B precursor
+si_0270	CBSS-194948.1.peg.143	ORF-66
+si_0270	CBSS-194948.1.peg.143	Shiga toxin A-chain precursor (EC 3.2.2.22)
+si_0270	CBSS-194948.1.peg.143	Phage endopeptidase
+si_0270	CBSS-194948.1.peg.143	unknown protein encoded within prophage CP-933V
+si_0270	CBSS-194948.1.peg.143	antitermination protein Q
+si_0270	CBSS-194948.1.peg.143	Phage lysis protein S
+si_0270	CBSS-194948.1.peg.143	Protein NinG
+si_0270	CBSS-194948.1.peg.143	unknown protein encoded by bacteriophage BP-933W
+si_0270	CBSS-194948.1.peg.143	Putative antirepressor protein of cryptic prophage CP-933M
+si_0270	CBSS-194948.1.peg.143	putative endopeptidase
+si_0270	CBSS-194948.1.peg.143	Protein NinB
+si_0270	CBSS-194948.1.peg.143	ORF C81-like
+si_0270	CBSS-194948.1.peg.143	Putative lysis protein S of prophage CP-933V
+si_0270	CBSS-194948.1.peg.143	Phage endolysin
+si_0270	CBSS-194948.1.peg.143	putative DNA N-6-adenine methyltransferase
+si_0270	CBSS-194948.1.peg.143	similar bacteriphage P22 ninH
+si_0270	CBSS-194948.1.peg.143	Shiga-like toxin II subunit A precursor (EC 3.2.2.22)
+si_0270	CBSS-194948.1.peg.143	Putative DNA-binding protein Roi of bacteriophage BP-933W
+si_0270	CBSS-194948.1.peg.143	DNA packaging
+si_0270	CBSS-194948.1.peg.143	Shiga-like toxin II subunit B precursor
+si_0270	CBSS-194948.1.peg.143	Outer membrane lipoprotein Rz1
+si_0270	CBSS-194948.1.peg.143	Lipoprotein Bor
+si_0270	CBSS-194948.1.peg.143	phage replication protein P

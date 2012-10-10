@@ -1,0 +1,9 @@
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1 (as in PMID19099556)
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F1 (as in PMID19099556)
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F2 (as in PMID19099556)
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F4 (as in PMID19099556)
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily M (as in PMID19099556)
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily S (as in PMID19099556)
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Exopolysaccharide biosynthesis transcription antiterminator, LytR family
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Exopolysaccharide biosynthesis transcriptional activator EpsA
+si_0774	Cell_envelope-associated_LytR-CpsA-Psr_transcriptional_attenuators	Peptide methionine sulfoxide reductase regulator MsrR

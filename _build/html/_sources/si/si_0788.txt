@@ -1,16 +1,7 @@
-ss00280	R2	Sporulation regulatory protein WhiB
-ss00280	R1	Glycosyl transferase, family 2
-ss00280	R6	dTDP-Rha:A-D-GlcNAc-diphosphoryl polyprenol, A-3-L-rhamnosyl transferase WbbL
-ss00280	R3	FIG083739: Putative secreted protein
-ss00280	R4	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase
-ss00280	S1	Sporulation regulatory protein WhiD
-ss00280	S2	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
-ss00280	T1	WhiB-type transcription regulator
-ss00280	T2	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
-ss00280	U1	WhiB-like transcription regulator
-ss00280	U2	Signal transduction histidine kinase, subgroup 2
-ss00280	V1	WhiB-family transcriptional regulator
-ss00280	V2	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
-ss00280	W1	WhiB-like transcriptional regulator
-ss00280	W2	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
-ss00280	X	WhiB-type transcriptional regulator
+si_0788	WhiB_and_WhiB-type_regulatory_proteins_	Sporulation regulatory protein WhiB
+si_0788	WhiB_and_WhiB-type_regulatory_proteins_	Sporulation regulatory protein WhiD
+si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-type transcription regulator
+si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-like transcription regulator
+si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-family transcriptional regulator
+si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-like transcriptional regulator
+si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-type transcriptional regulator

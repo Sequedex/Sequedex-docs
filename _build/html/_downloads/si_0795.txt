@@ -1,51 +1,33 @@
-ss00834	CCOXI	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
-ss00834	CCOXII	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
-ss00834	CCOXIII	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
-ss00834	CCOIV	Cytochrome c oxidase, subunit IV (EC 1.9.3.1)
-ss00834	CCOP	Cytochrome c oxidase subunit CcoP (EC 1.9.3.1)
-ss00834	CCOO	Cytochrome c oxidase subunit CcoO (EC 1.9.3.1)
-ss00834	CCON	Cytochrome c oxidase subunit CcoN (EC 1.9.3.1)
-ss00834	CCOQ	Cytochrome c oxidase subunit CcoQ (EC 1.9.3.1)
-ss00834	CcoS	Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion
-ss00834	FixG	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
-ss00834	fixP	cytochrome-c oxidase (EC 1.9.3.1) FixP chain
-ss00834	fixO	Cytochrome C oxidase (EC 1.9.3.1) FixO chain
-ss00834	AN	Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)
-ss00834	AM	Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)
-ss00834	AO	Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1)
-ss00834	AP	Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)
-ss00834	QOXI	quinol oxidase polypeptide I QoxB (EC:1.9.3.-)
-ss00834	QOXIII	quinol oxidase polypeptide III QoxC (EC:1.9.3.-)
-ss00834	QOXII	quinol oxidase polypeptide II QoxA (EC:1.9.3.-)
-ss00834	QOXIV	quinol oxidase polypeptide IV QoxD (EC:1.9.3.-)
-ss00834	PCCO	putative cytochrome C oxidase subunit (periplasmic protein)
-ss00834	CCOXVB	Cytochrome c oxidase  polypeptide VB (EC 1.9.3.1)
-ss00834	COXIV	cb-type cytochrome c oxidase subunit IV [EC:1.9.3.1]
-ss00834	CCOXVA	Cytochrome c oxidase polypeptide VA (EC 1.9.3.1)
-ss00834	CCOXVC	Cytochrome c oxidase  polypeptide IVB (EC 1.9.3.1)
-ss00834	CCOXVIIC	Cytochrome c oxidase  polypeptide VIIC (EC 1.9.3.1)
-ss00834	CCOXVAm	Cytochrome c oxidase polypeptide Va, mitochondrial precursor (EC 1.9.3.1)
-ss00834	CCOXVBm	Cytochrome c oxidase polypeptide Vb, mitochondrial precursor (EC 1.9.3.1)
-ss00834	CCOXVIICm	Cytochrome c oxidase polypeptide VIIc, mitochondrial precursor (EC 1.9.3.1)
-ss00834	COOXVIAl	Cytochrome c oxidase polypeptide VIa-liver, mitochondrial precursor (EC 1.9.3.1)
-ss00834	CCOX2a	Cytochrome c oxidase subunit 2a (EC 1.9.3.1)
-ss00834	I-SCEII	I-SCEIII protein (EC 1.9.3.1) (Cytochrome c oxidase polypeptide I)
-ss00834	CCOXP	Cytochrome c oxidase subunit, putative (EC 1.9.3.1)
-ss00834	CCOX1P	Cytochrome c oxidase polypeptide I (EC 1.9.3.1),putative
-ss00834	FixO3	FixO3 cytochrome-c oxidase subunit
-ss00834	CCOXIIA	Cytochrome c oxidase polypeptide IIA (EC 1.9.3.1)
-ss00834	CCOPIV	Cytochrome c oxidase polypeptide IV(EC 1.9.3.1)
-ss00834	PCBB3	probable cytochrome oxidase (cbb3-type)
-ss00834	CY	membrane c-type cytochrome cy
-ss00834	BO3II	Cytochrome c oxidase (B(O/a)3-type) chain II (EC 1.9.3.1)
-ss00834	BO3I	Cytochrome c oxidase (B(O/a)3-type) chain I (EC 1.9.3.1)
-ss00834	NR	Copper-containing nitrite reductase (EC 1.7.2.1)
-ss00834	CTA	Copper-translocating P-type ATPase (EC 3.6.3.4)
-ss00834	HP	hypothetical cytochrome oxidase associated membrane protein
-ss00834	Sox?	Quinol oxidase (SoxABC), cytochrome aa3 subunit (SoxB)
-ss00834	SoxH?	Quinol oxidase-2, subunit II (SoxH)
-ss00834	c553l	Cytochrome c553-like
-ss00834	DoxB	Heme bearing subunit I of the terminal oxidase (DoxB)
-ss00834	doxC	Terminal oxidase, subunit (DoxC)
-ss00834	doxE	Terminal oxidase, small hydrophobic subunit (DoxE)
-ss00834	hCCOP1	hypothetical cytochrome c oxidase polypeptide I
+si_0795	Terminal_cytochrome_C_oxidases	Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase (B(O/a)3-type) chain I (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase (B(O/a)3-type) chain II (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase polypeptide IIA (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase polypeptide IV(EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase subunit CcoN (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase subunit CcoO (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase subunit CcoP (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase subunit CcoQ (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c oxidase, subunit IV (EC 1.9.3.1)
+si_0795	Terminal_cytochrome_C_oxidases	Cytochrome c553-like
+si_0795	Terminal_cytochrome_C_oxidases	FixO3 cytochrome-c oxidase subunit
+si_0795	Terminal_cytochrome_C_oxidases	Heme bearing subunit I of the terminal oxidase (DoxB)
+si_0795	Terminal_cytochrome_C_oxidases	Quinol oxidase (SoxABC), cytochrome aa3 subunit (SoxB)
+si_0795	Terminal_cytochrome_C_oxidases	Quinol oxidase-2, subunit II (SoxH)
+si_0795	Terminal_cytochrome_C_oxidases	Terminal oxidase, small hydrophobic subunit (DoxE)
+si_0795	Terminal_cytochrome_C_oxidases	Terminal oxidase, subunit (DoxC)
+si_0795	Terminal_cytochrome_C_oxidases	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+si_0795	Terminal_cytochrome_C_oxidases	Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion
+si_0795	Terminal_cytochrome_C_oxidases	cb-type cytochrome c oxidase subunit IV [EC:1.9.3.1]
+si_0795	Terminal_cytochrome_C_oxidases	hypothetical cytochrome c oxidase polypeptide I
+si_0795	Terminal_cytochrome_C_oxidases	membrane c-type cytochrome cy
+si_0795	Terminal_cytochrome_C_oxidases	probable cytochrome oxidase (cbb3-type)
+si_0795	Terminal_cytochrome_C_oxidases	quinol oxidase polypeptide I QoxB (EC:1.9.3.-)
+si_0795	Terminal_cytochrome_C_oxidases	quinol oxidase polypeptide II QoxA (EC:1.9.3.-)
+si_0795	Terminal_cytochrome_C_oxidases	quinol oxidase polypeptide III QoxC (EC:1.9.3.-)
+si_0795	Terminal_cytochrome_C_oxidases	quinol oxidase polypeptide IV QoxD (EC:1.9.3.-)

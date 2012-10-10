@@ -1,0 +1,3 @@
+si_0337	KH_domain_RNA_binding_protein_YlqC	KH domain RNA binding protein YlqC
+si_0337	KH_domain_RNA_binding_protein_YlqC	SSU ribosomal protein S16p
+si_0337	KH_domain_RNA_binding_protein_YlqC	16S rRNA processing protein RimM

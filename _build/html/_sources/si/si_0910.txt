@@ -1,9 +1,9 @@
-ss00712	CadF	Outer membrane fibronectin-binding protein
-ss00712	JlpA	Surface-exposed lipoprotein JlpA
-ss00712	PebA	Major cell-binding factor precursor PebA
-ss00712	PebC	Amino-acid ABC transporter ATP-binding protein PebC
-ss00712	Peb	Putative ABC-type amino-acid transporter permease protein
-ss00712	pFNL	Putative fibronectin domain-containing lipoprotein
-ss00712	FFBP	Fibronectin/fibrinogen-binding protein
-ss00712	FHDP	Filamentous haemagglutinin domain protein
-ss00712	FlaC	Flagellin C
+si_0910	Adhesion_of_Campylobacter	Outer membrane fibronectin-binding protein
+si_0910	Adhesion_of_Campylobacter	Surface-exposed lipoprotein JlpA
+si_0910	Adhesion_of_Campylobacter	Major cell-binding factor precursor PebA
+si_0910	Adhesion_of_Campylobacter	Amino-acid ABC transporter ATP-binding protein PebC
+si_0910	Adhesion_of_Campylobacter	Putative ABC-type amino-acid transporter permease protein
+si_0910	Adhesion_of_Campylobacter	Putative fibronectin domain-containing lipoprotein
+si_0910	Adhesion_of_Campylobacter	Fibronectin/fibrinogen-binding protein
+si_0910	Adhesion_of_Campylobacter	Filamentous haemagglutinin domain protein
+si_0910	Adhesion_of_Campylobacter	Flagellin C

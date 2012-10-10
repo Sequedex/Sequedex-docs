@@ -1,0 +1,6 @@
+si_0496	Periplasmic-Binding-Protein-Dependent_Transport_System_for_&#945;-Glucosides	Transcriptional regulator AglR, LacI family
+si_0496	Periplasmic-Binding-Protein-Dependent_Transport_System_for_&#945;-Glucosides	Alpha-glucosides-binding periplasmic protein AglE precursor
+si_0496	Periplasmic-Binding-Protein-Dependent_Transport_System_for_&#945;-Glucosides	ABC alpha-glucoside transporter, inner membrane subunit AglF
+si_0496	Periplasmic-Binding-Protein-Dependent_Transport_System_for_&#945;-Glucosides	Alpha-glucoside transport ATP-binding protein AglK
+si_0496	Periplasmic-Binding-Protein-Dependent_Transport_System_for_&#945;-Glucosides	Alpha-glucoside transport system permease protein AglG
+si_0496	Periplasmic-Binding-Protein-Dependent_Transport_System_for_&#945;-Glucosides	Alpha-glucosidase AglA

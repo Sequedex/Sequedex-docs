@@ -1,0 +1,15 @@
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein D
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein S
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein T, putative ATP-binding translocase of TcpA
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein E, anchors TcpT to membrane
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein F, putative outer membrane channel for TcpA extrusion
+si_0499	Toxin_co-regulated_pilus	TCP pilus virulence regulatory protein ToxT, transcription activator
+si_0499	Toxin_co-regulated_pilus	TCP pilin signal peptidase, TcpA processing
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein I, chemoreceptor, negative regulator of TcpA
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein P, transcriptional activator of ToxT promoter
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein H, transcriptional activator of ToxT promoter
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilin A
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein B
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein Q
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein C, outer membrane protein
+si_0499	Toxin_co-regulated_pilus	Toxin co-regulated pilus biosynthesis protein R

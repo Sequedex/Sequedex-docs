@@ -1,25 +1,25 @@
-ss00918	GTPCIII	GTP cyclohydrolase III (EC 3.5.4.29)
-ss00918	TAPTPPM	Triaminopyrimidine triphosphate phosphomutase
-ss00918	DHPCPH	7,8-dihydronepterin 2' :3'-cyclicphosphate hydrolase
-ss00918	DNMPPA	Dihydroneopterin monophosphate dephosphorylase
-ss00918	DHNPA2	Dihydroneopterin aldolase (methanopterin)
-ss00918	HPPK2	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
-ss00918	MtpH	7,8 dihydropteroate synthase (methanopterin)
-ss00918	MtpG	beta-ribofuranosylaminobenzene 5'-phosphate synthase
-ss00918	CofF	Gamma-F420-2:alpha-L-glutamate ligase cofF
-ss00918	MJ0107/ORF20	Related to Dihydropteroate synthase
-ss00918	MJ1099/orf22	duf556 family protein
-ss00918	MJ0840/orf9	COG1548 family protein
-ss00918	MJ1453/orf19	DUF447 family protein
-ss00918	mj0815/orf1	COG1821 family protein
-ss00918	MJ0458/orf21	delta 1-pyrroline-5-carboxylate synthetase
-ss00918	COG1036	Archaeal flavoprotein COG1036
-ss00918	orf7	Triphosphoribosyl-dephospho-CoA synthetase
-ss00918	orf17	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase related protein
-ss00918	FolE1	GTP cyclohydrolase I (EC 3.5.4.16) type 1
-ss00918	FolE2	GTP cyclohydrolase I (EC 3.5.4.16) type 2
-ss00918	FolB	Dihydroneopterin aldolase (EC 4.1.2.25)
-ss00918	QueD	Queuosine biosynthesis QueD, PTPS-I
-ss00918	PTPSII	6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
-ss00918	PTPSIII	Folate biosynthesis, PTPS-III
-ss00918	test	D-arabino-3-hexulose 6-phosphate formaldehyde lyase / 6-phospho-3-hexuloisomerase
+si_0364	Methanopterin_biosynthesis2	GTP cyclohydrolase III (EC 3.5.4.29)
+si_0364	Methanopterin_biosynthesis2	Triaminopyrimidine triphosphate phosphomutase
+si_0364	Methanopterin_biosynthesis2	7,8-dihydronepterin 2' :3'-cyclicphosphate hydrolase
+si_0364	Methanopterin_biosynthesis2	Dihydroneopterin monophosphate dephosphorylase
+si_0364	Methanopterin_biosynthesis2	Dihydroneopterin aldolase (methanopterin)
+si_0364	Methanopterin_biosynthesis2	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+si_0364	Methanopterin_biosynthesis2	7,8 dihydropteroate synthase (methanopterin)
+si_0364	Methanopterin_biosynthesis2	beta-ribofuranosylaminobenzene 5'-phosphate synthase
+si_0364	Methanopterin_biosynthesis2	Gamma-F420-2:alpha-L-glutamate ligase cofF
+si_0364	Methanopterin_biosynthesis2	Related to Dihydropteroate synthase
+si_0364	Methanopterin_biosynthesis2	duf556 family protein
+si_0364	Methanopterin_biosynthesis2	COG1548 family protein
+si_0364	Methanopterin_biosynthesis2	DUF447 family protein
+si_0364	Methanopterin_biosynthesis2	COG1821 family protein
+si_0364	Methanopterin_biosynthesis2	delta 1-pyrroline-5-carboxylate synthetase
+si_0364	Methanopterin_biosynthesis2	Archaeal flavoprotein COG1036
+si_0364	Methanopterin_biosynthesis2	Triphosphoribosyl-dephospho-CoA synthetase
+si_0364	Methanopterin_biosynthesis2	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase related protein
+si_0364	Methanopterin_biosynthesis2	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+si_0364	Methanopterin_biosynthesis2	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+si_0364	Methanopterin_biosynthesis2	Dihydroneopterin aldolase (EC 4.1.2.25)
+si_0364	Methanopterin_biosynthesis2	Queuosine biosynthesis QueD, PTPS-I
+si_0364	Methanopterin_biosynthesis2	6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+si_0364	Methanopterin_biosynthesis2	Folate biosynthesis, PTPS-III
+si_0364	Methanopterin_biosynthesis2	D-arabino-3-hexulose 6-phosphate formaldehyde lyase / 6-phospho-3-hexuloisomerase

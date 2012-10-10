@@ -1,28 +1,28 @@
-ss00421	ftsA	Cell division protein FtsA
-ss00421	ftsW	Cell division protein FtsW
-ss00421	ftsZ	Cell division protein FtsZ (EC 3.4.24.-)
-ss00421	ftsQ	Cell division protein FtsQ
-ss00421	ftsI	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
-ss00421	ftsJ	Cell division protein ftsJ
-ss00421	minC	Septum site-determining protein MinC
-ss00421	minD	Septum site-determining protein MinD
-ss00421	minE	Cell division topological specificity factor MinE
-ss00421	tig	Cell division trigger factor (EC 5.2.1.8)
-ss00421	ftsH	Cell division protein FtsH (EC 3.4.24.-)
-ss00421	mraZ	Cell division protein MraZ
-ss00421	ftsE	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
-ss00421	ftsX	Cell division protein FtsX
-ss00421	era	GTP-binding protein Era
-ss00421	ftsK	Cell division protein FtsK
-ss00421	ftsL	Cell division protein FtsL
-ss00421	cafA	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
-ss00421	mreD	Rod shape-determining protein MreD
-ss00421	mreC	Rod shape-determining protein MreC
-ss00421	bolA	Cell division protein BolA
-ss00421	parA	Chromosome partitioning protein parA
-ss00421	maf	Septum formation protein Maf
-ss00421	mreB	Rod shape-determining protein MreB
-ss00421	DivIVA	Cell division initiation protein DivIVA
-ss00421	mraW	S-adenosyl-methyltransferase MraW (EC 2.1.1.-)
-ss00421	ftsY	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
-ss00421	DivIC	Cell division protein DivIC
+si_0279	Bacterial_Cell_Division	Cell division initiation protein DivIVA
+si_0279	Bacterial_Cell_Division	Cell division protein BolA
+si_0279	Bacterial_Cell_Division	Cell division protein DivIC
+si_0279	Bacterial_Cell_Division	Cell division protein FtsA
+si_0279	Bacterial_Cell_Division	Cell division protein FtsH (EC 3.4.24.-)
+si_0279	Bacterial_Cell_Division	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+si_0279	Bacterial_Cell_Division	Cell division protein FtsJ
+si_0279	Bacterial_Cell_Division	Cell division protein FtsK
+si_0279	Bacterial_Cell_Division	Cell division protein FtsL
+si_0279	Bacterial_Cell_Division	Cell division protein FtsQ
+si_0279	Bacterial_Cell_Division	Cell division protein FtsW
+si_0279	Bacterial_Cell_Division	Cell division protein FtsX
+si_0279	Bacterial_Cell_Division	Cell division protein FtsZ (EC 3.4.24.-)
+si_0279	Bacterial_Cell_Division	Cell division protein MraZ
+si_0279	Bacterial_Cell_Division	Cell division topological specificity factor MinE
+si_0279	Bacterial_Cell_Division	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
+si_0279	Bacterial_Cell_Division	Cell division trigger factor (EC 5.2.1.8)
+si_0279	Bacterial_Cell_Division	Chromosome partitioning protein ParA
+si_0279	Bacterial_Cell_Division	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+si_0279	Bacterial_Cell_Division	GTP-binding protein Era
+si_0279	Bacterial_Cell_Division	Rod shape-determining protein MreB
+si_0279	Bacterial_Cell_Division	Rod shape-determining protein MreC
+si_0279	Bacterial_Cell_Division	Rod shape-determining protein MreD
+si_0279	Bacterial_Cell_Division	Septum formation protein Maf
+si_0279	Bacterial_Cell_Division	Septum site-determining protein MinC
+si_0279	Bacterial_Cell_Division	Septum site-determining protein MinD
+si_0279	Bacterial_Cell_Division	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+si_0279	Bacterial_Cell_Division	rRNA small subunit methyltransferase H

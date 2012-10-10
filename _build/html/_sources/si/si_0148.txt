@@ -1,0 +1,16 @@
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Putative aldolase YdjI
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Uncharacterized sugar kinase YdjH
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Hypothetical zinc-type alcohol dehydrogenase-like protein YdjJ
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Putative oxidoreductase YdjL
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Putative transport protein YdjK, MFS superfamily
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Hypothetical oxidoreductase YdjG (EC 1.-.-.-)
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Putative HTH-type transcriptional regulator YdjF
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Putative oxidoreductase YeaE, aldo/keto reductase family
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Inner membrane protein YeaI
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Aldose 1-epimerase family protein YeaD
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	MltA-interacting protein MipA
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Uncharacterized protein YeaG
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Putative two-component response regulator and GGDEF family protein YeaJ
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Uncharacterized protein YeaC
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)
+si_0148	Unknown_carbohydrate_utilization_(_cluster_Ydj_)	UPF0229 protein YeaH

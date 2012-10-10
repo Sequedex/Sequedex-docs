@@ -1,0 +1,4 @@
+si_0152	beta-glucuronide_utilization	Beta-glucuronidase (EC 3.2.1.31)
+si_0152	beta-glucuronide_utilization	Glucuronide transporter UidB
+si_0152	beta-glucuronide_utilization	Glucuronide transport facilitator UidC
+si_0152	beta-glucuronide_utilization	Transcriptional repressor UidR

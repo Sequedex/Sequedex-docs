@@ -1,11 +1,6 @@
-ss00888	GD	Gentisate 1,2-dioxygenase (EC 1.13.11.4)
-ss00888	FHF	Fumarylacetoacetate hydrolase family protein
-ss00888	MI	Maleylacetoacetate isomerase (EC 5.2.1.2)
-ss00888	HBH	Putative n-hydroxybenzoate hydroxylase
-ss00888	HT	4-hydroxybenzoate transporter
-ss00888	FAA	Fumarylacetoacetase (EC 3.7.1.2)
-ss00888	MCTI	Maleate cis-trans isomerase (EC 5.2.1.1)
-ss00888	PH	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
-ss00888	PHBT	putative 4-hydroxybenzoyl-CoA thioesterase
-ss00888	SH	Salicylate hydroxylase (EC 1.14.13.1)
-ss00888	MH	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+si_0559	Gentisare_degradation	Gentisate 1,2-dioxygenase (EC 1.13.11.4)
+si_0559	Gentisare_degradation	Fumarylacetoacetate hydrolase family protein
+si_0559	Gentisare_degradation	Maleylacetoacetate isomerase (EC 5.2.1.2)
+si_0559	Gentisare_degradation	Putative n-hydroxybenzoate hydroxylase
+si_0559	Gentisare_degradation	4-hydroxybenzoate transporter
+si_0559	Gentisare_degradation	putative 4-hydroxybenzoyl-CoA thioesterase

@@ -1,12 +1,10 @@
-ss00438	csmA	Chlorosome protein A
-ss00438	csmB	Chlorosome protein B
-ss00438	csmC	Chlorosome protein C
-ss00438	csmD	Chlorosome protein D
-ss00438	csmE	Chlorosome protein E
-ss00438	csmF	Chlorosome protein F
-ss00438	csmG	Chlorosome protein G
-ss00438	csmH	Chlorosome protein H
-ss00438	csmI	Chlorosome protein I, 2Fe-2S ferredoxin
-ss00438	csmJ	Chlorosome protein J, 2Fe-2S ferredoxin
-ss00438	csmX	Chlorosome protein X
-ss00438	FMO	FMO protein
+si_0648	Chlorosome	Chlorosome protein A
+si_0648	Chlorosome	Chlorosome protein B
+si_0648	Chlorosome	Chlorosome protein C
+si_0648	Chlorosome	Chlorosome protein D
+si_0648	Chlorosome	Chlorosome protein E
+si_0648	Chlorosome	Chlorosome protein F
+si_0648	Chlorosome	Chlorosome protein H
+si_0648	Chlorosome	Chlorosome protein I, 2Fe-2S ferredoxin
+si_0648	Chlorosome	Chlorosome protein J, 2Fe-2S ferredoxin
+si_0648	Chlorosome	Chlorosome protein X

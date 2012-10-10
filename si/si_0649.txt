@@ -1,24 +1,24 @@
-ss00002	APCac	Allophycocyanin alpha chain
-ss00002	APCbc	Allophycocyanin beta chain
-ss00002	APCB	Allophycocyanin-B
-ss00002	PCC	Phycobilisome core component
-ss00002	LCM	Phycobilisome core-membrane linker polypeptide
-ss00002	LC	Phycobilisome small core linker polypeptide
-ss00002	PCac	Phycocyanin alpha chain
-ss00002	PCbc	Phycocyanin beta chain
-ss00002	LRsm	Phycobilisome small rod capping linker polypeptide, phycocyanin-associated
-ss00002	LRpc	Phycobilisome rod linker polypeptide, phycocyanin-associated
-ss00002	PLas	Phycocyanobilin lyase alpha subunit
-ss00002	PLbs	Phycocyanobilin lyase beta subunit
-ss00002	LRCpc	Phycobilisome rod-core linker polypeptide, phycocyanin-associated
-ss00002	PEac	Phycoerythrin alpha chain
-ss00002	PEbc	Phycoerythrin beta chain
-ss00002	LPEgc	Phycoerythrin gamma chain linker polypeptide
-ss00002	LPE	Phycobilisome phycoerythrin-associated linker polypeptide
-ss00002	LCpeS	Phycoerythrin linker protein CpeS homolog
-ss00002	LCpeR	CpeR homolog, phycoerythrin linker-proteins region
-ss00002	PECac	Phycoerythrocyanin alpha chain
-ss00002	PECbc	Phycoerythrocyanin beta chain
-ss00002	LRpec	Phycobilisome rod linker polypeptide, phycoerythrocyanin-associated
-ss00002	NblA	Phycobilisome degradation protein NblA
-ss00002	NblB	Phycocyanin alpha phycocyanobilin lyase related protein NblB
+si_0649	Phycobilisome	Allophycocyanin alpha chain
+si_0649	Phycobilisome	Allophycocyanin beta chain
+si_0649	Phycobilisome	Allophycocyanin-B
+si_0649	Phycobilisome	Phycobilisome core component
+si_0649	Phycobilisome	Phycobilisome core-membrane linker polypeptide
+si_0649	Phycobilisome	Phycobilisome small core linker polypeptide
+si_0649	Phycobilisome	Phycocyanin alpha chain
+si_0649	Phycobilisome	Phycocyanin beta chain
+si_0649	Phycobilisome	Phycobilisome small rod capping linker polypeptide, phycocyanin-associated
+si_0649	Phycobilisome	Phycobilisome rod linker polypeptide, phycocyanin-associated
+si_0649	Phycobilisome	Phycocyanobilin lyase alpha subunit
+si_0649	Phycobilisome	Phycocyanobilin lyase beta subunit
+si_0649	Phycobilisome	Phycobilisome rod-core linker polypeptide, phycocyanin-associated
+si_0649	Phycobilisome	Phycoerythrin alpha chain
+si_0649	Phycobilisome	Phycoerythrin beta chain
+si_0649	Phycobilisome	Phycoerythrin gamma chain linker polypeptide
+si_0649	Phycobilisome	Phycobilisome phycoerythrin-associated linker polypeptide
+si_0649	Phycobilisome	Phycoerythrin linker protein CpeS homolog
+si_0649	Phycobilisome	CpeR homolog, phycoerythrin linker-proteins region
+si_0649	Phycobilisome	Phycoerythrocyanin alpha chain
+si_0649	Phycobilisome	Phycoerythrocyanin beta chain
+si_0649	Phycobilisome	Phycobilisome rod linker polypeptide, phycoerythrocyanin-associated
+si_0649	Phycobilisome	Phycobilisome degradation protein NblA
+si_0649	Phycobilisome	Phycocyanin alpha phycocyanobilin lyase related protein NblB

@@ -1,0 +1,13 @@
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoylalanyl-D-glutamate--L,L-2,6-diaminopimelate ligase
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoylalanyl-D-glutamate--L-ornithine ligase
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoylalanyl-D-glutamate--L-diaminobutyrate ligase
+si_0207	Peptidoglycan_biosynthesis--gjo	D-alanine--D-alanine ligase (EC 6.3.2.4)
+si_0207	Peptidoglycan_biosynthesis--gjo	D-alanine--D-alanine ligase A (EC 6.3.2.4)
+si_0207	Peptidoglycan_biosynthesis--gjo	D-alanine--D-alanine ligase B (EC 6.3.2.4)
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+si_0207	Peptidoglycan_biosynthesis--gjo	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)

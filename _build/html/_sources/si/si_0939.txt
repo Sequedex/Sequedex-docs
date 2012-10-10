@@ -1,21 +1,20 @@
-ss00277	CmeA	RND efflux system, membrane fusion protein CmeA
-ss00277	CmeB	RND efflux system, inner membrane transporter CmeB
-ss00277	CmeC	RND efflux system, outer membrane lipoprotein CmeC
-ss00277	AcrR	Transcription repressor of multidrug efflux pump acrAB operon, TetR (AcrR) family
-ss00277	TetR	Transcription regulator of multidrug efflux pump operon, TetR (AcrR) family
-ss00277	Reg	Probable transcription regulator protein of MDR efflux pump cluster
-ss00277	NorM	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
-ss00277	MFS	Multidrug-efflux transporter, major facilitator superfamily (MFS) (TC 2.A.1)
-ss00277	VNT	Vesicular neurotransmitter transporter
-ss00277	MacA	Macrolide-specific efflux protein MacA
-ss00277	MacB	Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)
-ss00277	OML	RND efflux system, outer membrane lipoprotein, NodT family
-ss00277	TolC_14	Type I secretion outer membrane protein, TolC precursor
-ss00277	MtrF	Multidrug efflux pump component MtrF
-ss00277	RND	Membrane fusion protein of RND family multidrug efflux pump
-ss00277	AcrB	Acriflavin resistance protein
-ss00277	OM	Probable outer membrane component of multidrug efflux pump
-ss00277	MexD	Multidrug efflux RND transporter MexD
-ss00277	MexC	Multidrug efflux RND membrane fusion protein MexC
-ss00277	NfxB	Transcriptional regulator NfxB
-ss00277	PmrA	Multidrug resistance efflux pump PmrA
+si_0939	Multidrug_Resistance_Efflux_Pumps	Acriflavin resistance protein
+si_0939	Multidrug_Resistance_Efflux_Pumps	Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)
+si_0939	Multidrug_Resistance_Efflux_Pumps	Macrolide-specific efflux protein MacA
+si_0939	Multidrug_Resistance_Efflux_Pumps	Membrane fusion protein of RND family multidrug efflux pump
+si_0939	Multidrug_Resistance_Efflux_Pumps	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+si_0939	Multidrug_Resistance_Efflux_Pumps	Multidrug efflux RND membrane fusion protein MexC
+si_0939	Multidrug_Resistance_Efflux_Pumps	Multidrug efflux RND transporter MexD
+si_0939	Multidrug_Resistance_Efflux_Pumps	Multidrug efflux pump component MtrF
+si_0939	Multidrug_Resistance_Efflux_Pumps	Multidrug resistance efflux pump PmrA
+si_0939	Multidrug_Resistance_Efflux_Pumps	Multidrug-efflux transporter, major facilitator superfamily (MFS) (TC 2.A.1)
+si_0939	Multidrug_Resistance_Efflux_Pumps	Probable outer membrane component of multidrug efflux pump
+si_0939	Multidrug_Resistance_Efflux_Pumps	Probable transcription regulator protein of MDR efflux pump cluster
+si_0939	Multidrug_Resistance_Efflux_Pumps	RND efflux system, inner membrane transporter CmeB
+si_0939	Multidrug_Resistance_Efflux_Pumps	RND efflux system, membrane fusion protein CmeA
+si_0939	Multidrug_Resistance_Efflux_Pumps	RND efflux system, outer membrane lipoprotein CmeC
+si_0939	Multidrug_Resistance_Efflux_Pumps	RND efflux system, outer membrane lipoprotein, NodT family
+si_0939	Multidrug_Resistance_Efflux_Pumps	Transcription regulator of multidrug efflux pump operon, TetR (AcrR) family
+si_0939	Multidrug_Resistance_Efflux_Pumps	Transcription repressor of multidrug efflux pump acrAB operon, TetR (AcrR) family
+si_0939	Multidrug_Resistance_Efflux_Pumps	Transcriptional regulator NfxB
+si_0939	Multidrug_Resistance_Efflux_Pumps	Type I secretion outer membrane protein, TolC precursor

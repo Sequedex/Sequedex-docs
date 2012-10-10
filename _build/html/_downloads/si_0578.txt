@@ -1,40 +1,39 @@
-ss00782	CephHydro	Cephalosporin hydroxylase
-ss00782	TyrP	Tyrosine-specific transport protein
-ss00782	MsbA	Lipid A export ATP-binding/permease protein MsbA
-ss00782	MitProt	Mitochondrial processing peptidase-like protein (EC 3.4.24.64)
-ss00782	Igt	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)
-ss00782	PtsP	Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
-ss00782	DUF81	Protein of unknown function DUF81
-ss00782	PRRDC	Pole remodelling regulatory diguanylate cyclase
-ss00782	PerM	Putative permease PerM (= YfgO)
-ss00782	PurZZZ	Putative permease often clustered with de novo purine synthesis
-ss00782	AstP	Proton/aspartate symport protein
-ss00782	GltP	Proton/glutamate symport protein
-ss00782	GltS	Sodium/glutamate symport protein
-ss00782	Pyrase	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
-ss00782	YegD	Putative heat shock protein YegD
-ss00782	TM0445	Putative GTP-binding protien TM0445
-ss00782	MurJ	Proposed peptidoglycan lipid II flippase MurJ
-ss00782	YceH	Protein of unknown function YceH
-ss00782	MviM	Virulence factor MviM
-ss00782	YceL	MFS superfamily export protein YceL
-ss00782	PduAJ	Microcompartment protein protein similar to PduA/PduJ
-ss00782	PduO-f	Cob(I)alamin adenosyltransferase fragment
-ss00782	Pcs	Phosphatidylcholine synthase (EC 2.7.8.24)
-ss00782	PM-MT	Phosphatidyl-N-methylethanolamine N-methyltransferase (EC 2.1.1.71)
-ss00782	PD-MT	Phosphatidyl-N-dimethylethanolamine N-methyltransferase (EC 2.1.1.71)
-ss00782	pth-2	Peptidyl-tRNA hydrolase, archaeal type (EC 3.1.1.29)
-ss00782	RNaseL-inhib	RNase L inhibitor
-ss00782	OBG	GTP-binding protein, gtp1/obg family
-ss00782	RBG1	GTP-binding protein RBG1
-ss00782	Kinase	AMP/CMP kinase AK6
-ss00782	PP2054	LysR family transcriptional regulator clustered with dicarboxylate transport
-ss00782	YokF	Phage-encoded chromosome degrading nuclease YokF
-ss00782	Qor	Quinone oxidoreductase (EC 1.6.5.5)
-ss00782	NotQor	probably not quinone oxidoreductase
-ss00782	hao	Hydroxylamine oxidoreductase precursor (EC 1.7.3.4)
-ss00782	YfcA	Putative membrane protein YfcA
-ss00782	Nha	Na+/H+ antiporter
-ss00782	NhaB	Na+/H+ antiporter NhaB
-ss00782	CsaA	Protein secretion chaperonin CsaA
-ss00782	TAP	Transcription accessory protein (S1 RNA-binding domain)
+si_0578	ZZ_gjo_need_homes	AMP/CMP kinase AK6
+si_0578	ZZ_gjo_need_homes	Cephalosporin hydroxylase
+si_0578	ZZ_gjo_need_homes	Cob(I)alamin adenosyltransferase fragment
+si_0578	ZZ_gjo_need_homes	GTP-binding protein RBG1
+si_0578	ZZ_gjo_need_homes	GTP-binding protein, gtp1/obg family
+si_0578	ZZ_gjo_need_homes	Hydroxylamine oxidoreductase precursor (EC 1.7.3.4)
+si_0578	ZZ_gjo_need_homes	Lipid A export ATP-binding/permease protein MsbA
+si_0578	ZZ_gjo_need_homes	LysR family transcriptional regulator clustered with dicarboxylate transport
+si_0578	ZZ_gjo_need_homes	MFS superfamily export protein YceL
+si_0578	ZZ_gjo_need_homes	Microcompartment protein protein similar to PduA/PduJ
+si_0578	ZZ_gjo_need_homes	Mitochondrial processing peptidase-like protein (EC 3.4.24.64)
+si_0578	ZZ_gjo_need_homes	Na+/H+ antiporter
+si_0578	ZZ_gjo_need_homes	Na+/H+ antiporter NhaB
+si_0578	ZZ_gjo_need_homes	Peptidyl-tRNA hydrolase, archaeal type (EC 3.1.1.29)
+si_0578	ZZ_gjo_need_homes	Phage-encoded chromosome degrading nuclease YokF
+si_0578	ZZ_gjo_need_homes	Phosphatidyl-N-methylethanolamine N-methyltransferase (EC 2.1.1.71)
+si_0578	ZZ_gjo_need_homes	Phosphatidylcholine synthase (EC 2.7.8.24)
+si_0578	ZZ_gjo_need_homes	Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+si_0578	ZZ_gjo_need_homes	Pole remodelling regulatory diguanylate cyclase
+si_0578	ZZ_gjo_need_homes	Proposed peptidoglycan lipid II flippase MurJ
+si_0578	ZZ_gjo_need_homes	Protein of unknown function DUF81
+si_0578	ZZ_gjo_need_homes	Protein of unknown function DUF81, type 2
+si_0578	ZZ_gjo_need_homes	Protein of unknown function YceH
+si_0578	ZZ_gjo_need_homes	Protein secretion chaperonin CsaA
+si_0578	ZZ_gjo_need_homes	Proton/aspartate symport protein
+si_0578	ZZ_gjo_need_homes	Proton/glutamate symport protein
+si_0578	ZZ_gjo_need_homes	Putative GTP-binding protien TM0445
+si_0578	ZZ_gjo_need_homes	Putative heat shock protein YegD
+si_0578	ZZ_gjo_need_homes	Putative membrane protein YfcA
+si_0578	ZZ_gjo_need_homes	Putative permease PerM (= YfgO)
+si_0578	ZZ_gjo_need_homes	Putative permease often clustered with de novo purine synthesis
+si_0578	ZZ_gjo_need_homes	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+si_0578	ZZ_gjo_need_homes	Quinone oxidoreductase (EC 1.6.5.5)
+si_0578	ZZ_gjo_need_homes	RNase L inhibitor
+si_0578	ZZ_gjo_need_homes	Sodium/glutamate symport protein
+si_0578	ZZ_gjo_need_homes	Transcription accessory protein (S1 RNA-binding domain)
+si_0578	ZZ_gjo_need_homes	Tyrosine-specific transport protein
+si_0578	ZZ_gjo_need_homes	Uncharacterized ATP-dependent helicase MJ0294
+si_0578	ZZ_gjo_need_homes	Virulence factor MviM

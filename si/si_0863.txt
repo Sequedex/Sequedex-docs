@@ -1,0 +1,5 @@
+si_0863	Glutathionylspermidine_and_Trypanothione	Glutathionylspermidine amidohydrolase (EC 3.5.1.78)
+si_0863	Glutathionylspermidine_and_Trypanothione	Glutathionylspermidine synthase (EC 6.3.1.8)
+si_0863	Glutathionylspermidine_and_Trypanothione	Similarity with glutathionylspermidine synthase (EC 6.3.1.8), group 1
+si_0863	Glutathionylspermidine_and_Trypanothione	Similarity with glutathionylspermidine synthase (EC 6.3.1.8), group 2
+si_0863	Glutathionylspermidine_and_Trypanothione	Uncharacterized GST-like protein yghU associated with glutathionylspermidine synthetase/amidase

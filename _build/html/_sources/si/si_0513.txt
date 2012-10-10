@@ -1,0 +1,15 @@
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	6 kDa early secretory antigenic target ESAT-6 (EsxA)
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	10 kDa culture filtrate antigen CFP-10 (EsxB)
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	FtsK/SpoIIIE family protein Rv3870, component of ESX-1 secretion system
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	FtsK/SpoIIIE family protein Rv3871, component of ESX-1 secretion system
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	AAA family ATPase, ESX-1 secretion system component Rv3868
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	Putative ESX-1 secretion system component Rv3869
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	Putative ESX-1 secretion system gating protein PPE68
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	Protein PE35, involved in regulation of esxAB expression
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	RD1 region associated protein Rv3865
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	RD1 region associated protein Rv3866
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	RD1 region associated protein Rv3867
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	RD1 region associated protein Rv3876
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	Putative ESX-1 secretion system component Rv3877
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	RD1 region associated protein Rv3878
+si_0513	ESAT-6_proteins_secretion_system_in_Actinobacteria	RD1 region associated protein Rv3879c

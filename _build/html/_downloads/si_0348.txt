@@ -1,11 +1,3 @@
-ss00694	R1	ATP/GTP-binding site motif A
-ss00694	R2	Endoribonuclease L-PSP
-ss00694	R3	COGs COG3146
-ss00694	R4	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
-ss00694	R5	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
-ss00694	R6	Ribosome recycling factor
-ss00694	R7	Translation elongation factor Ts
-ss00694	R8	SSU ribosomal protein S2p (SAe)
-ss00694	R9	Uridylate kinase (EC 2.7.4.-)
-ss00694	R10	ATP-dependent Clp protease ATP-binding subunit ClpA
-ss00694	R11	Histidine triad (HIT) protein
+si_0348	USS-DB-4	Transcriptional regulator, TetR (AcrR) family [USSDB4A]
+si_0348	USS-DB-4	Efflux system membrane fusion protein [USSDB4B]
+si_0348	USS-DB-4	Multidrug efflux transporter [USSDB4C]

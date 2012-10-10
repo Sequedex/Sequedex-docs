@@ -1,15 +1,44 @@
-ss00798	Dus1	tRNA-dihydrouridine synthase 1 (EC 1.-.-.-) modifies uridine residues at position 16 and 17 of cytoplasmic tRNAs
-ss00798	Dus2	tRNA-dihydrouridine synthase 2 (EC 1.-.-.-) modifies uridine residues at position 20 of cytoplasmic tRNAs
-ss00798	Trm1	tRNA N2,N2-dimethyl(Guanine26-N2)-methyltransferase (EC 2.1.1.32)
-ss00798	Pus2	tRNA pseudouridine synthase 2 (EC 5.4.99.-) modifies position27/28 in mitochondrial tRNA
-ss00798	Pus9	Pseudouridylate synthase 9 (EC 5.4.99.-) responsible for modification ofmitochondrial tRNAs at position 32
-ss00798	Pus6	Pseudouridylate synthase 6 (EC 5.4.99.-) responsible for modification of cytoplasmic and mitochondrial tRNAs at position 31
-ss00798	MTU1	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
-ss00798	MTO1	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
-ss00798	MSS1	GTPase and tRNA-U34 5-formylation enzyme TrmE
-ss00798	Mod5	tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
-ss00798	trm5	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
-ss00798	t6A	Sua5 YciO YrdC YwlC family protein
-ss00798	Pus3	tRNA pseudouridine synthase A (EC 4.2.1.70)
-ss00798	trm2	tRNA (Uracil54-C5-)-methyltransferase (EC 2.1.1.35)
-ss00798	pus4	tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+si_0738	tRNA_modification_Archaea	5-carboxymethyl uridine and 5-carboxymethyl 2-thiouridine methyltransferase
+si_0738	tRNA_modification_Archaea	Alanyl-tRNA synthetase domain protein
+si_0738	tRNA_modification_Archaea	Archease
+si_0738	tRNA_modification_Archaea	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+si_0738	tRNA_modification_Archaea	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+si_0738	tRNA_modification_Archaea	COG1355, Predicted dioxygenase
+si_0738	tRNA_modification_Archaea	COG1720: Uncharacterized conserved protein
+si_0738	tRNA_modification_Archaea	COG2078: Uncharacterized ACR
+si_0738	tRNA_modification_Archaea	COG3269, Predicted RNA-binding protein, contains TRAM domain
+si_0738	tRNA_modification_Archaea	Cysteine desulfurase (EC 2.8.1.7)
+si_0738	tRNA_modification_Archaea	Cysteine desulfurase (EC 2.8.1.7), IscS subfamily
+si_0738	tRNA_modification_Archaea	Cysteine desulfurase (EC 2.8.1.7), NifS subfamily
+si_0738	tRNA_modification_Archaea	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily
+si_0738	tRNA_modification_Archaea	Cysteine desulfurase CsdA-CsdE (EC 2.8.1.7), main protein CsdA
+si_0738	tRNA_modification_Archaea	GTP-binding protein Era
+si_0738	tRNA_modification_Archaea	Hypothetical ATP-binding protein, containing DUF265 domain
+si_0738	tRNA_modification_Archaea	Iron-sulfur cluster assembly scaffold protein IscU
+si_0738	tRNA_modification_Archaea	Methylthioadenosine deaminase
+si_0738	tRNA_modification_Archaea	PUA-PAPS reductase like fusion
+si_0738	tRNA_modification_Archaea	Predicted N6-adenine-specific RNA methylase containing THUMP domain
+si_0738	tRNA_modification_Archaea	Predicted P-loop ATPase fused to an acetyltransferase COG1444
+si_0738	tRNA_modification_Archaea	Predicted methyltransferase, DUF43 family
+si_0738	tRNA_modification_Archaea	Protein RtcB
+si_0738	tRNA_modification_Archaea	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+si_0738	tRNA_modification_Archaea	Rhodanese-like domain protein
+si_0738	tRNA_modification_Archaea	Thiamine biosynthesis protein thiI
+si_0738	tRNA_modification_Archaea	TilS-like 3
+si_0738	tRNA_modification_Archaea	TtuB
+si_0738	tRNA_modification_Archaea	YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
+si_0738	tRNA_modification_Archaea	archaeal ATPase, fused to C-terminal DUF234 domain
+si_0738	tRNA_modification_Archaea	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 1
+si_0738	tRNA_modification_Archaea	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+si_0738	tRNA_modification_Archaea	tRNA (Uracil54-C5-)-methyltransferase (EC 2.1.1.35)
+si_0738	tRNA_modification_Archaea	tRNA (adenine57/58-N1)-methyltransferase (EC 2.1.1.36)
+si_0738	tRNA_modification_Archaea	tRNA and rRNA cytosine-C5-methylase Type 1
+si_0738	tRNA_modification_Archaea	tRNA dihydrouridine synthase B (EC 1.-.-.-)
+si_0738	tRNA_modification_Archaea	tRNA m5C48-49 methylase
+si_0738	tRNA_modification_Archaea	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+si_0738	tRNA_modification_Archaea	tRNA pseudouridine synthase A (EC 4.2.1.70)
+si_0738	tRNA_modification_Archaea	tRNA(Cytosine32)-2-thiocytidine synthetase
+si_0738	tRNA_modification_Archaea	tRNA(U54)-2-thioribothymidine synthetase
+si_0738	tRNA_modification_Archaea	tRNA-i(6)A37 methylthiotransferase
+si_0738	tRNA_modification_Archaea	tRNA/RNA cytosine-C5-methylase (EC 2.1.1.-)
+si_0738	tRNA_modification_Archaea	tRNA:Cm32/Um32 methyltransferase

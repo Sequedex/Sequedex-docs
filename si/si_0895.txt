@@ -1,0 +1,4 @@
+si_0895	&#945;-Fimbriae	Alpha-fimbriae chaperone protein
+si_0895	&#945;-Fimbriae	Alpha-fimbriae major subunit
+si_0895	&#945;-Fimbriae	Alpha-fimbriae usher protein
+si_0895	&#945;-Fimbriae	Alpha-fimbriae tip adhesin

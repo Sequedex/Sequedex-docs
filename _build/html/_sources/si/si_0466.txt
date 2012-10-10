@@ -1,0 +1,3 @@
+si_0466	Iron_siderophore_sensor_&_receptor_system	FIG006045: Sigma factor, ECF subfamily
+si_0466	Iron_siderophore_sensor_&_receptor_system	Iron siderophore sensor protein
+si_0466	Iron_siderophore_sensor_&_receptor_system	Iron siderophore receptor protein

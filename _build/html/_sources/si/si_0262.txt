@@ -1,17 +1,17 @@
-ss00726	R1	Transmembrane regulator protein PrtR
-ss00726	R2	RNA polymerase sigma-54 factor RpoN
-ss00726	R3	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
-ss00726	R4	RNA polymerase sigma-E factor
-ss00726	R5	putative RNA polymerase sigma factor
-ss00726	R6	ECF sigma factor
-ss00726	R7	rna synthesis, modification , dna transcription
-ss00726	R8	macromolecule metabolism
-ss00726	R9	macromolecule synthesis, modification
-ss00726	R10	RNA polymerase sigma-70 factor, ECF subfamily
-ss00726	R11	ECF sigma factor PrtI, putative
-ss00726	R12	probable extracytoplasmic sigma factor EcfR
-ss00726	R13	RNA polymerase sigma-70 factor, ECF family
-ss00726	R14	Sigma-70 region 2:Sigma-70 region 4
-ss00726	R15	ECF family sigma factor
-ss00726	R16	extracytoplasmic sigma factor EcfR
-ss00726	R17	RNA polymerase sigma-70 factor
+si_0262	CBSS-316057.3.peg.1308	Transmembrane regulator protein PrtR
+si_0262	CBSS-316057.3.peg.1308	RNA polymerase sigma-54 factor RpoN
+si_0262	CBSS-316057.3.peg.1308	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+si_0262	CBSS-316057.3.peg.1308	RNA polymerase sigma-E factor
+si_0262	CBSS-316057.3.peg.1308	putative RNA polymerase sigma factor
+si_0262	CBSS-316057.3.peg.1308	ECF sigma factor
+si_0262	CBSS-316057.3.peg.1308	rna synthesis, modification , dna transcription
+si_0262	CBSS-316057.3.peg.1308	macromolecule metabolism
+si_0262	CBSS-316057.3.peg.1308	macromolecule synthesis, modification
+si_0262	CBSS-316057.3.peg.1308	RNA polymerase sigma-70 factor, ECF subfamily
+si_0262	CBSS-316057.3.peg.1308	ECF sigma factor PrtI, putative
+si_0262	CBSS-316057.3.peg.1308	probable extracytoplasmic sigma factor EcfR
+si_0262	CBSS-316057.3.peg.1308	RNA polymerase sigma-70 factor, ECF family
+si_0262	CBSS-316057.3.peg.1308	Sigma-70 region 2:Sigma-70 region 4
+si_0262	CBSS-316057.3.peg.1308	ECF family sigma factor
+si_0262	CBSS-316057.3.peg.1308	extracytoplasmic sigma factor EcfR
+si_0262	CBSS-316057.3.peg.1308	RNA polymerase sigma-70 factor

@@ -1,0 +1,6 @@
+si_0523	Citrate_Utilization_System_(CitAB,_CitH,_and_tctABC)	Signal transduction histidine kinase CitA regulating citrate metabolism
+si_0523	Citrate_Utilization_System_(CitAB,_CitH,_and_tctABC)	Response regulator CitB of citrate metabolism
+si_0523	Citrate_Utilization_System_(CitAB,_CitH,_and_tctABC)	CitH citrate transporter
+si_0523	Citrate_Utilization_System_(CitAB,_CitH,_and_tctABC)	TctC citrate transporter
+si_0523	Citrate_Utilization_System_(CitAB,_CitH,_and_tctABC)	TctB citrate transporter
+si_0523	Citrate_Utilization_System_(CitAB,_CitH,_and_tctABC)	TctA citrate transporter

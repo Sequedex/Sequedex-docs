@@ -1,0 +1,7 @@
+si_0451	Polyunsaturated_Fatty_Acids_synthesis	omega-3 polyunsaturated fatty acid synthase subunit, PfaA
+si_0451	Polyunsaturated_Fatty_Acids_synthesis	omega-3 polyunsaturated fatty acid synthase subunit, PfaB
+si_0451	Polyunsaturated_Fatty_Acids_synthesis	omega-3 polyunsaturated fatty acid synthase subunit, PfaC
+si_0451	Polyunsaturated_Fatty_Acids_synthesis	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9), inferred for PFA pathway
+si_0451	Polyunsaturated_Fatty_Acids_synthesis	4'-phosphopantetheinyl transferase (EC 2.7.8.-), inferred for PFA pathway
+si_0451	Polyunsaturated_Fatty_Acids_synthesis	putative transcriptional regulator, inferred for PFA pathway
+si_0451	Polyunsaturated_Fatty_Acids_synthesis	omega-3 polyunsaturated fatty acid synthase module PfaB/C

@@ -1,4 +1,4 @@
-ss00193	YfkJ	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
-ss00193	YfkI	Hypothetical protein YfkI
-ss00193	YfkH	Ribonuclease BN (EC 3.1.-.-)
-ss00193	YfkK	Hypothetical protein YfkK
+si_0338	LMPTP_YfkJ_cluster	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+si_0338	LMPTP_YfkJ_cluster	Hypothetical protein YfkI
+si_0338	LMPTP_YfkJ_cluster	Ribonuclease BN (EC 3.1.-.-)
+si_0338	LMPTP_YfkJ_cluster	Hypothetical protein YfkK

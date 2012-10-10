@@ -1,0 +1,3 @@
+si_0717	Ubiquitin-like_archaeal_modifier_proteins_(SAMPs)	Ubiquitin-like small archaeal modifier protein SAMP1
+si_0717	Ubiquitin-like_archaeal_modifier_proteins_(SAMPs)	Ubiquitin-like small archaeal modifier protein SAMP2
+si_0717	Ubiquitin-like_archaeal_modifier_proteins_(SAMPs)	HesA/MoeB/ThiF family protein, possibly E1-enzyme activating SAMPs for protein conjugation

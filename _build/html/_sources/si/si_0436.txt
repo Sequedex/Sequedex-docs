@@ -1,0 +1,4 @@
+si_0436	Persister_Cells	HipA protein
+si_0436	Persister_Cells	HipB protein
+si_0436	Persister_Cells	Ribosome modulation factor
+si_0436	Persister_Cells	Cell division inhibitor

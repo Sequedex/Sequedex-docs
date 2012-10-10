@@ -1,0 +1,6 @@
+si_0782	Rcs_phosphorelay_signal_transduction_pathway	Colanic acid capsular biosynthesis activation accesory protein RcsA, co-regulator with RcsB
+si_0782	Rcs_phosphorelay_signal_transduction_pathway	Two-component sensor protein RcsD (EC 2.7.3.-)
+si_0782	Rcs_phosphorelay_signal_transduction_pathway	DNA-binding capsular synthesis response regulator RcsB
+si_0782	Rcs_phosphorelay_signal_transduction_pathway	Two-component sensor protein RcsC (EC 2.7.3.-)
+si_0782	Rcs_phosphorelay_signal_transduction_pathway	Protein RcsF
+si_0782	Rcs_phosphorelay_signal_transduction_pathway	DnaJ-like protein DjlA

@@ -1,9 +1,9 @@
-ss00099	RTPN	Purine nucleoside phosphorylase (EC 2.4.2.1)
-ss00099	MTAN	5'-methylthioadenosine nucleosidase (EC 3.2.2.16)
-ss00099	SAHN	S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
-ss00099	BA2564	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein BA2564
-ss00099	BCZK2595	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein BCZK2595
-ss00099	BCZK2594	hydrolase, haloacid dehalogenase-like family protein BCZK2594
-ss00099	BT1702	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein BT9727_1702
-ss00099	VF1653	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein VF1653
-ss00099	Bcep3774	hypothetical protein Bcep3774, commonly clustered with carotenoid biosynthesis
+si_0611	Adenosyl_nucleosidases	Purine nucleoside phosphorylase (EC 2.4.2.1)
+si_0611	Adenosyl_nucleosidases	5'-methylthioadenosine nucleosidase (EC 3.2.2.16)
+si_0611	Adenosyl_nucleosidases	S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+si_0611	Adenosyl_nucleosidases	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein BA2564
+si_0611	Adenosyl_nucleosidases	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein BCZK2595
+si_0611	Adenosyl_nucleosidases	hydrolase, haloacid dehalogenase-like family protein BCZK2594
+si_0611	Adenosyl_nucleosidases	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein BT9727_1702
+si_0611	Adenosyl_nucleosidases	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein VF1653
+si_0611	Adenosyl_nucleosidases	hypothetical protein Bcep3774, commonly clustered with carotenoid biosynthesis

@@ -1,0 +1,5 @@
+si_0873	Commensurate_regulon_activation	Multiple antibiotic resistance protein MarA
+si_0873	Commensurate_regulon_activation	Right origin-binding protein
+si_0873	Commensurate_regulon_activation	Regulatory protein SoxS
+si_0873	Commensurate_regulon_activation	Transcriptional regulator YkgA
+si_0873	Commensurate_regulon_activation	Transcriptional activator RamA

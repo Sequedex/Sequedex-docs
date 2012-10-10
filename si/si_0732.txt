@@ -1,13 +1,2 @@
-ss00251	RNaseI	Ribonuclease I precursor (EC 3.1.27.6)
-ss00251	ExoII	Exoribonuclease II (EC 3.1.13.1)
-ss00251	RNaseIII	Ribonuclease III (EC 3.1.26.3)
-ss00251	RNaseR	3'-to-5' exoribonuclease RNase R
-ss00251	RNaseG	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
-ss00251	RNaseE	Ribonuclease E (EC 3.1.26.12)
-ss00251	RraA	Ribonuclease E inhibitor RraA
-ss00251	RraB	Ribonuclease E inhibitor RraB
-ss00251	Orn	3'-to-5' oligoribonuclease (orn)
-ss00251	NrnA	FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type
-ss00251	NrnB	3'-to-5' oligoribonuclease B, Bacillus type
-ss00251	Ppe	FIG146085: 3-to-5 oligoribonuclease A, Bacillus type
-ss00251	RbfA	Ribosome-binding factor A
+si_0732	Ribosome_biogenesis_archaeal	Fibrillarin
+si_0732	Ribosome_biogenesis_archaeal	rRNA biogenesis protein Nop5/Nop56

@@ -1,7 +1,7 @@
-ss00262	ModA	Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1)
-ss00262	ModB	Molybdenum transport system permease protein ModB (TC 3.A.1.8.1)
-ss00262	ModC	Molybdenum transport ATP-binding protein ModC (TC 3.A.1.8.1)
-ss00262	ModD	Molybdenum transport system protein ModD
-ss00262	ModE_N	DNA-binding domain of ModE
-ss00262	ModE_C	Molybdate-binding domain of ModE
-ss00262	YvgK	Predicted molybdate-responsive regulator YvgK in bacilli
+si_0528	Transport_of_Molybdenum	Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1)
+si_0528	Transport_of_Molybdenum	Molybdenum transport system permease protein ModB (TC 3.A.1.8.1)
+si_0528	Transport_of_Molybdenum	Molybdenum transport ATP-binding protein ModC (TC 3.A.1.8.1)
+si_0528	Transport_of_Molybdenum	Molybdenum transport system protein ModD
+si_0528	Transport_of_Molybdenum	DNA-binding domain of ModE
+si_0528	Transport_of_Molybdenum	Molybdate-binding domain of ModE
+si_0528	Transport_of_Molybdenum	Predicted molybdate-responsive regulator YvgK in bacilli

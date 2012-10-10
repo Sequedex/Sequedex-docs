@@ -1,0 +1,7 @@
+si_0953	Cytolethal_distending_toxins	Cytolethal distending toxin subunit B
+si_0953	Cytolethal_distending_toxins	Cytolethal distending toxin subunit A
+si_0953	Cytolethal_distending_toxins	Cytolethal distending toxin subunit C
+si_0953	Cytolethal_distending_toxins	Virulence protein MsgA
+si_0953	Cytolethal_distending_toxins	Putative outer membrane virulence protein PhoP
+si_0953	Cytolethal_distending_toxins	Putative pertussis-like toxin subunit PtlA (EC 2.4.2.-)
+si_0953	Cytolethal_distending_toxins	Putative pertussis-like toxin subunit PtlB

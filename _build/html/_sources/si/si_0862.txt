@@ -1,0 +1,11 @@
+si_0862	Glutathione_analogs:_mycothiol	Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD
+si_0862	Glutathione_analogs:_mycothiol	Formaldehyde dehydrogenase MscR, NAD/mycothiol-dependent (EC 1.2.1.66)
+si_0862	Glutathione_analogs:_mycothiol	Glycosyltransferase MshA involved in mycothiol biosynthesis (EC 2.4.1.-)
+si_0862	Glutathione_analogs:_mycothiol	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC
+si_0862	Glutathione_analogs:_mycothiol	Maleylpyruvate isomerase, mycothiol-dependent (EC 5.2.1.4)
+si_0862	Glutathione_analogs:_mycothiol	Mycothiol S-conjugate amidase Mca
+si_0862	Glutathione_analogs:_mycothiol	N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase MshB
+si_0862	Glutathione_analogs:_mycothiol	NADPH-dependent mycothiol reductase Mtr
+si_0862	Glutathione_analogs:_mycothiol	Putative hydrolase in cluster with formaldehyde/S-nitrosomycothiol reductase MscR
+si_0862	Glutathione_analogs:_mycothiol	S-nitrosomycothiol reductase MscR
+si_0862	Glutathione_analogs:_mycothiol	Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene

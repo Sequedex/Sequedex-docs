@@ -1,0 +1,20 @@
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	CcdB toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	CcdA protein (antitoxin to CcdB)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	ParE toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	ParD protein (antitoxin to ParE)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	HigB toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	HigA protein (antitoxin to HigB)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	VapC toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	VapB protein (antitoxin to VapC)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YoeB toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YefM protein (antitoxin to YoeB)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YafQ toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	DNA-damage-inducible protein J
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YeeV toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YeeU protein (antitoxin to YeeV)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YkfI toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YafW protein (antitoxin to YkfI)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YpjF toxin protein
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	YfjZ protein (antitoxin to YpjF)
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	Toxin mRNA interferase YgiU
+si_0760	Toxin-antitoxin_systems_(other_than_RelBE_and_MazEF)	Antitoxin YgiT

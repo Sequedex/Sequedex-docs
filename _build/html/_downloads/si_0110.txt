@@ -1,6 +1,5 @@
-ss00189	UhpC	Hexose phosphate uptake regulatory protein UhpC
-ss00189	UhpB	Sensor histidine protein kinase UhpB, glucose-6-phosphate specific (EC 2.7.13.3)
-ss00189	UhpA	Transcriptional regulatory protein UhpA
-ss00189	UhpT	Hexose phosphate transport protein UhpT
-ss00189	GT_mal	Predicted glucose transporter in maltodextrin utilization gene cluster
-ss00189	GT_bgl	Predicted glucose transporter in b-glucoside utilization gene cluster
+si_0110	Hexose_Phosphate_Uptake_System	Hexose phosphate transport protein UhpT
+si_0110	Hexose_Phosphate_Uptake_System	Hexose phosphate uptake regulatory protein UhpC
+si_0110	Hexose_Phosphate_Uptake_System	Homolog of fucose/glucose/galactose permeases
+si_0110	Hexose_Phosphate_Uptake_System	Sensor histidine protein kinase UhpB, glucose-6-phosphate specific (EC 2.7.13.3)
+si_0110	Hexose_Phosphate_Uptake_System	Transcriptional regulatory protein UhpA

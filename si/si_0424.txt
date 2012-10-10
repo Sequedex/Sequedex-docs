@@ -1,0 +1,3 @@
+si_0424	Natural_DNA_Transformation_in_Vibrio	Extracellular deoxyribonuclease Dns (EC 3.1.21.-)
+si_0424	Natural_DNA_Transformation_in_Vibrio	Extracellular deoxyribonuclease Xds
+si_0424	Natural_DNA_Transformation_in_Vibrio	Positive regulator of competence TfoX

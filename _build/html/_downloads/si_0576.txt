@@ -1,1 +1,1 @@
-ss00529	YaaA	UPF0246 protein YaaA
+si_0576	YaaA	UPF0246 protein YaaA

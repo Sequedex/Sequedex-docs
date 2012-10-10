@@ -1,0 +1,13 @@
+si_0627	Phage_tail_proteins_2	Phage major tail protein
+si_0627	Phage_tail_proteins_2	Phage major tail shaft protein
+si_0627	Phage_tail_proteins_2	Phage minor tail protein
+si_0627	Phage_tail_proteins_2	Phage tail assembly
+si_0627	Phage_tail_proteins_2	Phage tail assembly chaperone
+si_0627	Phage_tail_proteins_2	Phage tail assembly protein
+si_0627	Phage_tail_proteins_2	Phage tail assembly protein I
+si_0627	Phage_tail_proteins_2	Phage tail completion protein
+si_0627	Phage_tail_proteins_2	Phage tail connector
+si_0627	Phage_tail_proteins_2	Phage tail length tape-measure protein
+si_0627	Phage_tail_proteins_2	Phage tail length tape-measure protein 1
+si_0627	Phage_tail_proteins_2	Phage tail sheath monomer
+si_0627	Phage_tail_proteins_2	Phage tape measure

@@ -1,4 +1,4 @@
-ss00337	DinG	ATP-dependent helicase DinG/Rad3
-ss00337	YoaA	DinG family ATP-dependent helicase YoaA
-ss00337	YpvA	DinG family ATP-dependent helicase YpvA
-ss00337	CPE1197	DinG family ATP-dependent helicase CPE1197
+si_0406	DNA_repair,_bacterial_DinG_and_relatives	ATP-dependent helicase DinG/Rad3
+si_0406	DNA_repair,_bacterial_DinG_and_relatives	DinG family ATP-dependent helicase YoaA
+si_0406	DNA_repair,_bacterial_DinG_and_relatives	DinG family ATP-dependent helicase YpvA
+si_0406	DNA_repair,_bacterial_DinG_and_relatives	DinG family ATP-dependent helicase CPE1197

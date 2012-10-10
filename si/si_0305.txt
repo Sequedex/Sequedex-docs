@@ -1,13 +1,13 @@
-ss01002	CD_D	carbon monoxide dehydrogenase D protein
-ss01002	CD_F	Carbon monoxide dehydrogenase F protein
-ss01002	CD_E	carbon monoxide dehydrogenase E protein
-ss01002	CODHs	Carbon monoxide dehydrogenase small chain (EC 1.2.99.2)
-ss01002	CODHm	Carbon monoxide dehydrogenase medium chain (EC 1.2.99.2)
-ss01002	CODHl	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2)
-ss01002	CD_C	carbon monoxide dehydrogenase operon C protein
-ss01002	CODHl1	Carbon monoxide dehydrogenase form I, large chain( EC:1.2.99.2 )
-ss01002	Mob?	Uncharacterized MobA-related protein
-ss01002	TR?	Transcription regulator in CO-DH cluster
-ss01002	???	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) parolog without usual motifs
-ss01002	CODHl?	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) without typical motifs
-ss01002	CODHl2	Carbon-monoxide dehydrogenase form II, large subunit (EC 1.2.99.2)
+si_0305	CBSS-314269.3.peg.1840	carbon monoxide dehydrogenase D protein
+si_0305	CBSS-314269.3.peg.1840	Carbon monoxide dehydrogenase F protein
+si_0305	CBSS-314269.3.peg.1840	carbon monoxide dehydrogenase E protein
+si_0305	CBSS-314269.3.peg.1840	Carbon monoxide dehydrogenase small chain (EC 1.2.99.2)
+si_0305	CBSS-314269.3.peg.1840	Carbon monoxide dehydrogenase medium chain (EC 1.2.99.2)
+si_0305	CBSS-314269.3.peg.1840	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2)
+si_0305	CBSS-314269.3.peg.1840	carbon monoxide dehydrogenase operon C protein
+si_0305	CBSS-314269.3.peg.1840	Carbon monoxide dehydrogenase form I, large chain( EC:1.2.99.2 )
+si_0305	CBSS-314269.3.peg.1840	Uncharacterized MobA-related protein
+si_0305	CBSS-314269.3.peg.1840	Transcription regulator in CO-DH cluster
+si_0305	CBSS-314269.3.peg.1840	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) parolog without usual motifs
+si_0305	CBSS-314269.3.peg.1840	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) without typical motifs
+si_0305	CBSS-314269.3.peg.1840	Carbon-monoxide dehydrogenase form II, large subunit (EC 1.2.99.2)

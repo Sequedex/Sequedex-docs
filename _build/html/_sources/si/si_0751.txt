@@ -1,27 +1,27 @@
-ss00737	RpoD	RNA polymerase sigma factor RpoD
-ss00737	RpoE	RNA polymerase sigma factor RpoE
-ss00737	RseA	Sigma factor RpoE negative regulatory protein RseA
-ss00737	RseB	Sigma factor RpoE negative regulatory protein RseB precursor
-ss00737	RseC	Sigma factor RpoE regulatory protein RseC
-ss00737	MucD	Serine protease precursor MucD/AlgY associated with sigma factor RpoE
-ss00737	SigB	RNA polymerase sigma factor SigB
-ss00737	RpoH	RNA polymerase sigma factor RpoH
-ss00737	RpoH-r	RNA polymerase sigma factor RpoH-related protein
-ss00737	RpoH2	RNA polymerase sigma factor RpoH-related protein RpoH2
-ss00737	RpoH3	RNA polymerase sigma factor RpoH-related protein RpoH3
-ss00737	RpoN	RNA polymerase sigma-54 factor RpoN
-ss00737	RpoS	RNA polymerase sigma factor RpoS
-ss00737	FliA	RNA polymerase sigma factor for flagellar operon
-ss00737	SigE	RNA polymerase sporulation specific sigma factor SigE
-ss00737	SigF	RNA polymerase sporulation specific sigma factor SigF
-ss00737	SigG	RNA polymerase sporulation specific sigma factor SigG
-ss00737	SigH	RNA polymerase sporulation specific sigma factor SigH
-ss00737	SigI	RNA polymerase heat shock sigma factor SigI
-ss00737	SigK	RNA polymerase sporulation specific sigma factor SigK
-ss00737	HrdA	RNA polymerase principal sigma factor HrdA
-ss00737	HrdC	RNA polymerase principal sigma factor HrdC
-ss00737	HrdD	RNA polymerase principal sigma factor HrdD
-ss00737	SigW	RNA polymerase sigma factor SigW
-ss00737	SigV	RNA polymerase sigma factor SigV
-ss00737	SigZ	RNA polymerase sigma factor SigZ
-ss00737	sig70	RNA polymerase sigma-70 factor
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor SigV
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor SigZ
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma-70 factor
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor RpoD
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor RpoE
+si_0751	Transcription_initiation,_bacterial_sigma_factors	Sigma factor RpoE negative regulatory protein RseA
+si_0751	Transcription_initiation,_bacterial_sigma_factors	Sigma factor RpoE negative regulatory protein RseB precursor
+si_0751	Transcription_initiation,_bacterial_sigma_factors	Sigma factor RpoE regulatory protein RseC
+si_0751	Transcription_initiation,_bacterial_sigma_factors	Serine protease precursor MucD/AlgY associated with sigma factor RpoE
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor SigB
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor RpoH
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor RpoH-related protein
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor RpoH-related protein RpoH2
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor RpoH-related protein RpoH3
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma-54 factor RpoN
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor RpoS
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor for flagellar operon
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sporulation specific sigma factor SigE
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sporulation specific sigma factor SigF
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sporulation specific sigma factor SigG
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sporulation specific sigma factor SigH
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase heat shock sigma factor SigI
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sporulation specific sigma factor SigK
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase principal sigma factor HrdA
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase principal sigma factor HrdC
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase principal sigma factor HrdD
+si_0751	Transcription_initiation,_bacterial_sigma_factors	RNA polymerase sigma factor SigW

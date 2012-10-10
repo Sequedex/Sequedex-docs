@@ -1,25 +1,24 @@
-ss00142	GSI	Glutamine synthetase type I (EC 6.3.1.2)
-ss00142	GS_euk	Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)
-ss00142	GSIII	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
-ss00142	GS_cl	Glutamine synthetase, clostridia type (EC 6.3.1.2)
-ss00142	GS_ri	Putative glutamine synthetase, Rickettsiales type (EC 6.3.1.2)
-ss00142	GlnE	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
-ss00142	GlnD	[Protein-PII] uridylyltransferase (EC 2.7.7.59)
-ss00142	GOGDP1	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
-ss00142	GOGDP2	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
-ss00142	GlxC	Glutamate synthase [NADPH] putative GlxC chain (EC 1.4.1.13)
-ss00142	GlxB	Glutamine amidotransferase protein GlxB (EC 2.4.2.-)
-ss00142	GOGD	Glutamate synthase [NADH] (EC 1.4.1.14)
-ss00142	GOGATF	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
-ss00142	GAT	Glutamine amidotransferase, class-II
-ss00142	aGS	Glutamate synthase, alpha subunit domain protein
-ss00142	NRI	Nitrogen regulation protein NR(I)
-ss00142	NRII	Nitrogen regulation protein NR(II) (EC 2.7.3.-)
-ss00142	PII	Nitrogen regulatory protein P-II
-ss00142	PIIK	Nitrogen regulatory protein P-II, glnK
-ss00142	amt	Ammonium transporter
-ss00142	amtFam	Ammonium transporter family
-ss00142	amtMeth	ammonium/methylammonium permease
-ss00142	NtcA	Global nitrogen regulatory protein, CRP family of transcriptional regulators
-ss00142	IF7	Glutamine synthetase inactivating factor IF7
-ss00142	IF17	Glutamine synthetase inactivating factor IF17
+si_0589	Ammonia_assimilation	Ammonium transporter
+si_0589	Ammonia_assimilation	Ammonium transporter family
+si_0589	Ammonia_assimilation	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+si_0589	Ammonia_assimilation	Global nitrogen regulatory protein, CRP family of transcriptional regulators
+si_0589	Ammonia_assimilation	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+si_0589	Ammonia_assimilation	Glutamate synthase [NADPH] putative GlxC chain (EC 1.4.1.13)
+si_0589	Ammonia_assimilation	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+si_0589	Ammonia_assimilation	Glutamate synthase, alpha subunit domain protein
+si_0589	Ammonia_assimilation	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+si_0589	Ammonia_assimilation	Glutamine amidotransferase protein GlxB (EC 2.4.2.-)
+si_0589	Ammonia_assimilation	Glutamine amidotransferase, class-II
+si_0589	Ammonia_assimilation	Glutamine synthetase inactivating factor IF17
+si_0589	Ammonia_assimilation	Glutamine synthetase inactivating factor IF7
+si_0589	Ammonia_assimilation	Glutamine synthetase type I (EC 6.3.1.2)
+si_0589	Ammonia_assimilation	Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)
+si_0589	Ammonia_assimilation	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+si_0589	Ammonia_assimilation	Glutamine synthetase, clostridia type (EC 6.3.1.2)
+si_0589	Ammonia_assimilation	Nitrogen regulation protein NR(I)
+si_0589	Ammonia_assimilation	Nitrogen regulation protein NR(II) (EC 2.7.3.-)
+si_0589	Ammonia_assimilation	Nitrogen regulatory protein P-II
+si_0589	Ammonia_assimilation	Nitrogen regulatory protein P-II, glnK
+si_0589	Ammonia_assimilation	Putative glutamine synthetase, Rickettsiales type (EC 6.3.1.2)
+si_0589	Ammonia_assimilation	[Protein-PII] uridylyltransferase (EC 2.7.7.59)
+si_0589	Ammonia_assimilation	ammonium/methylammonium permease

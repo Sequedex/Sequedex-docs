@@ -1,0 +1,25 @@
+si_0501	Type_IV_pilus	3-dehydroquinate synthase (EC 4.2.3.4)
+si_0501	Type_IV_pilus	Fimbrial assembly protein FimB
+si_0501	Type_IV_pilus	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43)
+si_0501	Type_IV_pilus	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+si_0501	Type_IV_pilus	N-methyltransferase (EC 2.1.1.-)
+si_0501	Type_IV_pilus	PilS cassette
+si_0501	Type_IV_pilus	Twitching motility protein PilT
+si_0501	Type_IV_pilus	Two-component sensor PilS
+si_0501	Type_IV_pilus	Type IV fimbriae expression regulatory protein PilR
+si_0501	Type_IV_pilus	Type IV fimbrial assembly protein PilC
+si_0501	Type_IV_pilus	Type IV fimbrial assembly, ATPase PilB
+si_0501	Type_IV_pilus	Type IV fimbrial biogenesis protein FimT
+si_0501	Type_IV_pilus	Type IV fimbrial biogenesis protein PilV
+si_0501	Type_IV_pilus	Type IV fimbrial biogenesis protein PilW
+si_0501	Type_IV_pilus	Type IV fimbrial biogenesis protein PilX
+si_0501	Type_IV_pilus	Type IV fimbrial biogenesis protein PilY1
+si_0501	Type_IV_pilus	Type IV fimbrial biogenesis protein PilY2
+si_0501	Type_IV_pilus	Type IV pilin PilA
+si_0501	Type_IV_pilus	Type IV pilus biogenesis protein PilE
+si_0501	Type_IV_pilus	Type IV pilus biogenesis protein PilM
+si_0501	Type_IV_pilus	Type IV pilus biogenesis protein PilN
+si_0501	Type_IV_pilus	Type IV pilus biogenesis protein PilO
+si_0501	Type_IV_pilus	Type IV pilus biogenesis protein PilP
+si_0501	Type_IV_pilus	Type IV pilus biogenesis protein PilQ
+si_0501	Type_IV_pilus	type 4 fimbrial biogenesis protein FimU

@@ -1,6 +1,5 @@
-ss00552	vex1	ABC transporter membrane-spanning permease, Pep export, Vex1
-ss00552	vex2	ABC transporter, ATP-binding protein Vex2
-ss00552	vex3	ABC transporter membrane-spanning permease, Pep export, Vex3
-ss00552	pep27	Pep27, a secreted peptide sensed by VncR/S
-ss00552	vncR	Two-component response regulator VncR
-ss00552	vncS	Sensor histidine kinase VncS
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	ABC transporter membrane-spanning permease, Pep export, Vex1
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	ABC transporter membrane-spanning permease, Pep export, Vex3
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	ABC transporter, ATP-binding protein Vex2
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	Sensor histidine kinase VncS
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	Two-component response regulator VncR

@@ -1,19 +1,14 @@
-ss00582	CamE	Pheromone cAM373 precursor lipoprotein CamE
-ss00582	CamS	Putative pheromone cAM373 precursor lipoprotein CamS
-ss00582	Cad	Pheromone cAD1 precursor lipoprotein Cad
-ss00582	Cad?	Putative pheromone precursor lipoprotein
-ss00582	DH	NADH dehydrogenase (EC 1.6.99.3) in cluster with putative pheromone precursor
-ss00582	Hyp1	Hypothetical similar to thiamin biosynthesis lipoprotein ApbE
-ss00582	Hyp2	Putative prenyltransferase, contains 1,4-dihydroxy-2-naphthoate octaprenyltransferase domain
-ss00582	Hyp3	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
-ss00582	Hyp4	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
-ss00582	Eep	Metalloprotease Eep, required for pheromone maturation
-ss00582	MP	Membrane-associated zinc metalloprotease
-ss00582	SPaseII	Lipoprotein signal peptidase (EC 3.4.23.36)
-ss00582	PrgA	Surface exclusion protein Sea1/PrgA
-ss00582	PrgB	Aggregation substance Asa1/PrgB
-ss00582	PrgC	Pheromone response surface protein PrgC
-ss00582	PrgX	Negative regulator of pheromone responce genes TraA/PrgX
-ss00582	PrgY	Pheromone shutdown protein TraB/PrgY
-ss00582	PrgZ	Pheromone binding protein TraC/PrgZ
-ss00582	OppA	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein oppA (TC 3.A.1.5.1)
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Aggregation substance Asa1/PrgB
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Hypothetical similar to thiamin biosynthesis lipoprotein ApbE
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Lipoprotein signal peptidase (EC 3.4.23.36)
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Membrane-associated zinc metalloprotease
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	NADH dehydrogenase (EC 1.6.99.3) in cluster with putative pheromone precursor
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Pheromone cAD1 precursor lipoprotein Cad
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Pheromone response surface protein PrgC
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Putative pheromone cAM373 precursor lipoprotein CamS
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Putative pheromone precursor lipoprotein
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Putative prenyltransferase, contains 1,4-dihydroxy-2-naphthoate octaprenyltransferase domain
+si_0783	Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes	Surface exclusion protein Sea1/PrgA

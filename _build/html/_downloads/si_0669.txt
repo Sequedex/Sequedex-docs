@@ -1,11 +1,11 @@
-ss00528	EF-1a	Translation elongation factor 1 alpha subunit
-ss00528	EF-1b	Translation elongation factor 1 beta subunit
-ss00528	EF-1g	Translation elongation factor 1 gamma subunit
-ss00528	EF-1d	Translation elongation factor 1 delta subunit
-ss00528	EF-2	Translation elongation factor 2
-ss00528	EF-3	Translation elongation factor 3
-ss00528	EF-P	Translation elongation factor P
-ss00528	eRF-1	Eukaryotic peptide chain release factor subunit 1
-ss00528	eRF-3	Eukaryotic peptide chain release factor GTP-binding subunit
-ss00528	HBS1	HBS1 protein
-ss00528	EF1a-like	Translation elongation factor 1 alpha-related protein
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor 1 alpha subunit
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor 1 beta subunit
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor 1 gamma subunit
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor 1 delta subunit
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor 2
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor 3
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor P
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Eukaryotic peptide chain release factor subunit 1
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Eukaryotic peptide chain release factor GTP-binding subunit
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	HBS1 protein
+si_0669	Translation_elongation_factors_eukaryotic_and_archaeal	Translation elongation factor 1 alpha-related protein

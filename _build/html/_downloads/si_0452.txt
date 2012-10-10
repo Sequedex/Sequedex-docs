@@ -1,7 +1,7 @@
-ss00606	AtuR	Acyclic terpenes utilization regulator AtuR, TetR family
-ss00606	AtuA	3-hydroxy-3isohexenylglutaryl-CoA:acetate lyase
-ss00606	AtuB	Citronellol and citronellal dehydrogenase
-ss00606	AtuC	Geranyl-CoA carboxylase carboxyl transferase subunit
-ss00606	AtuD	Citronellyl-CoA dehydrogenase
-ss00606	AtuE	Isohexenylglutaconyl-CoA hydratase
-ss00606	AtuF	Geranyl-CoA carboxylase biotin-containing subunit
+si_0452	Acyclic_terpenes_utilization	Acyclic terpenes utilization regulator AtuR, TetR family
+si_0452	Acyclic_terpenes_utilization	3-hydroxy-3isohexenylglutaryl-CoA:acetate lyase
+si_0452	Acyclic_terpenes_utilization	Citronellol and citronellal dehydrogenase
+si_0452	Acyclic_terpenes_utilization	Geranyl-CoA carboxylase carboxyl transferase subunit
+si_0452	Acyclic_terpenes_utilization	Citronellyl-CoA dehydrogenase
+si_0452	Acyclic_terpenes_utilization	Isohexenylglutaconyl-CoA hydratase
+si_0452	Acyclic_terpenes_utilization	Geranyl-CoA carboxylase biotin-containing subunit

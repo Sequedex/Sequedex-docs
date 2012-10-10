@@ -1,0 +1,8 @@
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor Ts
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor Tu
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor G
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor G-related protein
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor G paralog
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor P
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor P-related protein
+si_0668	Translation_elongation_factors_bacterial	Translation elongation factor LepA

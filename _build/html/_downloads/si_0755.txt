@@ -1,0 +1,7 @@
+si_0755	Fratricide_in_Streptococcus	Cell wall-associated murein hydrolase LytA
+si_0755	Fratricide_in_Streptococcus	Cell wall-associated murein hydrolase LytC
+si_0755	Fratricide_in_Streptococcus	Choline binding protein D
+si_0755	Fratricide_in_Streptococcus	Two-peptide bacteriocin peptide CibA
+si_0755	Fratricide_in_Streptococcus	Two-peptide bacteriocin peptide CibB
+si_0755	Fratricide_in_Streptococcus	Immunity factor CibC
+si_0755	Fratricide_in_Streptococcus	Immunity factor ComM

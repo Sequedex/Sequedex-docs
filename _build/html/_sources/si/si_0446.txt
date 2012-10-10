@@ -1,0 +1,10 @@
+si_0446	Carnitine_Metabolism_in_Microorganisms	L-carnitine/gamma-butyrobetaine antiporter
+si_0446	Carnitine_Metabolism_in_Microorganisms	Crotonobetainyl-CoA dehydrogenase (EC 1.3.99.-)
+si_0446	Carnitine_Metabolism_in_Microorganisms	Crotonobetainyl-CoA:carnitine CoA-transferase (EC 2.8.3.-)
+si_0446	Carnitine_Metabolism_in_Microorganisms	Crotonobetaine carnitine-CoA ligase (EC 6.3.2.-)
+si_0446	Carnitine_Metabolism_in_Microorganisms	Carnitinyl-CoA dehydratase (EC 4.2.1.-)
+si_0446	Carnitine_Metabolism_in_Microorganisms	Carnitine racemase (EC 5.-.-.-)
+si_0446	Carnitine_Metabolism_in_Microorganisms	Carnitine operon protein CaiE
+si_0446	Carnitine_Metabolism_in_Microorganisms	Transcriptional activatory protein CaiF
+si_0446	Carnitine_Metabolism_in_Microorganisms	Electron transfer flavoprotein, beta subunit FixA
+si_0446	Carnitine_Metabolism_in_Microorganisms	Electron transfer flavoprotein, alpha subunit FixB

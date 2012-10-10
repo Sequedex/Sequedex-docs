@@ -1,6 +1,6 @@
-ss00763	R1	Molybdenum transport protein, putative
-ss00763	R2	ABC-type Fe3+ transport system protein
-ss00763	R3	Molybdopterin oxidoreductase, iron-sulfur binding subunit (EC 1.2.7.-)
-ss00763	R5	Molybdopterin oxidoreductase subunit, predicted
-ss00763	R6	Molybdopterin oxidoreductase (EC 1.2.7.-)
-ss00763	R7	Putative uncharacterized protein TTHA1760
+si_0250	CBSS-269799.3.peg.2220	Molybdenum transport protein, putative
+si_0250	CBSS-269799.3.peg.2220	ABC-type Fe3+ transport system protein
+si_0250	CBSS-269799.3.peg.2220	Molybdopterin oxidoreductase, iron-sulfur binding subunit (EC 1.2.7.-)
+si_0250	CBSS-269799.3.peg.2220	Molybdopterin oxidoreductase subunit, predicted
+si_0250	CBSS-269799.3.peg.2220	Molybdopterin oxidoreductase (EC 1.2.7.-)
+si_0250	CBSS-269799.3.peg.2220	Putative uncharacterized protein TTHA1760

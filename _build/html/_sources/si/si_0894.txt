@@ -1,0 +1,9 @@
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	type 1 fimbriae major subunit FimA
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	type 1 fimbrae adaptor subunit FimF
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	type 1 fimbrae adaptor subunit FimG
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	mannose-specific adhesin FimH
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	chaperone FimC
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	type 1 fimbriae anchoring protein FimD
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	type 1 fimbriae regulatory protein FimB
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	type 1 fimbriae regulatory protein FimE
+si_0894	Type_1_pili_(mannose-sensitive_fimbriae)	type 1 fimbriae protein FimI, unknown function

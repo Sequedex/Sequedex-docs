@@ -1,4 +1,4 @@
-ss01056	Hyp	FIG000859: hypothetical protein
-ss01056	RuvA	Holliday junction DNA helicase RuvA
-ss01056	RuvB	Holliday junction DNA helicase RuvB
-ss01056	RuvC	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+si_0400	RuvABC_plus_a_hypothetical	FIG000859: hypothetical protein
+si_0400	RuvABC_plus_a_hypothetical	Holliday junction DNA helicase RuvA
+si_0400	RuvABC_plus_a_hypothetical	Holliday junction DNA helicase RuvB
+si_0400	RuvABC_plus_a_hypothetical	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)

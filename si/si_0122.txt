@@ -1,74 +1,50 @@
-ss00689	MCoALy	Malyl-CoA lyase (EC 4.1.3.24)
-ss00689	GO	Glyoxalase family protein
-ss00689	mtkA	Malate--CoA ligase alpha chain (Malyl-CoA synthetase) (Malate thiokinase) (MTK-alpha)
-ss00689	mtkB	Malate--CoA ligase beta chain (Malyl-CoA synthetase) (Malate thiokinase) (MTK-beta)
-ss00689	MS	Malate synthase (EC 2.3.3.9)
-ss00689	MSg	Malate synthase G (EC 2.3.3.9)
-ss00689	mdh	Malate dehydrogenase (EC 1.1.1.37)
-ss00689	gck	Glycerate kinase (EC 2.7.1.31)
-ss00689	PGM	Phosphoglyceromutase
-ss00689	eno	Enolase (EC 4.2.1.11)
-ss00689	PPC	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
-ss00689	ppc	acetyl-CoA-independent phosphoenolpyruvate (PEP) carboxylase
-ss00689	AGT	L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
-ss00689	mtdA	Methylene tetrahydromethanopterin dehydrogenase (EC 1.5.99.9)
-ss00689	fch	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27)
-ss00689	folD	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
-ss00689	FTHS	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
-ss00689	sga	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
-ss00689	hpr	Hydroxypyruvate reductase, putative (EC 1.1.1.81)
-ss00689	GlyA	Serine hydroxymethyltransferase (EC 2.1.2.1)
-ss00689	QscR	QscR regulator of serine cycle
-ss00689	PhaA	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
-ss00689	PhaB	Acetoacetyl-CoA reductase (EC 1.1.1.36)
-ss00689	IL	Isocitrate lyase (EC 4.1.3.1)
-ss00689	MeaA	putative beta-hydroxyisobutyryl-CoA mutase similar to methylmalonyl-CoA mutase
-ss00689	MeaB	Methylmalonyl-CoA mutase (EC 5.4.99.2)
-ss00689	ccr	crotonyl-CoA reductase
-ss00689	pccB	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
-ss00689	ECM	ethylmalonyl-CoA mutase
-ss00689	D	decarboxylase
-ss00689	phaR	polyhydroxyalkanoate synthesis repressor PhaR
-ss00689	ibd2	isobutyryl-CoA dehydrogenase
-ss00689	meaC	methacrylyl-CoA dehydrogenase
-ss00689	meaD	ATP:cobalamin adenosyltransferase involved in biosynthesis of succinyl-CoA from methylmalonyl-CoA
-ss00689	epm	Putative epimerase involved in biosynthesis of succinyl-CoA from methylmalonyl-CoA
-ss00689	fumA	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
-ss00689	SH	succinyl-CoA hydrolase (EC 3.1.2.3)
-ss00689	sdhB	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
-ss00689	sdhA	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
-ss00689	scsA	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
-ss00689	scsB	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
-ss00689	kst	keto acid succinyl-CoA transferase
-ss00689	pccA	propionyl-CoA carboxylase, subunit A
-ss00689	gltA	Citrate synthase (si) (EC 2.3.3.1)
-ss00689	AH	Aconitate hydratase (EC 4.2.1.3)
-ss00689	MTFR	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
-ss00689	LCHP	cytosolic long-chain acyl-CoA thioester hydrolase family protein
-ss00689	GCoAD	glutaryl-Coa dehydrogenase
-ss00689	GDSL	GDSL-like lipase/acylhydrolase
-ss00689	CK	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
-ss00689	CD	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
-ss00689	MTHD	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
-ss00689	FTCL	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
-ss00689	SPA	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
-ss00689	SPA2	Serine--pyruvate aminotransferase (EC 2.6.1.51)
-ss00689	TA	low-specificity D-threonine aldolase
-ss00689	HPR	hydroxypyruvate reductase
-ss00689	kts1	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
-ss00689	kts2	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
-ss00689	pccA2	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
-ss00689	IBM	putative isobutyryl-CoA mutase, chain B
-ss00689	Fum	Fumarate hydratase class I, N-terminal domain
-ss00689	FumA	Fumarate hydratase class I, anaerobic (EC 4.2.1.2)
-ss00689	gck2	putative glycerate kinase
-ss00689	MTHD2	Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5)
-ss00689	FTHS2	Formyltetrahydrofolate synthetase (EC 6.3.4.3)
-ss00689	PEPCa	Phosphoenolpyruvate carboxylase, archaeal (EC 4.1.1.31)
-ss00689	MSR	Malate synthase-related protein
-ss00689	CS	Citrate synthase (EC 2.3.3.1)
-ss00689	PCoAC	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
-ss00689	pccB2	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
-ss00689	MD2	Putative malate dehydrogenase (EC 1.1.1.37), similar to archaeal MJ1425
-ss00689	FCLl	5-FCL-like protein
-ss00689	AcCoAT	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+si_0122	Serine-glyoxylate_cycle	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+si_0122	Serine-glyoxylate_cycle	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+si_0122	Serine-glyoxylate_cycle	5-FCL-like protein, but predicted not to be 5-formyltetrahydrofolate cyclo-ligase (5-FCL)
+si_0122	Serine-glyoxylate_cycle	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+si_0122	Serine-glyoxylate_cycle	Acetoacetyl-CoA reductase (EC 1.1.1.36)
+si_0122	Serine-glyoxylate_cycle	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+si_0122	Serine-glyoxylate_cycle	Aconitate hydratase (EC 4.2.1.3)
+si_0122	Serine-glyoxylate_cycle	Citrate synthase (EC 2.3.3.1)
+si_0122	Serine-glyoxylate_cycle	Citrate synthase (si) (EC 2.3.3.1)
+si_0122	Serine-glyoxylate_cycle	Enolase (EC 4.2.1.11)
+si_0122	Serine-glyoxylate_cycle	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+si_0122	Serine-glyoxylate_cycle	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+si_0122	Serine-glyoxylate_cycle	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+si_0122	Serine-glyoxylate_cycle	Fumarate hydratase class I, anaerobic (EC 4.2.1.2)
+si_0122	Serine-glyoxylate_cycle	GDSL-like lipase/acylhydrolase
+si_0122	Serine-glyoxylate_cycle	Glycerate kinase (EC 2.7.1.31)
+si_0122	Serine-glyoxylate_cycle	Isocitrate lyase (EC 4.1.3.1)
+si_0122	Serine-glyoxylate_cycle	Malate dehydrogenase (EC 1.1.1.37)
+si_0122	Serine-glyoxylate_cycle	Malate synthase-related protein
+si_0122	Serine-glyoxylate_cycle	Malyl-CoA lyase (EC 4.1.3.24)
+si_0122	Serine-glyoxylate_cycle	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+si_0122	Serine-glyoxylate_cycle	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+si_0122	Serine-glyoxylate_cycle	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+si_0122	Serine-glyoxylate_cycle	Methylene tetrahydromethanopterin dehydrogenase (EC 1.5.99.9)
+si_0122	Serine-glyoxylate_cycle	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+si_0122	Serine-glyoxylate_cycle	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+si_0122	Serine-glyoxylate_cycle	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27)
+si_0122	Serine-glyoxylate_cycle	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+si_0122	Serine-glyoxylate_cycle	Phosphoglyceromutase
+si_0122	Serine-glyoxylate_cycle	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+si_0122	Serine-glyoxylate_cycle	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
+si_0122	Serine-glyoxylate_cycle	Putative malate dehydrogenase (EC 1.1.1.37), similar to archaeal MJ1425
+si_0122	Serine-glyoxylate_cycle	Serine hydroxymethyltransferase (EC 2.1.2.1)
+si_0122	Serine-glyoxylate_cycle	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+si_0122	Serine-glyoxylate_cycle	Serine--pyruvate aminotransferase (EC 2.6.1.51)
+si_0122	Serine-glyoxylate_cycle	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+si_0122	Serine-glyoxylate_cycle	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+si_0122	Serine-glyoxylate_cycle	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+si_0122	Serine-glyoxylate_cycle	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+si_0122	Serine-glyoxylate_cycle	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+si_0122	Serine-glyoxylate_cycle	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+si_0122	Serine-glyoxylate_cycle	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+si_0122	Serine-glyoxylate_cycle	crotonyl-CoA reductase
+si_0122	Serine-glyoxylate_cycle	cytosolic long-chain acyl-CoA thioester hydrolase family protein
+si_0122	Serine-glyoxylate_cycle	decarboxylase
+si_0122	Serine-glyoxylate_cycle	isobutyryl-CoA dehydrogenase
+si_0122	Serine-glyoxylate_cycle	low-specificity D-threonine aldolase
+si_0122	Serine-glyoxylate_cycle	polyhydroxyalkanoate synthesis repressor PhaR
+si_0122	Serine-glyoxylate_cycle	putative glycerate kinase
+si_0122	Serine-glyoxylate_cycle	putative isobutyryl-CoA mutase, chain B

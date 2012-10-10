@@ -1,0 +1,8 @@
+si_0311	CBSS-316273.3.peg.448	FIG048626: Hypothetical protein
+si_0311	CBSS-316273.3.peg.448	FIG045085: Hypothetical protein
+si_0311	CBSS-316273.3.peg.448	FIG042594: DUF1550 domain-containing protein
+si_0311	CBSS-316273.3.peg.448	FIG037995: Hypothetical protein
+si_0311	CBSS-316273.3.peg.448	FIG017823: ATPase, MoxR family
+si_0311	CBSS-316273.3.peg.448	FIG033680: Hypothetical protein
+si_0311	CBSS-316273.3.peg.448	TldE/PmbA family protein, Actinobacterial subgroup
+si_0311	CBSS-316273.3.peg.448	TldD family protein, Actinobacterial subgroup

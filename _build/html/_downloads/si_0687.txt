@@ -1,0 +1,1 @@
+si_0687	tRNA_aminoacylation,_Pyr	Pyrrolysyl-tRNA synthetase (EC 6.1.1.26)

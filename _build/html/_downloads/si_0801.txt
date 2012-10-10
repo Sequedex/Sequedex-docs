@@ -1,14 +1,13 @@
-ss00278	TORA	Trimethylamine-N-oxide reductase (EC 1.6.6.9)
-ss00278	TORC	Functional role page for Cytochrome c-type protein TorC
-ss00278	TORD	Functional role page for Chaperone protein TorD
-ss00278	TORR	Functional role page for TorCAD operon transcriptional regulatory protein TorR
-ss00278	TORT	Periplasmic protein torT precursor
-ss00278	TORS	Sensor protein torS (EC 2.7.3.-)
-ss00278	yccM	Hypothetical iron-sulfur cluster binding protein YccM
-ss00278	BSR	Biotin sulfoxide reductase (EC 1.-.-.-)
-ss00278	TORY	Functional role page for Cytochrome c-type protein TorY
-ss00278	NapC	Cytochrome c-type protein NapC
-ss00278	TCC	Nitrate/TMAO reductases, membrane-bound tetraheme cytochrome c subunit
-ss00278	TORc	Trimethylamine-N-oxide reductase (Cytochrome c) (EC 1.7.2.3)
-ss00278	TORE	WARNINIG TorE protein
-ss00278	BisC	methionine sulfoxide reductase BisC
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Biotin sulfoxide reductase (EC 1.-.-.-)
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Cytochrome c-type protein NapC
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Functional role page for Chaperone protein TorD
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Cytochrome c-type protein TorC
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Cytochrome c-type protein TorY
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Functional role page for TorCAD operon transcriptional regulatory protein TorR
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Hypothetical iron-sulfur cluster binding protein YccM
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Nitrate/TMAO reductases, membrane-bound tetraheme cytochrome c subunit
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Periplasmic protein torT precursor
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Sensor protein torS (EC 2.7.3.-)
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Trimethylamine-N-oxide reductase (Cytochrome c) (EC 1.7.2.3)
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	Trimethylamine-N-oxide reductase (EC 1.6.6.9)
+si_0801	trimethylamine_N-oxide_(TMAO)_reductase	WARNINIG TorE protein

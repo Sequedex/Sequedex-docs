@@ -1,18 +1,18 @@
-ss00970	mtlC	PTS system, mannitol-specific IIC component (EC 2.7.1.69)
-ss00970	mtlB	PTS system, mannitol-specific IIB component (EC 2.7.1.69)
-ss00970	mtlA	PTS system, mannitol-specific IIA component (EC 2.7.1.69)
-ss00970	mtlD	Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)
-ss00970	mtlR_r	Mannitol operon repressor
-ss00970	mtlR_a	Mannitol operon activator, BglG family
-ss00970	MtlP	Predicted mannitol permease
-ss00970	mtlD-II	Multiple polyol-specific dehydrogenase (EC 1.1.1.-)
-ss00970	MtlX	Hydrolase in polyol utilization gene cluster, haloacid dehalogenase-like family
-ss00970	MtlR-II	Transcriptional regulator of mannitol utilization, DeoR family protein
-ss00970	ScrK	Fructokinase (EC 2.7.1.4)
-ss00970	HPr	Phosphocarrier protein of PTS system
-ss00970	PTSI	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
-ss00970	HprK	HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)
-ss00970	ScrK1	Fructokinase in mannitol utilization gene cluster (EC 2.7.1.4)
-ss00970	mtlA_cr	PTS system, mannitol-specific cryptic IIA component (EC 2.7.1.69)
-ss00970	mtlB_cr	PTS system, mannitol-specific cryptic IIB component (EC 2.7.1.69)
-ss00970	mtlC_cr	PTS system, mannitol-specific cryptic IIC component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific IIC component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific IIB component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific IIA component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)
+si_0143	Mannitol_Utilization	Mannitol operon repressor
+si_0143	Mannitol_Utilization	Mannitol operon activator, BglG family
+si_0143	Mannitol_Utilization	Predicted mannitol permease
+si_0143	Mannitol_Utilization	Multiple polyol-specific dehydrogenase (EC 1.1.1.-)
+si_0143	Mannitol_Utilization	Hydrolase in polyol utilization gene cluster, haloacid dehalogenase-like family
+si_0143	Mannitol_Utilization	Transcriptional regulator of mannitol utilization, DeoR family protein
+si_0143	Mannitol_Utilization	Fructokinase (EC 2.7.1.4)
+si_0143	Mannitol_Utilization	Phosphocarrier protein of PTS system
+si_0143	Mannitol_Utilization	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+si_0143	Mannitol_Utilization	HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)
+si_0143	Mannitol_Utilization	Fructokinase in mannitol utilization gene cluster (EC 2.7.1.4)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific cryptic IIA component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific cryptic IIB component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific cryptic IIC component (EC 2.7.1.69)

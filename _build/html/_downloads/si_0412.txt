@@ -1,0 +1,4 @@
+si_0412	DNA_repair,_bacterial_photolyase	Cryptochrome
+si_0412	DNA_repair,_bacterial_photolyase	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+si_0412	DNA_repair,_bacterial_photolyase	Deoxyribodipyrimidine photolyase, single-strand-specific
+si_0412	DNA_repair,_bacterial_photolyase	Deoxyribodipyrimidine photolyase, type II (EC 4.1.99.3)

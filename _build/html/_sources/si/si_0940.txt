@@ -1,0 +1,2 @@
+si_0940	Multidrug_Resistance_Operon_mdtRP_of_Bacillus	Multidrug efflux transporter MdtP
+si_0940	Multidrug_Resistance_Operon_mdtRP_of_Bacillus	MdtR transcriptional regulator, MarR family

@@ -1,12 +1,12 @@
-ss00604	R1	hypothetical protein NAS141_09886
-ss00604	R2	Signal peptidase I (EC 3.4.21.89)
-ss00604	R3	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
-ss00604	R4	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
-ss00604	R5	Ribonuclease III (EC 3.1.26.3)
-ss00604	R6	GTP-binding protein Era
-ss00604	R7	DNA recombination and repair protein RecO
-ss00604	R8	Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)
-ss00604	R9	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
-ss00604	R10	Mll7752 protein
-ss00604	R2_2	Signal peptidase SipW (EC 3.4.21.89), required for TasA secretion
-ss00604	R3_2	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+si_0254	CBSS-176299.4.peg.1292	hypothetical protein NAS141_09886
+si_0254	CBSS-176299.4.peg.1292	Signal peptidase I (EC 3.4.21.89)
+si_0254	CBSS-176299.4.peg.1292	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+si_0254	CBSS-176299.4.peg.1292	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+si_0254	CBSS-176299.4.peg.1292	Ribonuclease III (EC 3.1.26.3)
+si_0254	CBSS-176299.4.peg.1292	GTP-binding protein Era
+si_0254	CBSS-176299.4.peg.1292	DNA recombination and repair protein RecO
+si_0254	CBSS-176299.4.peg.1292	Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)
+si_0254	CBSS-176299.4.peg.1292	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+si_0254	CBSS-176299.4.peg.1292	Mll7752 protein
+si_0254	CBSS-176299.4.peg.1292	Signal peptidase SipW (EC 3.4.21.89), required for TasA secretion
+si_0254	CBSS-176299.4.peg.1292	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I

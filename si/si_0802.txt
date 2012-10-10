@@ -1,16 +1,16 @@
-ss00454	CD_D	carbon monoxide dehydrogenase D protein
-ss00454	CD_F	Carbon monoxide dehydrogenase F protein
-ss00454	CD_E	carbon monoxide dehydrogenase E protein
-ss00454	CODHs	Carbon monoxide dehydrogenase small chain (EC 1.2.99.2)
-ss00454	CODHm	Carbon monoxide dehydrogenase medium chain (EC 1.2.99.2)
-ss00454	CODHl	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2)
-ss00454	CD_G	carbon monoxide dehydrogenase G protein
-ss00454	CODHl1	Carbon monoxide dehydrogenase form I, large chain( EC:1.2.99.2 )
-ss00454	CD_C	carbon monoxide dehydrogenase operon C protein
-ss00454	CD_F?	CO dehydrogenases maturation factor, CoxF family
-ss00454	TR?	Transcription regulator in CO-DH cluster
-ss00454	CODHl?	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) without typical motifs
-ss00454	CODHl2	Carbon-monoxide dehydrogenase form II, large subunit (EC 1.2.99.2)
-ss00454	Mob?	Uncharacterized MobA-related protein
-ss00454	???	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) parolog without usual motifs
-ss00454	Hypo	Hypothetical lactonase in carbon monoxide dehydrogenase cluster
+si_0802	CO_Dehydrogenase	carbon monoxide dehydrogenase D protein
+si_0802	CO_Dehydrogenase	Carbon monoxide dehydrogenase F protein
+si_0802	CO_Dehydrogenase	carbon monoxide dehydrogenase E protein
+si_0802	CO_Dehydrogenase	Carbon monoxide dehydrogenase small chain (EC 1.2.99.2)
+si_0802	CO_Dehydrogenase	Carbon monoxide dehydrogenase medium chain (EC 1.2.99.2)
+si_0802	CO_Dehydrogenase	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2)
+si_0802	CO_Dehydrogenase	carbon monoxide dehydrogenase G protein
+si_0802	CO_Dehydrogenase	Carbon monoxide dehydrogenase form I, large chain( EC:1.2.99.2 )
+si_0802	CO_Dehydrogenase	carbon monoxide dehydrogenase operon C protein
+si_0802	CO_Dehydrogenase	CO dehydrogenases maturation factor, CoxF family
+si_0802	CO_Dehydrogenase	Transcription regulator in CO-DH cluster
+si_0802	CO_Dehydrogenase	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) without typical motifs
+si_0802	CO_Dehydrogenase	Carbon-monoxide dehydrogenase form II, large subunit (EC 1.2.99.2)
+si_0802	CO_Dehydrogenase	Uncharacterized MobA-related protein
+si_0802	CO_Dehydrogenase	Carbon monoxide dehydrogenase large chain (EC 1.2.99.2) parolog without usual motifs
+si_0802	CO_Dehydrogenase	Hypothetical lactonase in carbon monoxide dehydrogenase cluster

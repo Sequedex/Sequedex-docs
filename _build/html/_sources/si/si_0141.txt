@@ -1,15 +1,8 @@
-ss00462	DhaP	Glycerol uptake facilitator protein
-ss00462	DhaB	Glycerol dehydratase large subunit (EC 4.2.1.30)
-ss00462	DhaC	Glycerol dehydratase medium subunit (EC 4.2.1.30)
-ss00462	DhaE	Glycerol dehydratase small subunit (EC 4.2.1.30)
-ss00462	DhaF	Glycerol dehydratase reactivation factor large subunit
-ss00462	DhaG	Glycerol dehydratase reactivation factor small subunit
-ss00462	DhaH	Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)
-ss00462	PduO	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
-ss00462	DhaT	1,3-propanediol dehydrogenase (EC 1.1.1.202)
-ss00462	GldA	Glycerol dehydrogenase (EC 1.1.1.6)
-ss00462	DhaK	Dihydroxyacetone kinase, ATP-dependent (EC 2.7.1.29)
-ss00462	PduF	Propanediol diffusion facilitator
-ss00462	PduC	Propanediol dehydratase large subunit (EC 4.2.1.28)
-ss00462	PduD	Propanediol dehydratase medium subunit (EC 4.2.1.28)
-ss00462	PduE	Propanediol dehydratase small subunit (EC 4.2.1.28)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	1,3-propanediol dehydrogenase (EC 1.1.1.202)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase large subunit (EC 4.2.1.30)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase medium subunit (EC 4.2.1.30)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase reactivation factor large subunit
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase reactivation factor small subunit
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase small subunit (EC 4.2.1.30)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol uptake facilitator protein

@@ -1,27 +1,10 @@
-ss00825	SUI1	Translation initiation factor SUI1
-ss00825	SUI1-r	Translation initiation factor SUI1-related protein
-ss00825	eIF-1A	Translation initiation factor 1A
-ss00825	IF-2	Translation initiation factor 2
-ss00825	eIF-2a	Eukaryotic translation initiation factor 2 alpha subunit
-ss00825	eIF-2b	Eukaryotic translation initiation factor 2 beta subunit
-ss00825	eIF-2g	Eukaryotic translation initiation factor 2 gamma subunit
-ss00825	eIF-2Ba	Translation initiation factor 2B alpha subunit
-ss00825	eIF-2Bb	Translation initiation factor 2B beta subunit
-ss00825	eIF-2Bg	Translation initiation factor 2B gamma subunit
-ss00825	eIF-2Bd	Translation initiation factor 2B delta subunit
-ss00825	eIF-2Be	Translation initiation factor 2B epsilon subunit
-ss00825	eIF-2Babd	Translation initiation factor 2B alpha/beta/delta-type subunit
-ss00825	eIF-3135	Eukaryotic translation initiation factor 3 135 kDa subunit
-ss00825	eIF-3110	Eukaryotic translation initiation factor 3 110 kDa subunit
-ss00825	eIF-393	Eukaryotic translation initiation factor 3 93 kDa subunit
-ss00825	eIF-390	Eukaryotic translation initiation factor 3 90 kDa subunit
-ss00825	eIF-339	Eukaryotic translation initiation factor 3 39 kDa subunit
-ss00825	eIF-330	Eukaryotic translation initiation factor 3 30 kDa subunit
-ss00825	eIF-3rna	Eukaryotic translation initiation factor 3 RNA-binding subunit
-ss00825	eIF-4A	Eukaryotic translation initiation factor 4A
-ss00825	eIF-4B	Eukaryotic translation initiation factor 4B
-ss00825	eIF-4E	Eukaryotic translation initiation factor 4E
-ss00825	eIF-4H	Eukaryotic translation initiation factor 4H
-ss00825	eIF-5	Eukaryotic translation initiation factor 5
-ss00825	eIF-5A	Eukaryotic translation initiation factor 5A
-ss00825	eIF-6	Eukaryotic translation initiation factor 6
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Eukaryotic translation initiation factor 2 alpha subunit
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Eukaryotic translation initiation factor 2 beta subunit
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Eukaryotic translation initiation factor 2 gamma subunit
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Eukaryotic translation initiation factor 5A
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Eukaryotic translation initiation factor 6
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Translation initiation factor 1A
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Translation initiation factor 2
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Translation initiation factor 2B alpha subunit
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Translation initiation factor 2B alpha/beta/delta-type subunit
+si_0671	Translation_initiation_factors_eukaryotic_and_archaeal	Translation initiation factor SUI1-related protein

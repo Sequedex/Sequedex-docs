@@ -1,6 +1,6 @@
-ss00553	OmpA	Outer membrane protein A precursor
-ss00553	OmpC	Outer membrane protein C precursor
-ss00553	OmpF	Outer membrane protein F precursor
-ss00553	OmpG	Outer membrane protein G precursor
-ss00553	OmpH	Outer membrane protein H precursor
-ss00553	YaeT	Outer membrane protein assembly factor YaeT precursor
+si_0195	Outer_membrane	Outer membrane protein A precursor
+si_0195	Outer_membrane	Outer membrane protein C precursor
+si_0195	Outer_membrane	Outer membrane protein F precursor
+si_0195	Outer_membrane	Outer membrane protein G precursor
+si_0195	Outer_membrane	Outer membrane protein H precursor
+si_0195	Outer_membrane	Outer membrane protein assembly factor YaeT precursor

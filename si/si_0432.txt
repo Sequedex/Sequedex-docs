@@ -1,0 +1,10 @@
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, alpha/beta family, SASP_1
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, alpha/beta family, SASP_2
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, alpha/beta family, SASP_3
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, alpha/beta family, SASP_4
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, alpha/beta family, SASP_5
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, alpha/beta family, SASP_6
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, alpha-type SASP
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, beta-type SASP
+si_0432	Small_acid-soluble_spore_proteins	Small acid-soluble spore protein, gamma-type SASP
+si_0432	Small_acid-soluble_spore_proteins	Endopeptidase spore protease Gpr (EC 3.4.24.78)

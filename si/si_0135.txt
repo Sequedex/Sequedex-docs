@@ -1,19 +1,12 @@
-ss00449	GAT_D	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
-ss00449	GAT_C	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
-ss00449	GS	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
-ss00449	GS?	Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type
-ss00449	GBr	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
-ss00449	GBr_a	Glycogen branching enzyme, GH-57-type, archaeal (EC 2.4.1.18)
-ss00449	SBr	1,4-alpha-glucan (starch) branching enzyme, GH-13-type (EC 2.4.1.18)
-ss00449	GdBr	Glycogen debranching enzyme (EC 3.2.1.-)
-ss00449	GdBr_a	Putative glycogen debranching enzyme, archaeal type, TIGR01561
-ss00449	SdBr	Isoamylase-type starch debranching enzyme (3.2.1.-)
-ss00449	GP	Glycogen phosphorylase (EC 2.4.1.1)
-ss00449	MP	Maltodextrin phosphorylase (EC 2.4.1.1)
-ss00449	AMse	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
-ss00449	GH31	Alpha-glucosidase, family 31 of glycosyl hydrolases, COG1501
-ss00449	MOTs	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
-ss00449	aAM	Alpha-amylase (EC 3.2.1.1)
-ss00449	aAMp	Periplasmic alpha-amylase (EC 3.2.1.1)
-ss00449	aAMc	Cytoplasmic alpha-amylase (EC 3.2.1.1)
-ss00449	Hyp1	glycogen debranching enzyme-related protein
+si_0135	Glycogen_metabolism	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+si_0135	Glycogen_metabolism	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+si_0135	Glycogen_metabolism	Alpha-glucosidase, family 31 of glycosyl hydrolases, COG1501
+si_0135	Glycogen_metabolism	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+si_0135	Glycogen_metabolism	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
+si_0135	Glycogen_metabolism	Glycogen branching enzyme, GH-57-type, archaeal (EC 2.4.1.18)
+si_0135	Glycogen_metabolism	Glycogen debranching enzyme (EC 3.2.1.-)
+si_0135	Glycogen_metabolism	Glycogen phosphorylase (EC 2.4.1.1)
+si_0135	Glycogen_metabolism	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+si_0135	Glycogen_metabolism	Maltodextrin phosphorylase (EC 2.4.1.1)
+si_0135	Glycogen_metabolism	Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type
+si_0135	Glycogen_metabolism	Putative glycogen debranching enzyme, archaeal type, TIGR01561

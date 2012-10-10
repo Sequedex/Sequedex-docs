@@ -1,1 +1,1 @@
-ss00732	SgrR	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA
+si_0879	Sugar-phosphate_stress_regulation	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA

@@ -1,11 +1,3 @@
-ss00066	Trm5b	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
-ss00066	aTrm5a	PAB2272 methyltransferase homolog
-ss00066	Taw1	Fe-S OXIDOREDUCTASE (1.8.-.-) Wyeosine biosynthesis
-ss00066	THioRed	Thioredoxin reductase (EC 1.8.1.9)
-ss00066	Taw3a	tRNA methylase YGL050w homolog Wyeosine biosynthesis
-ss00066	Taw3b	tRNA methylase YGL050w homolog Wyeosine biosynthesis type 2
-ss00066	Taw2	tRNA methylase Trm12p Wyeosine biosynthesis
-ss00066	WyeD	tRNA methylase Yol141w homolog Wyeosine biosynthesis
-ss00066	IcsU	Iron-sulfur cluster assembly scaffold protein IscU
-ss00066	DUF531	Uncharacterized protein conserved in archaea (DUF531)
-ss00066	DUF265	Hypothetical ATP-binding protein, containing DUF265 domain
+si_0742	tRNA_splicing	ADP-ribose 1"-phosphate phophatase
+si_0742	tRNA_splicing	RNA:NAD 2'-phosphotransferase
+si_0742	tRNA_splicing	tRNA-intron endonuclease (EC 3.1.27.9)

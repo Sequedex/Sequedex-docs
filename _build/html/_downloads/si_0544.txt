@@ -1,29 +1,14 @@
-ss00658	BenB	Benzoate 1,2-dioxygenase beta subunit (EC 1.14.12.10)
-ss00658	BenA	Benzoate 1,2-dioxygenase alpha subunit (EC 1.14.12.10)
-ss00658	BenC	benzoate dioxygenase, ferredoxin reductase component
-ss00658	BenD	1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase (EC 1.3.1.25)
-ss00658	BenK	benzoate MFS transporter BenK
-ss00658	BenE2	Benzoate transport protein
-ss00658	BenF	benzoate-specific porin
-ss00658	MLCI	Muconate cycloisomerase (EC 5.5.1.1)
-ss00658	MLI	Muconolactone isomerase (EC 5.3.3.4)
-ss00658	CD	Catechol 1,2-dioxygenase (EC 1.13.11.1)
-ss00658	TDb	Toluate 1,2-dioxygenase beta subunit
-ss00658	TDet	Toluate 1,2-dioxygenase electron transfer component
-ss00658	TDa	Toluate 1,2-dioxygenase alpha subunit
-ss00658	BenR	benABC operon transcriptional activator BenR
-ss00658	CatR	Aromatic hydrocarbon utilization transcriptional regulator CatR (LysR family)
-ss00658	BMO	Benzoate-4-monooxygenase (EC 1.14.13.12)
-ss00658	BFD	Benzoylformate decarboxylase (EC 4.1.1.7)
-ss00658	BAD	Putative benzaldehyde dehydrogenase oxidoreductase protein (EC 1.2.1.28)
-ss00658	VDH_19	Probable VANILLIN dehydrogenase oxidoreductase protein (EC 1.-.-.-)
-ss00658	SD	Salicylaldehyde dehydrogenase (EC 1.2.1.65)
-ss00658	HMSH	2-hydroxymuconic semialdehyde hydrolase (EC 3.1.1.-)
-ss00658	TSAD	Probable TOLUENESULFONATE zinc-independent alcohol dehydrogenase oxidoreductase protein
-ss00658	KFA	Kynurenine formamidase, bacterial (EC 3.5.1.9)
-ss00658	BTR	Benzoate catabolic operon transcription regulator
-ss00658	VDH_25	Vanillin dehydrogenase (Hydroxybenzaldehyde dehydrogenase) (EC 1.2.1.28)
-ss00658	OhbA	Ortho-halobenzoate 1,2-dioxygenase beta-ISP protein OhbA
-ss00658	OhbB	Ortho-halobenzoate 1,2-dioxygenase alpha-ISP protein OhbB
-ss00658	ClBD	2-chlorobenzoate 1,2-dioxygenase (EC 1.14.12.13)
-ss00658	RHD	Ring hydroxylating dioxygenase, alpha subunit (EC 1.14.12.13)
+si_0544	Benzoate_degradation	1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase (EC 1.3.1.25)
+si_0544	Benzoate_degradation	2-chlorobenzoate 1,2-dioxygenase (EC 1.14.12.13)
+si_0544	Benzoate_degradation	Benzoate 1,2-dioxygenase alpha subunit (EC 1.14.12.10)
+si_0544	Benzoate_degradation	Benzoate 1,2-dioxygenase beta subunit (EC 1.14.12.10)
+si_0544	Benzoate_degradation	Benzoate catabolic operon transcription regulator
+si_0544	Benzoate_degradation	Benzoate transport protein
+si_0544	Benzoate_degradation	Benzoylformate decarboxylase (EC 4.1.1.7)
+si_0544	Benzoate_degradation	Ortho-halobenzoate 1,2-dioxygenase alpha-ISP protein OhbB
+si_0544	Benzoate_degradation	Ortho-halobenzoate 1,2-dioxygenase beta-ISP protein OhbA
+si_0544	Benzoate_degradation	Ring hydroxylating dioxygenase, alpha subunit (EC 1.14.12.13)
+si_0544	Benzoate_degradation	benABC operon transcriptional activator BenR
+si_0544	Benzoate_degradation	benzoate MFS transporter BenK
+si_0544	Benzoate_degradation	benzoate dioxygenase, ferredoxin reductase component
+si_0544	Benzoate_degradation	benzoate-specific porin

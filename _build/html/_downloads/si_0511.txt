@@ -1,0 +1,10 @@
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein YadN
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein YadN-like
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Chaperone protein EcpD
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Outer membrane usher protein HtrE
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein YadM
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein YadM-like
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein YadL
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein YadK
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein YadC
+si_0511	The_usher_protein_HtrE_fimbrial_cluster	Fimbrial protein Yad-like

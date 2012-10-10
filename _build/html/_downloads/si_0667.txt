@@ -1,16 +1,13 @@
-ss00577	EF-G	Translation elongation factor G
-ss00577	EF-2	Translation elongation factor 2
-ss00577	EF-G-mito	Translation elongation factor G, mitochondrial
-ss00577	EF-G-chl	Translation elongation factor G, chloroplast
-ss00577	TetM	Tetracycline resistance protein TetM
-ss00577	TetO	Tetracycline resistance protein TetO
-ss00577	TetP	Tetracycline resistance protein TetP
-ss00577	TetQ	Tetracycline resistance protein TetQ
-ss00577	TetS	Tetracycline resistance protein TetS
-ss00577	TetT	Tetracycline resistance protein TetT
-ss00577	OtrA	Oxytetracycline resistance protein OtrA
-ss00577	Tet-rel	Ribosome protection-type tetracycline resistance related proteins
-ss00577	Tet-rel_2	Ribosome protection-type tetracycline resistance related proteins, group 2
-ss00577	EF-G-rel_1	Translation elongation factor G-related protein
-ss00577	EF-G-para	Translation elongation factor G paralog
-ss00577	EF-G-strm	Translation elongation factor G Stremptomyces paralog
+si_0667	Translation_elongation_factor_G_family	Oxytetracycline resistance protein OtrA
+si_0667	Translation_elongation_factor_G_family	Ribosome protection-type tetracycline resistance related proteins
+si_0667	Translation_elongation_factor_G_family	Ribosome protection-type tetracycline resistance related proteins, group 2
+si_0667	Translation_elongation_factor_G_family	Tetracycline resistance protein TetM
+si_0667	Translation_elongation_factor_G_family	Tetracycline resistance protein TetO
+si_0667	Translation_elongation_factor_G_family	Tetracycline resistance protein TetP
+si_0667	Translation_elongation_factor_G_family	Tetracycline resistance protein TetQ
+si_0667	Translation_elongation_factor_G_family	Translation elongation factor 2
+si_0667	Translation_elongation_factor_G_family	Translation elongation factor G
+si_0667	Translation_elongation_factor_G_family	Translation elongation factor G Stremptomyces paralog
+si_0667	Translation_elongation_factor_G_family	Translation elongation factor G paralog
+si_0667	Translation_elongation_factor_G_family	Translation elongation factor G, mitochondrial
+si_0667	Translation_elongation_factor_G_family	Translation elongation factor G-related protein

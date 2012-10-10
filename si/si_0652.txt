@@ -1,45 +1,7 @@
-ss00749	kefB	Glutathione-regulated potassium-efflux system protein kefB
-ss00749	kefG	Glutathione-regulated potassium-efflux system ancillary protein KefG
-ss00749	kefC	Glutathione-regulated potassium-efflux system protein KefC
-ss00749	KefF	Glutathione-regulated potassium-efflux system ancillary protein KefF
-ss00749	ATPb	Glutathione-regulated potassium-efflux system ATP-binding protein
-ss00749	slyD	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
-ss00749	fkpA	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
-ss00749	TrkFP	TrkA family protein
-ss00749	PCP	Putative cytoplasmic protein ,probably associated with Glutathione-regulated potassium-efflux
-ss00749	FNR	Cyclic AMP receptor protein
-ss00749	TusD	tRNA 5-methylaminomethyl-2-thiouridine synthase TusD
-ss00749	TusC	tRNA 5-methylaminomethyl-2-thiouridine synthase TusC
-ss00749	TusB	tRNA 5-methylaminomethyl-2-thiouridine synthase TusB
-ss00749	PRK	Phosphoribulokinase (EC 2.7.1.19)
-ss00749	PH	Hydrolase, alpha/beta fold family functionally coupled to Phosphoribulokinase
-ss00749	AMDC	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50
-ss00749	UbiF	Ubiquinone biosynthesis monooxgenase UbiF/COQ7 (EC 1.14.13.-)
-ss00749	KefKL	Glutathione-regulated potassium-efflux system protein KefKL
-ss00749	pKefB	putative Glutathione-regulated potassium-efflux system protein KefB
-ss00749	TrkA	Trk system potassium uptake protein trkA
-ss00749	MSC	Large-conductance mechanosensitive channel
-ss00749	slyX	Protein slyX
-ss00749	YRKL	NAD(P)H oxidoreductase YRKL (EC 1.6.99.-); Putative NADPH-quinone reductase (modulator of drug activity B); Flavodoxin 2
-ss00749	Kup	Kup system potassium uptake protein
-ss00749	ZnOR	Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase
-ss00749	cAMP	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
-ss00749	PDE	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
-ss00749	ElaA	ElaA protein
-ss00749	FADS	Fatty acid desaturase (EC 1.14.19.1)
-ss00749	RDP	Rhodanese-like domain protein
-ss00749	KefA	Potassium efflux system KefA / Small-conductance mechanosensitive channel
-ss00749	PRF	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
-ss00749	Sun	Fmu (Sun) /eukaryotic nucleolar NOL1/Nop2p ;  tRNA and rRNA cytosine-C5-methylases
-ss00749	MaR	Transcriptional regulator, MarR family; Cinnamoyl ester hydrolase
-ss00749	NNR	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)
-ss00749	RD	Rubredoxin-NAD(+) reductase (EC 1.18.1.1)
-ss00749	AAT	Alginate O-acetyltransferase
-ss00749	CZCR	Cobalt-zinc-cadmium resistance protein
-ss00749	HGH	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
-ss00749	GC	diguanylate cyclase (GGDEF domain) with PAS/PAC sensor
-ss00749	GC2	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)
-ss00749	OsmS	OsmC/Ohr family protein
-ss00749	YjeP	Potassium efflux system YjeP
-ss00749	f786	Potassium efflux system f786
-ss00749	KEFA	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+si_0652	Glutathione-regulated_potassium-efflux_system_and_associated_functions	Glutathione-regulated potassium-efflux system ATP-binding protein
+si_0652	Glutathione-regulated_potassium-efflux_system_and_associated_functions	Glutathione-regulated potassium-efflux system ancillary protein KefF
+si_0652	Glutathione-regulated_potassium-efflux_system_and_associated_functions	Glutathione-regulated potassium-efflux system ancillary protein KefG
+si_0652	Glutathione-regulated_potassium-efflux_system_and_associated_functions	Glutathione-regulated potassium-efflux system protein KefB
+si_0652	Glutathione-regulated_potassium-efflux_system_and_associated_functions	Potassium efflux system YjeP
+si_0652	Glutathione-regulated_potassium-efflux_system_and_associated_functions	Potassium efflux system f786
+si_0652	Glutathione-regulated_potassium-efflux_system_and_associated_functions	Trk system potassium uptake protein TrkA

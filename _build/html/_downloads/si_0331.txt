@@ -1,0 +1,19 @@
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Cell division protein DivIC
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Cell division protein FtsH (EC 3.4.24.-)
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Hypothetical protein, FIG12300 and FIG043029 fams
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Low temperature requirement B protein
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Peptidyl-tRNA hydrolase, archaeal type (EC 3.1.1.29)
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	RNA binding protein, contains ribosomal protein S1 domain
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	S1 RNA binding domain protein
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	S4-domain-containing heat shock protein
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	SSU ribosomal protein S1p
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Spore cortex biosynthesis protein
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Transcription accessory protein (S1 RNA-binding domain)
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Transcription-repair coupling factor
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	Transcription-repair coupling factor fragment
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	a forespore shell protein
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	cell-division initiation protein
+si_0331	Cell_division-ribosomal_stress_proteins_cluster	tRNA(Ile)-lysidine synthetase

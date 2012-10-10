@@ -1,0 +1,6 @@
+si_0949	The_mdtABCD_multidrug_resistance_cluster	Sensory histidine kinase BaeS
+si_0949	The_mdtABCD_multidrug_resistance_cluster	Response regulator BaeR
+si_0949	The_mdtABCD_multidrug_resistance_cluster	Probable RND efflux membrane fusion protein
+si_0949	The_mdtABCD_multidrug_resistance_cluster	Multidrug transporter MdtB
+si_0949	The_mdtABCD_multidrug_resistance_cluster	Multidrug transporter MdtC
+si_0949	The_mdtABCD_multidrug_resistance_cluster	Multidrug transporter MdtD

@@ -1,28 +1,27 @@
-ss00055	EutS	Ethanolamine utilization polyhedral-body-like protein EutS
-ss00055	EutP	Ethanolamine utilization protein EutP
-ss00055	EutQ	Ethanolamine utilization protein EutQ
-ss00055	PduL-like	Ethanolamine utilization protein similar to PduL
-ss00055	PduT-like	Ethanolamine utilization protein similar to PduT
-ss00055	PduU-like	Ethanolamine utilization protein similar to PduU
-ss00055	PduV-like	Ethanolamine utilization protein similar to PduV
-ss00055	PduA-like	Ethanolamine utilization protein similar to PduA/PduJ
-ss00055	EutT	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), ethanolamine utilization
-ss00055	EutD	Phosphate acetyltransferase (EC 2.3.1.8), ethanolamine utilization-specific
-ss00055	EutM	Ethanolamine utilization polyhedral-body-like protein EutM
-ss00055	EutN	Ethanolamine utilization polyhedral-body-like protein EutN
-ss00055	EutE	Acetaldehyde dehydrogenase (acetylating) (EC 1.2.1.10)
-ss00055	EutE-like	Acetaldehyde dehydrogenase, ethanolamine utilization cluster
-ss00055	EutJ	Ethanolamine utilization protein EutJ
-ss00055	EutG	Ethanolamine utilization protein EutG
-ss00055	EutH	Ethanolamine permease
-ss00055	EutA	Ethanolamine utilization protein EutA
-ss00055	EutB	Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)
-ss00055	EutC	Ethanolamine ammonia-lyase light chain (EC 4.3.1.7)
-ss00055	EutL	Ethanolamine utilization polyhedral-body-like protein EutL
-ss00055	EutK	Ethanolamine utilization polyhedral-body-like protein EutK
-ss00055	EutR	Ethanolamine operon regulatory protein
-ss00055	HisKinase	Ethanolamine sensory transduction histidine kinase
-ss00055	RespReg	Ethanolamine two-component response regulator
-ss00055	clustered	Protein clustered with ethanolamine utilization
-ss00055	EutD*	Phosphate acetyltransferase (EC 2.3.1.8)
-ss00055	AcKinase	Acetate kinase (EC 2.7.2.1)
+si_0139	Ethanolamine_utilization	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), ethanolamine utilization
+si_0139	Ethanolamine_utilization	Acetaldehyde dehydrogenase, ethanolamine utilization cluster
+si_0139	Ethanolamine_utilization	Acetate kinase (EC 2.7.2.1)
+si_0139	Ethanolamine_utilization	Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)
+si_0139	Ethanolamine_utilization	Ethanolamine ammonia-lyase light chain (EC 4.3.1.7)
+si_0139	Ethanolamine_utilization	Ethanolamine operon regulatory protein
+si_0139	Ethanolamine_utilization	Ethanolamine permease
+si_0139	Ethanolamine_utilization	Ethanolamine sensory transduction histidine kinase
+si_0139	Ethanolamine_utilization	Ethanolamine two-component response regulator
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutK
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutL
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutM
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutN
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutS
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutA
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutG
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutJ
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutP
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutQ
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduA/PduJ
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduL
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduT
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduU
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduV
+si_0139	Ethanolamine_utilization	Phosphate acetyltransferase (EC 2.3.1.8)
+si_0139	Ethanolamine_utilization	Phosphate acetyltransferase (EC 2.3.1.8), ethanolamine utilization-specific
+si_0139	Ethanolamine_utilization	Protein clustered with ethanolamine utilization

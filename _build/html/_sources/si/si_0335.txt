@@ -1,11 +1,11 @@
-ss00649	SIG1	Dihydrofolate reductase (EC 1.5.1.3)
-ss00649	SIG2	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
-ss00649	SIG3	ApaG protein
-ss00649	SIG4	Dimethyladenosine transferase (EC 2.1.1.-)
-ss00649	SIG5	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
-ss00649	SIG6	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)
-ss00649	SIG7	Organic solvent tolerance protein precursor
-ss00649	SIG8	DnaJ-like protein DjlA
-ss00649	NSIG1	Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
-ss00649	SIG9	RNA polymerase associated protein RapA (EC 3.6.1.-)
-ss00649	SIG10	DNA polymerase II (EC 2.7.7.7)
+si_0335	EC49-61	Dihydrofolate reductase (EC 1.5.1.3)
+si_0335	EC49-61	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+si_0335	EC49-61	ApaG protein
+si_0335	EC49-61	Dimethyladenosine transferase (EC 2.1.1.-)
+si_0335	EC49-61	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+si_0335	EC49-61	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)
+si_0335	EC49-61	Organic solvent tolerance protein precursor
+si_0335	EC49-61	DnaJ-like protein DjlA
+si_0335	EC49-61	Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+si_0335	EC49-61	RNA polymerase associated protein RapA (EC 3.6.1.-)
+si_0335	EC49-61	DNA polymerase II (EC 2.7.7.7)

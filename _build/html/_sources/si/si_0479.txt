@@ -1,0 +1,11 @@
+si_0479	Vibrioferrin_synthesis	Vibrioferrin ligase/carboxylase protein PvsA
+si_0479	Vibrioferrin_synthesis	Vibrioferrin amide bond forming protein PvsB
+si_0479	Vibrioferrin_synthesis	Vibrioferrin membrane-spanning transport protein PvsC
+si_0479	Vibrioferrin_synthesis	Vibrioferrin amide bond forming protein PvsD
+si_0479	Vibrioferrin_synthesis	Vibrioferrin decarboxylase protein PvsE
+si_0479	Vibrioferrin_synthesis	Ferric siderophore receptor PsuA
+si_0479	Vibrioferrin_synthesis	Vibrioferrin receptor PvuA
+si_0479	Vibrioferrin_synthesis	Ferrichrome ABC transporter, periplasmic iron-binding protein PvuB
+si_0479	Vibrioferrin_synthesis	Ferrichrome ABC transporter (permease) PvuC
+si_0479	Vibrioferrin_synthesis	Ferrichrome ABC transporter (permease) PvuD
+si_0479	Vibrioferrin_synthesis	Ferrichrome ABC transporter (ATP binding subunit) PvuE

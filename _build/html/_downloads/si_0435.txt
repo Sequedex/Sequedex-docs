@@ -1,0 +1,16 @@
+si_0435	Exosporium	Exosporium protein B @ Spore coat protein G
+si_0435	Exosporium	Exosporium protein C
+si_0435	Exosporium	Exosporium protein D-like protein
+si_0435	Exosporium	Exosporium protein D
+si_0435	Exosporium	Exosporium protein E
+si_0435	Exosporium	Exosporium protein F
+si_0435	Exosporium	Exosporium protein G
+si_0435	Exosporium	Exosporium protein J
+si_0435	Exosporium	BclA protein
+si_0435	Exosporium	Exosporium protein K
+si_0435	Exosporium	Outer spore coat protein E
+si_0435	Exosporium	Alanine racemase (EC 5.1.1.1) in exosporium
+si_0435	Exosporium	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1) in exosporium
+si_0435	Exosporium	Exosporium protein Y
+si_0435	Exosporium	Exosporium protein A
+si_0435	Exosporium	Exosporium SOD

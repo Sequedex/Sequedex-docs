@@ -1,22 +1,20 @@
-ss00874	IF-2	Translation initiation factor 2
-ss00874	EF-1a	Translation elongation factor 1 alpha subunit
-ss00874	EF-Tu	Translation elongation factor Tu
-ss00874	EF-2	Translation elongation factor 2
-ss00874	EF-G	Translation elongation factor G
-ss00874	TypA/BipA	GTP-binding protein TypA/BipA
-ss00874	SRP54	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
-ss00874	FtsY	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
-ss00874	EngA	GTP-binding protein EngA
-ss00874	EngB	GTP-binding protein EngB
-ss00874	EngC	Ribosome small subunit-stimulated GTPase EngC
-ss00874	EngC2	Probable GTPase related to EngC
-ss00874	Era	GTP-binding protein Era
-ss00874	LepA	Translation elongation factor LepA
-ss00874	Obg	COG0536: GTP-binding protein Obg
-ss00874	RbgA	50S ribosomal subunit maturation GTPase RbgA (B. subtilis YlqF)
-ss00874	Nop2p	GTPase Nop2p which associates with pre-60S ribosomal subunits in the nucleolus and is required for their export and maturation
-ss00874	Nug1p	GTPase Nug1p, which associates with pre-60S ribosomal subunits in the nucleolus and is required for their export from the nucleus
-ss00874	TrmE	GTPase and tRNA-U34 5-formylation enzyme TrmE
-ss00874	YchF	GTP-binding and nucleic acid-binding protein YchF
-ss00874	HflX	GTP-binding protein HflX
-ss00874	YqeH	GTP-binding protein YqeH, possibly involved in replication initiation
+si_0673	Universal_GTPases	50S ribosomal subunit maturation GTPase RbgA (B. subtilis YlqF)
+si_0673	Universal_GTPases	COG0536: GTP-binding protein Obg
+si_0673	Universal_GTPases	GTP-binding and nucleic acid-binding protein YchF
+si_0673	Universal_GTPases	GTP-binding protein EngA
+si_0673	Universal_GTPases	GTP-binding protein EngB
+si_0673	Universal_GTPases	GTP-binding protein Era
+si_0673	Universal_GTPases	GTP-binding protein HflX
+si_0673	Universal_GTPases	GTP-binding protein TypA/BipA
+si_0673	Universal_GTPases	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+si_0673	Universal_GTPases	GTPase and tRNA-U34 5-formylation enzyme TrmE
+si_0673	Universal_GTPases	Probable GTPase related to EngC
+si_0673	Universal_GTPases	Ribosome small subunit-stimulated GTPase EngC
+si_0673	Universal_GTPases	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+si_0673	Universal_GTPases	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+si_0673	Universal_GTPases	Translation elongation factor 1 alpha subunit
+si_0673	Universal_GTPases	Translation elongation factor 2
+si_0673	Universal_GTPases	Translation elongation factor G
+si_0673	Universal_GTPases	Translation elongation factor LepA
+si_0673	Universal_GTPases	Translation elongation factor Tu
+si_0673	Universal_GTPases	Translation initiation factor 2

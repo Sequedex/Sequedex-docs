@@ -1,21 +1,21 @@
-ss00821	PrsA	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
-ss00821	PurF	Amidophosphoribosyltransferase (EC 2.4.2.14)
-ss00821	PurD	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
-ss00821	PurN	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
-ss00821	PurT	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
-ss00821	PurL	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
-ss00821	PurQ	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
-ss00821	PurS	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
-ss00821	PurM	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
-ss00821	PurE	Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)
-ss00821	PurK	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)
-ss00821	PurC	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
-ss00821	PurB	Adenylosuccinate lyase (EC 4.3.2.2)
-ss00821	PurH1	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
-ss00821	PurH2	IMP cyclohydrolase (EC 3.5.4.10)
-ss00821	PurP	Phosphoribosylaminoimidazolecarboxamide formyltransferase [alternate form]
-ss00821	PurP-2	Possible subunit variant of phosphoribosylaminoimidazolecarboxamide formyltransferase [alternate form]
-ss00821	PurP-3	Possible third subunit-variant of phosphoribosylaminoimidazolecarboxamide formyltransferase [alternate form]
-ss00821	PurO	IMP cyclohydrolase (EC 3.5.4.10) [alternate form]
-ss00821	YabJ	YabJ, a purine regulatory protein and member of the highly conserved YjgF family
-ss00821	PurR	PurR: transcription regulator associated with purine metabolism
+si_0600	De_Novo_Purine_Biosynthesis	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+si_0600	De_Novo_Purine_Biosynthesis	Amidophosphoribosyltransferase (EC 2.4.2.14)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+si_0600	De_Novo_Purine_Biosynthesis	Adenylosuccinate lyase (EC 4.3.2.2)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+si_0600	De_Novo_Purine_Biosynthesis	IMP cyclohydrolase (EC 3.5.4.10)
+si_0600	De_Novo_Purine_Biosynthesis	Phosphoribosylaminoimidazolecarboxamide formyltransferase [alternate form]
+si_0600	De_Novo_Purine_Biosynthesis	Possible subunit variant of phosphoribosylaminoimidazolecarboxamide formyltransferase [alternate form]
+si_0600	De_Novo_Purine_Biosynthesis	Possible third subunit-variant of phosphoribosylaminoimidazolecarboxamide formyltransferase [alternate form]
+si_0600	De_Novo_Purine_Biosynthesis	IMP cyclohydrolase (EC 3.5.4.10) [alternate form]
+si_0600	De_Novo_Purine_Biosynthesis	YabJ, a purine regulatory protein and member of the highly conserved YjgF family
+si_0600	De_Novo_Purine_Biosynthesis	PurR: transcription regulator associated with purine metabolism

@@ -1,1 +1,1 @@
-ss00063	PurR	Purine nucleotide synthesis repressor
+si_0603	Purine_nucleotide_synthesis_regulator	Purine nucleotide synthesis repressor

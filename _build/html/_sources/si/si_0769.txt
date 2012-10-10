@@ -1,0 +1,5 @@
+si_0769	SpeB-SpeF_extended_regulon	Streptodornase B
+si_0769	SpeB-SpeF_extended_regulon	RopB
+si_0769	SpeB-SpeF_extended_regulon	Strepotococcal cysteine protease (Streptopain) (EC 3.4.22.10)
+si_0769	SpeB-SpeF_extended_regulon	Streptopain inhibitor
+si_0769	SpeB-SpeF_extended_regulon	Proteinase maturation protein (RopA)

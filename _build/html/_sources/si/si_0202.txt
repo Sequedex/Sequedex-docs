@@ -1,42 +1,36 @@
-ss01025	ypfP	diglucosyldiacylglycerol synthase (LTA membrane anchor synthesis)
-ss01025	Dcl	D-alanine-activating enzyme (DAE) (D-alanine-D-alanyl carrier protein ligase) (DCL)
-ss01025	Dcp	D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)
-ss01025	TagF	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase (EC 2.7.8.12)
-ss01025	licD1	Lipopolysaccharide cholinephosphotransferase LicD1 (EC 2.7.8.-)
-ss01025	DltB	D-alanyl transfer protein DltB
-ss01025	DltA	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
-ss01025	DltD	Poly(glycerophosphate chain) D-alanine transfer protein DltD
-ss01025	DltC	D-alanine carrier protein DltC
-ss01025	TP	Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids
-ss01025	TBP	Teichoic acid biosynthesis protein
-ss01025	PGPP	Poly(glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)
-ss01025	DltR	Regulation of D-alanyl-lipoteichoic acid biosynthesis, DltR
-ss01025	DltS	Regulation of D-alanyl-lipoteichoic acid biosynthesis, sensor histidine kinase
-ss01025	GPCT	Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)
-ss01025	TagB	CDP-glycerol: N-acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase
-ss01025	TABC	Putative major teichoic acid biosynthesis protein C
-ss01025	UDP	Undecaprenyl-diphosphatase (EC 3.6.1.27)
-ss01025	tagG	Teichoic acid translocation permease protein TagG
-ss01025	MGGS	Monogalactosyldiacylglycerol synthase (EC 2.4.1.46)
-ss01025	PGT	Putative glycosyl/glycerophosphate transferase in teichoic acid biosynthesis
-ss01025	PPRT	Putative polyribitolphosphotransferase
-ss01025	tarL	CDP-ribitol:poly(ribitol phosphate) ribitol phosphotransferase
-ss01025	EPCT	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
-ss01025	RPCT	ribitol-5-phosphate cytidylyltransferase (EC 2.7.7.40)
-ss01025	HP	Hypohetical Teichoic Acid Biosynthesis Protein
-ss01025	pGPolPT	Putative CDP-glycosylpolyol phosphate:glycosylpolyol glycosylpolyolphosphotransferase
-ss01025	pTagF	Putative CDP-glycerol:glycerophosphate glycerophosphotransferase (EC 2.7.8.-)
-ss01025	TagO	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
-ss01025	AMT	N-acetylmannosaminyltransferase (EC 2.4.1.187)
-ss01025	TaqX	Teichoic acid biosynthesis protein X
-ss01025	TAGP	Teichoic acid glycosylation protein
-ss01025	pT	COG1887: Putative glycosyl/glycerophosphate transferases involved in teichoic acid biosynthesis TagF/TagB/EpsJ/RodC
-ss01025	GMP	galactosamine-containing minor teichoic acid biosynthesis protein
-ss01025	ggaB	Minor teichoic acid biosynthesis protein GgaB
-ss01025	ggaA	Minor teichoic acid biosynthesis protein GgaA
-ss01025	tagH	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
-ss01025	GTp	Glycosyl transferase involved in teichoic acid biosynthesis
-ss01025	ypfP?	Monogalactosyldiacylglycerol synthase precursor
-ss01025	DltD_2	DltD protein
-ss01025	LicD3	Lipopolysaccharide cholinephosphotransferase LicD3 (EC 2.7.8.-)
-ss01025	CarB	Membrane protein CarB involved in the export of O-antigen and teichoic acid, Streptococci specific
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	CDP-glycerol: N-acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase (EC 2.7.8.12)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	CDP-ribitol:poly(ribitol phosphate) ribitol phosphotransferase
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	COG1887: Putative glycosyl/glycerophosphate transferases involved in teichoic acid biosynthesis TagF/TagB/EpsJ/RodC
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	D-alanyl transfer protein DltB
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	DltD protein
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Glycosyl transferase involved in teichoic acid biosynthesis
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Hypohetical Teichoic Acid Biosynthesis Protein
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Lipopolysaccharide cholinephosphotransferase LicD3 (EC 2.7.8.-)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Membrane protein CarB involved in the export of O-antigen and teichoic acid, Streptococci specific
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Minor teichoic acid biosynthesis protein GgaA
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Minor teichoic acid biosynthesis protein GgaB
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Monogalactosyldiacylglycerol synthase (EC 2.4.1.46)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Monogalactosyldiacylglycerol synthase precursor
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Poly(glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Putative CDP-glycerol:glycerophosphate glycerophosphotransferase (EC 2.7.8.-)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Putative CDP-glycosylpolyol phosphate:glycosylpolyol glycosylpolyolphosphotransferase
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Putative glycosyl/glycerophosphate transferase in teichoic acid biosynthesis
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Putative major teichoic acid biosynthesis protein C
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Putative polyribitolphosphotransferase
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Regulation of D-alanyl-lipoteichoic acid biosynthesis, DltR
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Regulation of D-alanyl-lipoteichoic acid biosynthesis, sensor histidine kinase
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Teichoic acid biosynthesis protein
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Teichoic acid biosynthesis protein X
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Teichoic acid glycosylation protein
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Teichoic acid translocation permease protein TagG
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	diglucosyldiacylglycerol synthase (LTA membrane anchor synthesis)
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	galactosamine-containing minor teichoic acid biosynthesis protein
+si_0202	Teichoic_and_lipoteichoic_acids_biosynthesis	ribitol-5-phosphate cytidylyltransferase (EC 2.7.7.40)

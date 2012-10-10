@@ -1,0 +1,15 @@
+si_0781	Pseudomonas_quinolone_signal_PQS	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) [PQS biosynthesis]
+si_0781	Pseudomonas_quinolone_signal_PQS	Anthranilate synthase, aminase component (EC 4.1.3.27) [PQS biosynthesis]
+si_0781	Pseudomonas_quinolone_signal_PQS	BarA-associated response regulator UvrY (= GacA = SirA)
+si_0781	Pseudomonas_quinolone_signal_PQS	Hypothetical protein in AHQ biosynthetic operon
+si_0781	Pseudomonas_quinolone_signal_PQS	Multiple virulence factor regulator MvfR/PqsR
+si_0781	Pseudomonas_quinolone_signal_PQS	N-acyl-L-homoserine lactone synthetase LasI
+si_0781	Pseudomonas_quinolone_signal_PQS	PQS biosynthesis protein PqsA, anthranilate-CoA ligase (EC 6.2.1.32)
+si_0781	Pseudomonas_quinolone_signal_PQS	PQS biosynthesis protein PqsB, similar to 3-oxoacyl-[acyl-carrier-protein] synthase III
+si_0781	Pseudomonas_quinolone_signal_PQS	PQS biosynthesis protein PqsC, similar to 3-oxoacyl-[acyl-carrier-protein] synthase III
+si_0781	Pseudomonas_quinolone_signal_PQS	PQS biosynthesis protein PqsD, similar to 3-oxoacyl-[acyl-carrier-protein] synthase III
+si_0781	Pseudomonas_quinolone_signal_PQS	PQS biosynthesis protein PqsH, similar to FAD-dependent monooxygenases
+si_0781	Pseudomonas_quinolone_signal_PQS	PqsE, quinolone signal response protein
+si_0781	Pseudomonas_quinolone_signal_PQS	Putative 3-oxoacyl-[acyl-carrier-protein] synthase III in AHQ biosynthetic operon, related to PqsB
+si_0781	Pseudomonas_quinolone_signal_PQS	Putative non-ribosomal peptide synthetase in AHQ biosynthetic operon
+si_0781	Pseudomonas_quinolone_signal_PQS	Transcriptional regulator LasR

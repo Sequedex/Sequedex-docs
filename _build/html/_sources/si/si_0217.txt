@@ -1,10 +1,10 @@
-ss00838	Fbp	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
-ss00838	MsrA	Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)
-ss00838	YtfM	Uncharacterized protein YtfM precursor
-ss00838	YtfP	UPF0131 protein YtfP
-ss00838	YtfN	Uncharacterized protein YtfN
-ss00838	YtfT	Putative sugar ABC transport system, permease protein YtfT
-ss00838	YjfF	Putative sugar ABC transport system, permease protein YjfF
-ss00838	YtfQ	Putative sugar ABC transport system, periplasmic binding protein YtfQ precursor
-ss00838	YtfR	Putative sugar ABC transport system, ATP-binding protein YtfR (EC 3.6.3.17)
-ss00838	GudP	Putative sugar transporter
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Uncharacterized protein YtfM precursor
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	UPF0131 protein YtfP
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Uncharacterized protein YtfN
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Putative sugar ABC transport system, permease protein YtfT
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Putative sugar ABC transport system, permease protein YjfF
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Putative sugar ABC transport system, periplasmic binding protein YtfQ precursor
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Putative sugar ABC transport system, ATP-binding protein YtfR (EC 3.6.3.17)
+si_0217	Cluster_Ytf_and_putative_sugar_transporter	Putative sugar transporter

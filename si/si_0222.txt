@@ -1,5 +1,5 @@
-ss00276	R1	Septation ring formation regulator EzrA
-ss00276	R2	CDS_ID OB2202
-ss00276	R4	SSU ribosomal protein S4p (S9e)
-ss00276	R5	Cysteine desulfurase (EC 2.8.1.7)
-ss00276	R6	Thiamine biosynthesis protein ThiI
+si_0222	CBSS-393130.3.peg.794	Septation ring formation regulator EzrA
+si_0222	CBSS-393130.3.peg.794	CDS_ID OB2202
+si_0222	CBSS-393130.3.peg.794	SSU ribosomal protein S4p (S9e)
+si_0222	CBSS-393130.3.peg.794	Thiamine biosynthesis protein ThiI
+si_0222	CBSS-393130.3.peg.794	Cysteine desulfurase (EC 2.8.1.7)

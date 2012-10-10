@@ -1,0 +1,3 @@
+si_0686	tRNA_aminoacylation,_Pro	Prolyl-tRNA synthetase (EC 6.1.1.15)
+si_0686	tRNA_aminoacylation,_Pro	Prolyl-tRNA synthetase related protein
+si_0686	tRNA_aminoacylation,_Pro	Prolyl-tRNA synthetase-related protein 1

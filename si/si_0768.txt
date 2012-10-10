@@ -1,0 +1,2 @@
+si_0768	A_conserved_operon_linked_to_TyrR_and_possibly_involved_in_virulence	Conserved protein YcjX with nucleoside triphosphate hydrolase domain
+si_0768	A_conserved_operon_linked_to_TyrR_and_possibly_involved_in_virulence	Membrane protein YcjF

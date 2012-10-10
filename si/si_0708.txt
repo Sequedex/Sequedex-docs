@@ -1,1 +1,1 @@
-ss00567	Thermosome	Thermosome subunit
+si_0708	Thermosome,_archaeal	Thermosome subunit

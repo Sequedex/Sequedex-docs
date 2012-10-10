@@ -1,0 +1,25 @@
+si_0631	Plasmid-encoded_T-DNA_transfer	ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex, VirB11
+si_0631	Plasmid-encoded_T-DNA_transfer	ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex, VirB4
+si_0631	Plasmid-encoded_T-DNA_transfer	Coupling protein VirD4, ATPase required for T-DNA transfer
+si_0631	Plasmid-encoded_T-DNA_transfer	Inner membrane protein of type IV secretion of T-DNA complex, TonB-like, VirB10
+si_0631	Plasmid-encoded_T-DNA_transfer	Inner membrane protein of type IV secretion of T-DNA complex, VirB3
+si_0631	Plasmid-encoded_T-DNA_transfer	Inner membrane protein of type IV secretion of T-DNA complex, VirB6
+si_0631	Plasmid-encoded_T-DNA_transfer	Inner membrane protein of type IV secretion of T-DNA complex, VirB8
+si_0631	Plasmid-encoded_T-DNA_transfer	Major pilus subunit of type IV secretion complex, VirB2
+si_0631	Plasmid-encoded_T-DNA_transfer	Minor pilin of type IV secretion complex, VirB5
+si_0631	Plasmid-encoded_T-DNA_transfer	Outer membrane and periplasm component of type IV secretion of T-DNA complex, has secretin-like domain, VirB9
+si_0631	Plasmid-encoded_T-DNA_transfer	Peptidoglycan hydrolase VirB1, involved in T-DNA transfer
+si_0631	Plasmid-encoded_T-DNA_transfer	Plant-inducible protein PinF1, cytochrome P450-like, contributes to virulence
+si_0631	Plasmid-encoded_T-DNA_transfer	Plant-inducible protein PinF2, cytochrome P450-like, contributes to virulence
+si_0631	Plasmid-encoded_T-DNA_transfer	Protein VirD5 in virD operon
+si_0631	Plasmid-encoded_T-DNA_transfer	Protein VirF secreted into plant cell during T-DNA transfer
+si_0631	Plasmid-encoded_T-DNA_transfer	RHH DNA-binding protein VirC2, promotes T-DNA transfer
+si_0631	Plasmid-encoded_T-DNA_transfer	T-DNA border endonuclease VirD2, RP4 TraG-like relaxase
+si_0631	Plasmid-encoded_T-DNA_transfer	T-DNA border endonuclease, VirD1
+si_0631	Plasmid-encoded_T-DNA_transfer	Two-component response regulator of vir regulon, VirG
+si_0631	Plasmid-encoded_T-DNA_transfer	Two-component sensor kinase of vir regulon, VirA
+si_0631	Plasmid-encoded_T-DNA_transfer	VirC1 protein promotes T-DNA transfer, ParA/MinD-like
+si_0631	Plasmid-encoded_T-DNA_transfer	VirD3 protein
+si_0631	Plasmid-encoded_T-DNA_transfer	VirE0 protein, induced by VirAG signaling system
+si_0631	Plasmid-encoded_T-DNA_transfer	VirE2 involved in nuclear transport of T-DNA, single-strand DNA binding protein
+si_0631	Plasmid-encoded_T-DNA_transfer	VirE3 involved in nuclear transport of T-DNA, potential plant transcriptional activator

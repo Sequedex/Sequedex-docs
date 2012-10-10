@@ -1,10 +1,9 @@
-ss01038	R1	Putative tricarboxylic transport TctC
-ss01038	R2	Tricarboxylate transport membrane protein TctA
-ss01038	R3	Transcriptional regulatory protein TctD
-ss01038	R4	tricarboxylate transport protein TctB, putative
-ss01038	R5	TRAP-type C4-dicarboxylate transport system, large permease component
-ss01038	R6	Tricarboxylate transport membrane protein TctB
-ss01038	R7	TRAP-type C4-dicarboxylate transport system, periplasmic component
-ss01038	R7b	COG5591: Uncharacterized conserved protein
-ss01038	R?	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 8
-ss01038	R?2	TRAP-type uncharacterized transport system, fused permease component
+si_0276	CBSS-49338.1.peg.459	COG5591: Uncharacterized conserved protein
+si_0276	CBSS-49338.1.peg.459	Putative tricarboxylic transport TctC
+si_0276	CBSS-49338.1.peg.459	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 8
+si_0276	CBSS-49338.1.peg.459	TRAP-type C4-dicarboxylate transport system, large permease component
+si_0276	CBSS-49338.1.peg.459	TRAP-type C4-dicarboxylate transport system, periplasmic component
+si_0276	CBSS-49338.1.peg.459	TRAP-type uncharacterized transport system, fused permease component
+si_0276	CBSS-49338.1.peg.459	Tricarboxylate transport membrane protein TctA
+si_0276	CBSS-49338.1.peg.459	Tricarboxylate transport membrane protein TctB
+si_0276	CBSS-49338.1.peg.459	tricarboxylate transport protein TctB, putative

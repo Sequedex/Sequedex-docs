@@ -1,16 +1,16 @@
-ss00748	Hyp1	Subtilase family domain protein
-ss00748	Cam	Cell envelope-bound metalloprotease, Camelysin (EC 3.4.24.-)
-ss00748	TasA	Stationary phase secreted protein TasA, major protein component of biofilm matrix
-ss00748	YqxM	YqxM protein, required for localization of TasA to extracellular matrix
-ss00748	SipW	Signal peptidase SipW (EC 3.4.21.89), required for TasA secretion
-ss00748	Prot1	Secreted and spore coat-associated protein 1, similar to biofilm matrix component TasA and to camelysin
-ss00748	Prot2	Secreted and spore coat-associated protein 2, similar to biofilm matrix component TasA and to camelysin
-ss00748	Prot3	Secreted and spore coat-associated protein 3, similar to biofilm matrix component TasA and to camelysin
-ss00748	Hyp2	Hypothetical protein in cluster with SinR and SinI
-ss00748	SinR	SinR, regulator of post-exponential-phase responses genes (competence and sporulation)
-ss00748	SinI	SinI protein, antagonist of SinR
-ss00748	iiA	Immune inhibitor A metalloprotease
-ss00748	Hyp3	Sporulation-associated protease N-terminal domain protein
-ss00748	Slr	Slr, positive regulator of the extracellular matrix biosynthesis operon yqxM-sipW-tasA
-ss00748	PlcR	Transcriptional activator PlcR
-ss00748	PapR	PlcR activating protein PapR, quorum-sensing effector
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Subtilase family domain protein
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Cell envelope-bound metalloprotease, Camelysin (EC 3.4.24.-)
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Stationary phase secreted protein TasA, major protein component of biofilm matrix
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	YqxM protein, required for localization of TasA to extracellular matrix
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Signal peptidase SipW (EC 3.4.21.89), required for TasA secretion
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Secreted and spore coat-associated protein 1, similar to biofilm matrix component TasA and to camelysin
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Secreted and spore coat-associated protein 2, similar to biofilm matrix component TasA and to camelysin
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Secreted and spore coat-associated protein 3, similar to biofilm matrix component TasA and to camelysin
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Hypothetical protein in cluster with SinR and SinI
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	SinR, regulator of post-exponential-phase responses genes (competence and sporulation)
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	SinI protein, antagonist of SinR
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Immune inhibitor A metalloprotease
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Sporulation-associated protease N-terminal domain protein
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Slr, positive regulator of the extracellular matrix biosynthesis operon yqxM-sipW-tasA
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Transcriptional activator PlcR
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	PlcR activating protein PapR, quorum-sensing effector

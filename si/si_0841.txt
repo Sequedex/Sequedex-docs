@@ -1,19 +1,19 @@
-ss00197	APRT	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
-ss00197	PRAI	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
-ss00197	IGS	Indole glycerophosphate synthase
-ss00197	TSa	Tryptophan synthase alpha chain (EC 4.2.1.20)
-ss00197	TSb	Tryptophan synthase beta chain (EC 4.2.1.20)
-ss00197	TM	tryptophan monooxygenase
-ss00197	IAH	Indole-acetamide hydrolase
-ss00197	N3	Nitrilase 1 (EC 3.5.5.1)
-ss00197	TT	Tryptophan transaminase
-ss00197	IPAC	Indole-3-pyruvate decarboxylase (EC 4.1.1.74)
-ss00197	IAD	Indole-acetaldehyde dehydrogenase
-ss00197	AAD	Aromatic-L-amino-acid decarboxylase (EC 4.1.1.28)
-ss00197	AO	Monoamine oxidase (1.4.3.4)
-ss00197	IAR	Indole-acetaldehyde reductase
-ss00197	TO	Tryptophol oxidase
-ss00197	BoundA	Indole-3-acetate beta-glucosyltransferase
-ss00197	ATFS	Flavonol 3-sulfotransferase (EC 2.8.2.25)
-ss00197	N2	Nitrilase 2 (EC 3.5.5.1)
-ss00197	AUX1	Putative AUX1-like permease
+si_0841	Auxin_biosynthesis	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+si_0841	Auxin_biosynthesis	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+si_0841	Auxin_biosynthesis	Indole glycerophosphate synthase
+si_0841	Auxin_biosynthesis	Tryptophan synthase alpha chain (EC 4.2.1.20)
+si_0841	Auxin_biosynthesis	Tryptophan synthase beta chain (EC 4.2.1.20)
+si_0841	Auxin_biosynthesis	tryptophan monooxygenase
+si_0841	Auxin_biosynthesis	Indole-acetamide hydrolase
+si_0841	Auxin_biosynthesis	Nitrilase 1 (EC 3.5.5.1)
+si_0841	Auxin_biosynthesis	Tryptophan transaminase
+si_0841	Auxin_biosynthesis	Indole-3-pyruvate decarboxylase (EC 4.1.1.74)
+si_0841	Auxin_biosynthesis	Indole-acetaldehyde dehydrogenase
+si_0841	Auxin_biosynthesis	Aromatic-L-amino-acid decarboxylase (EC 4.1.1.28)
+si_0841	Auxin_biosynthesis	Monoamine oxidase (1.4.3.4)
+si_0841	Auxin_biosynthesis	Indole-acetaldehyde reductase
+si_0841	Auxin_biosynthesis	Tryptophol oxidase
+si_0841	Auxin_biosynthesis	Indole-3-acetate beta-glucosyltransferase
+si_0841	Auxin_biosynthesis	Flavonol 3-sulfotransferase (EC 2.8.2.25)
+si_0841	Auxin_biosynthesis	Nitrilase 2 (EC 3.5.5.1)
+si_0841	Auxin_biosynthesis	Putative AUX1-like permease

@@ -1,0 +1,4 @@
+si_0932	Lysozyme_inhibitors	Inhibitor of vertebrate lysozyme precursor
+si_0932	Lysozyme_inhibitors	Periplasmic lysozyme inhibitor of c-type lysozyme
+si_0932	Lysozyme_inhibitors	Membrane-bound lysozyme inhibitor of c-type lysozyme
+si_0932	Lysozyme_inhibitors	Per-activated serine protease autotransporter enterotoxin EspC
