@@ -1,0 +1,34 @@
+ss00409	PyK	Pyruvate kinase (EC 2.7.1.40)
+ss00409	PpS	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+ss00409	PpD	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+ss00409	PC	Pyruvate carboxyl transferase (EC 6.4.1.1)
+ss00409	PC_a	Pyruvate carboxyl transferase subunit A (EC 6.4.1.1)
+ss00409	PC_b	Pyruvate carboxyl transferase subunit B (EC 6.4.1.1)
+ss00409	PEPC	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+ss00409	PEPCa	Phosphoenolpyruvate carboxylase, archaeal (EC 4.1.1.31)
+ss00409	PEPCK-PPi	Phosphoenolpyruvate carboxykinase (pyrophosphate) (4.1.1.38)
+ss00409	PEPCK-ATP	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+ss00409	PEPCK-GTP	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+ss00409	ME	NAD-dependent malic enzyme (EC 1.1.1.38)
+ss00409	ME_P	NADP-dependent malic enzyme (EC 1.1.1.40)
+ss00409	ME-D	D-malic enzyme (EC 1.1.1.83)
+ss00409	Reg	Positive regulator of Tartrate dehydrogenase/decarboxylase/D-malic enzyme
+ss00409	MalK	Two-component sensor histidine kinase, malate (EC 2.7.3.-)
+ss00409	MalR	Two-component response regulator, malate (EC 2.7.3.-)
+ss00409	MT	Malate permease
+ss00409	MNaT	Malate Na(+) symporter
+ss00409	C4-tr	Aerobic C4-dicarboxylate transporter for fumarate, L-malate, D-malate, succunate
+ss00409	MLE	Malolactic enzyme (EC 1.-.-.-)
+ss00409	MLR	Malolactic regulator
+ss00409	ODC_a	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)
+ss00409	ODC_b	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)
+ss00409	ODC_g	Oxaloacetate decarboxylase gamma chain (EC 4.1.1.3)
+ss00409	ODC_bcc	Biotin carboxyl carrier protein of oxaloacetate decarboxylase
+ss00409	Hyp1	Membrane protein associated with oxaloacetate decarboxylase
+ss00409	ODC-2	Oxaloacetate decarboxylase, divalent-cation-dependent (EC 4.1.1.3)
+ss00409	ODC_cit	Oxaloacetate decarboxylase involved in citrate fermentation (EC 4.1.1.3)
+ss00409	ODC-cit2	Oxaloacetate decarboxylase involved in citrate fermentation, predicted (EC 4.1.1.3)
+ss00409	POD	Pyruvate:Oxaloacetate transcarboxylase domain protein
+ss00409	BCCP	Biotin carboxyl carrier protein
+ss00409	Hyp2	Pyruvate-utilizing enzyme, similar to phosphoenolpyruvate synthase
+ss00409	Hyp3	PEP/pyruvate binding domain protein

@@ -1,0 +1,10 @@
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Copper metallochaperone, bacterial analog of Cox17 protein
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, putative copper metallochaperone
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Frataxin homolog CyaY, facilitates iron supply for heme A synthesis or Fe-S cluster assembly
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Hypotehtical protein in Cytochrome oxidase biogenesis cluster
+si_0818	Biogenesis_of_cytochrome_c_oxidases	Sco1/SenC/PrrC protein family

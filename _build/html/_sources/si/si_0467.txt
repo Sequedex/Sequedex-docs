@@ -1,4 +1,0 @@
-si_0467	Petrobactin-mediated_iron_uptake_system	Petrobactin ABC transporter, periplasmic binding protein
-si_0467	Petrobactin-mediated_iron_uptake_system	Petrobactin ABC transporter, ATP-binding protein
-si_0467	Petrobactin-mediated_iron_uptake_system	Petrobactin ABC transporter, permease protein I
-si_0467	Petrobactin-mediated_iron_uptake_system	Petrobactin ABC transporter, permease protein II

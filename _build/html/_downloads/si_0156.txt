@@ -1,7 +1,0 @@
-si_0156	Heterocyst_formation_in_cyanobacteria	Heterocyst formation inhibiting signaling peptide PatS
-si_0156	Heterocyst_formation_in_cyanobacteria	Protein FraG required for filament integrity and heterocyst maturation
-si_0156	Heterocyst_formation_in_cyanobacteria	Main regulator of heterocyst differentiation HetR
-si_0156	Heterocyst_formation_in_cyanobacteria	Nitrogen-responsive response regulator NrrA
-si_0156	Heterocyst_formation_in_cyanobacteria	Global nitrogen regulatory protein, CRP family of transcriptional regulators
-si_0156	Heterocyst_formation_in_cyanobacteria	Heterocyst differentiation protein HetP
-si_0156	Heterocyst_formation_in_cyanobacteria	Heterocyst differentiation protein HetC

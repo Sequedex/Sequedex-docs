@@ -1,0 +1,34 @@
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L1p (L10Ae)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L2p (L8e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L3p (L3e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L4p (L1e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L5p (L11e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L6p (L9e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L7/L12 (P1/P2)
+si_0660	Ribosome_LSU_bacterial	Firmicutes ribosomal L7Ae family protein
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L9p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L10p (P0)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L11p (L12e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L13p (L13Ae)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L14p (L23e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L15p (L27Ae)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L16p (L10e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L17p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L18p (L5e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L19p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L20p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L21p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L22p (L17e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L23p (L23Ae)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L24p (L26e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L25p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L27p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L28p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L29p (L35e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L30p (L7e)
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L31p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L32p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L33p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L34p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L35p
+si_0660	Ribosome_LSU_bacterial	LSU ribosomal protein L36p

@@ -1,8 +1,0 @@
-si_0720	Selenocysteine_metabolism	L-seryl-tRNA(Sec) kinase
-si_0720	Selenocysteine_metabolism	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
-si_0720	Selenocysteine_metabolism	O-phosphoseryl-tRNA(Sec) selenium transferase
-si_0720	Selenocysteine_metabolism	Selenide,water dikinase (EC 2.7.9.3)
-si_0720	Selenocysteine_metabolism	Selenocysteine-specific translation elongation factor
-si_0720	Selenocysteine_metabolism	Selenophosphate-dependent tRNA 2-selenouridine synthase
-si_0720	Selenocysteine_metabolism	UPF0425 pyridoxal phosphate-dependent protein MJ0158
-si_0720	Selenocysteine_metabolism	selenocysteine-containing

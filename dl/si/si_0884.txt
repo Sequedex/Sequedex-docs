@@ -1,0 +1,2 @@
+si_0884	DMSP_breakdown	DMSP breakdown hydrolase protein
+si_0884	DMSP_breakdown	DMSP demethylase (DmdA) (EC 2.1.2.10)

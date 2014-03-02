@@ -1,0 +1,20 @@
+si_0447	Fatty_Acid_Biosynthesis_FASI	Biotin carboxyl carrier protein of ACAC1
+si_0447	Fatty_Acid_Biosynthesis_FASI	Biotin carboxylase of ACAC1 (EC 6.3.4.14)
+si_0447	Fatty_Acid_Biosynthesis_FASI	Acetyl-coenzyme A carboxyl transferase of ACAC1 (EC 6.4.1.2)
+si_0447	Fatty_Acid_Biosynthesis_FASI	[Acyl-carrier-protein] acetyl transferase of FASI (EC 2.3.1.38)
+si_0447	Fatty_Acid_Biosynthesis_FASI	Enoyl-[acyl-carrier-protein] reductase of FASI (EC 1.3.1.9)
+si_0447	Fatty_Acid_Biosynthesis_FASI	3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase of FASI (EC 4.2.1.61)
+si_0447	Fatty_Acid_Biosynthesis_FASI	[Acyl-carrier-protein] palmitoyl transferase of FASI (EC 2.3.1.-)
+si_0447	Fatty_Acid_Biosynthesis_FASI	Acyl carrier protein of FASI
+si_0447	Fatty_Acid_Biosynthesis_FASI	3-oxoacyl-[acyl-carrier-protein] reductase of FASI (EC 1.1.1.100)
+si_0447	Fatty_Acid_Biosynthesis_FASI	3-oxoacyl-[acyl-carrier-protein] synthase of FASI (EC 2.3.1.41)
+si_0447	Fatty_Acid_Biosynthesis_FASI	[Acyl-carrier-protein] malonyl transferase of FASI (EC 2.3.1.39)
+si_0447	Fatty_Acid_Biosynthesis_FASI	Oleoyl-[acyl carrier protein] thioesterase of FASI (EC 3.1.2.14)
+si_0447	Fatty_Acid_Biosynthesis_FASI	4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)
+si_0447	Fatty_Acid_Biosynthesis_FASI	Fatty acyl-coenzyme A elongase 1
+si_0447	Fatty_Acid_Biosynthesis_FASI	Fatty acyl-coenzyme A elongase 2
+si_0447	Fatty_Acid_Biosynthesis_FASI	Fatty acyl-coenzyme A elongase 3
+si_0447	Fatty_Acid_Biosynthesis_FASI	Fatty acyl-coenzyme A elongase
+si_0447	Fatty_Acid_Biosynthesis_FASI	3-oxoacyl-coenzyme A reductase of elongase (EC 1.1.1.62)
+si_0447	Fatty_Acid_Biosynthesis_FASI	3-hydroxyacyl-coenzyme A dehydratase of elongase (EC 4.-.-.-)
+si_0447	Fatty_Acid_Biosynthesis_FASI	Trans-2,3-enoyl-cozyme A reductase of elongase (EC 1.-.-.-)

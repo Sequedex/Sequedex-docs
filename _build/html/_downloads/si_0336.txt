@@ -1,9 +1,0 @@
-si_0336	EC699-706	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
-si_0336	EC699-706	Deoxyribodipyrimidine photolyase, type II (EC 4.1.99.3)
-si_0336	EC699-706	Di/tripeptide permease YbgH
-si_0336	EC699-706	FIG042796: Hypothetical protein
-si_0336	EC699-706	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
-si_0336	EC699-706	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
-si_0336	EC699-706	Lactam utilization protein LamB
-si_0336	EC699-706	Endonuclease VIII
-si_0336	EC699-706	FIG143828: Hypothetical protein YbgA

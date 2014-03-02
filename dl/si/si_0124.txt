@@ -1,0 +1,2 @@
+si_0124	Alpha-acetolactate_operon	Acetolactate synthase, catabolic (EC 2.2.1.6)
+si_0124	Alpha-acetolactate_operon	Alpha-acetolactate decarboxylase (EC 4.1.1.5)

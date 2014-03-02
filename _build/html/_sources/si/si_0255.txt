@@ -1,2 +1,0 @@
-si_0255	CBSS-306254.1.peg.1508	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
-si_0255	CBSS-306254.1.peg.1508	Hypothetical protein probably associated with Carbamoyl-phosphate synthase

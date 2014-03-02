@@ -1,0 +1,6 @@
+si_0445	Acyl-CoA_thioesterase_II	Acyl-CoA thioesterase II (EC 3.1.2.-)
+si_0445	Acyl-CoA_thioesterase_II	TesB-like acyl-CoA thioesterase 1
+si_0445	Acyl-CoA_thioesterase_II	TesB-like acyl-CoA thioesterase 2
+si_0445	Acyl-CoA_thioesterase_II	TesB-like acyl-CoA thioesterase 3
+si_0445	Acyl-CoA_thioesterase_II	TesB-like acyl-CoA thioesterase 4
+si_0445	Acyl-CoA_thioesterase_II	TesB-like acyl-CoA thioesterase 5

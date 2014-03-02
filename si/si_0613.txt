@@ -1,8 +1,0 @@
-si_0613	Pseudouridine_Metabolism	Hypothetical sugar kinase in cluster with indigoidine synthase indA , PfkB family of kinases
-si_0613	Pseudouridine_Metabolism	Indigoidine synthase A-like protein, uncharacterized enzyme involved in pigment biosynthesis
-si_0613	Pseudouridine_Metabolism	Inner membrane transport protein YeiM, in cluster with pseudouridine metabolism operon
-si_0613	Pseudouridine_Metabolism	Probable pyrimidine nucleoside transport protein associated with pseudouridine catabolism
-si_0613	Pseudouridine_Metabolism	Pseudouridine 5'-phosphate glycosidase
-si_0613	Pseudouridine_Metabolism	Pseudouridine kinase (EC 2.7.1.83)
-si_0613	Pseudouridine_Metabolism	Ribosomal small subunit pseudouridine synthase A (EC 4.2.1.70)
-si_0613	Pseudouridine_Metabolism	Uncharacterized sugar kinase YeiI

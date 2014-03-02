@@ -1,0 +1,41 @@
+si_0640	Phosphate_metabolism	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+si_0640	Phosphate_metabolism	Alkaline phosphatase (EC 3.1.3.1)
+si_0640	Phosphate_metabolism	Alkaline phosphatase like protein
+si_0640	Phosphate_metabolism	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+si_0640	Phosphate_metabolism	Apolipoprotein N-acyltransferase (EC 2.3.1.-)
+si_0640	Phosphate_metabolism	Distant similarity with phosphate transport system regulator
+si_0640	Phosphate_metabolism	Exopolyphosphatase (EC 3.6.1.11)
+si_0640	Phosphate_metabolism	FIG000233: metal-dependent hydrolase
+si_0640	Phosphate_metabolism	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase (EC 3.6.1.40)
+si_0640	Phosphate_metabolism	Inorganic pyrophospatase PpaX (EC 3.1.3.18)
+si_0640	Phosphate_metabolism	Inorganic pyrophosphatase (EC 3.6.1.1)
+si_0640	Phosphate_metabolism	Integral membrane protein YggT, involved in response to extracytoplasmic stress (osmotic shock)
+si_0640	Phosphate_metabolism	Low-affinity inorganic phosphate transporter
+si_0640	Phosphate_metabolism	Magnesium and cobalt efflux protein CorC
+si_0640	Phosphate_metabolism	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+si_0640	Phosphate_metabolism	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+si_0640	Phosphate_metabolism	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+si_0640	Phosphate_metabolism	Na/Pi cotransporter II-related protein
+si_0640	Phosphate_metabolism	Phosphatase, Ppx/GppA family
+si_0640	Phosphate_metabolism	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+si_0640	Phosphate_metabolism	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+si_0640	Phosphate_metabolism	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+si_0640	Phosphate_metabolism	Phosphate starvation-inducible ATPase PhoH with RNA binding motif
+si_0640	Phosphate_metabolism	Phosphate starvation-inducible protein PhoH, predicted ATPase
+si_0640	Phosphate_metabolism	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+si_0640	Phosphate_metabolism	Phosphate transport regulator (distant homolog of PhoU)
+si_0640	Phosphate_metabolism	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+si_0640	Phosphate_metabolism	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+si_0640	Phosphate_metabolism	Phosphate transport system regulatory protein PhoU
+si_0640	Phosphate_metabolism	Phosphate-specific outer membrane porin OprP
+si_0640	Phosphate_metabolism	Polyphosphate kinase (EC 2.7.4.1)
+si_0640	Phosphate_metabolism	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+si_0640	Phosphate_metabolism	Probable low-affinity inorganic phosphate transporter
+si_0640	Phosphate_metabolism	Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)
+si_0640	Phosphate_metabolism	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+si_0640	Phosphate_metabolism	Pyrophosphate-specific outer membrane porin OprO
+si_0640	Phosphate_metabolism	Sodium-dependent phosphate transporter
+si_0640	Phosphate_metabolism	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+si_0640	Phosphate_metabolism	putative alkaline phosphatase-like protein
+si_0640	Phosphate_metabolism	response regulator in two-component regulatory system with PhoQ
+si_0640	Phosphate_metabolism	secreted alkaline phosphatase

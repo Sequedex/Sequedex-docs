@@ -1,8 +1,0 @@
-si_0519	Galactose-inducible_PTS	Phosphosugar-binding transcriptional repressor, RpiR family
-si_0519	Galactose-inducible_PTS	Tagatose-6-phosphate kinase (EC 2.7.1.144) / 1-phosphofructokinase (EC 2.7.1.56)
-si_0519	Galactose-inducible_PTS	PTS system, galactose-inducible IIB component (EC 2.7.1.69) / PTS system, galactose-inducible IIC component (EC 2.7.1.69)
-si_0519	Galactose-inducible_PTS	PTS system, galactose-inducible IIA component (EC 2.7.1.69)
-si_0519	Galactose-inducible_PTS	Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)
-si_0519	Galactose-inducible_PTS	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
-si_0519	Galactose-inducible_PTS	Phosphocarrier protein of PTS system
-si_0519	Galactose-inducible_PTS	Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)

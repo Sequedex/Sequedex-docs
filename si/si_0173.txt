@@ -1,5 +1,0 @@
-si_0173	Phosphorylcholine_incorporation_in_LPS	Choline kinase (EC 2.7.1.32)
-si_0173	Phosphorylcholine_incorporation_in_LPS	Choline permease LicB
-si_0173	Phosphorylcholine_incorporation_in_LPS	Cholinephosphate cytidylyltransferase (EC 2.7.7.15)
-si_0173	Phosphorylcholine_incorporation_in_LPS	Lipopolysaccharide cholinephosphotransferase LicD1 (EC 2.7.8.-)
-si_0173	Phosphorylcholine_incorporation_in_LPS	Lipopolysaccharide cholinephosphotransferase LicD2 (EC 2.7.8.-)

@@ -1,5 +1,0 @@
-si_0283	CBSS-160492.1.peg.550	21 kDa hemolysin precursor
-si_0283	CBSS-160492.1.peg.550	LppC putative lipoprotein
-si_0283	CBSS-160492.1.peg.550	Phosphoheptose isomerase (EC 5.3.1.-)
-si_0283	CBSS-160492.1.peg.550	Predicted endonuclease distantly related to archaeal Holliday junction resolvase
-si_0283	CBSS-160492.1.peg.550	rRNA small subunit methyltransferase I

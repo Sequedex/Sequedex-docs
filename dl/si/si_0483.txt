@@ -1,0 +1,24 @@
+si_0483	Hemin_transport_system	ABC-type hemin transport system, ATPase component
+si_0483	Hemin_transport_system	Biopolymer transport protein ExbD1
+si_0483	Hemin_transport_system	Ferric siderophore transport system, periplasmic binding protein TonB
+si_0483	Hemin_transport_system	Haemin uptake system ATP-binding protein
+si_0483	Hemin_transport_system	Haemin uptake system outer membrane receptor
+si_0483	Hemin_transport_system	Haemin uptake system periplasmic haemin-binding protein
+si_0483	Hemin_transport_system	Haemin uptake system permease protein
+si_0483	Hemin_transport_system	Heme oxygenase HemO, associated with heme uptake
+si_0483	Hemin_transport_system	Hemin ABC transporter, permease protein
+si_0483	Hemin_transport_system	Hemin receptor protein HemR
+si_0483	Hemin_transport_system	Hemin transport protein
+si_0483	Hemin_transport_system	Hemin transport protein HmuS
+si_0483	Hemin_transport_system	Hemin uptake protein
+si_0483	Hemin_transport_system	Hemin uptake protein HemP
+si_0483	Hemin_transport_system	Hemin-binding lipoprotein HbpA
+si_0483	Hemin_transport_system	Iron compound ABC uptake transporter ATP-binding protein
+si_0483	Hemin_transport_system	Outer membrane hemoglobin utilization protein HmbR
+si_0483	Hemin_transport_system	Outer membrane hemoglobin-haptoglobin utilization protein HpuB
+si_0483	Hemin_transport_system	Outer membrane receptor proteins, mostly Fe transport
+si_0483	Hemin_transport_system	Periplasmic hemin-binding protein
+si_0483	Hemin_transport_system	Pyridoxamine 5'-phosphate oxidase-related putative heme iron utilization protein
+si_0483	Hemin_transport_system	TonB-dependent hemin , ferrichrome receptor
+si_0483	Hemin_transport_system	heme uptake regulator
+si_0483	Hemin_transport_system	heme uptake transmembrane sensor

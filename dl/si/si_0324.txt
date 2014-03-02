@@ -1,0 +1,2 @@
+si_0324	CBSS-393133.3.peg.2787	Thymidylate kinase (EC 2.7.4.9)
+si_0324	CBSS-393133.3.peg.2787	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis

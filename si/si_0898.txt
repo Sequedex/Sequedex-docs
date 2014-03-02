@@ -1,5 +1,0 @@
-si_0898	&#954;-Fimbriae	Kappa-fimbriae usher protein
-si_0898	&#954;-Fimbriae	Kappa-fimbriae chaperone protein
-si_0898	&#954;-Fimbriae	Kappa-fimbriae major subunit
-si_0898	&#954;-Fimbriae	Kappa-fimbriae probable subunit
-si_0898	&#954;-Fimbriae	Kappa-fimbriae regulatory protein

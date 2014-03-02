@@ -1,2 +1,0 @@
-ss00690	IorA	Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)
-ss00690	IorB	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)

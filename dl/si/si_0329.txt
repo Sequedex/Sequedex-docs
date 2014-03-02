@@ -1,0 +1,11 @@
+si_0329	CBSS-83333.1.peg.946	Inner membrane protein YccF
+si_0329	CBSS-83333.1.peg.946	Putative efflux (PET) family inner membrane protein YccS
+si_0329	CBSS-83333.1.peg.946	DNA helicase IV
+si_0329	CBSS-83333.1.peg.946	Methylglyoxal synthase (EC 4.2.3.3)
+si_0329	CBSS-83333.1.peg.946	DNA transformation protein TfoX
+si_0329	CBSS-83333.1.peg.946	UPF0319 protein YccT precursor
+si_0329	CBSS-83333.1.peg.946	Succinyl-CoA synthetase, alpha subunit-related enzymes
+si_0329	CBSS-83333.1.peg.946	hemimethylated DNA binding protein YccV
+si_0329	CBSS-83333.1.peg.946	LSU m5C1962 methyltransferase RlmI
+si_0329	CBSS-83333.1.peg.946	Cell division inhibitor
+si_0329	CBSS-83333.1.peg.946	Helicase IV (EC 3.6.1.-)

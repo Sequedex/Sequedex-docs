@@ -1,0 +1,18 @@
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	3,4-dihydroxy-2-butanone 4-phosphate synthase
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.9)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	CTP-dependent archaeal riboflavin kinase
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	DNA-binding HTH domain in riboflavin kinase
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	FMN adenylyltransferase (EC 2.7.7.2)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	FO biosynthesis ArfB
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	GTP cyclohydrolase II (EC 3.5.4.25)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	GTP cyclohydrolase III (EC 3.5.4.29)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Lumazine protein, riboflavin synthase homolog
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Pyrimidine deaminase archaeal predicted (EC 3.5.4.26)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Pyrimidine deaminase eukaryotic (EC 3.5.4.26)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Riboflavin kinase (EC 2.7.1.26)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Riboflavin synthase alpha chain (EC 2.5.1.9)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Riboflavin synthase archaeal (EC 2.5.1.9)
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Riboflavin transporter PnuX
+si_0386	Riboflavin,_FMN_and_FAD_metabolism	Substrate-specific component RibU of riboflavin ECF transporter

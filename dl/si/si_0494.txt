@@ -1,0 +1,6 @@
+si_0494	ABC_transporter_tungstate_(TC_3.A.1.6.2)	ABC-type tungstate transport system, ATP-binding protein
+si_0494	ABC_transporter_tungstate_(TC_3.A.1.6.2)	ABC-type tungstate transport system, periplasmic binding protein
+si_0494	ABC_transporter_tungstate_(TC_3.A.1.6.2)	ABC-type tungstate transport system, permease protein
+si_0494	ABC_transporter_tungstate_(TC_3.A.1.6.2)	ABC-type vanadate transport system, ATP-binding protein
+si_0494	ABC_transporter_tungstate_(TC_3.A.1.6.2)	ABC-type vanadate transport system, periplasmic binding protein
+si_0494	ABC_transporter_tungstate_(TC_3.A.1.6.2)	ABC-type vanadate transport system, permease protein

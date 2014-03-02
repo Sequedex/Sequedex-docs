@@ -1,0 +1,16 @@
+si_0113	L-fucose_utilization	Alpha-L-fucosidase (EC 3.2.1.51)
+si_0113	L-fucose_utilization	Fucose permease
+si_0113	L-fucose_utilization	L-fucose isomerase (EC 5.3.1.25)
+si_0113	L-fucose_utilization	L-fucose mutarotase
+si_0113	L-fucose_utilization	L-fucose operon activator
+si_0113	L-fucose_utilization	L-fuculokinase (EC 2.7.1.51)
+si_0113	L-fucose_utilization	L-fuculose phosphate aldolase (EC 4.1.2.17)
+si_0113	L-fucose_utilization	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization (EC 1.2.1.22)
+si_0113	L-fucose_utilization	Lactaldehyde reductase (EC 1.1.1.77)
+si_0113	L-fucose_utilization	Possible alternative L-fucose mutarotase
+si_0113	L-fucose_utilization	Possible fucose ABC transporter, substrate-binding component
+si_0113	L-fucose_utilization	Predicted L-fucose-specific phosphotransferase system, EIIA component
+si_0113	L-fucose_utilization	Predicted L-fucose-specific phosphotransferase system, EIIB component
+si_0113	L-fucose_utilization	Predicted L-fucose-specific phosphotransferase system, EIIC component
+si_0113	L-fucose_utilization	Predicted L-fucose-specific phosphotransferase system, EIID component
+si_0113	L-fucose_utilization	Transcriptional regulator of fucose utilization, GntR family

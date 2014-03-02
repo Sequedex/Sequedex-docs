@@ -1,4 +1,0 @@
-si_0948	Teicoplanin-resistance_in_Staphylococcus	Teicoplanin resistance associated membrane protein TcaA
-si_0948	Teicoplanin-resistance_in_Staphylococcus	Teicoplanin resistance associated membrane protein TcaB
-si_0948	Teicoplanin-resistance_in_Staphylococcus	Teicoplanin-resistance associated HTH-type transcriptional regulator TcaR
-si_0948	Teicoplanin-resistance_in_Staphylococcus	Similar to Teicoplanin resistance associated membrane protein TcaA

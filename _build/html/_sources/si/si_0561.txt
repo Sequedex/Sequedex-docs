@@ -1,8 +1,0 @@
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoA
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoA alpha
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoA beta
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoB
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoC
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoD
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoE
-si_0561	Toluene_4-monooxygenase_(T4MO)	Toluene-4-monooxygenase, subunit TmoF

@@ -1,5 +1,0 @@
-si_0825	Reductive_Dechlorination	Tetrachloroethene reductive dehalogenase PceA (EC 1.97.1.8)
-si_0825	Reductive_Dechlorination	Tetrachloroethene reductive dehalogenase PceA membrane-bound subunit
-si_0825	Reductive_Dechlorination	Tetrachloroethene reductive dehalogenase TceA
-si_0825	Reductive_Dechlorination	Tetrachloroethene reductive dehalogenase TceA membrane-bound subunit
-si_0825	Reductive_Dechlorination	membrane docking protein

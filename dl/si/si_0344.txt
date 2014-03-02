@@ -1,0 +1,24 @@
+si_0344	Spore_Coat	Spore coat protein A
+si_0344	Spore_Coat	Spore coat protein B
+si_0344	Spore_Coat	Spore coat protein C
+si_0344	Spore_Coat	Inner spore coat protein D
+si_0344	Spore_Coat	Outer spore coat protein E
+si_0344	Spore_Coat	Spore coat protein F
+si_0344	Spore_Coat	Spore coat protein G
+si_0344	Spore_Coat	Inner spore coat protein H
+si_0344	Spore_Coat	Polypeptide composition of the spore coat; required for the assembly of CotJC
+si_0344	Spore_Coat	Polypeptide composition of the spore coat protein CotJC
+si_0344	Spore_Coat	Small, acid-soluble spore protein O
+si_0344	Spore_Coat	Small, acid-soluble spore protein P
+si_0344	Spore_Coat	Spore coat protein M
+si_0344	Spore_Coat	Spore coat protein S
+si_0344	Spore_Coat	Spore coat protein T precursor
+si_0344	Spore_Coat	Spore coat protein V
+si_0344	Spore_Coat	Spore coat protein W
+si_0344	Spore_Coat	Spore coat protein X
+si_0344	Spore_Coat	Spore coat protein Y
+si_0344	Spore_Coat	Spore coat protein Z
+si_0344	Spore_Coat	Stage IV sporulation protein A
+si_0344	Spore_Coat	Stage VI sporulation protein D
+si_0344	Spore_Coat	Polypeptide composition of the spore coat protein CotJB
+si_0344	Spore_Coat	Major transcriptional regulator of spore coat formation GerE

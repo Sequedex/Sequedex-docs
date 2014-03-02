@@ -1,0 +1,4 @@
+si_0292	CBSS-243277.1.peg.4359	Membrane-bound lytic murein transglycosylase B (EC 3.2.1.-)
+si_0292	CBSS-243277.1.peg.4359	Protein YcgL
+si_0292	CBSS-243277.1.peg.4359	FIG094199: Fumarylacetoacetate hydrolase
+si_0292	CBSS-243277.1.peg.4359	YcgN (Fragment)

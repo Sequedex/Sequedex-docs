@@ -1,0 +1,1 @@
+si_0937	MexC-MexD-OprJ_Multidrug_Efflux_System	Transcriptional regulator NfxB

@@ -1,0 +1,10 @@
+si_0426	DNA_structural_proteins,_bacterial	DNA-binding protein HU
+si_0426	DNA_structural_proteins,_bacterial	DNA-binding protein HU-alpha
+si_0426	DNA_structural_proteins,_bacterial	DNA-binding protein HU-beta
+si_0426	DNA_structural_proteins,_bacterial	DNA-binding protein HBsu
+si_0426	DNA_structural_proteins,_bacterial	Integration host factor alpha subunit
+si_0426	DNA_structural_proteins,_bacterial	Integration host factor beta subunit
+si_0426	DNA_structural_proteins,_bacterial	DNA-binding protein Fis
+si_0426	DNA_structural_proteins,_bacterial	Chromosome partition protein MukB
+si_0426	DNA_structural_proteins,_bacterial	Chromosome partition protein MukE
+si_0426	DNA_structural_proteins,_bacterial	Chromosome partition protein MukF

@@ -1,5 +1,0 @@
-si_0553	Toluene_degradation	Toluate 1,2-dioxygenase alpha subunit
-si_0553	Toluene_degradation	Toluate 1,2-dioxygenase beta subunit
-si_0553	Toluene_degradation	Toluate 1,2-dioxygenase electron transfer component
-si_0553	Toluene_degradation	Toluene-4-monooxygenase, subunit TmoD
-si_0553	Toluene_degradation	toluenesulfonate zinc-independent alcohol dehydrogenase

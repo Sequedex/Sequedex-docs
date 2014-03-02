@@ -1,7 +1,0 @@
-si_0670	Translation_initiation_factors_bacterial	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
-si_0670	Translation_initiation_factors_bacterial	Translation initiation factor 1
-si_0670	Translation_initiation_factors_bacterial	Translation initiation factor 2
-si_0670	Translation_initiation_factors_bacterial	Ribosome-binding factor A
-si_0670	Translation_initiation_factors_bacterial	Translation initiation factor 3
-si_0670	Translation_initiation_factors_bacterial	Translation initiation factor 3 related protein
-si_0670	Translation_initiation_factors_bacterial	Translation initiation factor SUI1-related protein

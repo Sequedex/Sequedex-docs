@@ -1,5 +1,0 @@
-si_0848	Glutathione-dependent_pathway_of_formaldehyde_detoxification	Glutathione-dependent formaldehyde-activating enzyme (EC 4.4.1.22)
-si_0848	Glutathione-dependent_pathway_of_formaldehyde_detoxification	S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)
-si_0848	Glutathione-dependent_pathway_of_formaldehyde_detoxification	S-formylglutathione hydrolase (EC 3.1.2.12)
-si_0848	Glutathione-dependent_pathway_of_formaldehyde_detoxification	Uncharacterized protein YaiN in in formaldehyde detoxification operon
-si_0848	Glutathione-dependent_pathway_of_formaldehyde_detoxification	Transcriptional regulator, LysR family, in formaldehyde detoxification operon

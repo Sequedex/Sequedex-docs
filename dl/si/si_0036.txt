@@ -1,0 +1,13 @@
+ss00293	HutH	Histidine ammonia-lyase (EC 4.3.1.3)
+ss00293	HutU	Urocanate hydratase (EC 4.2.1.49)
+ss00293	HutI	Imidazolonepropionase (EC 3.5.2.7)
+ss00293	GluF	Glutamate formiminotransferase (EC 2.1.2.5)
+ss00293	HutG	Formiminoglutamase (EC 3.5.3.8)
+ss00293	NfoD	N-formylglutamate deformylase (EC 3.5.1.68)
+ss00293	NfoD2	N-formylglutamate deformylase (EC 3.5.1.68) [alternative form]
+ss00293	ForI	Formiminoglutamic iminohydrolase (EC 3.5.3.13)
+ss00293	ForC	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+ss00293	HutR1	Histidine utilization repressor
+ss00293	HutR2	Hut operon positive regulatory protein
+ss00293	HutT1	Histidine transport protein (permease)
+ss00293	Hypo1	Conserved hypothetical protein (perhaps related to histidine degradation)

@@ -1,0 +1,117 @@
+.. _s.reads:
+
+Annotated reads
+****************
+
+.. _s.get.reads:
+
+Obtaining annotated reads
+==========================
+
+Running Sequescan with the database writer flag enabled (-f 1 on the
+command line, selection box on the GUI version)::
+
+    sequescan run -d Life2550-40GB.0 -s seed_0911.m1 -f 1 -t 8 -o out . >& err &
+
+will produce an output file of annotated reads, written in the correct
+reading frame to be translated into a peptide sequencing including a
+signature peptide.  Reads matching signature peptides in multiple
+reading frames will be output once in each frame.  If the input
+sequence data are fasta or fasta.gz, the output will be fasta (.fa).
+If the input sequence data are fastq or fastq.gz, the output will be
+fastq (.fq).  For example, here are the first three reads output from
+the Mock even illumina community using the Life2550-40GB.0 data
+module::
+
+   @SRR172902.38_3 node=n0990      assign=3        unq_k=5 func=si_0083
+   NACCTCAAGTTTGAAAAAGAGCACAACTGGACCAATTATCCAAAAGGTGTCCTTCATTTCTTGCAANAAGCTGGGC
+   +SRR172902.38 USI-EAS376:1:1:2:817 length=75
+   ::BCCB@@CBCCCB?BAACBCB;BA@BBCBBBCA?CBBBCC@=@/@B;B?CCBC?;@BBBBBCB67%-;BBBBAA>
+   @SRR172902.39_4 node=n0586      assign=3        unq_k=6 func=si_0533
+   TCTATGATTNCAGCGGCATCAATGGCAGGTGTTCCTCTCACTAATGGCTTTATTTCTAAGGAAATGTTCTTTACC
+   +SRR172902.39 USI-EAS376:1:1:2:208 length=75
+   9>9:;A:<5%=ABBBB@;9B?BAABB?BBBA@BBA@B@B=BAAABBBBAB>BA0@BBBBCCBBBBBBBBBBB>BB
+   @SRR172902.40_5 node=n0900      assign=2        unq_k=3 func=si_0566
+   NNCGGCGCGCGNTGGGGGGACGGGGAGTGCGTGACCGACAAGGGCGTGGTGACAAGCCGCAAGCCCGACGACCTGCC
+   +SRR172902.40 USI-EAS376:1:1:2:1659 length=75
+   ##############B@7>:*,:(>@6@9<+:A<+6=>19:(>B@4@6@B?B<<AAABBBABBB>ABBABB?BBABAB
+
+since every Sequedex-annotated read will contain a nodeID, this can be
+changed to fasta format with::
+
+   grep -A1 node= db-Life2550-40GB.0xseed_0911.fq |tr '@' '>'| grep -v ^-- > out.fas
+
+producing::
+
+   >SRR172902.38_3 node=n0990      assign=3        unq_k=5 func=si_0083
+   NACCTCAAGTTTGAAAAAGAGCACAACTGGACCAATTATCCAAAAGGTGTCCTTCATTTCTTGCAANAAGCTGGGC
+   >SRR172902.39_4 node=n0586      assign=3        unq_k=6 func=si_0533
+   TCTATGATTNCAGCGGCATCAATGGCAGGTGTTCCTCTCACTAATGGCTTTATTTCTAAGGAAATGTTCTTTACC
+   >SRR172902.40_5 node=n0900      assign=2        unq_k=3 func=si_0566
+   NNCGGCGCGCGNTGGGGGGACGGGGAGTGCGTGACCGACAAGGGCGTGGTGACAAGCCGCAAGCCCGACGACCTGCC
+
+note the 'Ns' at the start of two of the three reads, shifting into
+the correct reading frame.
+
+.. _s.ph_filter:
+
+Phylogenetic filtering and assemblies of genomes
+================================================
+
+.. _s.fn_filter:
+
+Functional filtering
+====================
+
+Reads from a particular functional category can be obtained by
+specifying also the functional category, such as the one for the
+ribosomal (and tRNA) reads::
+
+   grep -A1 node= db-Life2550-40GB.0xseed_0911.fq |tr '@' '>'| grep -A1 si_0962| grep -v ^-- > out.fas
+
+These reads can be used with the ribosomal database (see :ref:`s.RDB`)
+or placed into alignments to gain a better understanding of the
+community composition of samples and how they relate to database of
+reference genomes and one another.
+
+.. _s.translate:
+
+Translated reads
+================
+
+.. _s.RNAP.blast:
+
+Gene-specific BLAST databases
+=============================
+
+.. _s.GEME:
+
+Placing reads into a multiple sequence alignment: conserved part of RNAP
+========================================================================
+
+.. _s.specific.genes:
+
+Obtaining specific genes
+========================
+
+.. _s.assemble:
+
+Targeted assemblies of genes
+===============================
+
+see :ref:`s.velvet`
+
+.. _s.nt_align:
+
+Nucleotide alignments
+=====================
+
+.. _s.16S.reads:
+
+Obtaining ribosomal (and tRNA) reads
+====================================
+
+.. _s.reference_ass:
+
+Aligning to a reference genome
+==============================

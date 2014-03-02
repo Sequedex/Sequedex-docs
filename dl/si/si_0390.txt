@@ -1,0 +1,2 @@
+si_0390	Chlorophyll_Degradation	Pheophorbide a oxygenase (EC 1.14.-.-)
+si_0390	Chlorophyll_Degradation	Red chlorophyll catabolite reductase (EC 1.-.-.-)

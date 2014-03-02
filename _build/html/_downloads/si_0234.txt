@@ -1,2 +1,0 @@
-si_0234	CBSS-342610.3.peg.283	D-tyrosyl-tRNA(Tyr) deacylase
-si_0234	CBSS-342610.3.peg.283	Ribonuclease BN (EC 3.1.-.-)

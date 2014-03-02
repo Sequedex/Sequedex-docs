@@ -1,0 +1,14 @@
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Phosphoserine aminotransferase (EC 2.6.1.52)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Predicted transcriptional regulator of pyridoxine metabolism
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Pyridoxal kinase (EC 2.7.1.35)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit (EC 2.4.2.-)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)
+si_0377	Pyridoxin_(Vitamin_B6)_Biosynthesis	Substrate-specific component PdxT of predicted pyridoxine ECF transporter

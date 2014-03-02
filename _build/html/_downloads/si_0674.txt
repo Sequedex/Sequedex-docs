@@ -1,5 +1,0 @@
-si_0674	tRNA_aminoacylation,_Ala	Alanyl-tRNA synthetase (EC 6.1.1.7)
-si_0674	tRNA_aminoacylation,_Ala	Alanyl-tRNA synthetase domain protein
-si_0674	tRNA_aminoacylation,_Ala	Alanyl-tRNA synthetase family protein
-si_0674	tRNA_aminoacylation,_Ala	Alanyl-tRNA synthetase, amino-terminal half (EC 6.1.1.7)
-si_0674	tRNA_aminoacylation,_Ala	Alanyl-tRNA synthetase, carboxy-terminal half (EC 6.1.1.7)

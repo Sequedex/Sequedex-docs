@@ -1,4 +1,0 @@
-si_0644	Photosystem_I-type_photosynthetic_reaction_center	Photosystem P840 reaction center large subunit PscA
-si_0644	Photosystem_I-type_photosynthetic_reaction_center	Photosystem P840 reaction center iron-sulfur subunit PscB
-si_0644	Photosystem_I-type_photosynthetic_reaction_center	Photosystem P840 reaction center subunit PscC, cytochrome c-551
-si_0644	Photosystem_I-type_photosynthetic_reaction_center	Photosystem P840 reaction center subunit PscD

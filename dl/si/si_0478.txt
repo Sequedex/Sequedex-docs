@@ -1,0 +1,24 @@
+si_0478	Siderophore_pyochelin	Isochorismate synthase (EC 5.4.4.2) [pyochelin] siderophore
+si_0478	Siderophore_pyochelin	Isochorismate synthase (EC 5.4.4.2) [enantio-pyochelin] siderophore
+si_0478	Siderophore_pyochelin	Isochorismate pyruvate-lyase (EC 4.-.-.-) [pyochelin] siderophore
+si_0478	Siderophore_pyochelin	Isochorismate pyruvate-lyase (EC 4.-.-.-) [enantio-pyochelin] siderophore
+si_0478	Siderophore_pyochelin	Pyochelin biosynthetic protein PchC, predicted thioesterase
+si_0478	Siderophore_pyochelin	Enantio-pyochelin biosynthetic protein PchC, predicted thioesterase
+si_0478	Siderophore_pyochelin	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [pyochelin] siderophore
+si_0478	Siderophore_pyochelin	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enantio-pyochelin] siderophore
+si_0478	Siderophore_pyochelin	Pyochelin biosynthetic protein PchG, oxidoreductase (NAD-binding)
+si_0478	Siderophore_pyochelin	Enantio-pyochelin biosynthetic protein PchK, putative reductoisomerase
+si_0478	Siderophore_pyochelin	Dihydroaeruginoate synthetase PchE, non-ribosomal peptide synthetase modules
+si_0478	Siderophore_pyochelin	Pyochelin synthetase PchF, non-ribosomal peptide synthetase module
+si_0478	Siderophore_pyochelin	Enantio-pyochelin synthetase PchF, non-ribosomal peptide synthetase module
+si_0478	Siderophore_pyochelin	Outer membrane receptor for ferric-pyochelin FptA
+si_0478	Siderophore_pyochelin	Outer membrane receptor for ferric enantio-pyochelin
+si_0478	Siderophore_pyochelin	Hypothetical protein FtpB in pyochelin gene cluster
+si_0478	Siderophore_pyochelin	Putative iron-regulated membrane protein FtpC in pyochelin gene cluster
+si_0478	Siderophore_pyochelin	Inner-membrane permease FptX, ferripyochelin
+si_0478	Siderophore_pyochelin	ABC efflux pump, fused inner membrane and ATPase subunits in pyochelin gene cluster
+si_0478	Siderophore_pyochelin	Transcriptional regulator PchR
+si_0478	Siderophore_pyochelin	Ferric enantio-pyochelin transport system permease protein
+si_0478	Siderophore_pyochelin	Ferric enantio-pyochelin transport system ATP-binding protein
+si_0478	Siderophore_pyochelin	Ferric enantio-pyochelin transport system periplasmic substrate-binding protein
+si_0478	Siderophore_pyochelin	Probable MFS transporter in enantio-pyochelin gene cluster

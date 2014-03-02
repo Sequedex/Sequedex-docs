@@ -1,0 +1,7 @@
+si_0583	Flagellum_in_Campylobacter	Flagellin protein FlaA
+si_0583	Flagellum_in_Campylobacter	Flagellin protein FlaB
+si_0583	Flagellum_in_Campylobacter	Flagellar basal-body rod protein FlgB
+si_0583	Flagellum_in_Campylobacter	Flagellar basal-body rod protein FlgC
+si_0583	Flagellum_in_Campylobacter	Flagellar hook subunit protein
+si_0583	Flagellum_in_Campylobacter	Flagellar hook-basal body complex protein FliE
+si_0583	Flagellum_in_Campylobacter	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)

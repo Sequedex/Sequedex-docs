@@ -1,0 +1,31 @@
+si_0362	5-FCL-like_protein	5-FCL-like protein
+si_0362	5-FCL-like_protein	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+si_0362	5-FCL-like_protein	MTHFR (MetF)-like
+si_0362	5-FCL-like_protein	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+si_0362	5-FCL-like_protein	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+si_0362	5-FCL-like_protein	Serine hydroxymethyltransferase (EC 2.1.2.1)
+si_0362	5-FCL-like_protein	H4MPt-dependent SHMT
+si_0362	5-FCL-like_protein	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+si_0362	5-FCL-like_protein	Glutamate formiminotransferase (EC 2.1.2.5)
+si_0362	5-FCL-like_protein	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+si_0362	5-FCL-like_protein	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+si_0362	5-FCL-like_protein	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+si_0362	5-FCL-like_protein	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+si_0362	5-FCL-like_protein	Dihydrofolate reductase (EC 1.5.1.3)
+si_0362	5-FCL-like_protein	Alternative dihydrofolate reductase 2
+si_0362	5-FCL-like_protein	Phosphomethylpyrimidine kinase (EC 2.7.4.7)
+si_0362	5-FCL-like_protein	Thiamin-phosphate synthase ThiN (EC 2.5.1.3)
+si_0362	5-FCL-like_protein	Substrate-specific component ThiW of predicted thiazole ECF transporter
+si_0362	5-FCL-like_protein	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+si_0362	5-FCL-like_protein	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+si_0362	5-FCL-like_protein	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+si_0362	5-FCL-like_protein	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+si_0362	5-FCL-like_protein	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+si_0362	5-FCL-like_protein	Alcohol dehydrogenase (EC 1.1.1.1)
+si_0362	5-FCL-like_protein	Butyryl-CoA dehydrogenase (EC 1.3.99.2)
+si_0362	5-FCL-like_protein	Thiamine-monophosphate kinase (EC 2.7.4.16)
+si_0362	5-FCL-like_protein	Thiamine kinase (EC 2.7.1.89)
+si_0362	5-FCL-like_protein	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+si_0362	5-FCL-like_protein	YjbQ (alternate ThiE)
+si_0362	5-FCL-like_protein	YlmB
+si_0362	5-FCL-like_protein	Thiaminase II (EC 3.5.99.2)

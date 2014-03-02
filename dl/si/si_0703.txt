@@ -1,0 +1,4 @@
+si_0703	Serine_endopeptidase_(EC_3.4.21.-)	Glutamyl endopeptidase precursor (EC 3.4.21.19), serine proteinase SspA
+si_0703	Serine_endopeptidase_(EC_3.4.21.-)	Glutamyl endopeptidase precursor (EC 3.4.21.19), blaSE
+si_0703	Serine_endopeptidase_(EC_3.4.21.-)	Prolyl endopeptidase (EC 3.4.21.26)
+si_0703	Serine_endopeptidase_(EC_3.4.21.-)	Lysyl endopeptidase (EC 3.4.21.50)

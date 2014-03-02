@@ -1,9 +1,0 @@
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	FIG002708: Protein SirB1
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	Methylase of polypeptide chain release factors
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	Peptide chain release factor 1
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	Glutamyl-tRNA reductase (EC 1.2.1.70)
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	FIG002082: Protein sirB2
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
-si_0268	A_Gammaproteobacteria_Cluster_Relating_to_Translation	Outer membrane lipoprotein LolB precursor

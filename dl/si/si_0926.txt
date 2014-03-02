@@ -1,0 +1,7 @@
+si_0926	Arsenic_resistance	Arsenate reductase (EC 1.20.4.1)
+si_0926	Arsenic_resistance	Arsenic efflux pump protein
+si_0926	Arsenic_resistance	Arsenic resistance protein ArsH
+si_0926	Arsenic_resistance	Arsenical pump-driving ATPase (EC 3.6.3.16)
+si_0926	Arsenic_resistance	Arsenical resistance operon repressor
+si_0926	Arsenic_resistance	Arsenical resistance operon trans-acting repressor ArsD
+si_0926	Arsenic_resistance	Arsenical-resistance protein ACR3

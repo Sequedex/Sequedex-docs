@@ -1,0 +1,18 @@
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific IIC component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific IIB component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific IIA component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)
+si_0143	Mannitol_Utilization	Mannitol operon repressor
+si_0143	Mannitol_Utilization	Mannitol operon activator, BglG family
+si_0143	Mannitol_Utilization	Predicted mannitol permease
+si_0143	Mannitol_Utilization	Multiple polyol-specific dehydrogenase (EC 1.1.1.-)
+si_0143	Mannitol_Utilization	Hydrolase in polyol utilization gene cluster, haloacid dehalogenase-like family
+si_0143	Mannitol_Utilization	Transcriptional regulator of mannitol utilization, DeoR family protein
+si_0143	Mannitol_Utilization	Fructokinase (EC 2.7.1.4)
+si_0143	Mannitol_Utilization	Phosphocarrier protein of PTS system
+si_0143	Mannitol_Utilization	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+si_0143	Mannitol_Utilization	HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)
+si_0143	Mannitol_Utilization	Fructokinase in mannitol utilization gene cluster (EC 2.7.1.4)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific cryptic IIA component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific cryptic IIB component (EC 2.7.1.69)
+si_0143	Mannitol_Utilization	PTS system, mannitol-specific cryptic IIC component (EC 2.7.1.69)

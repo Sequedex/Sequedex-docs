@@ -1,1 +1,0 @@
-si_0690	tRNA_aminoacylation,_Trp	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)

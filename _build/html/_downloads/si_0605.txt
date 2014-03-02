@@ -1,6 +1,0 @@
-si_0605	Xanthosine_utilization_(xap_region)	Xanthosine phosphorylase (EC 2.4.2.1)
-si_0605	Xanthosine_utilization_(xap_region)	Xanthosine permease
-si_0605	Xanthosine_utilization_(xap_region)	Xanthosine operon regulatory protein XapR, LysR family
-si_0605	Xanthosine_utilization_(xap_region)	Putative xanthosine permease
-si_0605	Xanthosine_utilization_(xap_region)	Xanthosine permease pseudogene caused by IS154 insertion
-si_0605	Xanthosine_utilization_(xap_region)	Xanthosine permease, C-terminus

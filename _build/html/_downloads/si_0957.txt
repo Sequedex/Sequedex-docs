@@ -1,9 +1,0 @@
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Gamma-hemolysin component A
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Gamma-hemolysin component B
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Gamma-hemolysin component C
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	IgG-binding protein SBI
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Leukotoxin LukD
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Leukotoxin LukE
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Panton-Valentine leukocidin chain F precursor
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Panton-Valentine leukocidin chain S precursor
-si_0957	Staphylococcus_Two-component_and_Pore-forming_Cytolysins	Alpha-hemolysin precursor

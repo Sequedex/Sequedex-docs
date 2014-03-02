@@ -1,0 +1,12 @@
+si_0287	CBSS-196620.1.peg.2477	Putative antibiotic transport-associated protein
+si_0287	CBSS-196620.1.peg.2477	D-specific D-2-hydroxyacid dehydrogenase ddh homolog (EC 1.1.1.28)
+si_0287	CBSS-196620.1.peg.2477	N-succinyldiaminopimelate aminotransferase (EC 2.6.1.17)
+si_0287	CBSS-196620.1.peg.2477	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)
+si_0287	CBSS-196620.1.peg.2477	Maltose O-acetyltransferase (EC 2.3.1.79)
+si_0287	CBSS-196620.1.peg.2477	Ferrous iron transport protein B
+si_0287	CBSS-196620.1.peg.2477	TetR family regulatory protein
+si_0287	CBSS-196620.1.peg.2477	Copper-translocating P-type ATPase (EC 3.6.3.4)
+si_0287	CBSS-196620.1.peg.2477	Hypothetical protein FIG016047
+si_0287	CBSS-196620.1.peg.2477	Hypothetical protein FIG016644
+si_0287	CBSS-196620.1.peg.2477	Copper ion binding protein
+si_0287	CBSS-196620.1.peg.2477	Dehydrosqualene synthase (EC 2.5.1.-)

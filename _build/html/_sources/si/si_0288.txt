@@ -1,5 +1,0 @@
-si_0288	CBSS-214092.1.peg.3450	FIG137864: putative endonuclease containing a URI domain
-si_0288	CBSS-214092.1.peg.3450	FIG002208: Acetyltransferase (EC 2.3.1.-)
-si_0288	CBSS-214092.1.peg.3450	FIG139552: Putative protease
-si_0288	CBSS-214092.1.peg.3450	FIG138517: Putative lipid carrier protein
-si_0288	CBSS-214092.1.peg.3450	FIG139928: Putative protease

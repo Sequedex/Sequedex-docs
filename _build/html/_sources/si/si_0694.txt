@@ -1,3 +1,0 @@
-si_0694	Dipeptidases_(EC_3.4.13.-)	Aminoacyl-histidine dipeptidase (Peptidase D) (EC 3.4.13.3)
-si_0694	Dipeptidases_(EC_3.4.13.-)	Xaa-Pro dipeptidase PepQ (EC 3.4.13.9)
-si_0694	Dipeptidases_(EC_3.4.13.-)	Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)

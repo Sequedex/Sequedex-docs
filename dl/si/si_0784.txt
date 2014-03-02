@@ -1,0 +1,5 @@
+si_0784	Stringent_Response,_(p)ppGpp_metabolism	D-tyrosyl-tRNA(Tyr) deacylase
+si_0784	Stringent_Response,_(p)ppGpp_metabolism	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+si_0784	Stringent_Response,_(p)ppGpp_metabolism	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+si_0784	Stringent_Response,_(p)ppGpp_metabolism	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+si_0784	Stringent_Response,_(p)ppGpp_metabolism	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase (EC 3.6.1.40)

@@ -1,0 +1,20 @@
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraD
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraE
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraF
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraG
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraH
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraI
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraJ
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraK
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraL
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraM
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraN
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraO
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraP
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraQ
+si_0634	Conjugative_transposon,_Bacteroidales	Putative mobilization protein BF0133
+si_0634	Conjugative_transposon,_Bacteroidales	Putative conjugative transposon mobilization protein BF0132
+si_0634	Conjugative_transposon,_Bacteroidales	hypothetical protein clusted with conjugative transposons, BF0131
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraA
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraB
+si_0634	Conjugative_transposon,_Bacteroidales	Conjugative transposon protein TraC

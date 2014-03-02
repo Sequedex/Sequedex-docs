@@ -1,0 +1,6 @@
+si_0508	Colonization_factor_antigen_I_fimbriae	FIGfam014588: Predicted regulator of CFA/I fimbriae
+si_0508	Colonization_factor_antigen_I_fimbriae	CFA/I fimbrial major subunit
+si_0508	Colonization_factor_antigen_I_fimbriae	CFA/I fimbrial auxiliary subunit
+si_0508	Colonization_factor_antigen_I_fimbriae	CFA/I fimbrial subunit C usher protein
+si_0508	Colonization_factor_antigen_I_fimbriae	CFA/I fimbrial minor adhesin
+si_0508	Colonization_factor_antigen_I_fimbriae	CFA/I fimbrial chaperone

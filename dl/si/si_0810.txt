@@ -1,0 +1,15 @@
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.-)
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.-)
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.-)
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.-)
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.-)
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.-)
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Electron transport complex protein RnfA
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Electron transport complex protein RnfB
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Electron transport complex protein RnfC
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Electron transport complex protein RnfD
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Electron transport complex protein RnfE
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Electron transport complex protein RnfG
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Probable exported or periplasmic protein in ApbE locus
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	probable exported protein YPO3233
+si_0810	Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes	Hypothetical protein in ApbE locus

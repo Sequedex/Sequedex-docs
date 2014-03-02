@@ -1,0 +1,6 @@
+si_0195	Outer_membrane	Outer membrane protein A precursor
+si_0195	Outer_membrane	Outer membrane protein C precursor
+si_0195	Outer_membrane	Outer membrane protein F precursor
+si_0195	Outer_membrane	Outer membrane protein G precursor
+si_0195	Outer_membrane	Outer membrane protein H precursor
+si_0195	Outer_membrane	Outer membrane protein assembly factor YaeT precursor

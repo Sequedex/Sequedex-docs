@@ -1,0 +1,8 @@
+si_0201	Sortase	Cell surface protein IsdA, transfers heme from hemoglobin to apo-IsdC
+si_0201	Sortase	Cell wall surface anchor family protein
+si_0201	Sortase	Cell wall surface anchor family protein, FPXTG motif
+si_0201	Sortase	Cell wall surface anchor family protein, LPXTG motif
+si_0201	Sortase	LPXTG specific sortase A
+si_0201	Sortase	NPQTN specific sortase B
+si_0201	Sortase	Sortase A, LPXTG specific
+si_0201	Sortase	Sortase C, subfamily 3, QVPTGV specific

@@ -1,9 +1,0 @@
-si_0698	Proteasome_archaeal	Proteasome subunit alpha (EC 3.4.25.1), archaeal
-si_0698	Proteasome_archaeal	Proteasome subunit beta (EC 3.4.25.1), archaeal
-si_0698	Proteasome_archaeal	Proteasome-activating AAA-ATPase (PAN), archaeal
-si_0698	Proteasome_archaeal	Proteasome subunit alpha (EC 3.4.25.1), bacterial
-si_0698	Proteasome_archaeal	Proteasome subunit beta (EC 3.4.25.1), bacterial
-si_0698	Proteasome_archaeal	Bacterial proteasome-activating AAA-ATPase (PAN)
-si_0698	Proteasome_archaeal	Prokaryotic ubiquitin-like protein Pup
-si_0698	Proteasome_archaeal	Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'
-si_0698	Proteasome_archaeal	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'

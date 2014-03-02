@@ -1,5 +1,0 @@
-si_0571	Archease2	tRNA and rRNA cytosine-C5-methylase Type 1
-si_0571	Archease2	Archease
-si_0571	Archease2	tRNA m(1)G methyltransferase; COG2419: Uncharacterized ACR
-si_0571	Archease2	SSO0251 family
-si_0571	Archease2	tRNA/RNA cytosine-C5-methylase (EC 2.1.1.-)

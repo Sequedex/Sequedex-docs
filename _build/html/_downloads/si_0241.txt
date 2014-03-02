@@ -1,5 +1,0 @@
-si_0241	CBSS-323850.3.peg.3269	Diaminopimelate epimerase (EC 5.1.1.7)
-si_0241	CBSS-323850.3.peg.3269	Protein of unknown function DUF484
-si_0241	CBSS-323850.3.peg.3269	Diaminopimelate decarboxylase (EC 4.1.1.20)
-si_0241	CBSS-323850.3.peg.3269	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
-si_0241	CBSS-323850.3.peg.3269	Tyrosine recombinase XerC

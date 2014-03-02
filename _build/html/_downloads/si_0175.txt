@@ -1,7 +1,0 @@
-si_0175	Pseudaminic_Acid_Biosynthesis	UDP-GlcNAc-specific C4,6 dehydratase/C5 epimerase (PseB, first step of pseudaminic acid biosynthesis)
-si_0175	Pseudaminic_Acid_Biosynthesis	C4 aminotransferase specific for PseB product (PseC, second step of pseudaminic acid biosynthesis)
-si_0175	Pseudaminic_Acid_Biosynthesis	UDP-6-deoxy-AltdiNAc hydrolase (PseG, third step of pseudaminic acid biosynthesis)
-si_0175	Pseudaminic_Acid_Biosynthesis	Pseudaminic acid synthase (EC 4.1.3.-)
-si_0175	Pseudaminic_Acid_Biosynthesis	Pseudaminic acid biosynthesis protein PseA, possible Pse5Ac7Ac acetamidino synthase
-si_0175	Pseudaminic_Acid_Biosynthesis	N-Acetyltransferase PseH involved in the biosynthesis of pseudaminic acid
-si_0175	Pseudaminic_Acid_Biosynthesis	Pseudaminic acid cytidylyltransferase (EC 2.7.7.43)

@@ -1,0 +1,10 @@
+si_0707	Protein_chaperones	Chaperone protein DnaJ
+si_0707	Protein_chaperones	DnaJ-class molecular chaperone CbpA
+si_0707	Protein_chaperones	Chaperone protein DnaK
+si_0707	Protein_chaperones	HspR, transcriptional repressor of DnaK operon
+si_0707	Protein_chaperones	Heat shock protein GrpE
+si_0707	Protein_chaperones	Chaperone protein HscA
+si_0707	Protein_chaperones	Chaperone protein HscB
+si_0707	Protein_chaperones	Chaperone protein HtpG
+si_0707	Protein_chaperones	Chaperone-modulator protein CbpM
+si_0707	Protein_chaperones	ClpB protein

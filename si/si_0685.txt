@@ -1,3 +1,0 @@
-si_0685	tRNA_aminoacylation,_Phe	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
-si_0685	tRNA_aminoacylation,_Phe	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
-si_0685	tRNA_aminoacylation,_Phe	Protein with domain from phenylalanyl-tRNA synthetase alpha chain

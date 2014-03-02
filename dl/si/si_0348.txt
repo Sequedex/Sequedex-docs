@@ -1,0 +1,3 @@
+si_0348	USS-DB-4	Transcriptional regulator, TetR (AcrR) family [USSDB4A]
+si_0348	USS-DB-4	Efflux system membrane fusion protein [USSDB4B]
+si_0348	USS-DB-4	Multidrug efflux transporter [USSDB4C]

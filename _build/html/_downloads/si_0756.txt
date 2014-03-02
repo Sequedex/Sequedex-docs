@@ -1,8 +1,0 @@
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death antitoxin MazE
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death toxin MazF
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death antitoxin ChpS
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death toxin ChpB
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death antitoxin PemI
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death toxin PemK
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death antitoxin YdcD
-si_0756	MazEF_toxin-antitoxing_(programmed_cell_death)_system	Programmed cell death toxin YdcE

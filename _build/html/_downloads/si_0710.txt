@@ -1,3 +1,0 @@
-si_0710	Lipoprotein_Biosynthesis	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)
-si_0710	Lipoprotein_Biosynthesis	Lipoprotein signal peptidase (EC 3.4.23.36)
-si_0710	Lipoprotein_Biosynthesis	Apolipoprotein N-acyltransferase (EC 2.3.1.-)

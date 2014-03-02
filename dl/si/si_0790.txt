@@ -1,0 +1,27 @@
+si_0790	cAMP_signaling_in_bacteria	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+si_0790	cAMP_signaling_in_bacteria	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+si_0790	cAMP_signaling_in_bacteria	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+si_0790	cAMP_signaling_in_bacteria	Adenylate cyclase (EC 4.6.1.1)
+si_0790	cAMP_signaling_in_bacteria	Adenylate/guanylate cyclase (EC 4.6.1.2)
+si_0790	cAMP_signaling_in_bacteria	CAMP phosphodiesterases class-II:Metallo-beta-lactamase superfamily
+si_0790	cAMP_signaling_in_bacteria	Cyclic AMP receptor protein
+si_0790	cAMP_signaling_in_bacteria	ElaA protein
+si_0790	cAMP_signaling_in_bacteria	Heme-regulated cyclic AMP phosphodiesterase (EC 3.1.4.-)
+si_0790	cAMP_signaling_in_bacteria	Hydrolase, alpha/beta fold family functionally coupled to Phosphoribulokinase
+si_0790	cAMP_signaling_in_bacteria	Predicted signal-transduction protein containing cAMP-binding and CBS domains
+si_0790	cAMP_signaling_in_bacteria	Prophage Clp protease-like protein
+si_0790	cAMP_signaling_in_bacteria	Purine cyclase-related protein
+si_0790	cAMP_signaling_in_bacteria	Putative Heme-regulated two-component response regulator
+si_0790	cAMP_signaling_in_bacteria	Putative hemin-binding lipoprotein
+si_0790	cAMP_signaling_in_bacteria	Putative insecticidal toxin complex
+si_0790	cAMP_signaling_in_bacteria	adenylate cyclase ExoY
+si_0790	cAMP_signaling_in_bacteria	anthrax toxin moiety, protective antigen, pagA formerly pag, plasmid pXO1, B. anthracis (M22589, P13423)
+si_0790	cAMP_signaling_in_bacteria	bifunctional hemolysin-adenylate cyclase precursor
+si_0790	cAMP_signaling_in_bacteria	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+si_0790	cAMP_signaling_in_bacteria	cAMP-dependent Kef-type K+ transport system
+si_0790	cAMP_signaling_in_bacteria	calmodulin sensitive adenylate cyclase, edema factor, cya, plasmid pXO1, B. anthracis (M23179, M24074)
+si_0790	cAMP_signaling_in_bacteria	cyclolysin secretion ATP-binding protein
+si_0790	cAMP_signaling_in_bacteria	cyclolysin secretion protein
+si_0790	cAMP_signaling_in_bacteria	cyclolysin-activating lysine-acyltransferase
+si_0790	cAMP_signaling_in_bacteria	trans-acting positive regulator (Atx A)
+si_0790	cAMP_signaling_in_bacteria	transcriptional activator AtxA, (pXO1-119)

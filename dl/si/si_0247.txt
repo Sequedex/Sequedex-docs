@@ -1,0 +1,4 @@
+si_0247	YeiH	Putative membrane protein YeiH
+si_0247	YeiH	LysR family transcriptional regulator YeiE
+si_0247	YeiH	Lysine-specific permease
+si_0247	YeiH	DNA binding protein HpkR

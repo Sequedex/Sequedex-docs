@@ -1,0 +1,3 @@
+si_0261	CBSS-314267.3.peg.390	Putative Isoquinoline 1-oxidoreductase subunit, Mll3835 protein
+si_0261	CBSS-314267.3.peg.390	Isoquinoline 1-oxidoreductase alpha subunit (EC 1.3.99.16)
+si_0261	CBSS-314267.3.peg.390	Isoquinoline 1-oxidoreductase beta subunit (EC 1.3.99.16)

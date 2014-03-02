@@ -1,0 +1,4 @@
+si_0679	tRNA_aminoacylation,_Gly	Glycyl-tRNA synthetase (EC 6.1.1.14)
+si_0679	tRNA_aminoacylation,_Gly	Glycyl-tRNA synthetase (EC 6.1.1.14), carboxy-terminal 114 amino acids
+si_0679	tRNA_aminoacylation,_Gly	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+si_0679	tRNA_aminoacylation,_Gly	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)

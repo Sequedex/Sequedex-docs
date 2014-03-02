@@ -1,3 +1,0 @@
-si_0928	Cadmium_resistance	Cadmium efflux system accessory protein
-si_0928	Cadmium_resistance	Cadmium resistance protein
-si_0928	Cadmium_resistance	Cadmium-transporting ATPase (EC 3.6.3.3)

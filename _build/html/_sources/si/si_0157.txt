@@ -1,3 +1,0 @@
-si_0157	Intracellular_septation_in_Enterobacteria	Membrane protein YciC, linked to IspA
-si_0157	Intracellular_septation_in_Enterobacteria	Intracellular septation protein IspA
-si_0157	Intracellular_septation_in_Enterobacteria	Acyl-CoA thioesterase YciA, involved in membrane biogenesis

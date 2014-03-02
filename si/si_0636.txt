@@ -1,5 +1,0 @@
-si_0636	Integrons	Integron integrase
-si_0636	Integrons	Integron integrase IntI1
-si_0636	Integrons	Integron integrase IntI2
-si_0636	Integrons	Integron integrase IntI4
-si_0636	Integrons	Integron integrase IntIPac

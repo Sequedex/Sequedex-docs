@@ -1,7 +1,0 @@
-si_0307	CBSS-316057.3.peg.563	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
-si_0307	CBSS-316057.3.peg.563	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
-si_0307	CBSS-316057.3.peg.563	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
-si_0307	CBSS-316057.3.peg.563	conserved hypothetical protein in cyt c oxidase gene clusters
-si_0307	CBSS-316057.3.peg.563	TldD protein, part of proposed TldE/TldD proteolytic complex (PMID 12029038)
-si_0307	CBSS-316057.3.peg.563	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
-si_0307	CBSS-316057.3.peg.563	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)

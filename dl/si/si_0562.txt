@@ -1,0 +1,9 @@
+si_0562	carbazol_degradation_cluster	Terminal dioxygenase component of carbazole 1,9a-dioxygenase
+si_0562	carbazol_degradation_cluster	2'-aminobiphenyl-2,3-diol 1,2-dioxygenase
+si_0562	carbazol_degradation_cluster	Catalitic subunit of carbazole 1,9a-dioxygenase
+si_0562	carbazol_degradation_cluster	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)
+si_0562	carbazol_degradation_cluster	Ferredoxin component of carbazole 1,9a-dioxygenase
+si_0562	carbazol_degradation_cluster	Ferredoxin reductase component of carbazole 1,9a-dioxygenase
+si_0562	carbazol_degradation_cluster	2-hydroxypent-2,4-dienoate hydratase (EC 4.2.-.-)
+si_0562	carbazol_degradation_cluster	Acetaldehyde dehydrogenase (acylating)
+si_0562	carbazol_degradation_cluster	4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.-)

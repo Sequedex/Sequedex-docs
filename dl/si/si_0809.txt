@@ -1,0 +1,4 @@
+si_0809	Methanophenazine_hydrogenase	Methanophenazine hydrogenase large subunit (EC 1.12.98.3)
+si_0809	Methanophenazine_hydrogenase	Methanophenazine hydrogenase small subunit precursor (EC 1.12.98.3)
+si_0809	Methanophenazine_hydrogenase	Methanophenazine hydrogenase cytochrome b subunit (EC 1.12.98.3)
+si_0809	Methanophenazine_hydrogenase	Methanophenazine hydrogenase maturation protease (EC 3.4.24.-)

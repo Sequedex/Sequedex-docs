@@ -1,0 +1,2 @@
+si_0704	GroEL_GroES	Heat shock protein 60 family chaperone GroEL
+si_0704	GroEL_GroES	Heat shock protein 60 family co-chaperone GroES

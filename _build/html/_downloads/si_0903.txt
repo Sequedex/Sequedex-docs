@@ -1,5 +1,0 @@
-si_0903	Polymyxin_Synthetase_Gene_Cluster_in_Bacillus	Polymyxin synthetase PmxA
-si_0903	Polymyxin_Synthetase_Gene_Cluster_in_Bacillus	Polymyxin synthetase PmxB
-si_0903	Polymyxin_Synthetase_Gene_Cluster_in_Bacillus	Polymyxin transporter PmxC
-si_0903	Polymyxin_Synthetase_Gene_Cluster_in_Bacillus	4'-phosphopantetheinyl transferase (EC 2.7.8.-) in polymyxin biosynthetic cluster
-si_0903	Polymyxin_Synthetase_Gene_Cluster_in_Bacillus	Uncharacterized protein in polymyxin biosynthetic cluster

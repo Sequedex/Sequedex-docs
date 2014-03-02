@@ -1,4 +1,0 @@
-si_0316	CBSS-323097.3.peg.2594	Protein YicC
-si_0316	CBSS-323097.3.peg.2594	Guanylate kinase (EC 2.7.4.8)
-si_0316	CBSS-323097.3.peg.2594	FIG004453: protein YceG like
-si_0316	CBSS-323097.3.peg.2594	FIG003307: hypothetical protein

@@ -1,0 +1,4 @@
+si_0282	CBSS-159087.4.peg.2189	Phage T7 exclusion protein
+si_0282	CBSS-159087.4.peg.2189	Phage T7 exclusion protein associated hypothetical protein
+si_0282	CBSS-159087.4.peg.2189	FIG014574: hypothetical protein
+si_0282	CBSS-159087.4.peg.2189	Putative deoxyribonuclease similar to YcfH, type 4

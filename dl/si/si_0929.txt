@@ -1,0 +1,23 @@
+si_0929	Cobalt-zinc-cadmium_resistance	Cadmium-transporting ATPase (EC 3.6.3.3)
+si_0929	Cobalt-zinc-cadmium_resistance	Cation efflux system protein CusA
+si_0929	Cobalt-zinc-cadmium_resistance	Cation efflux system protein CusC precursor
+si_0929	Cobalt-zinc-cadmium_resistance	Cation efflux system protein CusF precursor
+si_0929	Cobalt-zinc-cadmium_resistance	Cd(II)/Pb(II)-responsive transcriptional regulator
+si_0929	Cobalt-zinc-cadmium_resistance	Cobalt-zinc-cadmium resistance protein
+si_0929	Cobalt-zinc-cadmium_resistance	Cobalt-zinc-cadmium resistance protein CzcA
+si_0929	Cobalt-zinc-cadmium_resistance	Cobalt-zinc-cadmium resistance protein CzcD
+si_0929	Cobalt-zinc-cadmium_resistance	Cobalt/zinc/cadmium efflux RND transporter, membrane fusion protein, CzcB family
+si_0929	Cobalt-zinc-cadmium_resistance	Copper sensory histidine kinase CusS
+si_0929	Cobalt-zinc-cadmium_resistance	Copper-sensing two-component system response regulator CusR
+si_0929	Cobalt-zinc-cadmium_resistance	DNA-binding heavy metal response regulator
+si_0929	Cobalt-zinc-cadmium_resistance	Heavy metal RND efflux outer membrane protein, CzcC family
+si_0929	Cobalt-zinc-cadmium_resistance	Heavy metal resistance transcriptional regulator HmrR
+si_0929	Cobalt-zinc-cadmium_resistance	Heavy metal sensor histidine kinase
+si_0929	Cobalt-zinc-cadmium_resistance	Hypothetical protein involved in heavy metal export
+si_0929	Cobalt-zinc-cadmium_resistance	Nickel-cobalt-cadmium resistance protein NccB
+si_0929	Cobalt-zinc-cadmium_resistance	Probable Co/Zn/Cd efflux system membrane fusion protein
+si_0929	Cobalt-zinc-cadmium_resistance	Probable cadmium-transporting ATPase (EC 3.6.3.3)
+si_0929	Cobalt-zinc-cadmium_resistance	Putative silver efflux pump
+si_0929	Cobalt-zinc-cadmium_resistance	Transcriptional regulator, MerR family
+si_0929	Cobalt-zinc-cadmium_resistance	Zinc transporter ZitB
+si_0929	Cobalt-zinc-cadmium_resistance	Zn(II) and Co(II) transmembrane diffusion facilitator

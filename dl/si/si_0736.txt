@@ -1,0 +1,21 @@
+si_0736	rRNA_modification_Archaea	conserved protein with predicted RNA binding PUA domain
+si_0736	rRNA_modification_Archaea	C*N330 1404
+si_0736	rRNA_modification_Archaea	Predicted RNA methylase COG2263
+si_0736	rRNA_modification_Archaea	Dimethyladenosine transferase (EC 2.1.1.-)
+si_0736	rRNA_modification_Archaea	m1A571
+si_0736	rRNA_modification_Archaea	Gm1909
+si_0736	rRNA_modification_Archaea	Ribosomal RNA large subunit methyltransferase J (EC 2.1.1.-)
+si_0736	rRNA_modification_Archaea	Gm2553
+si_0736	rRNA_modification_Archaea	COG2106 Methylase
+si_0736	rRNA_modification_Archaea	Predicted RNA-binding protein COG1491
+si_0736	rRNA_modification_Archaea	Predicted Zn-ribbon RNA-binding protein with a function in translation
+si_0736	rRNA_modification_Archaea	Putative RNA-binding protein COG1094
+si_0736	rRNA_modification_Archaea	tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+si_0736	rRNA_modification_Archaea	Fibrillarin
+si_0736	rRNA_modification_Archaea	rRNA biogenesis protein Nop5/Nop56
+si_0736	rRNA_modification_Archaea	LSU ribosomal protein L7Ae
+si_0736	rRNA_modification_Archaea	gar1 - like small nucleolar rnp
+si_0736	rRNA_modification_Archaea	Ribosome biogenesis protein Nop10
+si_0736	rRNA_modification_Archaea	Predicted N6-adenine-specific RNA methylase containing THUMP domain
+si_0736	rRNA_modification_Archaea	tRNA:Cm32/Um32 methyltransferase
+si_0736	rRNA_modification_Archaea	COG3269, Predicted RNA-binding protein, contains TRAM domain

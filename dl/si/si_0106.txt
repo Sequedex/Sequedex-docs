@@ -1,0 +1,34 @@
+si_0106	D-gluconate_and_ketogluconates_metabolism	2,5-diketo-D-gluconate reductase A (EC 1.1.1.274)
+si_0106	D-gluconate_and_ketogluconates_metabolism	2,5-diketo-D-gluconic acid reductase B (EC 1.1.1.274)
+si_0106	D-gluconate_and_ketogluconates_metabolism	2-Keto-D-gluconate dehydrogenase (EC 1.1.99.4), membrane-bound, cytochrome c
+si_0106	D-gluconate_and_ketogluconates_metabolism	2-Keto-D-gluconate dehydrogenase (EC 1.1.99.4), membrane-bound, flavoprotein
+si_0106	D-gluconate_and_ketogluconates_metabolism	2-Keto-D-gluconate dehydrogenase (EC 1.1.99.4), membrane-bound, gamma subunit
+si_0106	D-gluconate_and_ketogluconates_metabolism	2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)
+si_0106	D-gluconate_and_ketogluconates_metabolism	2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)
+si_0106	D-gluconate_and_ketogluconates_metabolism	5-keto-D-gluconate 5-reductase (EC 1.1.1.69)
+si_0106	D-gluconate_and_ketogluconates_metabolism	Broad-specificity glycerol dehydrogenase (EC 1.1.99.22), subunit SldA
+si_0106	D-gluconate_and_ketogluconates_metabolism	Broad-specificity glycerol dehydrogenase (EC 1.1.99.22), subunit SldB
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate 2-dehydrogenase (EC 1.1.99.3), membrane-bound, cytochrome c
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate 2-dehydrogenase (EC 1.1.99.3), membrane-bound, flavoprotein
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate 2-dehydrogenase (EC 1.1.99.3), membrane-bound, gamma subunit
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate operon transcriptional repressor
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate permease
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate permease, Bsu4004 homolog
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate transporter family protein
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconate utilization system Gnt-I transcriptional repressor
+si_0106	D-gluconate_and_ketogluconates_metabolism	Gluconokinase (EC 2.7.1.12)
+si_0106	D-gluconate_and_ketogluconates_metabolism	Glucose 1-dehydrogenase (EC 1.1.1.47)
+si_0106	D-gluconate_and_ketogluconates_metabolism	Glucose dehydrogenase (EC 1.1.99.10), membrane-bound, cytochrome c
+si_0106	D-gluconate_and_ketogluconates_metabolism	Glucose dehydrogenase (EC 1.1.99.10), membrane-bound, flavoprotein
+si_0106	D-gluconate_and_ketogluconates_metabolism	Glucose dehydrogenase (EC 1.1.99.10), membrane-bound, gamma subunit
+si_0106	D-gluconate_and_ketogluconates_metabolism	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+si_0106	D-gluconate_and_ketogluconates_metabolism	High-affinity gluconate transporter GntT
+si_0106	D-gluconate_and_ketogluconates_metabolism	Hypothetical oxidoreductase YqhD (EC 1.1.-.-)
+si_0106	D-gluconate_and_ketogluconates_metabolism	Hypothetical transcriptional regulator YqhC
+si_0106	D-gluconate_and_ketogluconates_metabolism	L-idonate 5-dehydrogenase (EC 1.1.1.264)
+si_0106	D-gluconate_and_ketogluconates_metabolism	L-idonate, D-gluconate, 5-keto-D-gluconate transporter
+si_0106	D-gluconate_and_ketogluconates_metabolism	Low-affinity gluconate/H+ symporter GntU
+si_0106	D-gluconate_and_ketogluconates_metabolism	Positive regulator of L-idonate catabolism
+si_0106	D-gluconate_and_ketogluconates_metabolism	Predicted gluconate TRAP family transporter, DctM subunit
+si_0106	D-gluconate_and_ketogluconates_metabolism	Predicted gluconate TRAP family transporter, DctP subunit
+si_0106	D-gluconate_and_ketogluconates_metabolism	Predicted gluconate TRAP family transporter, DctQ subunit

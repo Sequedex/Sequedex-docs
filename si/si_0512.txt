@@ -1,7 +1,0 @@
-si_0512	Curli_production	Transcriptional regulator CsgD for 2nd curli operon
-si_0512	Curli_production	Major curlin subunit precursor CsgA
-si_0512	Curli_production	Minor curlin subunit CsgB, nucleation component of curlin monomers
-si_0512	Curli_production	Curli production assembly/transport component CsgE
-si_0512	Curli_production	Curli production assembly/transport component CsgF
-si_0512	Curli_production	Curli production assembly/transport component CsgG
-si_0512	Curli_production	Putative curli production protein CsgC

@@ -1,2 +1,0 @@
-si_0235	CBSS-269801.1.peg.2186	UPF0118 membrane protein YrrI
-si_0235	CBSS-269801.1.peg.2186	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)

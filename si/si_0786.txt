@@ -1,7 +1,0 @@
-si_0786	Trans-envelope_signaling_system_VreARI_in_Pseudomonas	Outer membrane TonB-dependent transducer VreA of trans-envelope signaling system
-si_0786	Trans-envelope_signaling_system_VreARI_in_Pseudomonas	Extracytoplasmic function (ECF) sigma factor VreI
-si_0786	Trans-envelope_signaling_system_VreARI_in_Pseudomonas	Sigma factor regulator VreR (cytoplasmic membrane-localized) of trans-envelope signaling system
-si_0786	Trans-envelope_signaling_system_VreARI_in_Pseudomonas	Filamentous haemagglutinin family outer membrane protein associated with VreARI signalling system
-si_0786	Trans-envelope_signaling_system_VreARI_in_Pseudomonas	Hemolysin activation/secretion protein associated with VreARI signalling system
-si_0786	Trans-envelope_signaling_system_VreARI_in_Pseudomonas	Putative PpiC-type peptidyl-prolyl cis-trans isomerase precursor associated with VreARI signaling system
-si_0786	Trans-envelope_signaling_system_VreARI_in_Pseudomonas	Putative outer membrane TonB-dependent receptor associated with haemagglutinin family outer membrane protein

@@ -1,0 +1,12 @@
+si_0718	Protein_secretion_by_ABC-type_exporters	Hemophore HasA
+si_0718	Protein_secretion_by_ABC-type_exporters	Hemophore HasA outer membrane receptor HasR
+si_0718	Protein_secretion_by_ABC-type_exporters	ABC exporter for hemopore HasA, ATP-binding component HasD
+si_0718	Protein_secretion_by_ABC-type_exporters	ABC exporter for hemopore HasA, membrane fusion protein (MFP) family component HasE
+si_0718	Protein_secretion_by_ABC-type_exporters	ABC exporter for hemopore HasA, outer membrane component HasF
+si_0718	Protein_secretion_by_ABC-type_exporters	Putative tonB protein
+si_0718	Protein_secretion_by_ABC-type_exporters	ABC-type protease exporter, ATP-binding component PrtD/AprD
+si_0718	Protein_secretion_by_ABC-type_exporters	ABC-type protease exporter, outer membrane component PrtF/AprF
+si_0718	Protein_secretion_by_ABC-type_exporters	ABC-type protease exporter, membrane fusion protein (MFP) family component PrtE/AprE
+si_0718	Protein_secretion_by_ABC-type_exporters	Secreted alkaline metalloproteinase (EC 3.4.24.-), PrtA/B/C/G homolog
+si_0718	Protein_secretion_by_ABC-type_exporters	Alkaline proteinase inhibitor precursor
+si_0718	Protein_secretion_by_ABC-type_exporters	Probable transmembrane heme sensor

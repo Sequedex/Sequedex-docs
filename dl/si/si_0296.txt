@@ -1,0 +1,8 @@
+si_0296	CBSS-266117.6.peg.2476	Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)
+si_0296	CBSS-266117.6.peg.2476	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)
+si_0296	CBSS-266117.6.peg.2476	Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)
+si_0296	CBSS-266117.6.peg.2476	Regulator of polyketide synthase expression
+si_0296	CBSS-266117.6.peg.2476	Xanthine/uracil/thiamine/ascorbate permease family protein
+si_0296	CBSS-266117.6.peg.2476	Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family
+si_0296	CBSS-266117.6.peg.2476	hypothetical protein SC6C5.04c
+si_0296	CBSS-266117.6.peg.2476	Guanine deaminase (EC 3.5.4.3)

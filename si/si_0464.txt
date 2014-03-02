@@ -1,9 +1,0 @@
-si_0464	Alcaligin_Siderophore	Siderophore [Alcaligin] biosynthetic enzyme (EC 1.14.13.59)
-si_0464	Alcaligin_Siderophore	Siderophore [Alcaligin] biosynthesis complex, short chain
-si_0464	Alcaligin_Siderophore	Siderophore [Alcaligin] biosynthesis complex, long chain
-si_0464	Alcaligin_Siderophore	Putative iron reductase in siderophore [Alcaligin] cluster
-si_0464	Alcaligin_Siderophore	Iron-sulfur protein in siderophore [Alcaligin] cluster
-si_0464	Alcaligin_Siderophore	Transcriptional regulator AlcR in siderophore [Alcaligin] cluster
-si_0464	Alcaligin_Siderophore	Siderophore [Alcaligin] translocase AlcS
-si_0464	Alcaligin_Siderophore	Iron-siderophore [Alcaligin] receptor
-si_0464	Alcaligin_Siderophore	Membrane efflux protein associated with [Alcaligin] siderophore cluster

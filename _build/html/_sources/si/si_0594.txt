@@ -1,3 +1,0 @@
-si_0594	Nitric_oxide_synthase	Manganese superoxide dismutase (EC 1.15.1.1)
-si_0594	Nitric_oxide_synthase	Nitric oxide synthase oxygenase (EC 1.-.-.-)
-si_0594	Nitric_oxide_synthase	putative cytochrome P450 hydroxylase

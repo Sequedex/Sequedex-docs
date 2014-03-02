@@ -1,0 +1,3 @@
+si_0688	tRNA_aminoacylation,_Ser	Archaeal seryl-tRNA synthetase-related sequence
+si_0688	tRNA_aminoacylation,_Ser	Seryl-tRNA synthetase (EC 6.1.1.11)
+si_0688	tRNA_aminoacylation,_Ser	Seryl-tRNA synthetase (EC 6.1.1.11), archaeal

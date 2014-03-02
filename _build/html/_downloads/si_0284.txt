@@ -1,4 +1,0 @@
-si_0284	CBSS-176279.3.peg.1262	Foldase clustered with pyrimidine conversion
-si_0284	CBSS-176279.3.peg.1262	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
-si_0284	CBSS-176279.3.peg.1262	Hypothetical protein SAV1839
-si_0284	CBSS-176279.3.peg.1262	Hypothetical protein SAV1840

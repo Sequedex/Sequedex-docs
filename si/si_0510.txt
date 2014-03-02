@@ -1,7 +1,0 @@
-si_0510	The_fimbrial_Stf_cluster	Fimbriae usher protein StfC
-si_0510	The_fimbrial_Stf_cluster	Major fimbrial subunit StfA
-si_0510	The_fimbrial_Stf_cluster	Periplasmic fimbrial chaperone StfD
-si_0510	The_fimbrial_Stf_cluster	Uncharacterized protein YadU in stf fimbrial cluster
-si_0510	The_fimbrial_Stf_cluster	Minor fimbrial subunit StfF
-si_0510	The_fimbrial_Stf_cluster	Minor fimbrial subunit StfG
-si_0510	The_fimbrial_Stf_cluster	Minor fimbrial subunit StfE

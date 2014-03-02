@@ -1,0 +1,6 @@
+ss00759	ArcA	Arginine deiminase (EC 3.5.3.6)
+ss00759	ArcB	Ornithine carbamoyltransferase (EC 2.1.3.3)
+ss00759	ArcC	Carbamate kinase (EC 2.7.2.2)
+ss00759	ArcD	Arginine/ornithine antiporter ArcD
+ss00759	ArcR	Transcriptional regulator ArcR essential for anaerobic expression of the ADI pathway, Crp/Fnr family
+ss00759	ArgR	Arginine pathway regulatory protein ArgR, repressor of arg regulon

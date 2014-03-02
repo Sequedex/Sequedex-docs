@@ -1,2 +1,0 @@
-si_0833	Steroid_sulfates	Arylsulfatase (EC 3.1.6.1)
-si_0833	Steroid_sulfates	Steryl-sulfatase precursor (EC 3.1.6.2)

@@ -1,5 +1,0 @@
-si_0658	Pyrrolysine	Proline 2-methylase for pyrrolysine biosynthesis
-si_0658	Pyrrolysine	Proline reductase for pyrrolysine biosynthesis
-si_0658	Pyrrolysine	Pyrrolysine synthetase
-si_0658	Pyrrolysine	Pyrrolysyl-tRNA synthetase (EC 6.1.1.26)
-si_0658	Pyrrolysine	pyrrolysine-containing

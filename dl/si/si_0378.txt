@@ -1,0 +1,8 @@
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein A
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein B
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein C
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein D
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein E
+si_0378	Coenzyme_PQQ_synthesis	Coenzyme PQQ synthesis protein F (EC 3.4.99.-)
+si_0378	Coenzyme_PQQ_synthesis	Paralog of coenzyme PQQ synthesis protein C
+si_0378	Coenzyme_PQQ_synthesis	Similar to coenzyme PQQ synthesis protein B

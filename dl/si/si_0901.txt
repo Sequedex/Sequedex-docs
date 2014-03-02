@@ -1,0 +1,16 @@
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Beta-lactamase repressor BlaI
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Beta-lactamase regulatory sensor-transducer BlaR1
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Regulatory protein BlaR1
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Beta-lactamase (EC 3.5.2.6)
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Beta-lactamase class A
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Methicillin resistance repressor MecI
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Methicillin resistance regulatory sensor-transducer MecR1
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Methicillin resistance regulatory sensor-transducer MecR1, truncated
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Penicillin-binding protein PBP2a, methicillin resistance determinant MecA, transpeptidase
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Transcriptional repressor, BlaI/MecI family
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Regulatory sensor-transducer, BlaR1/MecR1 family
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Transcriptional regulator, MecI family
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Negative transcriptional regulator-copper transport operon
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Copper-translocating P-type ATPase (EC 3.6.3.4)
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Probable beta-lactamase ybxI precursor (EC 3.5.2.6)
+si_0901	BlaR1_Family_Regulatory_Sensor-transducer_Disambiguation	Peptidase M48, Ste24p precursor

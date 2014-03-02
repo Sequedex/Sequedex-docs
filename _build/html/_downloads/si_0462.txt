@@ -1,6 +1,0 @@
-si_0462	Cholesterol_catabolic_operon_in_Mycobacteria	Putative cytochrome P450 IgrA
-si_0462	Cholesterol_catabolic_operon_in_Mycobacteria	Acyl-CoA dehydrogenase IgrB
-si_0462	Cholesterol_catabolic_operon_in_Mycobacteria	Acyl-CoA dehydrogenase IgrC
-si_0462	Cholesterol_catabolic_operon_in_Mycobacteria	Conserved protein IgrD
-si_0462	Cholesterol_catabolic_operon_in_Mycobacteria	Enoyl coenzyme A hydratase IgrE
-si_0462	Cholesterol_catabolic_operon_in_Mycobacteria	Lipid carrier protein IgrF

@@ -1,0 +1,16 @@
+ss00502	ArgA	N-acetylglutamate synthase (EC 2.3.1.1)
+ss00502	ArgJ	Glutamate N-acetyltransferase (EC 2.3.1.35)
+ss00502	ArgB	Acetylglutamate kinase (EC 2.7.2.8)
+ss00502	ArgC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+ss00502	ArgD	Acetylornithine aminotransferase (EC 2.6.1.11)
+ss00502	ArgE	Acetylornithine deacetylase (EC 3.5.1.16)
+ss00502	ArgF	Ornithine carbamoyltransferase (EC 2.1.3.3)
+ss00502	ArgF1	N-acetylornithine carbamoyltransferase (EC 2.1.3.9)
+ss00502	ArgG	Argininosuccinate synthase (EC 6.3.4.5)
+ss00502	ArgH	Argininosuccinate lyase (EC 4.3.2.1)
+ss00502	ArgR	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+ss00502	ArgA1	Predicted amino-acid acetyltransferase (EC 2.3.1.1) complementing ArgA function in Arginine Biosynthesis pathway
+ss00502	DapE	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+ss00502	ACOATm	Acetylornithine aminotransferase, mitochondrial precursor (EC 2.6.1.11) (ACOAT)
+ss00502	ACOAT1	Acetylornithine aminotransferase 1 (EC 2.6.1.11)
+ss00502	ACOAT2	Acetylornithine aminotransferase 2 (EC 2.6.1.11)

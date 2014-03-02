@@ -1,2 +1,0 @@
-si_0300	CBSS-288681.3.peg.1039	Conserved protein YqhG
-si_0300	CBSS-288681.3.peg.1039	Superfamily II DNA/RNA helicases, SNF2 family

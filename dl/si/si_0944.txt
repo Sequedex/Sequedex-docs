@@ -1,0 +1,6 @@
+si_0944	Resistance_to_chromium_compounds	Chromate resistance protein ChrI
+si_0944	Resistance_to_chromium_compounds	Chromate resistance protein ChrB
+si_0944	Resistance_to_chromium_compounds	Chromate transport protein ChrA
+si_0944	Resistance_to_chromium_compounds	Rhodanese-like protein ChrE
+si_0944	Resistance_to_chromium_compounds	Superoxide dismutase SodM-like protein ChrF
+si_0944	Resistance_to_chromium_compounds	Superoxide dismutase ChrC

@@ -1,4 +1,0 @@
-si_0481	Ferrous_iron_transporter_EfeUOB,_low-pH-induced	Ferrous iron transport permease EfeU
-si_0481	Ferrous_iron_transporter_EfeUOB,_low-pH-induced	Ferrous iron transport permease EfeU, N-terminal extended
-si_0481	Ferrous_iron_transporter_EfeUOB,_low-pH-induced	Ferrous iron transport periplasmic protein EfeO, contains peptidase-M75 domain and (frequently) cupredoxin-like domain
-si_0481	Ferrous_iron_transporter_EfeUOB,_low-pH-induced	Ferrous iron transport peroxidase EfeB

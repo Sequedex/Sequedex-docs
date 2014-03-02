@@ -1,0 +1,15 @@
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Hydrogen cyanide synthase HcnA
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Hydrogen cyanide synthase HcnB
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Hydrogen cyanide synthase HcnC
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Cyanide insensitive terminal oxidase, subunit I
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Cyanide insensitive terminal oxidase, subunit II
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Cyanide insensitive terminal oxidase, putative subunit III
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	NADH peroxidase Npx (EC 1.11.1.1)
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Cyanide hydratase (EC 4.2.1.66)
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Carbonic anhydrase (EC 4.2.1.1)
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Sulfate transporter family protein in cluster with carbonic anhydrase
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Formate dehydrogenase O alpha subunit (EC 1.2.1.2)
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	Formate dehydrogenase O gamma subunit (EC 1.2.1.2)
+si_0959	Bacterial_cyanide_production_and_tolerance_mechanisms	formate dehydrogenase formation protein FdhE

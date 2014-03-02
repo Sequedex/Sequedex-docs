@@ -1,7 +1,0 @@
-si_0452	Acyclic_terpenes_utilization	Acyclic terpenes utilization regulator AtuR, TetR family
-si_0452	Acyclic_terpenes_utilization	3-hydroxy-3isohexenylglutaryl-CoA:acetate lyase
-si_0452	Acyclic_terpenes_utilization	Citronellol and citronellal dehydrogenase
-si_0452	Acyclic_terpenes_utilization	Geranyl-CoA carboxylase carboxyl transferase subunit
-si_0452	Acyclic_terpenes_utilization	Citronellyl-CoA dehydrogenase
-si_0452	Acyclic_terpenes_utilization	Isohexenylglutaconyl-CoA hydratase
-si_0452	Acyclic_terpenes_utilization	Geranyl-CoA carboxylase biotin-containing subunit

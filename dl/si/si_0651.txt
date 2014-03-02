@@ -1,0 +1,9 @@
+si_0651	Proteorhodopsin	Beta-carotene ketolase (EC 1.14.-.-)
+si_0651	Proteorhodopsin	Lycopene beta cyclase (EC 1.14.-.-)
+si_0651	Proteorhodopsin	Lycopene cyclase, CruA type
+si_0651	Proteorhodopsin	Octaprenyl-diphosphate synthase (EC 2.5.1.-)
+si_0651	Proteorhodopsin	Phytoene dehydrogenase (EC 1.14.99.-)
+si_0651	Proteorhodopsin	Phytoene synthase (EC 2.5.1.32)
+si_0651	Proteorhodopsin	Predictet Brp-like protein Blh
+si_0651	Proteorhodopsin	Proteorhodopsin
+si_0651	Proteorhodopsin	Spheroidene monooxygenase

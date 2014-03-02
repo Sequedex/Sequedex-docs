@@ -1,6 +1,0 @@
-si_0460	Sphingolipid_biosynthesis	Serine palmitoyltransferase (EC 2.3.1.50)
-si_0460	Sphingolipid_biosynthesis	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
-si_0460	Sphingolipid_biosynthesis	3-dehydrosphinganine reductase (EC 1.1.1.102)
-si_0460	Sphingolipid_biosynthesis	Acyl-CoA-dependent ceramide synthase (EC 2.3.1.24)
-si_0460	Sphingolipid_biosynthesis	Putative fatty acid desaturase (EC 1.14.-.-)
-si_0460	Sphingolipid_biosynthesis	Catalyzes the hydrolysis of ceramide to fatty acid and sphingosine (EC 3.5.1.23)

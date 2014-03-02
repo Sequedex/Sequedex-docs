@@ -1,3 +1,0 @@
-si_0579	Additional_flagellar_genes_in_Vibrionales	Flagellar protein FlgT
-si_0579	Additional_flagellar_genes_in_Vibrionales	Flagellar protein FlgP
-si_0579	Additional_flagellar_genes_in_Vibrionales	Flagellar protein FlgO

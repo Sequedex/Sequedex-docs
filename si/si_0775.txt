@@ -1,2 +1,0 @@
-si_0775	CytR_regulation	Transcriptional (co)regulator CytR
-si_0775	CytR_regulation	Cyclic AMP receptor protein

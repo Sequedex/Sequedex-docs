@@ -1,6 +1,0 @@
-si_0532	Proton-dependent_Peptide_Transporters	Di/tripeptide permease DtpA
-si_0532	Proton-dependent_Peptide_Transporters	Di/tripeptide permease DtpB
-si_0532	Proton-dependent_Peptide_Transporters	Di/tripeptide permease YbgH
-si_0532	Proton-dependent_Peptide_Transporters	Di/tripeptide permease YjdL
-si_0532	Proton-dependent_Peptide_Transporters	Di/tripeptide permease DtpT
-si_0532	Proton-dependent_Peptide_Transporters	Di-/tripeptide transporter

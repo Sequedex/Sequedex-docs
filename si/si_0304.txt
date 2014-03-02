@@ -1,5 +1,0 @@
-si_0304	CBSS-312309.3.peg.1965	Methionine aminopeptidase (EC 3.4.11.18)
-si_0304	CBSS-312309.3.peg.1965	SSU ribosomal protein S2p (SAe)
-si_0304	CBSS-312309.3.peg.1965	Translation elongation factor Ts
-si_0304	CBSS-312309.3.peg.1965	Uridylate kinase (EC 2.7.4.-)
-si_0304	CBSS-312309.3.peg.1965	[Protein-PII] uridylyltransferase (EC 2.7.7.59)

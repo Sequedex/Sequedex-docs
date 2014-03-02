@@ -1,0 +1,6 @@
+si_0352	CBSS-205922.3.peg.1809	Transthyretin family protein
+si_0352	CBSS-205922.3.peg.1809	putative uricase
+si_0352	CBSS-205922.3.peg.1809	Ureidoglycolate hydrolase (EC 3.5.3.19)
+si_0352	CBSS-205922.3.peg.1809	conserved hypothetical membrane protein, paralogue of Y20848
+si_0352	CBSS-205922.3.peg.1809	Urate oxidase (EC 1.7.3.3)
+si_0352	CBSS-205922.3.peg.1809	salvage of nucleosides and nucleotides

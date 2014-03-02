@@ -1,0 +1,4 @@
+si_0371	p-Aminobenzoyl-Glutamate_Utilization	Aminobenzoyl-glutamate transport protein
+si_0371	p-Aminobenzoyl-Glutamate_Utilization	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A
+si_0371	p-Aminobenzoyl-Glutamate_Utilization	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit B
+si_0371	p-Aminobenzoyl-Glutamate_Utilization	Regulatory protein (induces abgABT, used to catabolize p-aminobenzoyl-glutamate)

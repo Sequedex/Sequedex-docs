@@ -1,2 +1,0 @@
-si_0402	ATP-dependent_Nuclease	ATP-dependent nuclease, subunit A
-si_0402	ATP-dependent_Nuclease	ATP-dependent nuclease, subunit B

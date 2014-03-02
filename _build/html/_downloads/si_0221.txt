@@ -1,7 +1,0 @@
-si_0221	CBSS-262316.1.peg.2929	Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster
-si_0221	CBSS-262316.1.peg.2929	Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster
-si_0221	CBSS-262316.1.peg.2929	Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster
-si_0221	CBSS-262316.1.peg.2929	COG2071: predicted glutamine amidotransferases in hypothetical Actinobacterial gene cluster
-si_0221	CBSS-262316.1.peg.2929	Transcriptional regulator, GntR family, in hypothetical Actinobacterial gene cluster
-si_0221	CBSS-262316.1.peg.2929	Amino acid permease in hypothetical Actinobacterial gene cluster
-si_0221	CBSS-262316.1.peg.2929	Amino acid/metabolite permease in hypothetical Actinobacterial gene cluster

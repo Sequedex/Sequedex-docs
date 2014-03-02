@@ -1,0 +1,5 @@
+si_0745	RNA_polymerase_archaeal_initiation_factors	TATA-box binding protein
+si_0745	RNA_polymerase_archaeal_initiation_factors	Transcription initiation factor B
+si_0745	RNA_polymerase_archaeal_initiation_factors	Archaeal transcription factor E
+si_0745	RNA_polymerase_archaeal_initiation_factors	Transcription initiation factor B-related protein
+si_0745	RNA_polymerase_archaeal_initiation_factors	Zinc finger, TFIIB-type domain protein

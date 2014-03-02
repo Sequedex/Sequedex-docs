@@ -1,0 +1,198 @@
+LOS ALAMOS NATIONAL SECURITY, LLC NON-EXCLUSIVE, NON-COMMERCIAL
+SOFTWARE END USER LICENSE AGREEMENT FOR SEQUEDEX DEMO CODE
+
+Los Alamos National Security, LLC (LANS) conducts research and
+development at Los Alamos National Laboratory (LANL) for the
+U.S. Government under Contract No. DE-AC52-06NA25396 with the National
+Nuclear Security Agency (NNSA) of the U.S. Department of Energy (DOE).
+
+PLEASE READ THE TERMS OF THE FOLLOWING LICENSE AGREEMENT CAREFULLY. BY
+DOWNLOADING OR INSTALLING THE SOFTWARE DISTRIBUTED WITH THIS AGREEMENT
+(THE "SOFTWARE"), YOU ARE CONFIRMING YOUR ACCEPTANCE OF THIS SOFTWARE
+AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS LICENSE AGREEMENT
+(THE "AGREEMENT"). IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT,
+PLEASE DO NOT DOWNLOAD AND INSTALL THE SOFTWARE.  Software, as used
+herein, means the sequescan binary portion of the sequedex software
+package.
+
+1. LICENSE GRANT
+
+This Software is for non-commercial use only and your rights in the
+Software are strictly limited to home, classroom, personal or
+recreational use only by you and not for the benefit of third parties.
+
+Subject to the terms of this Agreement, LANS grants you a
+non-exclusive, non-transferable license to use the Software
+distributed with this Agreement during the term of this Agreement on a
+single designated computer. You may make one copy of the Software in
+machine-readable form for backup purposes only. The backup copy must
+include all copyright information contained on the original. Your
+rights in the Software are limited to those expressly granted in this
+Section 1. Your rights in the Software do not cover any republication
+or distribution use without execution of a separate agreement with
+LANS allowing you to do so. All documentation and all releases,
+corrections, updates and enhancements provided hereunder shall be
+considered part of the "Software". You may not use the Software or
+files generated as a result of the use the Software, or any prints or
+screen outputs generated with the Software in any commercial or
+business environment or for any commercial or business purposes for
+yourself or any third parties.
+
+For the avoidance of doubt, this means that you may not obtain any
+payment or financial benefit from the use of the Software, including,
+without limitation, from commercializing any output, data, know-how,
+inventions or discoveries arising out of or relating to the use of the
+Software.  In addition, you may not provide any service to a third
+party using the Software or any output therefrom.  You acknowledge, on
+your behalf and on behalf of your assignees, licensees and
+transferees, that any such financial benefit arising out of any
+violation of the limitations provided for in this Paragraph 1 shall be
+forfeited for the benefit of LANS, including, assignment of any
+inventions arising out of or the subject of any unauthorized use.
+
+This license does not grant patent rights if they exist in the
+software.
+
+THE SOFTWARE IS NOT INTENDED FOR USE IN THE OPERATION OF MEDICAL,
+POWER, CHEMICAL, NOR NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR
+COMMUNICATION SYSTEMS, OR TRAFFIC CONTROL MACHINES OR ANY OTHER SUCH
+ACTIVITY IN WHICH CASE THE FAILURE OF THE SOFTWARE COULD LEAD TO
+DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+
+Your rights under this license will terminate automatically without
+notice from LANS if you fail to comply with any term(s) of this
+license.
+
+2. LICENSE RESTRICTIONS 
+
+You shall not copy, reverse engineer, decompile, disassemble,
+translate, modify or make derivative works of the Software in whole or
+in part. Further, you shall not rent, disclose, publish, sell, assign,
+lease, sublicense, market, or transfer the Software or any part
+thereof or use it in any manner not expressly authorized by this
+Agreement. Any attempt to transfer any of the rights, duties or
+obligations hereunder except as expressly provided for in this
+Agreement is prohibited and will automatically terminate this
+Agreement. The Software may contain patented or additional copyrighted
+material of LANS, and you shall at all times take reasonable steps to
+protect the confidentiality of such information.
+
+You agree that you will not circumvent the time limitations built into
+the code and that you will only run the code on systems where the
+system clock is correct to within 24 hours.
+
+You agree that you will not include this software or the data included
+with it as part of entries for prizes or competitions.
+
+You agree that you will provide a timely report of the use of
+the Software, including any uses outside the scope of the license
+provided for in Paragraph 1.  To the extent that the output of the
+Software forms the basis for patent filing, your shall notify LANS
+and, when published, provide a copy of any such patent filing.
+
+
+3. PROPRIETARY RIGHTS 
+
+(a) You are only licensing rights to use the Software for the purposes
+described in Section 1. The Software, in whole and in part and all
+copies thereof, are and will remain the sole and exclusive property of
+LANS.
+
+(b) You will not delete or in any manner alter the copyright,
+trademark, or other proprietary rights notices of LANS and its
+licensors, if any, appearing on or in the Software, file and screen
+outputs and prints generated with the Software as delivered to you.
+
+(c) LANS reserves it rights to claim ownership of any data, know-how,
+output or inventions arising out of the use of the Software.
+
+4. LIMITED WARRANTY AND LIMITATION OF LIABILITY 
+
+(a) This license and the Software are provided AS IS, WITHOUT WARRANTY
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR ANY OTHER
+WARRANTY, EXPRESSED OR IMPLIED. NEITHER LANS NOR THE U. S. GOVERNMENT
+MAKES ANY REPRESENTATION OR WARRANTY THAT THE LICENSED SOFTWARE WILL
+NOT INFRINGE ANY COPYRIGHT, PATENT OR OTHER PROPRIETARY RIGHT. IN NO
+EVENT WILL LANS OR THE U.S. GOVERNMENT BE LIABLE FOR ANY INCIDENTAL,
+SPECIAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM EXERCISE OF THIS
+LICENSE OR THE USE OF LICENSED SOFTWARE.
+
+(b) LICENSEE agrees to indemnify LANS and the U.S. Government and
+their officers, employees, assignees and agents, against all damages,
+costs, and expenses, including attorneys' fees, arising from use of
+Software by LICENSEE under this agreement. This indemnification
+includes, but is not limited to, product liability.
+
+(c) Third Party References and Material. References made either in the
+Software may include reference to products, services, trademarks or
+hyperlinks of third parties. No such reference(s) shall constitute or
+imply an endorsement or recommendation by LANS. LANS makes no
+guarantee or representation concerning the accuracy, currency, or
+quality of the content displayed using the Software.
+
+5. GOVERNMENT RIGHTS 
+
+This software resulted from work developed under a U.S. Government
+contract and is subject to the following license. The U.S. Government
+is granted for itself and others acting on its behalf a paid-up,
+non-exclusive, irrevocable worldwide license to reproduce, prepare
+derivative works, and perform publicly and display publicly the
+Software.
+
+6. TRANSFER 
+
+LICENSEE agrees it shall not distribute or transfer the Software to
+any other person or entity without prior written permission of LANS.
+
+7. TERMINATION 
+
+This demo contains a time limitation and will not run after June 30,
+2013.  There are no guarantees that future demo versions with extended
+time limitations will be produced.  This Agreement will expire on a
+date five years from the date of installation of the Software.
+
+8. GENERAL 
+
+(a) Choice of Law. This agreement will be interpreted and construed in
+accordance with the laws of the State of New Mexico, excluding any
+choice of law rules that would direct the application of the laws of
+another jurisdiction.
+
+(b) Assignment. This License Agreement is personal to the
+Licensee. The Licensee may not assign or transfer this License
+Agreement, including by merger, operation of law, or otherwise,
+without the Licensor's prior written consent. This License Agreement
+is binding upon and will inure to the benefit of the Licensor, its
+successors and assigns.
+
+(c) Severability. If any provision of this Agreement is found illegal
+or unenforceable, it will be enforced to the maximum extent
+permissible, and if not possible, severed, and the legality and
+enforceability of the other provisions of this Agreement will not be
+affected
+
+(d) Survival of Obligations. The provisions of Sections 3 (Proprietary
+Rights), 4 (Limitation of Liability), 5 (Government Rights), and 8
+(General) will survive termination of this Agreement.
+
+(e) Entire Agreement. This license constitutes the entire agreement
+between you and LANS with respect to the use of the Software.
+
+9. COPYRIGHT NOTICE AND LICENSE FILES
+
+This license file, the Sequedex copyright notice, and copies of the
+license files of the packages on which Sequedex depends are included
+with the package distribution in the licenses/ directory and must be
+kept.  The names, license terms, and web sites of these dependencies
+are:
+
+commons-io            Apache 2.0      http://commons.apache.org/io
+forester              LGPL-3	      http://code.google.com/p/forester
+ini4j	              Apache 2.0      http://ini4j.sourceforge.net
+jgoodies-common       BSD    	      http://www.jgoodies.com
+jgoodies-forms        BSD             http://www.jgoodies.com
+json-simple	      Apache 2.0      http://code.google.com/p/json-simple
+License4j             License4j       http://www.smardec.com/products/license4j.html 
+logback               EPL1.0/LGPL-2.1 http://logback.qos.ch
+slf4j                 MIT             http://www.slf4j.org
+sqlite-jdbc           Apache 2.0      http://code.google.com/p/sqlite-jdbc

@@ -1,0 +1,27 @@
+si_0139	Ethanolamine_utilization	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), ethanolamine utilization
+si_0139	Ethanolamine_utilization	Acetaldehyde dehydrogenase, ethanolamine utilization cluster
+si_0139	Ethanolamine_utilization	Acetate kinase (EC 2.7.2.1)
+si_0139	Ethanolamine_utilization	Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)
+si_0139	Ethanolamine_utilization	Ethanolamine ammonia-lyase light chain (EC 4.3.1.7)
+si_0139	Ethanolamine_utilization	Ethanolamine operon regulatory protein
+si_0139	Ethanolamine_utilization	Ethanolamine permease
+si_0139	Ethanolamine_utilization	Ethanolamine sensory transduction histidine kinase
+si_0139	Ethanolamine_utilization	Ethanolamine two-component response regulator
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutK
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutL
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutM
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutN
+si_0139	Ethanolamine_utilization	Ethanolamine utilization polyhedral-body-like protein EutS
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutA
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutG
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutJ
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutP
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein EutQ
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduA/PduJ
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduL
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduT
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduU
+si_0139	Ethanolamine_utilization	Ethanolamine utilization protein similar to PduV
+si_0139	Ethanolamine_utilization	Phosphate acetyltransferase (EC 2.3.1.8)
+si_0139	Ethanolamine_utilization	Phosphate acetyltransferase (EC 2.3.1.8), ethanolamine utilization-specific
+si_0139	Ethanolamine_utilization	Protein clustered with ethanolamine utilization

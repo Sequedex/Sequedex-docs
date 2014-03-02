@@ -1,0 +1,8 @@
+si_0372	Lipoic_acid_metabolism	Lipoate synthase
+si_0372	Lipoic_acid_metabolism	Lipoate synthase, cyanobacterial paralog
+si_0372	Lipoic_acid_metabolism	Lipoate-protein ligase A
+si_0372	Lipoic_acid_metabolism	Lipoate-protein ligase A type 2
+si_0372	Lipoic_acid_metabolism	Lipoate-protein ligase A, C-terminal 70 percent
+si_0372	Lipoic_acid_metabolism	Lipoate-protein ligase A, N-terminal 30 percent
+si_0372	Lipoic_acid_metabolism	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase
+si_0372	Lipoic_acid_metabolism	Proposed lipoate regulatory protein YbeD

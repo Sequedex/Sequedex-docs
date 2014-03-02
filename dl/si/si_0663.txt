@@ -1,0 +1,28 @@
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S11e (S17p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S13e (S15p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S14e (S11p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S15Ae (S8p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S15e (S19p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S16e (S9p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S17e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S18e (S13p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S19e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S20e (S10p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S23e (S12p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S24e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S25e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S26e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S27Ae
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S27e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S28e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S29e (S14p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S2e (S5p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S30e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S3Ae
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S3e (S3p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S4e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S5e (S7p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S6e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S8e
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein S9e (S4p)
+si_0663	Ribosome_SSU_eukaryotic_and_archaeal	SSU ribosomal protein SAe (S2p)

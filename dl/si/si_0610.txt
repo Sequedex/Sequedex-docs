@@ -1,0 +1,4 @@
+si_0610	AMP_to_3-phosphoglycerate	AMP phosphohydrolase
+si_0610	AMP_to_3-phosphoglycerate	Ribose-1,5-bisphosphate isomerase
+si_0610	AMP_to_3-phosphoglycerate	Ribulose-1,5-bisphosphate carboxylase, Type III (EC 4.1.1.39)
+si_0610	AMP_to_3-phosphoglycerate	Ribulose bisphosphate carboxylase (EC 4.1.1.39)

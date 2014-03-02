@@ -1,8 +1,0 @@
-si_0318	CBSS-345072.3.peg.1318	hypothetical protein PA3071
-si_0318	CBSS-345072.3.peg.1318	BatA (Bacteroides aerotolerance operon)
-si_0318	CBSS-345072.3.peg.1318	MoxR-like ATPase in aerotolerance operon
-si_0318	CBSS-345072.3.peg.1318	BatD
-si_0318	CBSS-345072.3.peg.1318	TPR domain protein in aerotolerance operon
-si_0318	CBSS-345072.3.peg.1318	BatB
-si_0318	CBSS-345072.3.peg.1318	BatC
-si_0318	CBSS-345072.3.peg.1318	BatE

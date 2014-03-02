@@ -1,6 +1,0 @@
-ss00594	gdhA	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
-ss00594	proB	Glutamate 5-kinase (EC 2.7.2.11)
-ss00594	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
-ss00594	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
-ss00594	proG	Pyrroline-5-carboxylate reductase (EC 1.5.1.2), ProG-like
-ss00594	ComER	Late competence protein ComER, proline oxidase (EC 1.5.1.2)

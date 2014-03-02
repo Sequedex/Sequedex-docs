@@ -2,17 +2,15 @@
 Copyright notice
 *****************************
 
-© Copyright 2012 Los Alamos National Security, LLC. All rights reserved.
+© Copyright 2012, 2013, 2014 Los Alamos National Security, LLC. All rights reserved.
 
-Unless otherwise indicated, this software has been authored by an
+Unless otherwise indicated, this documentation has been authored by an
 employee or employees of the Los Alamos National Security, LLC (LANS),
 operator of the Los Alamos National Laboratory under Contract
 No. DE-AC52-06NA25396 with the U.S. Department of Energy. The
 U.S. Government has rights to use, reproduce, and distribute this
-information. The public may use this software under the terms of the
-license agreement under which it was obtained, provided that this
-Notice, the license agreement, the license agreements of library
-dependencies, and any statements of authorship are distributed with
-the software. Neither the Government nor LANS makes any warranty,
+information. The public may use this documentation 
+provided that this Notice and any statements of authorship are distributed with
+the documentation. Neither the Government nor LANS makes any warranty,
 express or implied, or assumes any liability or responsibility for the
 use of this information.

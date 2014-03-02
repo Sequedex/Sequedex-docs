@@ -1,7 +1,0 @@
-si_0437	SpoVS_protein_family	SpoVS-related protein, type 1
-si_0437	SpoVS_protein_family	SpoVS-related protein, type 2
-si_0437	SpoVS_protein_family	SpoVS-related protein, type 3
-si_0437	SpoVS_protein_family	SpoVS-related protein, type 4
-si_0437	SpoVS_protein_family	SpoVS-related protein, type 5
-si_0437	SpoVS_protein_family	Stage III sporulation protein AE
-si_0437	SpoVS_protein_family	Stage V sporulation protein required for dehydratation of the spore core and assembly of the coat (SpoVS)

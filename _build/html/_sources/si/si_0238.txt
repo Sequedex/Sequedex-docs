@@ -1,2 +1,0 @@
-si_0238	CBSS-323098.3.peg.2823	MotA/TolQ/ExbB proton channel family protein, probably associated with flagella
-si_0238	CBSS-323098.3.peg.2823	Flagellar motor rotation protein MotB

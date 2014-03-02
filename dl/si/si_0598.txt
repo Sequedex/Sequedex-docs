@@ -1,0 +1,3 @@
+si_0598	Nucleoside_triphosphate_pyrophosphohydrolase_MazG	Nucleoside triphosphate pyrophosphohydrolase MazG
+si_0598	Nucleoside_triphosphate_pyrophosphohydrolase_MazG	MazG protein domain
+si_0598	Nucleoside_triphosphate_pyrophosphohydrolase_MazG	MazG-related protein

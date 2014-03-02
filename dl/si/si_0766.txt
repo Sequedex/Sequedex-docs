@@ -1,0 +1,10 @@
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	Multiple virulence factor regulator MvfR/PqsR
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	N-acyl-L-homoserine lactone synthetase RhlL
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	Transcriptional regulator RhlR
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	Transcriptional regulator LasR
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	N-acyl-L-homoserine lactone synthetase LasI
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	Regulatory protein RsaL
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	PqsE, quinolone signal response protein
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	QscR quorum-sensing control repressor
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	BarA-associated response regulator UvrY (= GacA = SirA)
+si_0766	Quorum_sensing_regulation_in_Pseudomonas	Vfr transcriptional regulator

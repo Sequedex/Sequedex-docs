@@ -1,0 +1,32 @@
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Alcohol dehydrogenase GbsB (type III ), essential for the utilization of choline (EC 1.1.1.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Betaine aldehyde dehydrogenase (EC 1.2.1.8)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline ABC transport system, ATP-binding protein OpuBA
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline ABC transport system, choline-binding protein OpuBC
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline ABC transport system, permease protein OpuBB
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline ABC transport system, permease protein OpuBD
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline binding protein A
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline binding protein D
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline dehydrogenase (EC 1.1.99.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Choline-sulfatase (EC 3.1.6.6)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	GbcA Glycine betaine demethylase subunit A
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	GbcB Glycine betaine demethylase subunit B
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Glycine betaine ABC transport system permease protein
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Glycine betaine ABC transport system, ATP-binding protein OpuAA (EC 3.6.3.32)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Glycine betaine ABC transport system, glycine betaine-binding protein OpuAC
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Glycine betaine ABC transport system, permease protein OpuAB
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Glycine betaine ABC transport system, permease/glycine betaine-binding protein OpuABC
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Glycine betaine transporter OpuD
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Glycine betaine/L-proline ABC transporter, glycine betaine/L-proline- binding/permease protein
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	HTH-type transcriptional regulator BetI
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	High-affinity choline uptake protein BetT
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	L-proline glycine betaine ABC transport system permease protein ProV (TC 3.A.1.12.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	L-proline glycine betaine ABC transport system permease protein ProW (TC 3.A.1.12.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	L-proline glycine betaine binding ABC transporter protein ProX (TC 3.A.1.12.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Osmotically activated L-carnitine/choline ABC transporter, ATP-binding protein OpuCA
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Osmotically activated L-carnitine/choline ABC transporter, permease protein OpuCB
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Osmotically activated L-carnitine/choline ABC transporter, permease protein OpuCD
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Osmotically activated L-carnitine/choline ABC transporter, substrate-binding protein OpuCC
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Sarcosine oxidase alpha subunit (EC 1.5.3.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Sarcosine oxidase beta subunit (EC 1.5.3.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Sarcosine oxidase delta subunit (EC 1.5.3.1)
+si_0853	Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis	Sarcosine oxidase gamma subunit (EC 1.5.3.1)

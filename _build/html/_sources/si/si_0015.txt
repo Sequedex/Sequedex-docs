@@ -1,5 +1,0 @@
-ss00272	BacA	Bacilysin biosynthesis protein BacA
-ss00272	BacB	Bacilysin biosynthesis protein BacB
-ss00272	BacC	Bacilysin biosynthesis oxidoreductase BacC
-ss00272	BacD	Alanine-anticapsin ligase BacD
-ss00272	BacE	Bacilysin exporter protein BacE

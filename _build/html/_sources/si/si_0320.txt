@@ -1,3 +1,0 @@
-si_0320	CBSS-370552.3.peg.1240	Hypothetical protein DUF194, DegV family
-si_0320	CBSS-370552.3.peg.1240	FIG006988: Lipase/Acylhydrolase with GDSL-like motif
-si_0320	CBSS-370552.3.peg.1240	YfaA

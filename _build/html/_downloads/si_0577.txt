@@ -1,4 +1,0 @@
-si_0577	YbbK	Putative stomatin/prohibitin-family membrane protease subunit YbbK
-si_0577	YbbK	Putative activity regulator of membrane protease YbbK
-si_0577	YbbK	Putative stomatin/prohibitin-family membrane protease subunit aq_911
-si_0577	YbbK	Putative membrane-bound ClpP-class protease associated with aq_911

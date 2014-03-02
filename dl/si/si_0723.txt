@@ -1,0 +1,4 @@
+si_0723	Methylthiotransferases	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase
+si_0723	Methylthiotransferases	tRNA-i(6)A37 methylthiotransferase
+si_0723	Methylthiotransferases	MiaB family protein, possibly involved in tRNA or rRNA modification
+si_0723	Methylthiotransferases	tRNA N6-threonylcarbamoyladenosine 2-methylthiotransferase (putative)

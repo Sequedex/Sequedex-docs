@@ -1,0 +1,7 @@
+si_0475	Siderophore_Yersiniabactin_Biosynthesis	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase)
+si_0475	Siderophore_Yersiniabactin_Biosynthesis	iron aquisition yersiniabactin synthesis enzyme (Irp2)
+si_0475	Siderophore_Yersiniabactin_Biosynthesis	iron aquisition yersiniabactin synthesis enzyme (Irp3)
+si_0475	Siderophore_Yersiniabactin_Biosynthesis	iron aquisition yersiniabactin synthesis enzyme (YbtT,resembles thioesterases)
+si_0475	Siderophore_Yersiniabactin_Biosynthesis	iron aquisition 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58,Irp5)
+si_0475	Siderophore_Yersiniabactin_Biosynthesis	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor)
+si_0475	Siderophore_Yersiniabactin_Biosynthesis	iron aquisition regulator (YbtA,AraC-like,required for transcription of FyuA/psn,Irp2)

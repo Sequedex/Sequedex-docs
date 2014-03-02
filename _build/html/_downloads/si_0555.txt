@@ -1,2 +1,0 @@
-si_0555	p-Hydroxybenzoate_degradation	P-hydroxybenzoate hydroxylase (EC 1.14.13.2)
-si_0555	p-Hydroxybenzoate_degradation	4-hydroxybenzoate transporter

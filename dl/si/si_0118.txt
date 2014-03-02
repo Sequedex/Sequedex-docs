@@ -1,0 +1,7 @@
+si_0118	Formaldehyde_assimilation:_Ribulose_monophosphate_pathway	Transcriptional regulator HxlR, formaldehyde assimilation
+si_0118	Formaldehyde_assimilation:_Ribulose_monophosphate_pathway	D-arabino-3-hexulose 6-phosphate formaldehyde lyase
+si_0118	Formaldehyde_assimilation:_Ribulose_monophosphate_pathway	6-phospho-3-hexuloisomerase
+si_0118	Formaldehyde_assimilation:_Ribulose_monophosphate_pathway	Formaldehyde activating enzyme
+si_0118	Formaldehyde_assimilation:_Ribulose_monophosphate_pathway	Hypothetical protein with distant similarity to Ribonuclease E inhibitor RraA (former MenG)
+si_0118	Formaldehyde_assimilation:_Ribulose_monophosphate_pathway	related to 6-phospho-3-hexuloisomerase
+si_0118	Formaldehyde_assimilation:_Ribulose_monophosphate_pathway	Putative pentose isomerase

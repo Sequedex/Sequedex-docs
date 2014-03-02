@@ -1,0 +1,5 @@
+si_0837	Flavanone_biosynthesis	trans-cinnamate 4-monooxygenase
+si_0837	Flavanone_biosynthesis	4-coumarate--CoA ligase 1 (EC 6.2.1.12)
+si_0837	Flavanone_biosynthesis	Chalcone synthase (EC 2.3.1.74)
+si_0837	Flavanone_biosynthesis	Chalcone--flavonone isomerase (EC 5.5.1.6)
+si_0837	Flavanone_biosynthesis	Flavanone-3-hydroxylase (EC 1.14.11.9)

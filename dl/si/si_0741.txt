@@ -1,0 +1,16 @@
+si_0741	tRNA_processing	5-carboxymethyl uridine and 5-carboxymethyl 2-thiouridine methyltransferase
+si_0741	tRNA_processing	Ribonuclease BN (EC 3.1.-.-)
+si_0741	tRNA_processing	Ribonuclease D (EC 3.1.26.3)
+si_0741	tRNA_processing	Ribonuclease P protein component (EC 3.1.26.5)
+si_0741	tRNA_processing	Ribonuclease PH (EC 2.7.7.56)
+si_0741	tRNA_processing	Ribonuclease T (EC 3.1.13.-)
+si_0741	tRNA_processing	Ribonuclease Z (EC 3.1.26.11)
+si_0741	tRNA_processing	tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+si_0741	tRNA_processing	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+si_0741	tRNA_processing	tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+si_0741	tRNA_processing	tRNA pseudouridine synthase A (EC 4.2.1.70)
+si_0741	tRNA_processing	tRNA pseudouridine synthase B (EC 4.2.1.70)
+si_0741	tRNA_processing	tRNA(Ile)-lysidine synthetase
+si_0741	tRNA_processing	tRNA-i(6)A37 methylthiotransferase
+si_0741	tRNA_processing	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+si_0741	tRNA_processing	tRNAHis-5'-guanylyltransferase

@@ -1,0 +1,13 @@
+si_0858	Glutaredoxins	Competence protein F homolog, phosphoribosyltransferase domain
+si_0858	Glutaredoxins	Flavohemoprotein (Hemoglobin-like protein) (Flavohemoglobin) (Nitric oxide dioxygenase) (EC 1.14.12.17)
+si_0858	Glutaredoxins	Glutaredoxin
+si_0858	Glutaredoxins	Glutaredoxin 1
+si_0858	Glutaredoxins	Glutaredoxin 2
+si_0858	Glutaredoxins	Glutaredoxin 3
+si_0858	Glutaredoxins	Glutaredoxin 3 (Grx1)
+si_0858	Glutaredoxins	Glutaredoxin 3 (Grx2)
+si_0858	Glutaredoxins	Glutaredoxin 3 (Grx3)
+si_0858	Glutaredoxins	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+si_0858	Glutaredoxins	Glutaredoxin-related protein
+si_0858	Glutaredoxins	Probable monothiol glutaredoxin GrlA
+si_0858	Glutaredoxins	Uncharacterized monothiol glutaredoxin ycf64-like

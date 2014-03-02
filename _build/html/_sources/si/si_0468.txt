@@ -1,5 +1,0 @@
-si_0468	Salmochelin-mediated_Iron_Acquisition	Glycosyltransferase IroB
-si_0468	Salmochelin-mediated_Iron_Acquisition	ABC transporter protein IroC
-si_0468	Salmochelin-mediated_Iron_Acquisition	Trilactone hydrolase IroD
-si_0468	Salmochelin-mediated_Iron_Acquisition	Periplasmic esterase IroE
-si_0468	Salmochelin-mediated_Iron_Acquisition	Outer Membrane Siderophore Receptor IroN

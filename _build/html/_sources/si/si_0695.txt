@@ -1,6 +1,0 @@
-si_0695	Metallocarboxypeptidases_(EC_3.4.17.-)	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
-si_0695	Metallocarboxypeptidases_(EC_3.4.17.-)	Glutamate carboxypeptidase (EC 3.4.17.11)
-si_0695	Metallocarboxypeptidases_(EC_3.4.17.-)	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
-si_0695	Metallocarboxypeptidases_(EC_3.4.17.-)	Zinc D-Ala-D-Ala carboxypeptidase (EC 3.4.17.14)
-si_0695	Metallocarboxypeptidases_(EC_3.4.17.-)	Carboxypeptidase T (EC 3.4.17.18)
-si_0695	Metallocarboxypeptidases_(EC_3.4.17.-)	Thermostable carboxypeptidase 1 (EC 3.4.17.19)

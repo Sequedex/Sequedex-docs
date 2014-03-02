@@ -1,0 +1,22 @@
+si_0813	Respiratory_dehydrogenases_1	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+si_0813	Respiratory_dehydrogenases_1	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+si_0813	Respiratory_dehydrogenases_1	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+si_0813	Respiratory_dehydrogenases_1	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+si_0813	Respiratory_dehydrogenases_1	D-Lactate dehydrogenase (EC 1.1.2.5)
+si_0813	Respiratory_dehydrogenases_1	D-amino acid dehydrogenase (EC 1.4.99.1) family protein in hydroxy-L-proline catabolic cluster
+si_0813	Respiratory_dehydrogenases_1	D-amino acid dehydrogenase large subunit (EC 1.4.99.1)
+si_0813	Respiratory_dehydrogenases_1	D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+si_0813	Respiratory_dehydrogenases_1	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+si_0813	Respiratory_dehydrogenases_1	Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site
+si_0813	Respiratory_dehydrogenases_1	Glycerol dehydrogenase (EC 1.1.1.6)
+si_0813	Respiratory_dehydrogenases_1	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)
+si_0813	Respiratory_dehydrogenases_1	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+si_0813	Respiratory_dehydrogenases_1	L-lactate dehydrogenase (EC 1.1.2.3)
+si_0813	Respiratory_dehydrogenases_1	Methanol dehydrogenase large subunit protein (EC 1.1.99.8)
+si_0813	Respiratory_dehydrogenases_1	Methylamine dehydrogenase heavy chain precursor (EC 1.4.99.3)
+si_0813	Respiratory_dehydrogenases_1	Methylamine dehydrogenase light chain precursor (EC 1.4.99.3)
+si_0813	Respiratory_dehydrogenases_1	NADH dehydrogenase (EC 1.6.99.3)
+si_0813	Respiratory_dehydrogenases_1	Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase)
+si_0813	Respiratory_dehydrogenases_1	Sn-glycerol-3-phosphate dehydrogenase (Aerobic) (Aerobic glycerol-3-phosphate dehydrogenase)(EC 1.1.99.5)
+si_0813	Respiratory_dehydrogenases_1	putative Fe-S, FMN containing oxidoreductase
+si_0813	Respiratory_dehydrogenases_1	quinoprotein alcohol dehydrogenase

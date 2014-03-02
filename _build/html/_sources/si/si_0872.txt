@@ -1,9 +1,0 @@
-si_0872	Carbon_Starvation	Starvation sensing protein RspA
-si_0872	Carbon_Starvation	Starvation sensing protein RspB
-si_0872	Carbon_Starvation	Carbon starvation protein A
-si_0872	Carbon_Starvation	Carbon starvation protein A paralog
-si_0872	Carbon_Starvation	Carbon storage regulator
-si_0872	Carbon_Starvation	Starvation lipoprotein Slp
-si_0872	Carbon_Starvation	Starvation lipoprotein Slp paralog
-si_0872	Carbon_Starvation	Stringent starvation protein A
-si_0872	Carbon_Starvation	Stringent starvation protein B

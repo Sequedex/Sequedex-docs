@@ -1,0 +1,10 @@
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Propionyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.3)
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Biotin carboxylase of Propionyl-CoA carboxylase (EC 6.3.4.14)
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Biotin carboxyl carrier protein of Propionyl-CoA carboxylase
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	Na+/H+-dicarboxylate symporters
+si_0131	Propionyl-CoA_to_Succinyl-CoA_Module	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)

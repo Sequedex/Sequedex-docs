@@ -1,7 +1,0 @@
-si_0556	Aromatic_Amin_Catabolism	3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)
-si_0556	Aromatic_Amin_Catabolism	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
-si_0556	Aromatic_Amin_Catabolism	4-hydroxyphenylacetate 3-monooxygenase, reductase component (EC 1.6.8.-)
-si_0556	Aromatic_Amin_Catabolism	Aldehyde dehydrogenase (EC 1.2.1.3), PaaZ
-si_0556	Aromatic_Amin_Catabolism	Monoamine oxidase (1.4.3.4)
-si_0556	Aromatic_Amin_Catabolism	Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)
-si_0556	Aromatic_Amin_Catabolism	Phenylacetaldehyde dehydrogenase (EC 1.2.1.39)

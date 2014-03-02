@@ -1,4 +1,0 @@
-si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	RND efflux system, membrane fusion protein CmeA
-si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	RND efflux system, inner membrane transporter CmeB
-si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	RND efflux system, outer membrane lipoprotein CmeC
-si_0941	Multidrug_efflux_pump_in_Campylobacter_jejuni_(CmeABC_operon)	Transcriptional repressor of CmeABC operon, CmeR

@@ -1,0 +1,2 @@
+si_0531	Na(+)_H(+)_antiporter	Na+/H+ antiporter NhaA type
+si_0531	Na(+)_H(+)_antiporter	Na+/H+ antiporter NhaD type

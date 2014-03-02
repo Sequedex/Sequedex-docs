@@ -1,7 +1,0 @@
-ss00508	COG2152	COG2152 predicted glycoside hydrolase
-ss00508	COG1649	COG1649 predicted glycoside hydrolase
-ss00508	COG1306	COG1306 predicted glycoside hydrolase
-ss00508	CE4	Carbohydrate Esterase Family 4
-ss00508	CE4a	Polysaccharide deacetylase
-ss00508	CE4b	Polysaccharide intercellular adhesin (PIA) biosynthesis deacetylase IcaB (EC 3.-.-.-)
-ss00508	CE4c	Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)

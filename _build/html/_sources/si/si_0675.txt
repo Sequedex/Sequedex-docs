@@ -1,3 +1,0 @@
-si_0675	tRNA_aminoacylation,_Arg	Arginyl-tRNA synthetase (EC 6.1.1.19)
-si_0675	tRNA_aminoacylation,_Arg	Arginyl-tRNA synthetase related protein 1
-si_0675	tRNA_aminoacylation,_Arg	Arginyl-tRNA synthetase related protein 2

@@ -1,0 +1,2 @@
+ss00163	Hypo	FIG003955: protein of unknown function
+ss00163	Pyr5Car	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)

@@ -1,4 +1,0 @@
-si_0924	Adaptation_to_d-cysteine	D-cysteine desulfhydrase (EC 4.4.1.15)
-si_0924	Adaptation_to_d-cysteine	L-Cystine ABC transporter, periplasmic cystine-binding protein
-si_0924	Adaptation_to_d-cysteine	Cystine ABC transporter, permease protein
-si_0924	Adaptation_to_d-cysteine	Cystine ABC transporter, ATP-binding protein

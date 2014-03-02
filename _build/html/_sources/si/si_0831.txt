@@ -1,5 +1,0 @@
-si_0831	Paerucumarin_Biosynthesis	PvcA protein, related to known isonitrile synthases
-si_0831	Paerucumarin_Biosynthesis	PvcB protein, related to amino acid oxidizing enzymes
-si_0831	Paerucumarin_Biosynthesis	PvcC protein, related to two-component flavin adenine dinucleotide-dependent monooxygenases
-si_0831	Paerucumarin_Biosynthesis	PvcD protein, related to two-component flavin adenine dinucleotide-dependent monooxygenases
-si_0831	Paerucumarin_Biosynthesis	HTH-type transcriptional regulator PtxR

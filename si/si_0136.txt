@@ -1,7 +1,0 @@
-si_0136	Unknown_carbohydrate_utilization_containing_Fructose-bisphosphate_aldolase	Fructose-bisphosphate aldolase (EC 4.1.2.13)
-si_0136	Unknown_carbohydrate_utilization_containing_Fructose-bisphosphate_aldolase	Putative carbohydrate kinase in cluster with fructose-bisphosphate aldolase
-si_0136	Unknown_carbohydrate_utilization_containing_Fructose-bisphosphate_aldolase	Putative carbohydrate PTS system, IIC component (EC 2.7.1.69)
-si_0136	Unknown_carbohydrate_utilization_containing_Fructose-bisphosphate_aldolase	Putative carbohydrate PTS system, IIB component (EC 2.7.1.69)
-si_0136	Unknown_carbohydrate_utilization_containing_Fructose-bisphosphate_aldolase	Putative carbohydrate PTS system, IIA component (EC 2.7.1.69)
-si_0136	Unknown_carbohydrate_utilization_containing_Fructose-bisphosphate_aldolase	Phosphotransferase system HPr enzyme in cluster with fructose-bisphosphate aldolase
-si_0136	Unknown_carbohydrate_utilization_containing_Fructose-bisphosphate_aldolase	Putative transcriptional regulator of unknown carbohydrate utilization cluster, GntR family

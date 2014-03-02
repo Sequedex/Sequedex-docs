@@ -1,0 +1,12 @@
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Bacterial proteasome-activating AAA-ATPase (PAN)
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	FIG005453: Putative DeoR-family transcriptional regulator
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	FIG019733: possible DNA-binding protein
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Twin-arginine translocation protein TatC
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	FIG005666: putative helicase
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Twin-arginine translocation protein TatA
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	FIG033545: PE-PGRS family protein
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Proteasome subunit alpha (EC 3.4.25.1), bacterial
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Proteasome subunit beta (EC 3.4.25.1), bacterial
+si_0354	Cluster-based_Subsystem_Grouping_Hypotheticals_-_perhaps_Proteosome_Related	Prokaryotic ubiquitin-like protein Pup

@@ -1,0 +1,5 @@
+si_0285	CBSS-176279.3.peg.868	LSU ribosomal protein L21p
+si_0285	CBSS-176279.3.peg.868	FIG139598: Potential ribosomal protein
+si_0285	CBSS-176279.3.peg.868	LSU ribosomal protein L27p
+si_0285	CBSS-176279.3.peg.868	COG0536: GTP-binding protein Obg
+si_0285	CBSS-176279.3.peg.868	50S ribosomal protein acetyltransferase

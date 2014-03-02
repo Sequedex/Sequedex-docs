@@ -1,8 +1,0 @@
-si_0485	Iron_acquisition_in_Streptococcus	Ferric iron ABC transporter, ATP-binding protein
-si_0485	Iron_acquisition_in_Streptococcus	Ferric iron ABC transporter, iron-binding protein
-si_0485	Iron_acquisition_in_Streptococcus	Ferric iron ABC transporter, permease protein
-si_0485	Iron_acquisition_in_Streptococcus	Iron compound ABC uptake transporter ATP-binding protein
-si_0485	Iron_acquisition_in_Streptococcus	Iron compound ABC uptake transporter permease protein
-si_0485	Iron_acquisition_in_Streptococcus	Iron compound ABC uptake transporter substrate-binding protein
-si_0485	Iron_acquisition_in_Streptococcus	Two-component response regulator, associated with ferric iron transporter, SPy1062 homolog
-si_0485	Iron_acquisition_in_Streptococcus	Two-component sensor kinase, associated with ferric iron transporter, SPy1061 homolog

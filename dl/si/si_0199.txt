@@ -1,0 +1,4 @@
+si_0199	D-Alanyl_Lipoteichoic_Acid_Biosynthesis	D-alanyl transfer protein DltB
+si_0199	D-Alanyl_Lipoteichoic_Acid_Biosynthesis	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+si_0199	D-Alanyl_Lipoteichoic_Acid_Biosynthesis	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+si_0199	D-Alanyl_Lipoteichoic_Acid_Biosynthesis	D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)

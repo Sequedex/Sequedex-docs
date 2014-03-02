@@ -1,0 +1,28 @@
+si_0550	Phenylpropanoid_compound_degradation	2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase (EC 1.3.1.-)
+si_0550	Phenylpropanoid_compound_degradation	3-hydroxyphenylpropionic acid transporter
+si_0550	Phenylpropanoid_compound_degradation	4-hydroxybenzoate transporter
+si_0550	Phenylpropanoid_compound_degradation	4-hydroxycinnamoyl CoA hydratase/lyase (Enoyl-CoA hydratase/lyase) (EC 4.2.1.17)
+si_0550	Phenylpropanoid_compound_degradation	Acyl coenzyme A dehydrogenase (EC 1.3.99.13)
+si_0550	Phenylpropanoid_compound_degradation	Chlorogenate esterase
+si_0550	Phenylpropanoid_compound_degradation	Feruloyl-CoA synthetase
+si_0550	Phenylpropanoid_compound_degradation	Lignostilbene-alpha,beta-dioxygenase and related enzymes
+si_0550	Phenylpropanoid_compound_degradation	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit
+si_0550	Phenylpropanoid_compound_degradation	Probable FERULIC acid hydratase protein
+si_0550	Phenylpropanoid_compound_degradation	Probable FERULOYL-CoA synthetase protein
+si_0550	Phenylpropanoid_compound_degradation	Probable VANILLIN dehydrogenase oxidoreductase protein (EC 1.-.-.-)
+si_0550	Phenylpropanoid_compound_degradation	Probable vanillate O-demethylase oxygenase subunit oxidoreductase protein (EC 1.14.13.-)
+si_0550	Phenylpropanoid_compound_degradation	Protein involved in meta-pathway of phenol degradation
+si_0550	Phenylpropanoid_compound_degradation	Putative 3-alpha-hydroxysteroid dehydrogenase/carbonyl reductase oxidoreductase protein (EC 1.1.1.50)
+si_0550	Phenylpropanoid_compound_degradation	Putative benzaldehyde dehydrogenase oxidoreductase protein (EC 1.2.1.28)
+si_0550	Phenylpropanoid_compound_degradation	Putative hydroxycinnamate transporter
+si_0550	Phenylpropanoid_compound_degradation	Putative phthalate 4,5-dioxygenase oxygenase subunit (OhpA2)
+si_0550	Phenylpropanoid_compound_degradation	Putative phthalate 4,5-dioxygenase reductase subunit (OhpA1)
+si_0550	Phenylpropanoid_compound_degradation	Transcriptional regulator for ferulate or vanillate catabolism
+si_0550	Phenylpropanoid_compound_degradation	Vanillate O-demethylase oxidoreductase (EC 1.14.13.-)
+si_0550	Phenylpropanoid_compound_degradation	Vanillate O-demethylase oxygenase subunit (EC 1.14.13.82)
+si_0550	Phenylpropanoid_compound_degradation	Vanillin dehydrogenase (Hydroxybenzaldehyde dehydrogenase) (EC 1.2.1.28)
+si_0550	Phenylpropanoid_compound_degradation	hydroxycinnamate specific porine
+si_0550	Phenylpropanoid_compound_degradation	lignostilbene-alpha,beta-dioxygenase
+si_0550	Phenylpropanoid_compound_degradation	putative 3-hydroxyphenylpropionic acid porine
+si_0550	Phenylpropanoid_compound_degradation	putative porin for vanillate trafficking (VanP)
+si_0550	Phenylpropanoid_compound_degradation	vannilate transporter VanK

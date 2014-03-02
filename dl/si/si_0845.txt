@@ -1,0 +1,9 @@
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspA
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspB
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspC
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspD
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspE
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspF
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspG
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspH
+si_0845	Cold_shock,_CspA_family_of_proteins	Cold shock protein CspI

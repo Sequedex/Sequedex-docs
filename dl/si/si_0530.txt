@@ -1,0 +1,15 @@
+si_0530	Transport_of_Zinc	Transcriptional repressor AdcR for Zn(2+)-responsive expression
+si_0530	Transport_of_Zinc	Zinc ABC transporter, inner membrane permease protein ZnuB
+si_0530	Transport_of_Zinc	Zinc ABC transporter, ATP-binding protein ZnuC
+si_0530	Transport_of_Zinc	Zinc ABC transporter, periplasmic-binding protein ZnuA
+si_0530	Transport_of_Zinc	Candidate zinc-binding lipoprotein ZinT
+si_0530	Transport_of_Zinc	Zinc transporter, ZIP family
+si_0530	Transport_of_Zinc	Zinc-regulated outer membrane receptor
+si_0530	Transport_of_Zinc	Predicted zinc-binding protein
+si_0530	Transport_of_Zinc	Zinc-regulated TonB-dependent outer membrane receptor
+si_0530	Transport_of_Zinc	Predicted zinc regulator, ArsR family
+si_0530	Transport_of_Zinc	COG0523: Putative GTPases (G3E family)
+si_0530	Transport_of_Zinc	Candidate Zn-dependent transcriptional regulator, MntR/DtxR family
+si_0530	Transport_of_Zinc	Zinc-regulated zinc transporting ATPase ZntA
+si_0530	Transport_of_Zinc	Zinc-regulated outer membrane porin
+si_0530	Transport_of_Zinc	Zinc uptake regulation protein ZUR

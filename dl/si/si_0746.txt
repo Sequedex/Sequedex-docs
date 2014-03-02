@@ -1,0 +1,8 @@
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase gamma subunit (EC 2.7.7.6)
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase delta (= beta'') subunit (EC 2.7.7.6)
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)
+si_0746	RNA_polymerase_bacterial	DNA-directed RNA polymerase alpha subunit domain

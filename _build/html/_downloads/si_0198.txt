@@ -1,6 +1,0 @@
-si_0198	Anthrose_Biosynthesis	Enoyl-CoA hydratase (EC 4.2.1.17), anthrose biosynthesis
-si_0198	Anthrose_Biosynthesis	Glycosyl transferase ,group 2 family, anthrose biosynthesis
-si_0198	Anthrose_Biosynthesis	Aminotransferase, anthrose biosynthesis
-si_0198	Anthrose_Biosynthesis	O-acetyltransferase, anthrose biosynthesis
-si_0198	Anthrose_Biosynthesis	Methyltransferase, anthrose biosynthesis
-si_0198	Anthrose_Biosynthesis	Glycosyl transferase, group 1 family, anthrose biosynthesis

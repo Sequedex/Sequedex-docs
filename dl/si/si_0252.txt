@@ -1,0 +1,7 @@
+si_0252	CBSS-222523.1.peg.1311	Adenylate cyclase (EC 4.6.1.1)
+si_0252	CBSS-222523.1.peg.1311	NAD kinase (EC 2.7.1.23)
+si_0252	CBSS-222523.1.peg.1311	GTP pyrophosphokinase (EC 2.7.6.5)
+si_0252	CBSS-222523.1.peg.1311	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YjbO type
+si_0252	CBSS-222523.1.peg.1311	YjbH-like, GTP pyrophosphokinase domain
+si_0252	CBSS-222523.1.peg.1311	GTP pyrophosphokinase
+si_0252	CBSS-222523.1.peg.1311	putative GTP pyrophosphokinase

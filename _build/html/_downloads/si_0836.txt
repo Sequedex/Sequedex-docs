@@ -1,5 +1,0 @@
-si_0836	Caffeic_acid_derivatives	4-coumarate--CoA ligase 1 (EC 6.2.1.12)
-si_0836	Caffeic_acid_derivatives	Caffeate 3,4-dioxygenase (EC1.13.11.22)
-si_0836	Caffeic_acid_derivatives	Carboxy-lyase (EC 4.1.1.-)
-si_0836	Caffeic_acid_derivatives	Quinate O-hydroxy cinnamoyltransferase (EC 2.3.1.99)
-si_0836	Caffeic_acid_derivatives	Cinnamoyl-CoA reductase (EC 1.2.1.44)

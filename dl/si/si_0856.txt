@@ -1,0 +1,5 @@
+si_0856	Osmoregulation	Aquaporin Z
+si_0856	Osmoregulation	Glycerol uptake facilitator protein
+si_0856	Osmoregulation	Propanediol diffusion facilitator
+si_0856	Osmoregulation	Outer membrane protein A precursor
+si_0856	Osmoregulation	Osmotically inducible protein OsmY

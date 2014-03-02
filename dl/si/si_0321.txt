@@ -1,0 +1,6 @@
+si_0321	CBSS-393121.3.peg.1913	Lin1875 protein
+si_0321	CBSS-393121.3.peg.1913	DNA ligase (EC 6.5.1.2)
+si_0321	CBSS-393121.3.peg.1913	ATP-dependent DNA helicase UvrD/PcrA
+si_0321	CBSS-393121.3.peg.1913	(S)-3-O-geranylgeranylglyceryl phosphate synthase
+si_0321	CBSS-393121.3.peg.1913	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+si_0321	CBSS-393121.3.peg.1913	His repressor

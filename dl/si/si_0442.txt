@@ -1,0 +1,8 @@
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AA
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AB
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AC
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AD
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AE
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AF
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AG
+si_0442	Sporulation_Cluster_III_A	Stage III sporulation protein AH

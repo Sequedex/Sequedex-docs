@@ -1,2 +1,0 @@
-si_0431	Dipicolinate_Synthesis	Dipicolinate synthase subunit A (EC 4.2.1.52)
-si_0431	Dipicolinate_Synthesis	Dipicolinate synthase subunit B

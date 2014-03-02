@@ -1,0 +1,20 @@
+si_0930	Copper_homeostasis	Blue copper oxidase CueO precursor
+si_0930	Copper_homeostasis	CopG protein
+si_0930	Copper_homeostasis	Copper chaperone
+si_0930	Copper_homeostasis	Copper resistance protein B
+si_0930	Copper_homeostasis	Copper resistance protein C precursor
+si_0930	Copper_homeostasis	Copper resistance protein D
+si_0930	Copper_homeostasis	Copper sensory histidine kinase CusS
+si_0930	Copper_homeostasis	Copper tolerance protein
+si_0930	Copper_homeostasis	Copper-binding periplasmic protein
+si_0930	Copper_homeostasis	Copper-sensing two-component system response regulator CusR
+si_0930	Copper_homeostasis	Copper-translocating P-type ATPase (EC 3.6.3.4)
+si_0930	Copper_homeostasis	Cu(I)-responsive transcriptional regulator
+si_0930	Copper_homeostasis	Cytochrome c heme lyase subunit CcmF
+si_0930	Copper_homeostasis	Cytochrome c heme lyase subunit CcmH
+si_0930	Copper_homeostasis	Heavy metal-(Cd/Co/Hg/Pb/Zn)-translocating P-type ATPase:Heavy metal translocating P-type ATPase
+si_0930	Copper_homeostasis	Multicopper oxidase
+si_0930	Copper_homeostasis	Multidrug resistance transporter, Bcr/CflA family
+si_0930	Copper_homeostasis	Negative transcriptional regulator-copper transport operon
+si_0930	Copper_homeostasis	Sensor protein copS (EC 2.7.3.-)
+si_0930	Copper_homeostasis	Transcriptional activator protein CopR

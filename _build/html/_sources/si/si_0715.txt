@@ -1,2 +1,0 @@
-si_0715	Ribosomal_protein_S5p_acylation	SSU ribosomal protein S5p (S2e)
-si_0715	Ribosomal_protein_S5p_acylation	Ribosomal-protein-S5p-alanine acetyltransferase

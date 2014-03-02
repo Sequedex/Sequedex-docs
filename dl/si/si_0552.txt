@@ -1,0 +1,7 @@
+si_0552	Salicylate_ester_degradation	AreA (Esterase for aryl ester catabolic pathway) (EC 3.1.1.-)
+si_0552	Salicylate_ester_degradation	AreB (Aryl-alcohol dehydrogenase) (EC 1.1.1.90)
+si_0552	Salicylate_ester_degradation	Salicylate hydroxylase (EC 1.14.13.1)
+si_0552	Salicylate_ester_degradation	putative facilitator of salicylate uptake
+si_0552	Salicylate_ester_degradation	regulator protein,AreR
+si_0552	Salicylate_ester_degradation	regulator protein,SalR
+si_0552	Salicylate_ester_degradation	salicylate esterase

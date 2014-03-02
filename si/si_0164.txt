@@ -1,5 +1,0 @@
-si_0164	Capsular_Polysaccharide_(CPS)_of_Campylobacter	Capsular polysaccharide ABC transporter, permease protein KpsM
-si_0164	Capsular_Polysaccharide_(CPS)_of_Campylobacter	Capsular polysaccharide ABC transporter, ATP-binding protein KpsT
-si_0164	Capsular_Polysaccharide_(CPS)_of_Campylobacter	Capsular polysaccharide export system inner membrane protein KpsE
-si_0164	Capsular_Polysaccharide_(CPS)_of_Campylobacter	Capsular polysaccharide export system periplasmic protein KpsD
-si_0164	Capsular_Polysaccharide_(CPS)_of_Campylobacter	Capsular polysaccharide export system protein KpsF

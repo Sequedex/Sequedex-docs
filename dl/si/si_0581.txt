@@ -1,0 +1,25 @@
+si_0581	Flagellar_motility	Flagellin
+si_0581	Flagellar_motility	Flagellar biosynthesis protein FlhA
+si_0581	Flagellar_motility	Flagellar biosynthesis protein FlhB
+si_0581	Flagellar_motility	Flagellum-specific ATP synthase FliI
+si_0581	Flagellar_motility	Flagellar biosynthesis protein FliR
+si_0581	Flagellar_motility	Flagellar basal-body rod modification protein FlgD
+si_0581	Flagellar_motility	Flagellar L-ring protein FlgH
+si_0581	Flagellar_motility	Flagellar motor rotation protein MotA
+si_0581	Flagellar_motility	Flagellar motor rotation protein MotB
+si_0581	Flagellar_motility	Flagellar motor switch protein FliM
+si_0581	Flagellar_motility	Flagellar motor switch protein FliN
+si_0581	Flagellar_motility	Flagellar synthesis regulator FleN
+si_0581	Flagellar_motility	Flagellar biosynthesis protein FlhF
+si_0581	Flagellar_motility	Signal transduction histidine kinase CheA (EC 2.7.3.-)
+si_0581	Flagellar_motility	Chemotaxis protein CheV (EC 2.7.3.-)
+si_0581	Flagellar_motility	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
+si_0581	Flagellar_motility	RNA polymerase sigma factor for flagellar operon
+si_0581	Flagellar_motility	RNA polymerase sigma-54 factor RpoN
+si_0581	Flagellar_motility	Motility integral membrane protein
+si_0581	Flagellar_motility	Predicted signal transduction protein
+si_0581	Flagellar_motility	Signal transduction protein CetA, mediates an energy taxis response
+si_0581	Flagellar_motility	Signal transduction protein CetB, mediates an energy taxis response
+si_0581	Flagellar_motility	Rrf2 family transcriptional regulator
+si_0581	Flagellar_motility	Putative lipoprotein required for motility
+si_0581	Flagellar_motility	Motility accessory factor

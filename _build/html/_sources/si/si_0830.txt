@@ -1,4 +1,0 @@
-si_0830	Nonribosomal_peptide_synthetases_(NRPS)_in_Frankia_sp._Ccl3	NRPS loading module Thr-PG-PG-Thr
-si_0830	Nonribosomal_peptide_synthetases_(NRPS)_in_Frankia_sp._Ccl3	NRPS module 2 PG-PG-Asn
-si_0830	Nonribosomal_peptide_synthetases_(NRPS)_in_Frankia_sp._Ccl3	NRPS module 3 PG-PG
-si_0830	Nonribosomal_peptide_synthetases_(NRPS)_in_Frankia_sp._Ccl3	NRPS module 4 PG-Ser-Gly-Thr

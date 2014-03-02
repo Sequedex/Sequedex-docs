@@ -1,0 +1,6 @@
+si_0211	YjeE	ATPase YjeE, predicted to have essential role in cell wall biosynthesis
+si_0211	YjeE	CBS domain protein sometimes clustered with YjeE
+si_0211	YjeE	COG3178: Predicted phosphotransferase related to Ser/Thr protein kinases
+si_0211	YjeE	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+si_0211	YjeE	YjeF protein, C-terminal domain
+si_0211	YjeE	YjeF protein, function unknown

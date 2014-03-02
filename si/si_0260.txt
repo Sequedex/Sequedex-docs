@@ -1,7 +1,0 @@
-si_0260	CBSS-323850.3.peg.3284	GGDEF and EAL domain proteins
-si_0260	CBSS-323850.3.peg.3284	ABC-type protease exporter, membrane fusion protein (MFP) family component PrtE/AprE
-si_0260	CBSS-323850.3.peg.3284	ABC transporter, transmembrane region:ABC transporter:Peptidase C39, bacteriocin processing
-si_0260	CBSS-323850.3.peg.3284	FIGfam010717
-si_0260	CBSS-323850.3.peg.3284	Agglutination protein
-si_0260	CBSS-323850.3.peg.3284	FIGfam020323
-si_0260	CBSS-323850.3.peg.3284	GAF domain/GGDEF domain/EAL domain protein

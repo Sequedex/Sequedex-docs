@@ -1,0 +1,10 @@
+si_0134	Cellulosome	1,4-alpha-glucan branching enzyme (EC 2.4.1.18)
+si_0134	Cellulosome	Alpha-amylase (Neopullulanase) SusA (EC 3.2.1.135)
+si_0134	Cellulosome	Alpha-amylase SusG (EC 3.2.1.1)
+si_0134	Cellulosome	Alpha-glucosidase SusB (EC 3.2.1.20)
+si_0134	Cellulosome	Clostridium cellulosome enzyme, dockerin type I precursor
+si_0134	Cellulosome	Outer membrane protein SusE
+si_0134	Cellulosome	Outer membrane protein SusF
+si_0134	Cellulosome	Regulatory protein SusR
+si_0134	Cellulosome	SusC, outer membrane protein involved in starch binding
+si_0134	Cellulosome	SusD, outer membrane protein

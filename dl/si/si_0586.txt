@@ -1,0 +1,22 @@
+si_0586	Bacterial_Chemotaxis	Aerotaxis sensor receptor protein
+si_0586	Bacterial_Chemotaxis	Chemotaxis protein CheC -- inhibitor of MCP methylation
+si_0586	Bacterial_Chemotaxis	Chemotaxis protein CheD
+si_0586	Bacterial_Chemotaxis	Chemotaxis protein CheV (EC 2.7.3.-)
+si_0586	Bacterial_Chemotaxis	Chemotaxis protein CheX
+si_0586	Bacterial_Chemotaxis	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+si_0586	Bacterial_Chemotaxis	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
+si_0586	Bacterial_Chemotaxis	Chemotaxis response - phosphatase CheZ
+si_0586	Bacterial_Chemotaxis	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+si_0586	Bacterial_Chemotaxis	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+si_0586	Bacterial_Chemotaxis	Flagellar motor switch protein FliG
+si_0586	Bacterial_Chemotaxis	Flagellar motor switch protein FliM
+si_0586	Bacterial_Chemotaxis	Flagellar motor switch protein FliN
+si_0586	Bacterial_Chemotaxis	Galactose/methyl galactoside ABC transport system, D-galactose-binding periplasmic protein MglB (TC 3.A.1.2.3)
+si_0586	Bacterial_Chemotaxis	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE
+si_0586	Bacterial_Chemotaxis	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+si_0586	Bacterial_Chemotaxis	Methyl-accepting chemotaxis protein II (aspartate chemoreceptor protein)
+si_0586	Bacterial_Chemotaxis	Methyl-accepting chemotaxis protein III (ribose and galactose chemoreceptor protein)
+si_0586	Bacterial_Chemotaxis	Methyl-accepting chemotaxis protein IV (dipeptide chemoreceptor protein)
+si_0586	Bacterial_Chemotaxis	Positive regulator of CheA protein activity (CheW)
+si_0586	Bacterial_Chemotaxis	Ribose ABC transporter, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)
+si_0586	Bacterial_Chemotaxis	Signal transduction histidine kinase CheA (EC 2.7.3.-)

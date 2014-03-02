@@ -1,5 +1,0 @@
-si_0521	Agrobacterium_opine_transport	LysR-type transcriptional regulator for nopaline catabolism NocR
-si_0521	Agrobacterium_opine_transport	Nopaline transporter ATP-binding protein NocP
-si_0521	Agrobacterium_opine_transport	Nopaline transporter periplasmic substrate-binding protein NocT
-si_0521	Agrobacterium_opine_transport	Nopaline transporter permease protein NocM
-si_0521	Agrobacterium_opine_transport	Nopaline transporter permease protein NocQ

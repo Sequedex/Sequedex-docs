@@ -1,0 +1,3 @@
+si_0842	Auxin_degradation	Peroxidase precursor (EC 1.11.1.7)
+si_0842	Auxin_degradation	Peroxidase (EC 1.11.1.7)
+si_0842	Auxin_degradation	L-ascorbate oxidase precursor (EC 1.10.3.3)

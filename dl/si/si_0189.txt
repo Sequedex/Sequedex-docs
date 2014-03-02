@@ -1,0 +1,11 @@
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein PmrG
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	UDP-glucose dehydrogenase (EC 1.1.1.22)
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein ArnA_DH, UDP-glucuronic acid decarboxylase (EC 4.1.1.-)
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein ArnA_FT, UDP-4-amino-4-deoxy-L-arabinose formylase (EC 2.1.2.-)
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.-)
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein ArnC, glycosyl transferase (EC 2.4.-.-)
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein ArnT, undecaprenyl phosphate-alpha-L-Ara4N transferase
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein PmrJ, predicted deacetylase
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein PmrL, sucrose-6 phosphate hydrolase
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein PmrD
+si_0189	Lipid_A-Ara4N_pathway_(_Polymyxin_resistance_)	Polymyxin resistance protein PmrM

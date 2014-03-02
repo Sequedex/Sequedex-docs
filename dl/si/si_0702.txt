@@ -1,0 +1,8 @@
+si_0702	Putative_TldE-TldD_proteolytic_complex	FIG138315: Putative alpha helix protein
+si_0702	Putative_TldE-TldD_proteolytic_complex	TldE/PmbA protein, part of proposed TldE/TldD proteolytic complex (PMID 12029038)
+si_0702	Putative_TldE-TldD_proteolytic_complex	TldD protein, part of proposed TldE/TldD proteolytic complex (PMID 12029038)
+si_0702	Putative_TldE-TldD_proteolytic_complex	TldE/PmbA family protein, Beta/Gamma-proteobacterial subgroup
+si_0702	Putative_TldE-TldD_proteolytic_complex	TldD family protein, Beta/Gamma-proteobacterial subgroup
+si_0702	Putative_TldE-TldD_proteolytic_complex	TldE/PmbA family protein, Actinobacterial subgroup
+si_0702	Putative_TldE-TldD_proteolytic_complex	TldD family protein, Actinobacterial subgroup
+si_0702	Putative_TldE-TldD_proteolytic_complex	TldD-domain protein

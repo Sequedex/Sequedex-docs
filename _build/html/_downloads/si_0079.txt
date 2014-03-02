@@ -1,6 +1,0 @@
-ss00954	mmoX	Methane monooxygenase component A alpha chain (EC 1.14.13.25)
-ss00954	mmoY	Methane monooxygenase component A beta chain (EC 1.14.13.25)
-ss00954	mmoZ	Methane monooxygenase component A gamma chain (EC 1.14.13.25)
-ss00954	mmoC	Methane monooxygenase component C (EC 1.14.13.25)
-ss00954	mmoB	Methane monooxygenase regulatory protein B
-ss00954	mmoD	Methane monooxygenase component D (EC 1.14.13.25)

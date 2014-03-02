@@ -1,0 +1,9 @@
+si_0730	Ribonuclease_H	Ribonuclease HI (EC 3.1.26.4)
+si_0730	Ribonuclease_H	Ribonuclease HI, Vibrio paralog
+si_0730	Ribonuclease_H	Ribonuclease HI-related protein
+si_0730	Ribonuclease_H	Ribonuclease HI-related protein 2
+si_0730	Ribonuclease_H	Ribonuclease HI-related protein 3
+si_0730	Ribonuclease_H	hypothetical protein ssl1918
+si_0730	Ribonuclease_H	Ribonuclease HII (EC 3.1.26.4)
+si_0730	Ribonuclease_H	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+si_0730	Ribonuclease_H	Ribonuclease HIII (EC 3.1.26.4)

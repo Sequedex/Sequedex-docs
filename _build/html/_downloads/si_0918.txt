@@ -1,7 +1,0 @@
-si_0918	MLST	Carbamate kinase (EC 2.7.2.2)
-si_0918	MLST	Shikimate 5-dehydrogenase (EC 1.1.1.25)
-si_0918	MLST	Glycerol kinase (EC 2.7.1.30)
-si_0918	MLST	Guanylate kinase (EC 2.7.4.8)
-si_0918	MLST	Phosphate acetyltransferase (EC 2.3.1.8)
-si_0918	MLST	Triosephosphate isomerase (EC 5.3.1.1)
-si_0918	MLST	Acetyl-CoA acetyltransferase (EC 2.3.1.9)

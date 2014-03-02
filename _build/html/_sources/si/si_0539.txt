@@ -1,7 +1,0 @@
-si_0539	Homogentisate_pathway_of_aromatic_compound_degradation	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
-si_0539	Homogentisate_pathway_of_aromatic_compound_degradation	Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
-si_0539	Homogentisate_pathway_of_aromatic_compound_degradation	Fumarylacetoacetase (EC 3.7.1.2)
-si_0539	Homogentisate_pathway_of_aromatic_compound_degradation	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
-si_0539	Homogentisate_pathway_of_aromatic_compound_degradation	Maleylacetoacetate isomerase (EC 5.2.1.2)
-si_0539	Homogentisate_pathway_of_aromatic_compound_degradation	Possible 3-(3-hydroxy-phenyl)propionate hydroxylase (EC 1.14.13.-)
-si_0539	Homogentisate_pathway_of_aromatic_compound_degradation	Transcriptional regulator, IclR family

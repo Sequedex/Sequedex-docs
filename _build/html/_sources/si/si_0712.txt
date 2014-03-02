@@ -1,6 +1,0 @@
-si_0712	Peptide_methionine_sulfoxide_reductase	Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)
-si_0712	Peptide_methionine_sulfoxide_reductase	Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)
-si_0712	Peptide_methionine_sulfoxide_reductase	Thiol:disulfide oxidoreductase associated with MetSO reductase
-si_0712	Peptide_methionine_sulfoxide_reductase	Two-component sensor kinase yesM (EC 2.7.3.-), associated with MetSO reductase
-si_0712	Peptide_methionine_sulfoxide_reductase	Two-component response regulator yesN, associated with MetSO reductase
-si_0712	Peptide_methionine_sulfoxide_reductase	Cytochrome c-type biogenesis protein CcdA homolog, associated with MetSO reductase

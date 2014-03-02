@@ -1,0 +1,3 @@
+si_0309	CBSS-316273.3.peg.2378	FIG006126: DNA helicase, restriction/modification system component YeeB
+si_0309	CBSS-316273.3.peg.2378	FIG045374: Type II restriction enzyme, methylase subunit YeeA
+si_0309	CBSS-316273.3.peg.2378	YeeC-like protein

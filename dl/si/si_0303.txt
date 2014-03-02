@@ -1,0 +1,12 @@
+si_0303	CBSS-296591.1.peg.2330	UDP-glucose 4-epimerase (EC 5.1.3.2)
+si_0303	CBSS-296591.1.peg.2330	Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
+si_0303	CBSS-296591.1.peg.2330	Alpha-1,3-N-acetylgalactosamine transferase PglA (EC 2.4.1.-)
+si_0303	CBSS-296591.1.peg.2330	Putative glycosyltransferase
+si_0303	CBSS-296591.1.peg.2330	Nucleoside-diphosphate sugar epimerase/dehydratase
+si_0303	CBSS-296591.1.peg.2330	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+si_0303	CBSS-296591.1.peg.2330	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+si_0303	CBSS-296591.1.peg.2330	NAD-dependent epimerase/dehydratase
+si_0303	CBSS-296591.1.peg.2330	Nucleoside-diphosphate-sugar epimerases
+si_0303	CBSS-296591.1.peg.2330	UDP-glucuronate 5'-epimerase (EC 5.1.3.12)
+si_0303	CBSS-296591.1.peg.2330	Nucleotide sugar epimerase
+si_0303	CBSS-296591.1.peg.2330	NAD-dependent epimerase/dehydratase family protein

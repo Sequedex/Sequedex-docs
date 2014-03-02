@@ -1,4 +1,0 @@
-si_0441	Sporulation-associated_proteins_with_broader_functions	Stage III sporulation protein AE
-si_0441	Sporulation-associated_proteins_with_broader_functions	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
-si_0441	Sporulation-associated_proteins_with_broader_functions	Protein of unknown function identified by role in sporulation (SpoVG)
-si_0441	Sporulation-associated_proteins_with_broader_functions	RNA polymerase sporulation specific sigma factor SigH

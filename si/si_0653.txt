@@ -1,3 +1,0 @@
-si_0653	Hyperosmotic_potassium_uptake	Potassium uptake protein, integral membrane component, KtrA
-si_0653	Hyperosmotic_potassium_uptake	Potassium uptake protein, integral membrane component, KtrB
-si_0653	Hyperosmotic_potassium_uptake	Potassium uptake protein, integral membrane component, KtrD

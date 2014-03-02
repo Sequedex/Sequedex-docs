@@ -1,5 +1,0 @@
-si_0347	USS-DB-2	Response regulator, ompR family [USSDB2A]
-si_0347	USS-DB-2	Two-component system sensor protein [USSDB2B]
-si_0347	USS-DB-2	Efflux system membrane fusion protein [USSDB2C]
-si_0347	USS-DB-2	Multidrug efflux transporter [USSDB2D]
-si_0347	USS-DB-2	Outer membrane protein [USSDB2E]

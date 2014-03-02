@@ -1,2 +1,0 @@
-si_0399	DNA_recombination,_archaeal	DNA repair and recombination protein RadA
-si_0399	DNA_recombination,_archaeal	DNA repair and recombination protein RadB

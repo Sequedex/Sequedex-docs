@@ -1,7 +1,0 @@
-si_0951	Cholera_toxin	Enterotoxin, A subunit (NAD(+)--diphthamide ADP- ribosyltransferase) (EC 2.4.2.36)
-si_0951	Cholera_toxin	Enterotoxin, B subunit
-si_0951	Cholera_toxin	Accessory cholera enterotoxin
-si_0951	Cholera_toxin	Zona occludens toxin
-si_0951	Cholera_toxin	TCP pilus virulence regulatory protein ToxT, transcription activator
-si_0951	Cholera_toxin	Transcriptional activator ToxR
-si_0951	Cholera_toxin	Transmembrane regulatory protein ToxS

@@ -1,8 +1,0 @@
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	RelB protein (antitoxin to RelE)
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	RelE antibacterial toxin protein
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	SMT0608 replicon stabilization toxin
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	SMT0609 replicon stabilization protein (antitoxin to SMT0608)
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	StbD replicon stabilization protein (antitoxin to StbE)
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	StbE replicon stabilization toxin
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	TTE0858 replicon stabilization protein (antitoxin to TTE0859)
-si_0759	Toxin-antitoxin_replicon_stabilization_systems	TTE0859 replicon stabilization toxin

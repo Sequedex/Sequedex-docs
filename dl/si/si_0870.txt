@@ -1,0 +1,8 @@
+si_0870	Periplasmic_Stress_Response	Outer membrane stress sensor protease DegS
+si_0870	Periplasmic_Stress_Response	Membrane-associated zinc metalloprotease
+si_0870	Periplasmic_Stress_Response	Sigma factor RpoE negative regulatory protein RseA
+si_0870	Periplasmic_Stress_Response	Outer membrane protein H precursor
+si_0870	Periplasmic_Stress_Response	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)
+si_0870	Periplasmic_Stress_Response	HtrA protease/chaperone protein
+si_0870	Periplasmic_Stress_Response	Outer membrane stress sensor protease DegQ, serine protease
+si_0870	Periplasmic_Stress_Response	Sigma factor RpoE negative regulatory protein RseB precursor

@@ -1,8 +1,0 @@
-si_0233	CBSS-196164.1.peg.461	Hypothetical, similarity to phosphoglycerate mutase
-si_0233	CBSS-196164.1.peg.461	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
-si_0233	CBSS-196164.1.peg.461	Cytochrome c-type biogenesis protein CcsA/ResC
-si_0233	CBSS-196164.1.peg.461	Thiol:disulfide oxidoreductase related to ResA
-si_0233	CBSS-196164.1.peg.461	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
-si_0233	CBSS-196164.1.peg.461	Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
-si_0233	CBSS-196164.1.peg.461	Hypothetical, related to broad specificity phosphatases COG0406
-si_0233	CBSS-196164.1.peg.461	HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase

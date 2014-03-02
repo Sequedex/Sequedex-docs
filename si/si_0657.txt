@@ -1,3 +1,0 @@
-si_0657	Programmed_frameshift	programmed frameshift-containing
-si_0657	Programmed_frameshift	Peptide chain release factor 2
-si_0657	Programmed_frameshift	Peptide chain release factor 2 unshifted fragment

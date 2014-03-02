@@ -1,0 +1,2 @@
+si_0123	2-methylcitrate_to_2-methylaconitate_metabolism_cluster	2-methylaconitate racemase
+si_0123	2-methylcitrate_to_2-methylaconitate_metabolism_cluster	2-Methylcitrate dehydratase AcnD

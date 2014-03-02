@@ -1,0 +1,15 @@
+si_0798	Terminal_cytochrome_oxidases	AA3-600 quinol oxidase subunit I
+si_0798	Terminal_cytochrome_oxidases	AA3-600 quinol oxidase subunit II
+si_0798	Terminal_cytochrome_oxidases	AA3-600 quinol oxidase subunit IIII
+si_0798	Terminal_cytochrome_oxidases	AA3-600 quinol oxidase subunit IV
+si_0798	Terminal_cytochrome_oxidases	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+si_0798	Terminal_cytochrome_oxidases	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+si_0798	Terminal_cytochrome_oxidases	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+si_0798	Terminal_cytochrome_oxidases	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+si_0798	Terminal_cytochrome_oxidases	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+si_0798	Terminal_cytochrome_oxidases	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+si_0798	Terminal_cytochrome_oxidases	Transport ATP-binding protein CydC
+si_0798	Terminal_cytochrome_oxidases	Transport ATP-binding protein CydCD
+si_0798	Terminal_cytochrome_oxidases	Transport ATP-binding protein CydD
+si_0798	Terminal_cytochrome_oxidases	putative Cytochrome bd2, subunit I
+si_0798	Terminal_cytochrome_oxidases	putative Cytochrome bd2, subunit II

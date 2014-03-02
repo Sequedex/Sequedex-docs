@@ -1,7 +1,0 @@
-si_0273	CBSS-354.1.peg.2917	FIG003879: Predicted amidohydrolase
-si_0273	CBSS-354.1.peg.2917	FIG005080: Possible exported protein
-si_0273	CBSS-354.1.peg.2917	TldD protein, part of proposed TldE/TldD proteolytic complex (PMID 12029038)
-si_0273	CBSS-354.1.peg.2917	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
-si_0273	CBSS-354.1.peg.2917	Septum formation protein Maf
-si_0273	CBSS-354.1.peg.2917	Rod shape-determining protein MreC
-si_0273	CBSS-354.1.peg.2917	Rod shape-determining protein MreD

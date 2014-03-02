@@ -1,0 +1,9 @@
+si_0421	Competence_in_Streptococci	Competence-stimulating peptide (CSP) precursor ComC
+si_0421	Competence_in_Streptococci	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+si_0421	Competence_in_Streptococci	Competence-stimulating peptide ABC transporter permease protein ComB
+si_0421	Competence_in_Streptococci	Histidine kinase of the competence regulon ComD
+si_0421	Competence_in_Streptococci	Response regulator of the competence regulon ComE
+si_0421	Competence_in_Streptococci	Competence-specific sigma factor ComX
+si_0421	Competence_in_Streptococci	Competence positive regulator ComW
+si_0421	Competence_in_Streptococci	Transcriptional regulator SpxA1
+si_0421	Competence_in_Streptococci	Transcriptional regulator SpxA2

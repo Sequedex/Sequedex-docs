@@ -1,3 +1,0 @@
-si_0413	Nonhomologous_End-Joining_in_Bacteria	Ku domain protein
-si_0413	Nonhomologous_End-Joining_in_Bacteria	ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD
-si_0413	Nonhomologous_End-Joining_in_Bacteria	ATP-dependent DNA ligase (EC 6.5.1.1) LigC

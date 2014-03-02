@@ -1,0 +1,2 @@
+si_0239	Hypothetical_Related_to_Dihydroorotate_dehydrogenase	FIG005495: hypothetical protein
+si_0239	Hypothetical_Related_to_Dihydroorotate_dehydrogenase	Dihydroorotate dehydrogenase (EC 1.3.3.1)

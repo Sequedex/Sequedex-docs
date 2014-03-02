@@ -1,0 +1,28 @@
+si_0725	Queuosine-Archaeosine_Biosynthesis	COG2047: Uncharacterized protein (ATP-grasp superfamily)
+si_0725	Queuosine-Archaeosine_Biosynthesis	Dihydroneopterin triphosphate pyrophosphohydolase
+si_0725	Queuosine-Archaeosine_Biosynthesis	Dihydroneopterin triphosphate pyrophosphohydolase type 2
+si_0725	Queuosine-Archaeosine_Biosynthesis	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+si_0725	Queuosine-Archaeosine_Biosynthesis	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+si_0725	Queuosine-Archaeosine_Biosynthesis	Glutamine amidotransferases class-II (GATase)
+si_0725	Queuosine-Archaeosine_Biosynthesis	Hydrolase (HAD superfamily) in cluster with DUF1447
+si_0725	Queuosine-Archaeosine_Biosynthesis	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)
+si_0725	Queuosine-Archaeosine_Biosynthesis	NADPH dependent preQ0 reductase
+si_0725	Queuosine-Archaeosine_Biosynthesis	NADPH dependent preQ0 reductase-like
+si_0725	Queuosine-Archaeosine_Biosynthesis	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+si_0725	Queuosine-Archaeosine_Biosynthesis	Peptidyl-prolyl cis-trans isomerase ppiB (EC 5.2.1.8)
+si_0725	Queuosine-Archaeosine_Biosynthesis	Permease of the drug/metabolite transporter (DMT) superfamily
+si_0725	Queuosine-Archaeosine_Biosynthesis	Putative preQ0 transporter
+si_0725	Queuosine-Archaeosine_Biosynthesis	Queuosine Biosynthesis QueC ATPase
+si_0725	Queuosine-Archaeosine_Biosynthesis	Queuosine Biosynthesis QueE Radical SAM
+si_0725	Queuosine-Archaeosine_Biosynthesis	Queuosine biosynthesis QueD, PTPS-I
+si_0725	Queuosine-Archaeosine_Biosynthesis	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+si_0725	Queuosine-Archaeosine_Biosynthesis	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+si_0725	Queuosine-Archaeosine_Biosynthesis	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+si_0725	Queuosine-Archaeosine_Biosynthesis	Substrate-specific component STY3230 of queuosine-regulated ECF transporter
+si_0725	Queuosine-Archaeosine_Biosynthesis	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 1
+si_0725	Queuosine-Archaeosine_Biosynthesis	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 1 like
+si_0725	Queuosine-Archaeosine_Biosynthesis	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 2
+si_0725	Queuosine-Archaeosine_Biosynthesis	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 5
+si_0725	Queuosine-Archaeosine_Biosynthesis	glutamyl-Q-tRNA synthetase
+si_0725	Queuosine-Archaeosine_Biosynthesis	preQ1-regulated inosine-uridine nucleoside hydrolase (EC 3.2.2.1)
+si_0725	Queuosine-Archaeosine_Biosynthesis	tRNA-guanine transglycosylase (EC 2.4.2.29)

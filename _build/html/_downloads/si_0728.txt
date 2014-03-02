@@ -1,3 +1,0 @@
-si_0728	RNA_processing_orphans	2'-5' RNA ligase
-si_0728	RNA_processing_orphans	2H phosphoesterase superfamily protein Bsu1186 (yjcG)
-si_0728	RNA_processing_orphans	2H phosphoesterase superfamily protein BC2899

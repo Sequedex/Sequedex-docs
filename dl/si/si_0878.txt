@@ -1,0 +1,8 @@
+si_0878	SigmaB_stress_responce_regulation	Putative SigmaB asociated two-component system sensor protein
+si_0878	SigmaB_stress_responce_regulation	RNA polymerase sigma factor SigB
+si_0878	SigmaB_stress_responce_regulation	RsbR, positive regulator of sigma-B
+si_0878	SigmaB_stress_responce_regulation	RsbS, negative regulator of sigma-B
+si_0878	SigmaB_stress_responce_regulation	Serine phosphatase RsbU, regulator of sigma subunit
+si_0878	SigmaB_stress_responce_regulation	Serine-protein kinase rsbW (EC 2.7.11.1)
+si_0878	SigmaB_stress_responce_regulation	anti sigma b factor antagonist RsbV
+si_0878	SigmaB_stress_responce_regulation	anti-sigma B factor RsbT

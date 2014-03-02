@@ -1,2 +1,0 @@
-si_0656	Nucleolar_protein_complex	Collagen alpha 1(I) chain precursor
-si_0656	Nucleolar_protein_complex	SSU ribosomal protein S14e (S11p)

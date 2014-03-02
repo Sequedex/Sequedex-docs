@@ -1,7 +1,0 @@
-si_0404	DNA_repair,_UvrABC_system	Excinuclease ABC subunit A
-si_0404	DNA_repair,_UvrABC_system	Excinuclease ABC subunit A, dimeric form
-si_0404	DNA_repair,_UvrABC_system	Excinuclease ABC subunit B
-si_0404	DNA_repair,_UvrABC_system	Excinuclease ABC subunit C
-si_0404	DNA_repair,_UvrABC_system	Excinuclease cho (excinuclease ABC alternative C subunit)
-si_0404	DNA_repair,_UvrABC_system	Excinuclease ABC subunit A paralog in greater Bacteroides group
-si_0404	DNA_repair,_UvrABC_system	Excinuclease ABC subunit A paralog of unknown function

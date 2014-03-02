@@ -1,3 +1,0 @@
-si_0742	tRNA_splicing	ADP-ribose 1"-phosphate phophatase
-si_0742	tRNA_splicing	RNA:NAD 2'-phosphotransferase
-si_0742	tRNA_splicing	tRNA-intron endonuclease (EC 3.1.27.9)

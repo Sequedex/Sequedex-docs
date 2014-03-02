@@ -1,0 +1,14 @@
+ss00240	MgsA	Methylglyoxal synthase (EC 4.2.3.3)
+ss00240	GloA	Lactoylglutathione lyase (EC 4.4.1.5)
+ss00240	GloB	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+ss00240	AldA	Aldehyde dehydrogenase A (EC 1.2.1.22)
+ss00240	AldB	Aldehyde dehydrogenase B (EC 1.2.1.22)
+ss00240	GRE2	NADPH-dependent methylglyoxal reductase (D-lactaldehyde dehydrogenase)
+ss00240	MltD	Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)
+ss00240	ALD	Aldehyde dehydrogenase (EC 1.2.1.3)
+ss00240	Gfp	Glyoxylase family protein
+ss00240	YaeR	Hypothetical protein YaeR with similarity to glyoxylase family
+ss00240	ALHDII	Aldehyde dehydrogenase, cytosolic, family 1, subfamily A7 (EC 1.2.1.3)
+ss00240	RalDH1	Retinal dehydrogenase 2 (EC 1.2.1.36) (Aldehyde dehydrogenase family 1 member A2)
+ss00240	ALDH2a	Aldehyde dehydrogenase 2B4, mitochondrial precursor (EC 1.2.1.3) (ALDH2a)
+ss00240	ALDeuk	Aldehyde dehydrogenase, mitochondrial precursor (EC 1.2.1.3)

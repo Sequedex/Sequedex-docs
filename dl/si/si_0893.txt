@@ -1,0 +1,8 @@
+si_0893	Thioredoxin-disulfide_reductase	Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)
+si_0893	Thioredoxin-disulfide_reductase	Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+si_0893	Thioredoxin-disulfide_reductase	Alkyl hydroperoxide reductase subunit C-like protein
+si_0893	Thioredoxin-disulfide_reductase	Alkylhydroperoxidase protein D
+si_0893	Thioredoxin-disulfide_reductase	Hydrogen peroxide-inducible genes activator
+si_0893	Thioredoxin-disulfide_reductase	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+si_0893	Thioredoxin-disulfide_reductase	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+si_0893	Thioredoxin-disulfide_reductase	Thioredoxin reductase (EC 1.8.1.9)

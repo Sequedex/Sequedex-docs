@@ -1,9 +1,0 @@
-si_0850	Uptake_of_selenate_and_selenite	TsgA protein homolog
-si_0850	Uptake_of_selenate_and_selenite	DedA protein
-si_0850	Uptake_of_selenate_and_selenite	Various polyols ABC transporter, periplasmic substrate-binding protein
-si_0850	Uptake_of_selenate_and_selenite	Various polyols ABC transporter, permease component 1
-si_0850	Uptake_of_selenate_and_selenite	Various polyols ABC transporter, permease component 2
-si_0850	Uptake_of_selenate_and_selenite	Various polyols ABC transporter, ATP-binding component
-si_0850	Uptake_of_selenate_and_selenite	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
-si_0850	Uptake_of_selenate_and_selenite	Inner membrane transport protein YbaT
-si_0850	Uptake_of_selenate_and_selenite	Outer membrane porin protein NmpC precursor

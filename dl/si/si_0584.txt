@@ -1,0 +1,4 @@
+si_0584	Control_of_Swarming_in_Vibrio_and_Shewanella_species	Transcriptional regulator LuxZ
+si_0584	Control_of_Swarming_in_Vibrio_and_Shewanella_species	Aminotransferase ScrA
+si_0584	Control_of_Swarming_in_Vibrio_and_Shewanella_species	Extracellular solute binding protein ScrB
+si_0584	Control_of_Swarming_in_Vibrio_and_Shewanella_species	Sensory box/GGDEF family protein ScrC (involved in swarmer cell regulation)

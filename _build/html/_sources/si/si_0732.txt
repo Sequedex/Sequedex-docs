@@ -1,2 +1,0 @@
-si_0732	Ribosome_biogenesis_archaeal	Fibrillarin
-si_0732	Ribosome_biogenesis_archaeal	rRNA biogenesis protein Nop5/Nop56

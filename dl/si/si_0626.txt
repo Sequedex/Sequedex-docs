@@ -1,0 +1,7 @@
+si_0626	Phage_tail_fiber_proteins	Phage long tail fiber proximal connector
+si_0626	Phage_tail_fiber_proteins	Phage long tail fiber proximal subunit
+si_0626	Phage_tail_fiber_proteins	Phage tail fiber assembly protein
+si_0626	Phage_tail_fiber_proteins	Phage tail fiber protein
+si_0626	Phage_tail_fiber_proteins	Phage tail fibers
+si_0626	Phage_tail_fiber_proteins	Phage tail fibers chaperone
+si_0626	Phage_tail_fiber_proteins	Tail fiber protein [SA bacteriophages 11, Mu50B]

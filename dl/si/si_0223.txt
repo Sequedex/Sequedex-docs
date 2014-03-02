@@ -1,0 +1,10 @@
+si_0223	Cell_Division_Cluster	Cell division initiation protein DivIVA
+si_0223	Cell_Division_Cluster	Cell division protein FtsA
+si_0223	Cell_Division_Cluster	Cell division protein FtsQ
+si_0223	Cell_Division_Cluster	Cell division protein FtsZ (EC 3.4.24.-)
+si_0223	Cell_Division_Cluster	Cell division protein YlmG/Ycf19 (putative), YggT family
+si_0223	Cell_Division_Cluster	FIG001583: hypothetical protein, contains S4-like RNA binding domain
+si_0223	Cell_Division_Cluster	FIG001960: FtsZ-interacting protein related to cell division
+si_0223	Cell_Division_Cluster	Hypothetical protein YggS, proline synthase co-transcribed bacterial homolog PROSC
+si_0223	Cell_Division_Cluster	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+si_0223	Cell_Division_Cluster	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)

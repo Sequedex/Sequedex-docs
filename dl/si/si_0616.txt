@@ -1,0 +1,18 @@
+si_0616	Phage_capsid_proteins	Phage capsid protein
+si_0616	Phage_capsid_proteins	Phage major capsid protein
+si_0616	Phage_capsid_proteins	Phage minor capsid protein
+si_0616	Phage_capsid_proteins	Phage capsid vertex protein
+si_0616	Phage_capsid_proteins	Phage capsid vertex
+si_0616	Phage_capsid_proteins	Phage capsid vertex assembly chaperone
+si_0616	Phage_capsid_proteins	Phage capsid assembly
+si_0616	Phage_capsid_proteins	Phage capsid assembly protein
+si_0616	Phage_capsid_proteins	Phage head-to-tail joining protein
+si_0616	Phage_capsid_proteins	Phage capsid and scaffold
+si_0616	Phage_capsid_proteins	Phage capsid scaffolding protein
+si_0616	Phage_capsid_proteins	Capsid scaffolding protein
+si_0616	Phage_capsid_proteins	Phage head completion protein (GPL)
+si_0616	Phage_capsid_proteins	Phage head completion protein
+si_0616	Phage_capsid_proteins	Major capsid protein
+si_0616	Phage_capsid_proteins	Minor capsid protein
+si_0616	Phage_capsid_proteins	Prohead core scaffold protein and protease
+si_0616	Phage_capsid_proteins	Phage prohead core protein

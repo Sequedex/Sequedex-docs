@@ -1,2 +1,0 @@
-si_0822	Flavocytochrome_C	Flavocytochrome c flavin subunit
-si_0822	Flavocytochrome_C	Flavocytochrome c heme subunit

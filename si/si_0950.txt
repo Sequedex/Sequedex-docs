@@ -1,3 +1,0 @@
-si_0950	Zinc_resistance	Sensor protein of zinc sigma-54-dependent two-component system
-si_0950	Zinc_resistance	Response regulator of zinc sigma-54-dependent two-component system
-si_0950	Zinc_resistance	Zinc resistance-associated protein

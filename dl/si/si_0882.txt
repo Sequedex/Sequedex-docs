@@ -1,0 +1,17 @@
+si_0882	Alkanesulfonate_assimilation	Alkanesulfonates-binding protein
+si_0882	Alkanesulfonate_assimilation	Alkanesulfonate monooxygenase (EC 1.14.14.5)
+si_0882	Alkanesulfonate_assimilation	Alkanesulfonates ABC transporter ATP-binding protein
+si_0882	Alkanesulfonate_assimilation	Organosulfonate utilization protein SsuF
+si_0882	Alkanesulfonate_assimilation	FMN reductase (EC 1.5.1.29)
+si_0882	Alkanesulfonate_assimilation	Alkanesulfonates transport system permease protein
+si_0882	Alkanesulfonate_assimilation	sulfonate monooxygenase
+si_0882	Alkanesulfonate_assimilation	probable dibenzothiophene desulfurization enzyme
+si_0882	Alkanesulfonate_assimilation	ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+si_0882	Alkanesulfonate_assimilation	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+si_0882	Alkanesulfonate_assimilation	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+si_0882	Alkanesulfonate_assimilation	Dibenzothiophene desulfurization enzyme B
+si_0882	Alkanesulfonate_assimilation	Arylsulfatase (EC 3.1.6.1)
+si_0882	Alkanesulfonate_assimilation	Putative arylsulfatase regulatory protein
+si_0882	Alkanesulfonate_assimilation	Sulfate ester binding protein
+si_0882	Alkanesulfonate_assimilation	Putative alkylsulfatase (EC 1.14.11.17)
+si_0882	Alkanesulfonate_assimilation	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)

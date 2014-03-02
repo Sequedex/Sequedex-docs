@@ -1,6 +1,0 @@
-si_0843	Acid_resistance_mechanisms	Glutamate decarboxylase (EC 4.1.1.15)
-si_0843	Acid_resistance_mechanisms	Probable glutamate/gamma-aminobutyrate antiporter
-si_0843	Acid_resistance_mechanisms	Arginine decarboxylase (EC 4.1.1.19)
-si_0843	Acid_resistance_mechanisms	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
-si_0843	Acid_resistance_mechanisms	Arginine decarboxylase, catabolic (EC 4.1.1.19)
-si_0843	Acid_resistance_mechanisms	Arginine/agmatine antiporter

@@ -1,0 +1,10 @@
+si_0328	CBSS-83332.1.peg.3803	Antigen 85-A precursor (85A) (Antigen 85 complex A) (Ag85A) (Mycolyl transferase 85A) (EC 2.3.1.-)
+si_0328	CBSS-83332.1.peg.3803	Antigen 85-B precursor (85B) (Extracellular alpha-antigen) (Antigen 85 complex B) (Ag85B) (Mycolyl transferase 85B) (EC 2.3.1.-)
+si_0328	CBSS-83332.1.peg.3803	Antigen 85-C precursor (85C) (Antigen 85 complex C) (Ag85C) (Mycolyl transferase 85C) (EC 2.3.1.-)
+si_0328	CBSS-83332.1.peg.3803	Probable acyl-CoA dehydrogenase fadE35 (EC 1.3.99.-)
+si_0328	CBSS-83332.1.peg.3803	Probable polyketide synthase, similar to many. e.g. gp|M63676|SERERYAA_1 S.erythraea first ORF of eryA gene, involved in complex polyketide formation in erythromycin biosynthesis.
+si_0328	CBSS-83332.1.peg.3803	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+si_0328	CBSS-83332.1.peg.3803	Transposase for insertion sequence element IS1557
+si_0328	CBSS-83332.1.peg.3803	fatty-acid-CoA ligase FadD32
+si_0328	CBSS-83332.1.peg.3803	hypothetical protein Rv3802c
+si_0328	CBSS-83332.1.peg.3803	hypothetical protein Rv3805c

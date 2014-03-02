@@ -1,5 +1,0 @@
-si_0425	DNA_phosphorothioation	NifS-like cysteine desulfurase DndA
-si_0425	DNA_phosphorothioation	DNA sulfur modification protein DndB
-si_0425	DNA_phosphorothioation	3'-phosphoadenosine 5'-phosphosulfate sulfurtransferase DndC
-si_0425	DNA_phosphorothioation	DNA sulfur modification protein DndD
-si_0425	DNA_phosphorothioation	DNA sulfur modification protein DndE

@@ -1,6 +1,0 @@
-si_0758	Phd-Doc,_YdcE-YdcD_toxin-antitoxin_(programmed_cell_death)_systems	Prevent host death protein, Phd antitoxin
-si_0758	Phd-Doc,_YdcE-YdcD_toxin-antitoxin_(programmed_cell_death)_systems	Death on curing protein, Doc toxin
-si_0758	Phd-Doc,_YdcE-YdcD_toxin-antitoxin_(programmed_cell_death)_systems	Programmed cell death antitoxin MazE like
-si_0758	Phd-Doc,_YdcE-YdcD_toxin-antitoxin_(programmed_cell_death)_systems	Programmed cell death toxin MazF like
-si_0758	Phd-Doc,_YdcE-YdcD_toxin-antitoxin_(programmed_cell_death)_systems	Programmed cell death antitoxin YdcD
-si_0758	Phd-Doc,_YdcE-YdcD_toxin-antitoxin_(programmed_cell_death)_systems	Programmed cell death toxin YdcE

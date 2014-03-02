@@ -1,0 +1,2 @@
+si_0343	Putative_sulfate_assimilation_cluster	Putative reductase (alkanesulfonate metabolism)
+si_0343	Putative_sulfate_assimilation_cluster	Alkanesulfonates-binding protein

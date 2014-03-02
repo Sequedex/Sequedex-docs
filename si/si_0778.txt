@@ -1,5 +1,0 @@
-si_0778	HPr_catabolite_repression_system	Catabolite control protein A
-si_0778	HPr_catabolite_repression_system	Catabolite repression HPr-like protein Crh
-si_0778	HPr_catabolite_repression_system	HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)
-si_0778	HPr_catabolite_repression_system	Inorganic pyrophospatase PpaX
-si_0778	HPr_catabolite_repression_system	Phosphocarrier protein of PTS system

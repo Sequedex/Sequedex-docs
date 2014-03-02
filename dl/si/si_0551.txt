@@ -1,0 +1,6 @@
+si_0551	Quinate_degradation	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+si_0551	Quinate_degradation	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+si_0551	Quinate_degradation	3-dehydroshikimate dehydratase
+si_0551	Quinate_degradation	Quinate/shikimate dehydrogenase [Pyrroloquinoline-quinone] (EC 1.1.99.25)
+si_0551	Quinate_degradation	Shikimate 5-dehydrogenase (EC 1.1.1.25)
+si_0551	Quinate_degradation	Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)

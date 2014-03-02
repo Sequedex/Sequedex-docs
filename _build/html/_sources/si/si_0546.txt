@@ -1,5 +1,0 @@
-si_0546	Chloroaromatic_degradation_pathway	3-oxoadipate CoA-transferase subunit A (EC 2.8.3.6)
-si_0546	Chloroaromatic_degradation_pathway	3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6)
-si_0546	Chloroaromatic_degradation_pathway	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
-si_0546	Chloroaromatic_degradation_pathway	Beta-ketoadipyl CoA thiolase (EC 2.3.1.-)
-si_0546	Chloroaromatic_degradation_pathway	Chlorocatechol 1,2-dioxygenase

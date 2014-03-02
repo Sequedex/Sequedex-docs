@@ -1,6 +1,0 @@
-ss00218	Reg	LacI family transcriptional regulator, row 218
-ss00218	GH1	Family 1 glycosyl hydrolase, row 954
-ss00218	Tra1	1st GPH family transporter in unknown oligosaccharide utilization Sde 1396
-ss00218	Tra2	2nd GPH family transporter in unknown oligosaccharide utilization Sde 1396
-ss00218	GH3	Family 3 glycosyl hydrolase in unknown oligosaccharide utilization Sde 1396
-ss00218	TonB	TonB-dependent receptor in unknown oligosaccharide utilization Sde 1396

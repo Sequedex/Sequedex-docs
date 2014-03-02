@@ -1,4 +1,0 @@
-si_0133	Alpha-Amylase_locus_in_Streptocococcus	Cyclomaltodextrin glucanotransferase (EC 2.4.1.19)
-si_0133	Alpha-Amylase_locus_in_Streptocococcus	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE
-si_0133	Alpha-Amylase_locus_in_Streptocococcus	Transposase (maltose area)
-si_0133	Alpha-Amylase_locus_in_Streptocococcus	putative esterase

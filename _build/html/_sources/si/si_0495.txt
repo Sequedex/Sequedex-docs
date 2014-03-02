@@ -1,5 +1,0 @@
-si_0495	ATP-dependent_efflux_pump_transporter_Ybh	ABC transport system, permease component YbhR
-si_0495	ATP-dependent_efflux_pump_transporter_Ybh	ABC transport system, permease component YbhS
-si_0495	ATP-dependent_efflux_pump_transporter_Ybh	ABC transporter multidrug efflux pump, fused ATP-binding domains
-si_0495	ATP-dependent_efflux_pump_transporter_Ybh	Predicted membrane fusion protein (MFP) component of efflux pump, membrane anchor protein YbhG
-si_0495	ATP-dependent_efflux_pump_transporter_Ybh	Transcriptional regulator YbiH, TetR family

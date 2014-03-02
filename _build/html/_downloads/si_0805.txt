@@ -1,6 +1,0 @@
-si_0805	Energy-conserving_hydrogenase_(ferredoxin)	Energy-conserving hydrogenase (ferredoxin), subunit A
-si_0805	Energy-conserving_hydrogenase_(ferredoxin)	Energy-conserving hydrogenase (ferredoxin), subunit B
-si_0805	Energy-conserving_hydrogenase_(ferredoxin)	Energy-conserving hydrogenase (ferredoxin), subunit C
-si_0805	Energy-conserving_hydrogenase_(ferredoxin)	Energy-conserving hydrogenase (ferredoxin), subunit D
-si_0805	Energy-conserving_hydrogenase_(ferredoxin)	Energy-conserving hydrogenase (ferredoxin), subunit E
-si_0805	Energy-conserving_hydrogenase_(ferredoxin)	Energy-conserving hydrogenase (ferredoxin), subunit F

@@ -1,7 +1,0 @@
-si_0788	WhiB_and_WhiB-type_regulatory_proteins_	Sporulation regulatory protein WhiB
-si_0788	WhiB_and_WhiB-type_regulatory_proteins_	Sporulation regulatory protein WhiD
-si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-type transcription regulator
-si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-like transcription regulator
-si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-family transcriptional regulator
-si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-like transcriptional regulator
-si_0788	WhiB_and_WhiB-type_regulatory_proteins_	WhiB-type transcriptional regulator

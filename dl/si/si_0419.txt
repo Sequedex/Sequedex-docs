@@ -1,0 +1,8 @@
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	DNA gyrase subunit A (EC 5.99.1.3)
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	DNA gyrase subunit B (EC 5.99.1.3)
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	DNA reverse gyrase (EC 5.99.1.-)
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	DNA topoisomerase II (EC 5.99.1.3)
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	DNA topoisomerase VI subunit A (EC 5.99.1.3)
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	DNA topoisomerase VI subunit B (EC 5.99.1.3)
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	Topoisomerase IV subunit A (EC 5.99.1.-)
+si_0419	DNA_topoisomerases,_Type_II,_ATP-dependent	Topoisomerase IV subunit B (EC 5.99.1.-)

@@ -1,0 +1,5 @@
+si_0220	CBSS-320388.3.peg.3759	Squalene--hopene cyclase (EC 5.4.99.17)
+si_0220	CBSS-320388.3.peg.3759	S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+si_0220	CBSS-320388.3.peg.3759	5'-methylthioadenosine nucleosidase (EC 3.2.2.16)
+si_0220	CBSS-320388.3.peg.3759	Phytoene synthase (EC 2.5.1.32)
+si_0220	CBSS-320388.3.peg.3759	Phytoene desaturase (EC 1.14.99.-)

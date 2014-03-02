@@ -1,0 +1,25 @@
+si_0144	Propanediol_utilization	Propanediol utilization transcriptional activator
+si_0144	Propanediol_utilization	Propanediol diffusion facilitator
+si_0144	Propanediol_utilization	Propanediol utilization polyhedral body protein PduA
+si_0144	Propanediol_utilization	Propanediol utilization polyhedral body protein PduB
+si_0144	Propanediol_utilization	Propanediol dehydratase large subunit (EC 4.2.1.28)
+si_0144	Propanediol_utilization	Propanediol dehydratase medium subunit (EC 4.2.1.28)
+si_0144	Propanediol_utilization	Propanediol dehydratase small subunit (EC 4.2.1.28)
+si_0144	Propanediol_utilization	Propanediol dehydratase reactivation factor large subunit
+si_0144	Propanediol_utilization	Propanediol dehydratase reactivation factor small subunit
+si_0144	Propanediol_utilization	Propanediol utilization polyhedral body protein PduJ
+si_0144	Propanediol_utilization	Propanediol utilization polyhedral body protein PduK
+si_0144	Propanediol_utilization	Propanediol utilization protein PduL
+si_0144	Propanediol_utilization	Propanediol utilization protein PduM
+si_0144	Propanediol_utilization	Propanediol utilization polyhedral body protein PduN
+si_0144	Propanediol_utilization	Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)
+si_0144	Propanediol_utilization	CoA-acylating propionaldehyde dehydrogenase
+si_0144	Propanediol_utilization	Putative iron-containing NADPH-dependent propanol dehydrogenase
+si_0144	Propanediol_utilization	Cob(III)alamin reductase
+si_0144	Propanediol_utilization	Cob(II)alamin reductase
+si_0144	Propanediol_utilization	Propanediol utilization polyhedral body protein PduT
+si_0144	Propanediol_utilization	Propanediol utilization polyhedral body protein PduU
+si_0144	Propanediol_utilization	Propanediol utilization protein PduV
+si_0144	Propanediol_utilization	Propionate kinase, propanediol utilization (EC 2.7.2.1)
+si_0144	Propanediol_utilization	Threonine kinase in B12 biosynthesis
+si_0144	Propanediol_utilization	Phosphate acetyltransferase (EC 2.3.1.8)

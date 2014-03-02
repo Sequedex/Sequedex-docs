@@ -1,0 +1,7 @@
+si_0340	NusA-TFII_Cluster	COG0779: clustered with transcription termination protein NusA
+si_0340	NusA-TFII_Cluster	Transcription termination protein NusA
+si_0340	NusA-TFII_Cluster	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+si_0340	NusA-TFII_Cluster	ribosomal protein L7Ae family protein
+si_0340	NusA-TFII_Cluster	Translation initiation factor 2
+si_0340	NusA-TFII_Cluster	YlxP-like protein
+si_0340	NusA-TFII_Cluster	Ribosome-binding factor A

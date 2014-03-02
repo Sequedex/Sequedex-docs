@@ -1,5 +1,0 @@
-si_0420	Plasmid_replication	Plasmid replication protein RepA
-si_0420	Plasmid_replication	Plasmid replication protein RepB
-si_0420	Plasmid_replication	Plasmid replication protein RepC
-si_0420	Plasmid_replication	Chromosome (plasmid) partitioning protein ParA
-si_0420	Plasmid_replication	Chromosome (plasmid) partitioning protein ParB

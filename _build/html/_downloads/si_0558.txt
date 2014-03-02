@@ -1,2 +1,0 @@
-si_0558	Cresol_degradation	4-cresol dehydrogenase [hydroxylating] cytochrome c subunit precursor
-si_0558	Cresol_degradation	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit (EC 1.17.99.1)

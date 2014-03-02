@@ -1,6 +1,0 @@
-si_0196	Perosamine_Synthesis_Vibrio	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
-si_0196	Perosamine_Synthesis_Vibrio	Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22)
-si_0196	Perosamine_Synthesis_Vibrio	O-antigen export system, ATP-binding protein
-si_0196	Perosamine_Synthesis_Vibrio	O-antigen export system, permease protein
-si_0196	Perosamine_Synthesis_Vibrio	O-antigen export system, polymerase or transferase
-si_0196	Perosamine_Synthesis_Vibrio	Phosphomannomutase (EC 5.4.2.8)

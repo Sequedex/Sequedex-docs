@@ -1,0 +1,11 @@
+si_0596	Nitrosative_stress	Anaerobic nitric oxide reductase flavorubredoxin
+si_0596	Nitrosative_stress	Ferredoxin 3 fused to uncharacterized domain
+si_0596	Nitrosative_stress	Functional role page for Anaerobic nitric oxide reductase transcription regulator NorR
+si_0596	Nitrosative_stress	Hcp transcriptional regulator HcpR (Crp/Fnr family)
+si_0596	Nitrosative_stress	Hydroxylamine reductase (EC 1.7.-.-)
+si_0596	Nitrosative_stress	NADH oxidoreductase hcr (EC 1.-.-.-)
+si_0596	Nitrosative_stress	Nitric oxide reductase FlRd-NAD(+) reductase (EC 1.18.1.-)
+si_0596	Nitrosative_stress	Nitric oxide-dependent regulator DnrN or NorA
+si_0596	Nitrosative_stress	Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent
+si_0596	Nitrosative_stress	Nitrite-sensitive transcriptional repressor NsrR
+si_0596	Nitrosative_stress	NnrS protein involved in response to NO

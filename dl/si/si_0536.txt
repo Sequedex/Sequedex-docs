@@ -1,0 +1,12 @@
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.2.-)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (EC 5.3.3.-)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	2-oxo-hepta-3-ene-1,7-dioic acid hydratase (EC 4.2.-.-)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	4-hydroxyphenylacetate 3-monooxygenase, reductase component (EC 1.6.8.-)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	4-hydroxyphenylacetate symporter, major facilitator superfamily (MFS)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	5-carboxymethyl-2-oxo-hex-3- ene-1,7-dioate decarboxylase (EC 4.1.1.68)
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	Homoprotocatechuate degradative operon repressor
+si_0536	4-Hydroxyphenylacetic_acid_catabolic_pathway	Transcriptional activator of 4-hydroxyphenylacetate 3-monooxygenase operon, XylS/AraC family

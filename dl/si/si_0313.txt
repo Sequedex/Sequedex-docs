@@ -1,0 +1,4 @@
+si_0313	CBSS-316279.3.peg.746	FIG017608: hypothetical membrane protein, specific for cyanobacteria
+si_0313	CBSS-316279.3.peg.746	Hypothetical protein of L-Asparaginase type 2-like superfamily
+si_0313	CBSS-316279.3.peg.746	Iojap protein
+si_0313	CBSS-316279.3.peg.746	Uncharacterized membrane protein Ycf36

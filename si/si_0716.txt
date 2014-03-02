@@ -1,3 +1,0 @@
-si_0716	Signal_peptidase	Signal peptidase I (EC 3.4.21.89)
-si_0716	Signal_peptidase	Lipoprotein signal peptidase (EC 3.4.23.36)
-si_0716	Signal_peptidase	Signal peptidase, type IV - prepilin/preflagellin

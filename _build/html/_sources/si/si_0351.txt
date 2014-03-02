@@ -1,8 +1,0 @@
-si_0351	Yfa_cluster	Uncharacterized transcriptional regulator YfaX, HTH-type
-si_0351	Yfa_cluster	Uncharacterized protein YfaZ precursor
-si_0351	Yfa_cluster	Uncharacterized protein YfaD
-si_0351	Yfa_cluster	Uncharacterized protein YfaW
-si_0351	Yfa_cluster	Uncharacterized protein YfaU
-si_0351	Yfa_cluster	Inner membrane transport protein YfaV
-si_0351	Yfa_cluster	Competence/damage-inducible protein CinA
-si_0351	Yfa_cluster	Pyrimidine deoxynucleoside triphosphate (dYTP) pyrophosphohydrolase YfoO

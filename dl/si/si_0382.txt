@@ -1,0 +1,7 @@
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein A
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein B
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein C
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein D
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein E
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Coenzyme PQQ synthesis protein F (EC 3.4.99.-)
+si_0382	Pyrroloquinoline_Quinone_biosynthesis	Microsomal dipeptidase (EC 3.4.13.19)

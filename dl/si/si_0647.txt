@@ -1,0 +1,17 @@
+si_0647	Bacterial_light-harvesting_proteins	Protein PufQ, involved in assembly of B875 and B800-850 pigment-protein complexes
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHI, alpha subunit
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHI, beta subunit
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, alpha subunit A
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, beta subunit A
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, alpha subunit B
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, beta subunit B
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, alpha subunit C
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, beta subunit C
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, alpha subunit D
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, beta subunit D
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, alpha subunit E
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, beta subunit E
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, alpha subunit F
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, beta subunit F
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, alpha subunit G
+si_0647	Bacterial_light-harvesting_proteins	Light-harvesting LHII, beta subunit G

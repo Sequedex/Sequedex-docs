@@ -1,0 +1,7 @@
+si_0877	Phage_shock_protein_(psp)_operon	Psp operon transcriptional activator
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein A
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein B
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein C
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein D
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein E precursor
+si_0877	Phage_shock_protein_(psp)_operon	Phage shock protein E

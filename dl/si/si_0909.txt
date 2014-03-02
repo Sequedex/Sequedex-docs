@@ -1,0 +1,27 @@
+si_0909	Adhesins_in_Staphylococcus	Predicted cell-wall-anchored protein SasC (LPXTG motif)
+si_0909	Adhesins_in_Staphylococcus	Predicted cell-wall-anchored protein SasD (LPXAG motif)
+si_0909	Adhesins_in_Staphylococcus	Predicted cell-wall-anchored protein SasF (LPXAG motif)
+si_0909	Adhesins_in_Staphylococcus	Predicted cell-wall-anchored protein SasK (LPXTG motif)
+si_0909	Adhesins_in_Staphylococcus	Protein A, von Willebrand factor binding protein Spa
+si_0909	Adhesins_in_Staphylococcus	Secreted von Willebrand factor-binding protein VWbp
+si_0909	Adhesins_in_Staphylococcus	Staphylocoagulase
+si_0909	Adhesins_in_Staphylococcus	Virulence-associated cell-wall-anchored protein SasG (LPXTG motif), binding to squamous nasal epithelial cells
+si_0909	Adhesins_in_Staphylococcus	Virulence-associated cell-wall-anchored protein SasH (LPXTG motif)
+si_0909	Adhesins_in_Staphylococcus	Accumulation-associated protein AAP
+si_0909	Adhesins_in_Staphylococcus	Adhesin of unknown specificity SdrC
+si_0909	Adhesins_in_Staphylococcus	Adhesin of unknown specificity SdrD
+si_0909	Adhesins_in_Staphylococcus	Adhesin of unknown specificity SdrE, similar to bone sialoprotein-binding protein Bbp
+si_0909	Adhesins_in_Staphylococcus	Antiadhesin Pls, binding to squamous nasal epithelial cells
+si_0909	Adhesins_in_Staphylococcus	Bifunctional autolysin Atl
+si_0909	Adhesins_in_Staphylococcus	Clumping factor ClfA, fibrinogen-binding protein
+si_0909	Adhesins_in_Staphylococcus	Clumping factor ClfB, fibrinogen binding protein
+si_0909	Adhesins_in_Staphylococcus	Collagen binding protein Cna
+si_0909	Adhesins_in_Staphylococcus	Elastin binding protein EbpS
+si_0909	Adhesins_in_Staphylococcus	Extracellular ECM and plasma binding protein Emp
+si_0909	Adhesins_in_Staphylococcus	Extracellular adherence protein of broad specificity Eap/Map
+si_0909	Adhesins_in_Staphylococcus	Extracellular fibrinogen-binding protein Efb
+si_0909	Adhesins_in_Staphylococcus	Fibronectin binding protein FnbA
+si_0909	Adhesins_in_Staphylococcus	Fibronectin binding protein FnbB
+si_0909	Adhesins_in_Staphylococcus	Hypothetical protein, similarity with fibrinogen-binding protein Efb
+si_0909	Adhesins_in_Staphylococcus	Hypothetical protein, similarity with von Willebrand factor-binding VWbp
+si_0909	Adhesins_in_Staphylococcus	Predicted cell-wall-anchored protein SasA (LPXTG motif)

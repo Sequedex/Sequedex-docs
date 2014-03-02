@@ -1,6 +1,0 @@
-si_0896	&#945;-related_Fimbriae_in_Yersinia	Alpha-related fimbriae usher protein
-si_0896	&#945;-related_Fimbriae_in_Yersinia	Alpha-related fimbriae minor subunit 1
-si_0896	&#945;-related_Fimbriae_in_Yersinia	Alpha-related fimbriae minor subunit 2
-si_0896	&#945;-related_Fimbriae_in_Yersinia	Alpha-related fimbriae major subunit
-si_0896	&#945;-related_Fimbriae_in_Yersinia	Alpha-related fimbriae chaperone 1
-si_0896	&#945;-related_Fimbriae_in_Yersinia	Alpha-related fimbriae chaperone 2

@@ -1,4 +1,0 @@
-si_0226	SeqA_and_Co-occurring_Genes	Phosphoglucomutase (EC 5.4.2.2)
-si_0226	SeqA_and_Co-occurring_Genes	SeqA protein, negative modulator of initiation of replication
-si_0226	SeqA_and_Co-occurring_Genes	Esterase ybfF (EC 3.1.-.-)
-si_0226	SeqA_and_Co-occurring_Genes	Uncharacterized protein ybfE

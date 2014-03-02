@@ -1,0 +1,16 @@
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Thymidine phosphorylase (EC 2.4.2.4)
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Purine nucleoside phosphorylase (EC 2.4.2.1)
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Phosphopentomutase (EC 5.4.2.7)
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Nucleoside permease NupC
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Putative deoxyribonuclease YjjV
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Ribokinase (EC 2.7.1.15)
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Deoxyribonucleoside regulator DeoR (transcriptional repressor)
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Deoxyribose operon repressor, DeoR family
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Putative deoxyribose-specific ABC transporter, permease protein
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Putative deoxyribose-specific ABC transporter, ATP-binding protein
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Predicted nucleoside ABC transporter, permease 1 component
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Predicted nucleoside ABC transporter, permease 2 component
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Predicted nucleoside ABC transporter, ATP-binding component
+si_0108	Deoxyribose_and_Deoxynucleoside_Catabolism	Predicted nucleoside ABC transporter, substrate-binding component

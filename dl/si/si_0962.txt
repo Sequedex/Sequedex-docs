@@ -1,0 +1,3 @@
+Small subunit of ribosome (euks, bacteria, and archaea)
+Large subunit of ribosome (euks, bacteria, and archaea)
+tRNAs (bacteria and archaea)

@@ -1,6 +1,0 @@
-si_0876	Hfl_operon	RNA-binding protein Hfq
-si_0876	Hfl_operon	GTP-binding protein HflX
-si_0876	Hfl_operon	HflK protein
-si_0876	Hfl_operon	HflC protein
-si_0876	Hfl_operon	Putative inner membrane protein YjeT (clustered with HflC)
-si_0876	Hfl_operon	GTP-binding protein related to HflX

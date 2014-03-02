@@ -1,8 +1,0 @@
-si_0525	Phosphoglycerate_transport_system	Phosphoglycerate transport system transcriptional regulatory protein PgtA
-si_0525	Phosphoglycerate_transport_system	Phosphoglycerate transport system sensor protein PgtB (EC 2.7.3.-)
-si_0525	Phosphoglycerate_transport_system	Phosphoglycerate transport regulatory protein PgtC
-si_0525	Phosphoglycerate_transport_system	Phosphoglycerate transporter protein PgtP
-si_0525	Phosphoglycerate_transport_system	FIGfam013899: ABC transporter substrate-binding protein
-si_0525	Phosphoglycerate_transport_system	FIGfam012970: transmembrane protein
-si_0525	Phosphoglycerate_transport_system	FIGfam010146: Two component system histidine kinase
-si_0525	Phosphoglycerate_transport_system	FIGfam009438: Two-component system DNA-binding response regulator

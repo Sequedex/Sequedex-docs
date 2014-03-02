@@ -1,7 +1,0 @@
-si_0295	CBSS-261594.1.peg.2640	FAD-dependent pyridine nucleotide-disulphide oxidoreductase, GBAA2537 homolog
-si_0295	CBSS-261594.1.peg.2640	Metal-dependent hydrolase COG0491 with rhodanese-homology domain (RHOD)
-si_0295	CBSS-261594.1.peg.2640	Putative phosphoesterase, GBAA2539 homolog
-si_0295	CBSS-261594.1.peg.2640	Hypothetical protein, GBAA2540 homolog
-si_0295	CBSS-261594.1.peg.2640	Hypothetical protein, sulfurtransferase domain
-si_0295	CBSS-261594.1.peg.2640	Protein of unknown function DUF156
-si_0295	CBSS-261594.1.peg.2640	Protein of unknown function DUF81, SAV0084 homolog

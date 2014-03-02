@@ -1,0 +1,19 @@
+si_0391	Cobalamin_synthesis	Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+si_0391	Cobalamin_synthesis	Adenosylcobinamide-phosphate synthase
+si_0391	Cobalamin_synthesis	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)
+si_0391	Cobalamin_synthesis	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+si_0391	Cobalamin_synthesis	Cobalamin biosynthesis protein BluB
+si_0391	Cobalamin_synthesis	Cobalamin biosynthesis protein CbiG
+si_0391	Cobalamin_synthesis	Cobalamin synthase
+si_0391	Cobalamin_synthesis	Cobalt-precorrin-2 C20-methyltransferase (EC 2.1.1.130)
+si_0391	Cobalamin_synthesis	Cobalt-precorrin-3b C17-methyltransferase
+si_0391	Cobalamin_synthesis	Cobalt-precorrin-4 C11-methyltransferase (EC 2.1.1.133)
+si_0391	Cobalamin_synthesis	Cobalt-precorrin-6 synthase, anaerobic
+si_0391	Cobalamin_synthesis	Cobalt-precorrin-6x reductase (EC 1.3.1.54)
+si_0391	Cobalamin_synthesis	Cobalt-precorrin-8x methylmutase (EC 5.4.1.2)
+si_0391	Cobalamin_synthesis	Cobyric acid synthase
+si_0391	Cobalamin_synthesis	Cobyrinic acid A,C-diamide synthase
+si_0391	Cobalamin_synthesis	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+si_0391	Cobalamin_synthesis	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+si_0391	Cobalamin_synthesis	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)
+si_0391	Cobalamin_synthesis	Threonine kinase in B12 biosynthesis

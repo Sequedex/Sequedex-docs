@@ -1,0 +1,15 @@
+si_0127	Lactate_utilization	L-lactate dehydrogenase (EC 1.1.2.3)
+si_0127	Lactate_utilization	D-Lactate dehydrogenase (EC 1.1.2.5)
+si_0127	Lactate_utilization	Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing
+si_0127	Lactate_utilization	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+si_0127	Lactate_utilization	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+si_0127	Lactate_utilization	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+si_0127	Lactate_utilization	Predicted L-lactate dehydrogenase, hypothetical protein subunit SO1518
+si_0127	Lactate_utilization	L-lactate permease
+si_0127	Lactate_utilization	Lactate-responsive regulator LldR in Enterobacteria, GntR family
+si_0127	Lactate_utilization	Lactate-responsive regulator LldR in Firmicutes, GntR family
+si_0127	Lactate_utilization	Predicted Lactate-responsive regulator, LysR family
+si_0127	Lactate_utilization	Predicted Lactate-responsive regulator, IclR family
+si_0127	Lactate_utilization	Lactate-responsive regulator LldR in Actinobacteria, GntR family
+si_0127	Lactate_utilization	Lactate-responsive regulator LldR in Betaproteobacteria, LysR family
+si_0127	Lactate_utilization	Predicted lactate-responsive transcriptional regulator of ykgEFG LDH gene cluster, LysR-type

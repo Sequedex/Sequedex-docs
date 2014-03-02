@@ -1,4 +1,0 @@
-si_0942	Multiple_Antibiotic_Resistance_MAR_locus	Multiple antibiotic resistance protein MarR
-si_0942	Multiple_Antibiotic_Resistance_MAR_locus	Multiple antibiotic resistance protein MarA
-si_0942	Multiple_Antibiotic_Resistance_MAR_locus	Multiple antibiotic resistance protein MarB
-si_0942	Multiple_Antibiotic_Resistance_MAR_locus	Multiple antibiotic resistance protein MarC

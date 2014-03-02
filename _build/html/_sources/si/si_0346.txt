@@ -1,5 +1,0 @@
-si_0346	USS-DB-1	Hypothetical protein USSDB1A
-si_0346	USS-DB-1	Sugar ABC transporter, periplasmic sugar-binding protein USSDB1B
-si_0346	USS-DB-1	Sugar ABC transporter, sugar permease protein 1 USSDB1C
-si_0346	USS-DB-1	Sugar ABC transporter, sugar permease protein 2 USSDB1D
-si_0346	USS-DB-1	Hypothetical protein USSDB1E

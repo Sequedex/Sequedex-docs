@@ -1,0 +1,11 @@
+si_0476	Siderophore_[Alcaligin-like]	Siderophore [Alcaligin-like] biosynthetic enzyme (EC 1.14.13.59)
+si_0476	Siderophore_[Alcaligin-like]	Siderophore [Alcaligin-like] biosynthesis complex, short chain
+si_0476	Siderophore_[Alcaligin-like]	Siderophore [Alcaligin-like] biosynthesis complex, long chain
+si_0476	Siderophore_[Alcaligin-like]	Iron-siderophore [Alcaligin-like] receptor
+si_0476	Siderophore_[Alcaligin-like]	Siderophore [Alcaligin-like] biosynthesis complex, medium chain
+si_0476	Siderophore_[Alcaligin-like]	Siderophore [Alcaligin-like] decarboxylase (EC 4.1.1.-)
+si_0476	Siderophore_[Alcaligin-like]	Iron-siderophore [Alcaligin-like] transport system, ATP-binding component
+si_0476	Siderophore_[Alcaligin-like]	Iron-siderophore [Alcaligin-like] transport system, permease component
+si_0476	Siderophore_[Alcaligin-like]	Iron-siderophore [Alcaligin-like] transport system, transmembran component
+si_0476	Siderophore_[Alcaligin-like]	Iron-siderophore [Alcaligin-like] transport system, substrate-binding component
+si_0476	Siderophore_[Alcaligin-like]	Iron-siderophore [Alcaligin-like] ferric reductase (1.6.99.14)

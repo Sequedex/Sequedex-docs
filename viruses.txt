@@ -1,0 +1,153 @@
+.. _s.viral:
+
+Viral tree, 1252 taxa
+*********************
+
+One-per-species tree of viruses, made from the completed genomes available in RefSeq.
+
+In order to provide node definitions for use with the virus1252 data module, we provide the reference phylogeny with numbers, divided into the sections: :ref:`s.ssDNA`, :ref:`s.dsDNA1`, :ref:`s.dsDNA2`, :ref:`s.RT`, :ref:`s.ssRNAP1`, :ref:`s.ssRNAP2`, :ref:`s.ssRNAP3`, :ref:`s.ssRNAP4`, :ref:`s.ssRNAP5`, :ref:`s.ssRNAP6`, :ref:`s.seg.ssRNA`, :ref:`s.Mononeg`, :ref:`s.Orthomyx`, :ref:`s.ssDNA1`, :ref:`s.ssDNA2`, :ref:`s.ssDNA3`, :ref:`s.dsDNA`
+
+Tree files can be downloaded in 
+*    :download:`nexus <dl/virus1252.nexus>`
+*    :download:`phyloxml <dl/virus1252.phyloxml>` 
+*    :download:`pdf <dl/virus1252.pdf>` 
+formats.
+
+There is, at present, no functional information associated with the viral signatures.
+
+.. _s.ssDNA:
+
+
+dsDNA viruses 1: Baculoviridae, Phycodnaviridae, and Irdoviridae
+================================================================
+
+.. figure:: images/DNA_1.png
+   :width: 100%
+
+.. _s.dsDNA1:
+
+dsDNA viruses 2: Papillomaviridae and Polyomaviridae, and Poxviridae
+====================================================================
+
+.. figure:: images/DNA_2.png
+   :width: 100%
+
+.. _s.dsDNA2:
+
+dsDNA viruses 3: Adenoviridae and Herpesviridae
+===============================================
+
+.. figure:: images/DNA_3.png
+   :width: 100%
+
+.. _s.RT:
+
+Reverse transcriptase viruses: Caulimoviridae, Retroviridae, and Hepadnaviridae
+===============================================================================
+
+.. figure:: images/RT.png
+   :width: 100%
+
+.. _s.ssRNAp1:
+
+ssRNA+ 1: Caliciviridae, Nidovirales
+=============================================
+
+.. figure:: images/ssRNAp_1.png
+   :width: 100%
+
+.. _s.ssRNAp2:
+
+ssRNA+ 2: Flaviviridae
+===============================
+
+.. figure:: images/ssRNAp_2.png
+   :width: 120%
+
+.. _s.ssRNAp3:
+
+ssRNA+ 3: Tombusviridae and Virgaviridae
+=================================================
+
+.. figure:: images/ssRNAp_3.png
+   :width: 120%
+
+.. _s.ssRNAp4:
+
+ssRNA+ 4: Tymoviridae
+==============================
+
+.. figure:: images/ssRNAp_4.png
+   :width: 120%
+
+.. _s.ssRNAp5:
+
+ssRNA+ 5: Picornaviridae, Togaviridae
+==============================================
+
+.. figure:: images/ssRNAp_5.png
+   :width: 120%
+
+.. _s.ssRNAp6:
+
+ssRNA+ 6: Potyviridae
+==============================
+
+.. figure:: images/ssRNAp_6.png
+   :width: 120%
+
+.. _s.seg.ssRNA:
+
+ssRNA, segmented: Arenaviridae, Bunyaviridae
+============================================
+
+.. figure:: images/ssRNA_seg.png
+   :width: 180%
+
+.. _s.Mononeg:
+
+Mononegavirales
+===============
+
+.. figure:: images/Mononeg.png
+   :width: 120%
+
+.. _s.Orthomyx:
+
+Orthomyxoviridae
+================
+
+.. figure:: images/Orthomyxo.png
+   :width: 100%
+
+.. _s.ssDNA1:
+
+ssDNA 1: Parvoviridae
+======================
+
+.. figure:: images/ssDNA_1.png
+   :width: 100%
+
+.. _s.ssDNA2:
+
+ssDNA 2: Geminiviridae_1
+========================
+
+.. figure:: images/ssDNA_2.png
+   :width: 60%
+
+.. _s.ssDNA3:
+
+ssDNA 2: Geminiviridae_2
+========================
+
+.. figure:: images/ssDNA_3.png
+   :width: 120%
+
+.. _s.dsDNA:
+
+dsDNA: Reoviridae
+=================
+
+.. figure:: images/dsDNA.png
+   :width: 100%

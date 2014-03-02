@@ -1,0 +1,5 @@
+si_0899	&#963;-Fimbriae	Sigma-fimbriae uncharacterized paralogous subunit
+si_0899	&#963;-Fimbriae	Sigma-fimbriae uncharacterized subunit
+si_0899	&#963;-Fimbriae	Sigma-fimbriae chaperone protein
+si_0899	&#963;-Fimbriae	Sigma-fimbriae usher protein
+si_0899	&#963;-Fimbriae	Sigma-fimbriae tip adhesin

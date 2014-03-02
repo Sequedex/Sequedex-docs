@@ -1,0 +1,33 @@
+si_0776	DNA-binding_regulatory_proteins,_strays	Alkanesulfonate utilization operon LysR-family regulator CbI
+si_0776	DNA-binding_regulatory_proteins,_strays	Aromatic hydrocarbon utilization transcriptional regulator CatR (LysR family)
+si_0776	DNA-binding_regulatory_proteins,_strays	Cyn operon transcriptional activator
+si_0776	DNA-binding_regulatory_proteins,_strays	Cys regulon transcriptional activator CysB
+si_0776	DNA-binding_regulatory_proteins,_strays	GltC, transcription activator of glutamate synthase operon
+si_0776	DNA-binding_regulatory_proteins,_strays	Hydrogen peroxide-inducible genes activator
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA0133
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA0191
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA0739
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA1145
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA2758
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA2877
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA3398
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA4989
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA5218
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator PA5437
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator STM2281
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator STM3121
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YbhD
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YcjZ
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YdcI
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YfeR
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YfiE
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YhjC
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YneJ
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator YnfL
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator lrhA
+si_0776	DNA-binding_regulatory_proteins,_strays	LysR family transcriptional regulator near succinyl-CoA:3-ketoacid-coenzyme A transferase
+si_0776	DNA-binding_regulatory_proteins,_strays	Nitrogen assimilation regulatory protein Nac
+si_0776	DNA-binding_regulatory_proteins,_strays	Transcriptional activator GpuR
+si_0776	DNA-binding_regulatory_proteins,_strays	Transcriptional activator protein LysR
+si_0776	DNA-binding_regulatory_proteins,_strays	Transcriptional regulator GbuR
+si_0776	DNA-binding_regulatory_proteins,_strays	Xanthosine operon regulatory protein XapR, LysR family

@@ -1,0 +1,13 @@
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Distant similarity with phosphate transport system regulator
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Phosphate transport system regulatory protein PhoU
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Polyphosphate kinase (EC 2.7.4.1)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Putative periplasmic phosphate-binding protein PstS (Catenulisporaceae type)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Putative periplasmic phosphate-binding protein PstS (Halobacteriales type)
+si_0638	High_affinity_phosphate_transporter_and_control_of_PHO_regulon	Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)

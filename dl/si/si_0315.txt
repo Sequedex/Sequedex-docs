@@ -1,0 +1,5 @@
+si_0315	CBSS-320372.3.peg.6046	UPF0301 protein YqgE
+si_0315	CBSS-320372.3.peg.6046	Putative Holliday junction resolvase (EC 3.1.-.-)
+si_0315	CBSS-320372.3.peg.6046	Aspartate carbamoyltransferase (EC 2.1.3.2)
+si_0315	CBSS-320372.3.peg.6046	Glutathione synthetase (EC 6.3.2.3)
+si_0315	CBSS-320372.3.peg.6046	Ornithine carbamoyltransferase (EC 2.1.3.3)

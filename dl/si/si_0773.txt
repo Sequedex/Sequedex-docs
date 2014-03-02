@@ -1,0 +1,3 @@
+si_0773	VieSAB_signal_transduction_system_of_Vibrio	Sensory box sensor histidine kinase/response regulator VieS
+si_0773	VieSAB_signal_transduction_system_of_Vibrio	Response regulator VieA
+si_0773	VieSAB_signal_transduction_system_of_Vibrio	Response regulator VieB

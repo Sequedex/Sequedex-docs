@@ -1,5 +1,0 @@
-si_0664	Ribosome_activity_modulation	Ribosome modulation factor
-si_0664	Ribosome_activity_modulation	Ribosome hibernation protein YhbH
-si_0664	Ribosome_activity_modulation	Ribosome hibernation protein YfiA
-si_0664	Ribosome_activity_modulation	Stationary-phase-induced ribosome-associated protein
-si_0664	Ribosome_activity_modulation	Ribosomal subunit interface protein

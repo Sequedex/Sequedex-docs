@@ -1,0 +1,8 @@
+si_0824	Quinone_oxidoreductase_family	Quinone oxidoreductase (EC 1.6.5.5)
+si_0824	Quinone_oxidoreductase_family	NADPH:quinone reductase (Quinone oxidoreductase) (EC 1.6.5.5)
+si_0824	Quinone_oxidoreductase_family	Putative oxidoreductase YncB
+si_0824	Quinone_oxidoreductase_family	YhdH, a putative quinone oxidoreductase
+si_0824	Quinone_oxidoreductase_family	Putative NADP-dependent oxidoreductase PA1648
+si_0824	Quinone_oxidoreductase_family	Putative oxidoreductase SMc00968
+si_0824	Quinone_oxidoreductase_family	Putative Zn-dependent oxidoreductase PA5234
+si_0824	Quinone_oxidoreductase_family	Putative Zn-dependent oxidoreductase BA2113

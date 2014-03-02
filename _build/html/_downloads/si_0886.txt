@@ -1,5 +1,0 @@
-si_0886	Taurine_Utilization	Taurine transport ATP-binding protein TauB
-si_0886	Taurine_Utilization	Taurine transport system permease protein TauC
-si_0886	Taurine_Utilization	Taurine transporter substrate-binding protein
-si_0886	Taurine_Utilization	Taurine-binding periplasmic protein TauA
-si_0886	Taurine_Utilization	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)

@@ -1,0 +1,6 @@
+si_0297	CBSS-269801.1.peg.1715	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)
+si_0297	CBSS-269801.1.peg.1715	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+si_0297	CBSS-269801.1.peg.1715	FIGfam003972: membrane protein
+si_0297	CBSS-269801.1.peg.1715	Serine protease (EC 3.4.21.-)
+si_0297	CBSS-269801.1.peg.1715	Lon-like protease with PDZ domain
+si_0297	CBSS-269801.1.peg.1715	FIG007079: UPF0348 protein family

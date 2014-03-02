@@ -1,0 +1,43 @@
+si_0595	Nitrogen_fixation	Nitrogenase vanadium-cofactor synthesis protein VnfN
+si_0595	Nitrogen_fixation	Nitrogenase vanadium-cofactor synthesis protein VnfX
+si_0595	Nitrogen_fixation	Nitrogenase vanadium-cofactor synthesis protein VnfY
+si_0595	Nitrogen_fixation	Nitrogenase-associated protein NifO
+si_0595	Nitrogen_fixation	Transcriptional repressor of nif and glnA operons
+si_0595	Nitrogen_fixation	probable iron binding protein from the HesB_IscA_SufA family in Nif operon
+si_0595	Nitrogen_fixation	4Fe-4S ferredoxin, nitrogenase-associated
+si_0595	Nitrogen_fixation	AnfO protein, required for Mo- and V-independent nitrogenase
+si_0595	Nitrogen_fixation	AnfR protein, required for Mo- and V-independent nitrogenase
+si_0595	Nitrogen_fixation	Cysteine desulfurase (EC 2.8.1.7), NifS subfamily
+si_0595	Nitrogen_fixation	Homocitrate synthase (EC 2.3.3.14)
+si_0595	Nitrogen_fixation	Homocitrate synthase alpha subunit (EC 2.3.3.14)
+si_0595	Nitrogen_fixation	Homocitrate synthase omega subunit (EC 2.3.3.14)
+si_0595	Nitrogen_fixation	Iron-sulfur cluster assembly scaffold protein NifU
+si_0595	Nitrogen_fixation	LRV (FeS)4 cluster domain protein clustered with nitrogenase cofactor synthesis
+si_0595	Nitrogen_fixation	NifB-domain protein, type 2
+si_0595	Nitrogen_fixation	NifM protein
+si_0595	Nitrogen_fixation	NifT protein
+si_0595	Nitrogen_fixation	NifX-associated protein
+si_0595	Nitrogen_fixation	NifY protein
+si_0595	Nitrogen_fixation	NifZ protein
+si_0595	Nitrogen_fixation	Nitrogenase (iron-iron) alpha chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (iron-iron) beta chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (iron-iron) delta chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (iron-iron) reductase and maturation protein AnfH
+si_0595	Nitrogen_fixation	Nitrogenase (iron-iron) transcriptional regulator
+si_0595	Nitrogen_fixation	Nitrogenase (molybdenum-iron) alpha chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (molybdenum-iron) beta chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH
+si_0595	Nitrogen_fixation	Nitrogenase (molybdenum-iron)-specific transcriptional regulator NifA
+si_0595	Nitrogen_fixation	Nitrogenase (vanadium-iron) alpha chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (vanadium-iron) beta chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (vanadium-iron) delta chain (EC 1.18.6.1)
+si_0595	Nitrogen_fixation	Nitrogenase (vanadium-iron) reductase and maturation protein VnfH
+si_0595	Nitrogen_fixation	Nitrogenase (vanadium-iron) transcriptional regulator VnfA
+si_0595	Nitrogen_fixation	Nitrogenase FeMo-cofactor carrier protein NifX
+si_0595	Nitrogen_fixation	Nitrogenase FeMo-cofactor scaffold and assembly protein NifE
+si_0595	Nitrogen_fixation	Nitrogenase FeMo-cofactor scaffold and assembly protein NifN
+si_0595	Nitrogen_fixation	Nitrogenase FeMo-cofactor synthesis FeS core scaffold and assembly protein NifB
+si_0595	Nitrogen_fixation	Nitrogenase FeMo-cofactor synthesis molybdenum delivery protein NifQ
+si_0595	Nitrogen_fixation	Nitrogenase cofactor carrier protein NafY
+si_0595	Nitrogen_fixation	Nitrogenase stabilizing/protective protein NifW
+si_0595	Nitrogen_fixation	Nitrogenase vanadium-cofactor synthesis protein VnfE

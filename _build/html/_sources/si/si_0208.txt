@@ -1,9 +1,0 @@
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	AmpG permease
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) AmpD
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	Gamma-D-Glutamyl-meso-Diaminopimelate Amidase
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	L-alanine-DL-glutamate epimerase
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	Aminoacyl-histidine dipeptidase (Peptidase D) (EC 3.4.13.3)
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
-si_0208	Recycling_of_Peptidoglycan_Amino_Acids	Periplasmic Murein Peptide-Binding Protein MppA

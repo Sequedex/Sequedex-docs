@@ -1,5 +1,0 @@
-si_0355	CBSS-261594.1.peg.788	Regulatory protein RecX
-si_0355	CBSS-261594.1.peg.788	Cysteinyl-tRNA synthetase related protein
-si_0355	CBSS-261594.1.peg.788	A/G-specific adenine glycosylase (EC 3.2.2.-)
-si_0355	CBSS-261594.1.peg.788	Cell division inhibitor
-si_0355	CBSS-261594.1.peg.788	Transcription regulator CDS_ID OB0894

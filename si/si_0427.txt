@@ -1,5 +1,0 @@
-si_0427	Nucleoid-associated_proteins_in_Bacteria	DNA-binding protein H-NS
-si_0427	Nucleoid-associated_proteins_in_Bacteria	DNA-binding protein stpA
-si_0427	Nucleoid-associated_proteins_in_Bacteria	Haemolysin expression modulating protein
-si_0427	Nucleoid-associated_proteins_in_Bacteria	Haemolysin expression modulating protein paralog
-si_0427	Nucleoid-associated_proteins_in_Bacteria	Cnu protein

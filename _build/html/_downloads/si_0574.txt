@@ -1,4 +1,0 @@
-si_0574	Magnetosome_Biomineralization_and_Function	Glycine-rich cell wall structural protein 1.0 precursor
-si_0574	Magnetosome_Biomineralization_and_Function	Magnetosome protein MamC
-si_0574	Magnetosome_Biomineralization_and_Function	Magnetosome protein MamS
-si_0574	Magnetosome_Biomineralization_and_Function	Magnetosome protein MamF

@@ -1,6 +1,0 @@
-si_0799	Tetrathionate_respiration	Octaheme tetrathionate reductase
-si_0799	Tetrathionate_respiration	Tetrathionate reductase sensory transduction histidine kinase
-si_0799	Tetrathionate_respiration	Tetrathionate reductase subunit A
-si_0799	Tetrathionate_respiration	Tetrathionate reductase subunit B
-si_0799	Tetrathionate_respiration	Tetrathionate reductase subunit C
-si_0799	Tetrathionate_respiration	Tetrathionate reductase two-component response regulator

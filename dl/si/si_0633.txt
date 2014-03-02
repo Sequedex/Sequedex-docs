@@ -1,0 +1,18 @@
+si_0633	CBSS-203122.12.peg.188	TniB NTP-binding protein
+si_0633	CBSS-203122.12.peg.188	TniA putative transposase
+si_0633	CBSS-203122.12.peg.188	FIGfam050825
+si_0633	CBSS-203122.12.peg.188	Resolvase/Integrase TinR protein
+si_0633	CBSS-203122.12.peg.188	ISPsy4, transposition helper protein
+si_0633	CBSS-203122.12.peg.188	Mll9366 protein
+si_0633	CBSS-203122.12.peg.188	TniQ
+si_0633	CBSS-203122.12.peg.188	ComM-related protein
+si_0633	CBSS-203122.12.peg.188	MG(2+) CHELATASE FAMILY PROTEIN
+si_0633	CBSS-203122.12.peg.188	Transposase OrfAB, subunit B
+si_0633	CBSS-203122.12.peg.188	FIGfam110555
+si_0633	CBSS-203122.12.peg.188	ISPsy4, transposase
+si_0633	CBSS-203122.12.peg.188	Plasmid replication protein RepA
+si_0633	CBSS-203122.12.peg.188	Integrase/recombinase clustered with segregation and condensation protein B
+si_0633	CBSS-203122.12.peg.188	protein of unknown function DUF1612
+si_0633	CBSS-203122.12.peg.188	Predicted nucleotidyltransferases
+si_0633	CBSS-203122.12.peg.188	Segregation and condensation protein B
+si_0633	CBSS-203122.12.peg.188	protein of unknown function DUF1403

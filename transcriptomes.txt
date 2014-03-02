@@ -1,0 +1,35 @@
+.. _s.transcriptomes:
+
+Functional analysis
+*******************
+
+.. _s.fn_enriched:
+
+Identifying enriched functions
+==============================
+
+**Using field replicates to identify important determinants of ecosystem function**
+
+face figure
+
+**Algal transcriptomes**
+
+.. figure:: images/algae_froll.png
+   :width: 60%
+
+**Tooth decay study**
+
+.. figure:: images/wdw.png
+   :width: 60%
+
+.. _s.fireworks:
+
+Visualizing distribution of functions
+=====================================
+
+.. _s.kinases:
+
+Profiling *Chlorella* kinases
+=============================
+
+

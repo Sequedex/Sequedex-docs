@@ -1,0 +1,9 @@
+si_0804	Coenzyme_F420_hydrogenase	Coenzyme F420 hydrogenase alpha subunit (FrcA) (EC 1.12.98.1)
+si_0804	Coenzyme_F420_hydrogenase	Coenzyme F420 hydrogenase beta subunit (FrcB) (EC 1.12.98.1)
+si_0804	Coenzyme_F420_hydrogenase	Coenzyme F420 hydrogenase gamma subunit (FrcG) (EC 1.12.98.1)
+si_0804	Coenzyme_F420_hydrogenase	Coenzyme F420 hydrogenase alpha subunit (FruA) (EC 1.12.98.1)
+si_0804	Coenzyme_F420_hydrogenase	Coenzyme F420 hydrogenase beta subunit (FruB) (EC 1.12.98.1)
+si_0804	Coenzyme_F420_hydrogenase	Coenzyme F420 hydrogenase gamma subunit (FruG) (EC 1.12.98.1)
+si_0804	Coenzyme_F420_hydrogenase	Coenzyme F420 hydrogenase maturation protease (EC 3.4.24.-)
+si_0804	Coenzyme_F420_hydrogenase	coenzyme F420-reducing hydrogenase, beta subunit homolog
+si_0804	Coenzyme_F420_hydrogenase	Putative coenzyme F420-dependent oxidoreductase MJ1349

@@ -1,4 +1,0 @@
-si_0680	tRNA_aminoacylation,_His	Histidyl-tRNA synthetase (EC 6.1.1.21)
-si_0680	tRNA_aminoacylation,_His	Histidyl-tRNA synthetase related protein 3
-si_0680	tRNA_aminoacylation,_His	Histidyl-tRNA synthetase related protein in Streptococcus pneumoniae
-si_0680	tRNA_aminoacylation,_His	Histidyl-tRNA synthetase, archaeal-type paralog (EC 6.1.1.21)

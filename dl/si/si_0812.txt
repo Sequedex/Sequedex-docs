@@ -1,0 +1,38 @@
+si_0812	Respiratory_Complex_I	F420H2:quinone oxidoreductase, 11.2 kDa subunit, putative
+si_0812	Respiratory_Complex_I	F420H2:quinone oxidoreductase, 39 kDa subunit, putative
+si_0812	Respiratory_Complex_I	Hypothetical transmembrane protein coupled to NADH-ubiquinone oxidoreductase chain 5 homolog
+si_0812	Respiratory_Complex_I	NAD(P)H-quinone oxidoreductase chain 1
+si_0812	Respiratory_Complex_I	NAD(P)H-quinone oxidoreductase chain 5 (EC 1.6.5.2)
+si_0812	Respiratory_Complex_I	NAD(P)H-quinone oxidoreductase chain H (EC 1.6.5.2)
+si_0812	Respiratory_Complex_I	NAD(P)H-quinone oxidoreductase chain I (EC 1.6.5.2)
+si_0812	Respiratory_Complex_I	NAD(P)H-quinone oxidoreductase chain J (EC 1.6.5.2)
+si_0812	Respiratory_Complex_I	NAD(P)H-quinone oxidoreductase chain K (EC 1.6.5.2)
+si_0812	Respiratory_Complex_I	NAD(P)H-quinone oxidoreductase subunit 3 (EC 1.6.5.2)
+si_0812	Respiratory_Complex_I	NADH dehydrogenase I subunit 4, Involved in photosystem-1 cyclic electron flow
+si_0812	Respiratory_Complex_I	NADH dehydrogenase I subunit 5, Involved in photosystem-1 cyclic electron flow
+si_0812	Respiratory_Complex_I	NADH dehydrogenase subunit 1
+si_0812	Respiratory_Complex_I	NADH dehydrogenase subunit 2
+si_0812	Respiratory_Complex_I	NADH dehydrogenase subunit 3
+si_0812	Respiratory_Complex_I	NADH dehydrogenase subunit 4L
+si_0812	Respiratory_Complex_I	NADH dehydrogenase subunit 5
+si_0812	Respiratory_Complex_I	NADH dehydrogenase, subunit 5
+si_0812	Respiratory_Complex_I	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-quinone oxidoreductase chain F 2 (EC 1.6.99.5)
+si_0812	Respiratory_Complex_I	NADH-quinone oxidoreductase subunit 15 (EC 1.6.99.5)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3) homolog
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain G2 (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+si_0812	Respiratory_Complex_I	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+si_0812	Respiratory_Complex_I	Putative subunit of NAD(P)H:quinone oxidoreductase

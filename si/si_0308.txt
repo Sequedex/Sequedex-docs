@@ -1,4 +1,0 @@
-si_0308	CBSS-316273.3.peg.227	Alpha-2-macroglobulin
-si_0308	CBSS-316273.3.peg.227	Penicillin-insensitive transglycosylase (EC 2.4.2.-) & transpeptidase PBP-1C
-si_0308	CBSS-316273.3.peg.227	Protein SseB
-si_0308	CBSS-316273.3.peg.227	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)

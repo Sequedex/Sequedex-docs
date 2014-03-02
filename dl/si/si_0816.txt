@@ -1,0 +1,31 @@
+si_0816	Biogenesis_of_c-type_cytochromes	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+si_0816	Biogenesis_of_c-type_cytochromes	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+si_0816	Biogenesis_of_c-type_cytochromes	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c heme lyase subunit CcmF
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c heme lyase subunit CcmH
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c heme lyase subunit CcmL
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein CcmD, interacts with CcmCE
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein Ccs1/ResB
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein CcsA/ResC
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein ResA
+si_0816	Biogenesis_of_c-type_cytochromes	Cytochrome c-type biogenesis protein, archaeal, distantly related to heme lyase subunit CcmF
+si_0816	Biogenesis_of_c-type_cytochromes	Hypothetical distantly related to thiol:disulfide interchange protein DsbA
+si_0816	Biogenesis_of_c-type_cytochromes	Hypothetical protein associated with short form of CcmH
+si_0816	Biogenesis_of_c-type_cytochromes	Hypothetical protein distantly related to cytochrome C-type biogenesis protein CcdA
+si_0816	Biogenesis_of_c-type_cytochromes	Hypothetical protein distantly related to putative heme lyase CcmC
+si_0816	Biogenesis_of_c-type_cytochromes	Periplasmic thiol:disulfide interchange protein DsbA
+si_0816	Biogenesis_of_c-type_cytochromes	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+si_0816	Biogenesis_of_c-type_cytochromes	Predicted transporter accosiated with cytochrome c biogenesis
+si_0816	Biogenesis_of_c-type_cytochromes	Putative ATP-binding component of ABC transporter involved in cytochrome c biogenesis
+si_0816	Biogenesis_of_c-type_cytochromes	Putative cytochrome C-type biogenesis protein
+si_0816	Biogenesis_of_c-type_cytochromes	Putative cytochrome c biogenesis factor, archaeal
+si_0816	Biogenesis_of_c-type_cytochromes	Putative cytochrome c-type biogenesis protein related to CcmF
+si_0816	Biogenesis_of_c-type_cytochromes	Putative thiol:disulfide oxidoreductase involved in cytochrome C-type biogenesis
+si_0816	Biogenesis_of_c-type_cytochromes	Similar to cytochrome c-type biogenesis protein CcsA/ResC
+si_0816	Biogenesis_of_c-type_cytochromes	Thiol:disulfide oxidoreductase TlpA
+si_0816	Biogenesis_of_c-type_cytochromes	Thiol:disulfide oxidoreductase related to ResA

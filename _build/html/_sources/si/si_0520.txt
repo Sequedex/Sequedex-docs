@@ -1,5 +1,0 @@
-si_0520	Sucrose-specific_PTS	PTS system, sucrose-specific IIB component (EC 2.7.1.69) / PTS system, sucrose-specific IIC component (EC 2.7.1.69) / PTS system, sucrose-specific IIA component (EC 2.7.1.69)
-si_0520	Sucrose-specific_PTS	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)
-si_0520	Sucrose-specific_PTS	Sucrose operon repressor ScrR, LacI family
-si_0520	Sucrose-specific_PTS	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
-si_0520	Sucrose-specific_PTS	Phosphocarrier protein of PTS system

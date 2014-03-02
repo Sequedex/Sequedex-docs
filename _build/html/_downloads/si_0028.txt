@@ -1,8 +1,0 @@
-ss00440	IPMSY	2-isopropylmalate synthase (EC 2.3.3.13)
-ss00440	IPMDL	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
-ss00440	IPMDS	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
-ss00440	IMPDH	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
-ss00440	LTA	L-leucine aminotransferase (EC 2.6.1.6)
-ss00440	BCAT	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
-ss00440	LeuL	Leu operon leader peptide
-ss00440	LeuO	Probable transcriptional activator for leuABCD operon

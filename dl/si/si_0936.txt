@@ -1,0 +1,4 @@
+si_0936	MexA-MexB-OprM_Multidrug_Efflux_System	Multidrug efflux membrane fusion protein MexA
+si_0936	MexA-MexB-OprM_Multidrug_Efflux_System	Multidrug efflux transporter MexB
+si_0936	MexA-MexB-OprM_Multidrug_Efflux_System	Outer membrane protein OprM
+si_0936	MexA-MexB-OprM_Multidrug_Efflux_System	Transcriptional regulator MexR

@@ -1,0 +1,8 @@
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	alpha-1,6-rhamnosyltransferase
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	alpha-1,3-rhamnosyltransferase
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	alpha-1,6-rhamnosyltransferase paralog
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	Glycosyl transferase in large core OS assembly cluster
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	Hypothetical protein FIG015671 in large core OS assembly cluster
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	Probable transcription regulator Mig-14
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	Carbamoyltransferase in large core OS assembly cluster
+si_0185	Core_Oligosaccharide_Glycosylation_in_Pseudomonas	Glycosyltransferase (EC 2.4.1.-) in large core OS assembly cluster

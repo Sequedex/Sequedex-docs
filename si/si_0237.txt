@@ -1,3 +1,0 @@
-si_0237	CBSS-246196.1.peg.364	Acyl dehydratase
-si_0237	CBSS-246196.1.peg.364	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
-si_0237	CBSS-246196.1.peg.364	3-ketoacyl-CoA thiolase (EC 2.3.1.16)

@@ -1,0 +1,12 @@
+si_0135	Glycogen_metabolism	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+si_0135	Glycogen_metabolism	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+si_0135	Glycogen_metabolism	Alpha-glucosidase, family 31 of glycosyl hydrolases, COG1501
+si_0135	Glycogen_metabolism	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+si_0135	Glycogen_metabolism	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
+si_0135	Glycogen_metabolism	Glycogen branching enzyme, GH-57-type, archaeal (EC 2.4.1.18)
+si_0135	Glycogen_metabolism	Glycogen debranching enzyme (EC 3.2.1.-)
+si_0135	Glycogen_metabolism	Glycogen phosphorylase (EC 2.4.1.1)
+si_0135	Glycogen_metabolism	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+si_0135	Glycogen_metabolism	Maltodextrin phosphorylase (EC 2.4.1.1)
+si_0135	Glycogen_metabolism	Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type
+si_0135	Glycogen_metabolism	Putative glycogen debranching enzyme, archaeal type, TIGR01561

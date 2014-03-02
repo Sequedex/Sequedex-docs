@@ -1,4 +1,0 @@
-si_0794	Terminal_AA3-600_quinol_oxidase	AA3-600 quinol oxidase subunit I
-si_0794	Terminal_AA3-600_quinol_oxidase	AA3-600 quinol oxidase subunit II
-si_0794	Terminal_AA3-600_quinol_oxidase	AA3-600 quinol oxidase subunit IIII
-si_0794	Terminal_AA3-600_quinol_oxidase	AA3-600 quinol oxidase subunit IV

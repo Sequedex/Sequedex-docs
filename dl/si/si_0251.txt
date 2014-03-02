@@ -1,0 +1,14 @@
+si_0251	Unspecified_monosaccharide_transport_cluster	3-oxoacyl-[acyl-carrier protein] reductase paralog (EC 1.1.1.100) in cluster with unspecified monosaccharide transporter
+si_0251	Unspecified_monosaccharide_transport_cluster	ACT domain protein
+si_0251	Unspecified_monosaccharide_transport_cluster	Cell division protein FtsK
+si_0251	Unspecified_monosaccharide_transport_cluster	FIG001621: Zinc protease
+si_0251	Unspecified_monosaccharide_transport_cluster	FIG003568: hypothetical protein
+si_0251	Unspecified_monosaccharide_transport_cluster	FIG007042: hypothetical protein
+si_0251	Unspecified_monosaccharide_transport_cluster	FIG009210: peptidase, M16 family
+si_0251	Unspecified_monosaccharide_transport_cluster	Transcriptional regulator in cluster with Zn-dependent hydrolase
+si_0251	Unspecified_monosaccharide_transport_cluster	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+si_0251	Unspecified_monosaccharide_transport_cluster	Unspecified monosaccharide ABC transport system, ATP-binding protein
+si_0251	Unspecified_monosaccharide_transport_cluster	Unspecified monosaccharide ABC transport system, permease component 2
+si_0251	Unspecified_monosaccharide_transport_cluster	Unspecified monosaccharide ABC transport system, permease component Ia (FIG025991)
+si_0251	Unspecified_monosaccharide_transport_cluster	Unspecified monosaccharide ABC transport system, permease component Ib (FIG143636)
+si_0251	Unspecified_monosaccharide_transport_cluster	Unspecified monosaccharide ABC transport system, substrate-binding component

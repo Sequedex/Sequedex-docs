@@ -1,0 +1,63 @@
+si_0808	Hydrogenases	Coenzyme F420 hydrogenase beta subunit (FruB) (EC 1.12.98.1)
+si_0808	Hydrogenases	Coenzyme F420 hydrogenase maturation protease (EC 3.4.24.-)
+si_0808	Hydrogenases	Coenzyme F420-reducing hydrogenase, alpha subunit
+si_0808	Hydrogenases	Coenzyme F420-reducing hydrogenase, beta subunit
+si_0808	Hydrogenases	Coenzyme F420-reducing hydrogenase, gamma subunit
+si_0808	Hydrogenases	Fe-S-cluster-containing hydrogenase components 1
+si_0808	Hydrogenases	Fe-S-cluster-containing hydrogenase components 2
+si_0808	Hydrogenases	Methanophenazine hydrogenase cytochrome b subunit (EC 1.12.98.3)
+si_0808	Hydrogenases	Methanophenazine hydrogenase large subunit (EC 1.12.98.3)
+si_0808	Hydrogenases	Methanophenazine hydrogenase small subunit precursor (EC 1.12.98.3)
+si_0808	Hydrogenases	NAD-reducing hydrogenase subunit HoxE (EC 1.12.1.2)
+si_0808	Hydrogenases	NAD-reducing hydrogenase subunit HoxF (EC 1.12.1.2)
+si_0808	Hydrogenases	NAD-reducing hydrogenase subunit HoxH (EC 1.12.1.2)
+si_0808	Hydrogenases	NAD-reducing hydrogenase subunit HoxU (EC 1.12.1.2)
+si_0808	Hydrogenases	NAD-reducing hydrogenase subunit HoxY (EC 1.12.1.2)
+si_0808	Hydrogenases	NADH-reducing hydrogenase maturation factor
+si_0808	Hydrogenases	NADP-reducing hydrogenase, subunit A
+si_0808	Hydrogenases	NADP-reducing hydrogenase, subunit B
+si_0808	Hydrogenases	NADP-reducing hydrogenase, subunit C
+si_0808	Hydrogenases	Ni,Fe-hydrogenase I cytochrome b subunit
+si_0808	Hydrogenases	Ni,Fe-hydrogenase I large subunit
+si_0808	Hydrogenases	Ni,Fe-hydrogenase III large subunit
+si_0808	Hydrogenases	Ni,Fe-hydrogenase III small subunit
+si_0808	Hydrogenases	Ni,Fe-hydrogenase maturation factor
+si_0808	Hydrogenases	Ni/Fe-hydrogenase 2 B-type cytochrome subunit
+si_0808	Hydrogenases	Nickel-dependent hydrogenase, large subunit
+si_0808	Hydrogenases	Nickel-dependent hydrogenase, small subunit
+si_0808	Hydrogenases	Periplasmic [Fe] hydrogenase (EC 1.12.7.2)
+si_0808	Hydrogenases	Periplasmic [Fe] hydrogenase large subunit (EC 1.12.7.2)
+si_0808	Hydrogenases	Periplasmic [Fe] hydrogenase small subunit (EC 1.12.7.2)
+si_0808	Hydrogenases	Probable Ni/Fe-hydrogenase 2 B-type cytochrome subunit
+si_0808	Hydrogenases	Protein hydE
+si_0808	Hydrogenases	Quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+si_0808	Hydrogenases	Quinone-reactive Ni/Fe-hydrogenase large chain (EC 1.12.5.1)
+si_0808	Hydrogenases	Quinone-reactive Ni/Fe-hydrogenase small chain precursor (EC 1.12.5.1)
+si_0808	Hydrogenases	Signal transduction histidine kinase HoxJ (hydrogenase regulation)
+si_0808	Hydrogenases	Signal transduction histidine kinase for Quinone-reactive Ni/Fe-hydrogenase
+si_0808	Hydrogenases	Sulfhydrogenase II subunit a
+si_0808	Hydrogenases	Sulfhydrogenase II subunit b
+si_0808	Hydrogenases	Sulfhydrogenase II subunit d
+si_0808	Hydrogenases	Sulfhydrogenase II subunit g
+si_0808	Hydrogenases	Uptake hydrogenase large subunit (EC 1.12.99.6)
+si_0808	Hydrogenases	Uptake hydrogenase small subunit precursor (EC 1.12.99.6)
+si_0808	Hydrogenases	[Fe] hydrogenase gamma (EC 1.12.7.2)
+si_0808	Hydrogenases	[Fe] hydrogenase, HymA subunit, putative
+si_0808	Hydrogenases	[Fe] hydrogenase, HymB subunit, putative
+si_0808	Hydrogenases	[Fe] hydrogenase, HymD subunit, putative
+si_0808	Hydrogenases	[Ni/Fe] hydrogenase, group 1, large subunit
+si_0808	Hydrogenases	[Ni/Fe] hydrogenase, group 1, small subunit
+si_0808	Hydrogenases	cytochrome-c3 hydrogenase alpha chain
+si_0808	Hydrogenases	cytochrome-c3 hydrogenase delta chain
+si_0808	Hydrogenases	cytochrome-c3 hydrogenase gamma chain
+si_0808	Hydrogenases	heterodisulfide reductase, subunit A/methylviologen reducing hydrogenase, subunit delta
+si_0808	Hydrogenases	hydrogenase (cytochrome-c3 hydrogenase beta chain)
+si_0808	Hydrogenases	hydrogenase, (NiFe)/(NiFeSe) small subunit family
+si_0808	Hydrogenases	hydrogenase, methyl-violgen-reducing type, delta subunit
+si_0808	Hydrogenases	hydrogenase, subunit gamma related protein
+si_0808	Hydrogenases	hydrogenase/sulfur reductase, alpha subunit
+si_0808	Hydrogenases	hydrogenase/sulfur reductase, beta subunit
+si_0808	Hydrogenases	hydrogenase/sulfur reductase, delta subunit
+si_0808	Hydrogenases	hydrogenase/sulfur reductase, gamma subunit
+si_0808	Hydrogenases	methyl viologen-reducing hydrogenase, delta subunit homolog FlpD
+si_0808	Hydrogenases	quinone-reactive Ni/Fe-hydrogenase, small subunit

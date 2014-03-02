@@ -1,0 +1,4 @@
+si_0299	CBSS-281090.3.peg.464	Alanyl-tRNA synthetase (EC 6.1.1.7)
+si_0299	CBSS-281090.3.peg.464	FIG004453: protein YceG like
+si_0299	CBSS-281090.3.peg.464	Putative Holliday junction resolvase (EC 3.1.-.-)
+si_0299	CBSS-281090.3.peg.464	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)

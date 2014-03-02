@@ -1,0 +1,6 @@
+si_0105	D-galactonate_catabolism	D-galactonate transporter
+si_0105	D-galactonate_catabolism	Galactonate dehydratase (EC 4.2.1.6)
+si_0105	D-galactonate_catabolism	2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)
+si_0105	D-galactonate_catabolism	2-dehydro-3-deoxyphosphogalactonate aldolase (EC 4.1.2.21)
+si_0105	D-galactonate_catabolism	D-Galactonate repressor DgoR
+si_0105	D-galactonate_catabolism	D-galactonate regulator, IclR family

@@ -1,7 +1,0 @@
-si_0271	Sulfatases_and_sulfatase_modifying_factor_1	Sulfatase modifying factor 1 precursor (C-alpha-formyglycine- generating enzyme 1)
-si_0271	Sulfatases_and_sulfatase_modifying_factor_1	Arylsulfatase (EC 3.1.6.1)
-si_0271	Sulfatases_and_sulfatase_modifying_factor_1	FIG068086: hypothetical protein
-si_0271	Sulfatases_and_sulfatase_modifying_factor_1	Choline-sulfatase (EC 3.1.6.6)
-si_0271	Sulfatases_and_sulfatase_modifying_factor_1	Mucin-desulfating sulfatase MdsA precursor (EC 3.1.6.14)
-si_0271	Sulfatases_and_sulfatase_modifying_factor_1	N-acetylgalactosamine 6-sulfate sulfatase (GALNS)
-si_0271	Sulfatases_and_sulfatase_modifying_factor_1	Sulfatase

@@ -1,0 +1,40 @@
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L10Ae (L1p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L10e (L16p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L11e (L5p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L12a (P1/P2)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L12e (L11p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L13Ae (L13p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L13e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L14e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L15e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L17e (L22p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L18Ae
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L18e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L19e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L1e (L4p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L21e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L23Ae (L23p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L23e (L14p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L24e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L26e (L24p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L27Ae (L15p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L30e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L31e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L32e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L34e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L35Ae
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L35e (L29p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L37Ae
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L37e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L38e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L39e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L3e (L3p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L40e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L41e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L44e
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L5e (L18p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L7Ae
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L7e (L30p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L8e (L2p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein L9e (L6p)
+si_0661	Ribosome_LSU_eukaryotic_and_archaeal	LSU ribosomal protein P0 (L10p)

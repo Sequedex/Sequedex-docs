@@ -1,0 +1,16 @@
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Subtilase family domain protein
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Cell envelope-bound metalloprotease, Camelysin (EC 3.4.24.-)
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Stationary phase secreted protein TasA, major protein component of biofilm matrix
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	YqxM protein, required for localization of TasA to extracellular matrix
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Signal peptidase SipW (EC 3.4.21.89), required for TasA secretion
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Secreted and spore coat-associated protein 1, similar to biofilm matrix component TasA and to camelysin
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Secreted and spore coat-associated protein 2, similar to biofilm matrix component TasA and to camelysin
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Secreted and spore coat-associated protein 3, similar to biofilm matrix component TasA and to camelysin
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Hypothetical protein in cluster with SinR and SinI
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	SinR, regulator of post-exponential-phase responses genes (competence and sporulation)
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	SinI protein, antagonist of SinR
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Immune inhibitor A metalloprotease
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Sporulation-associated protease N-terminal domain protein
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Slr, positive regulator of the extracellular matrix biosynthesis operon yqxM-sipW-tasA
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	Transcriptional activator PlcR
+si_0434	Bacillus_biofilm_matrix_protein_component_TasA_and_homologs	PlcR activating protein PapR, quorum-sensing effector

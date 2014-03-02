@@ -1,9 +1,0 @@
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	Hypothetical bd-type Menaquinol oxidase subunit
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	Transport ATP-binding protein CydC
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	Transport ATP-binding protein CydCD
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	Transport ATP-binding protein CydD
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	cytochrome oxidase,subunit I (cydA-1)
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	putative Cytochrome bd2, subunit I
-si_0797	Terminal_cytochrome_d_ubiquinol_oxidases	putative Cytochrome bd2, subunit II

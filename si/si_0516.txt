@@ -1,7 +1,0 @@
-si_0516	SecY2-SecA2_Specialized_Transport_System	Preprotein translocase SecY2 subunit (TC 3.A.5.1.1)
-si_0516	SecY2-SecA2_Specialized_Transport_System	Poly(glycerol-phosphate) alpha-glucosyltransferase GftA (EC 2.4.1.52)
-si_0516	SecY2-SecA2_Specialized_Transport_System	Accessory secretory protein Asp2
-si_0516	SecY2-SecA2_Specialized_Transport_System	Protein export cytoplasm protein SecA2 ATPase RNA helicase (TC 3.A.5.1.1)
-si_0516	SecY2-SecA2_Specialized_Transport_System	GftB: Glycosyl transferase, family 8
-si_0516	SecY2-SecA2_Specialized_Transport_System	Accessory secretory protein Asp1
-si_0516	SecY2-SecA2_Specialized_Transport_System	Accessory secretory protein Asp3

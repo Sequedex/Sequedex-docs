@@ -1,4 +1,0 @@
-si_0762	Biofilm_Adhesin_Biosynthesis	Biofilm PGA outer membrane secretin PgaA
-si_0762	Biofilm_Adhesin_Biosynthesis	Biofilm PGA synthesis deacetylase PgaB (EC 3.-)
-si_0762	Biofilm_Adhesin_Biosynthesis	Biofilm PGA synthesis N-glycosyltransferase PgaC (EC 2.4.-.-)
-si_0762	Biofilm_Adhesin_Biosynthesis	Biofilm PGA synthesis auxiliary protein PgaD

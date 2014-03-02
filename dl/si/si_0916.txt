@@ -1,0 +1,2 @@
+si_0916	Marinocine,_a_broad-spectrum_antibacterial_protein	Lysine-epsilon oxidase (EC 1.4.3.20) antimicrobial protein LodA
+si_0916	Marinocine,_a_broad-spectrum_antibacterial_protein	Dehydrogenase flavoprotein LodB

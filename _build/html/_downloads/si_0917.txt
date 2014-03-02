@@ -1,5 +1,0 @@
-si_0917	Tolerance_to_colicin_E2	Conserved uncharacterized protein CreA
-si_0917	Tolerance_to_colicin_E2	Two-component response regulator CreB
-si_0917	Tolerance_to_colicin_E2	Two-component response regulator CreC
-si_0917	Tolerance_to_colicin_E2	Inner membrane protein CreD
-si_0917	Tolerance_to_colicin_E2	Inner membrane protein CreD-like protein

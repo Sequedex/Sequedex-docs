@@ -1,6 +1,0 @@
-si_0312	CBSS-316273.3.peg.922	FIG086515: Hypothetical protein
-si_0312	CBSS-316273.3.peg.922	Integral membrane protein CcmA involved in cell shape determination
-si_0312	CBSS-316273.3.peg.922	probable iron binding protein from the HesB_IscA_SufA family
-si_0312	CBSS-316273.3.peg.922	FIG034602: Probable transmembrane protein
-si_0312	CBSS-316273.3.peg.922	FIG035830: Two-component system regulatory protein
-si_0312	CBSS-316273.3.peg.922	FIG037127: Two-component system sensor protein

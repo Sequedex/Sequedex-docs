@@ -1,5 +1,0 @@
-si_0438	Spore_Core_Dehydration	Penicillin-binding protein DacC
-si_0438	Spore_Core_Dehydration	Spore maturation protein A
-si_0438	Spore_Core_Dehydration	Spore maturation protein B
-si_0438	Spore_Core_Dehydration	Spore maturation protein A-like protein
-si_0438	Spore_Core_Dehydration	Fused spore maturation proteins A and B

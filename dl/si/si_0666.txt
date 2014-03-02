@@ -1,0 +1,2 @@
+si_0666	Trans-translation_by_stalled_ribosomes	tmRNA-binding protein SmpB
+si_0666	Trans-translation_by_stalled_ribosomes	Transfer-messenger RNA (tmRNA) involved in trans-translation

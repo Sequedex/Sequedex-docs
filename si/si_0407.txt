@@ -1,9 +1,0 @@
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	DNA mismatch repair protein MutL
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	DNA mismatch repair protein MutS
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	MutS-related protein, family 1
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	MutS domain protein, family 2
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	MutS domain protein, family 4
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	MutS domain protein, family 5
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	MutS domain protein, family 6
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	Recombination inhibitory protein MutS2
-si_0407	DNA_repair,_bacterial_MutL-MutS_system	Clostridial MutS2-related protein

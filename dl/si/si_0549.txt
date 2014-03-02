@@ -1,0 +1,7 @@
+si_0549	Phenol_hydroxylase	Positive regulator of phenol hydroxylase
+si_0549	Phenol_hydroxylase	Phenol hydroxylase, assembly protein DmpK
+si_0549	Phenol_hydroxylase	Phenol hydroxylase, P2 regulatory component DmpM (EC 1.14.13.7)
+si_0549	Phenol_hydroxylase	Phenol hydroxylase, P1 oxygenase component DmpL (EC 1.14.13.7)
+si_0549	Phenol_hydroxylase	Phenol hydroxylase, P3 oxygenase component DmpN (EC 1.14.13.7)
+si_0549	Phenol_hydroxylase	Phenol hydroxylase, P4 oxygenase component DmpO (EC 1.14.13.7)
+si_0549	Phenol_hydroxylase	Phenol hydroxylase, FAD- and [2Fe-2S]-containing reductase component DmpP

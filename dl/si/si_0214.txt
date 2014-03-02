@@ -1,0 +1,11 @@
+si_0214	CBSS-376686.6.peg.291	Glycosyltransferase (EC 2.4.1.-)
+si_0214	CBSS-376686.6.peg.291	glycosyl transferase, family 2
+si_0214	CBSS-376686.6.peg.291	Glycosyl transferase, family 2
+si_0214	CBSS-376686.6.peg.291	Glycosyl transferase, group 1 (EC 2.-.-.-)
+si_0214	CBSS-376686.6.peg.291	Bacterial sugar transferase
+si_0214	CBSS-376686.6.peg.291	hypothetical protein FP1254
+si_0214	CBSS-376686.6.peg.291	Oligosaccharide repeat unit polymerase Wzy
+si_0214	CBSS-376686.6.peg.291	Alpha-1,4-N-acetylgalactosamine transferase PglH (EC 2.4.1.-)
+si_0214	CBSS-376686.6.peg.291	Hexapeptide transferase family protein
+si_0214	CBSS-376686.6.peg.291	Glycosyl transferase, group 1
+si_0214	CBSS-376686.6.peg.291	Apolipoprotein N-acyltransferase (EC 2.3.1.-)

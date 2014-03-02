@@ -1,0 +1,13 @@
+si_0138	Erythritol_utilization	Erythritol kinase EryA (EC 2.7.1.27)
+si_0138	Erythritol_utilization	Erythritol phosphate dehydrogenase EryB
+si_0138	Erythritol_utilization	Possible D-erythrulose 4-phosphate dehydrogenase EryC (EC 1.1.1.-)
+si_0138	Erythritol_utilization	Erythritol transcriptional regulator EryD
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 1, substrate-binding component
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 1, permease component 1
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 1, permease component 2
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 1, ATP-binding component 1
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 1, ATP-binding component 2
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 2, substrate-binding component
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 2, permease component
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 2, ATP-binding component
+si_0138	Erythritol_utilization	Predicted erythritol ABC transporter 2, hypothetical lipoprotein

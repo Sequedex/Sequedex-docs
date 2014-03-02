@@ -1,5 +1,0 @@
-si_0172	O-Methyl_Phosphoramidate_Capsule_Modification_in_Campylobacter	Adenylylsulfate kinase (EC 2.7.1.25)
-si_0172	O-Methyl_Phosphoramidate_Capsule_Modification_in_Campylobacter	Putative sugar nucleotidyltransferase
-si_0172	O-Methyl_Phosphoramidate_Capsule_Modification_in_Campylobacter	Putative amidotransferase (Type 1 glutamine amidotransferase - GATase1)
-si_0172	O-Methyl_Phosphoramidate_Capsule_Modification_in_Campylobacter	Pyruvate phosphate dikinase
-si_0172	O-Methyl_Phosphoramidate_Capsule_Modification_in_Campylobacter	Putative glycosyltransferase involved in O-methyl phosphoramidate capsule modification

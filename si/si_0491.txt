@@ -1,4 +1,0 @@
-si_0491	ABC_transporter_of_unknown_substrate_X	Possible ABC transporter, periplasmic substrate X binding protein precursor
-si_0491	ABC_transporter_of_unknown_substrate_X	Putative ABC transporter of substrate X, ATP-binding subunit
-si_0491	ABC_transporter_of_unknown_substrate_X	Putative ABC transporter of substrate X, permease subunit I
-si_0491	ABC_transporter_of_unknown_substrate_X	Putative ABC transporter of substrate X, permease subunit II

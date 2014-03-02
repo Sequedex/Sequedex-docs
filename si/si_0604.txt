@@ -1,4 +1,0 @@
-si_0604	Xanthine_Metabolism_in_Bacteria	Hypoxanthine/guanine permease PbuG
-si_0604	Xanthine_Metabolism_in_Bacteria	Nucleoside permease NupC
-si_0604	Xanthine_Metabolism_in_Bacteria	Xanthine permease
-si_0604	Xanthine_Metabolism_in_Bacteria	Xanthine phosphoribosyltransferase (EC 2.4.2.22)

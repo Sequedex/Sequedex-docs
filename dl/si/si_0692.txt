@@ -1,0 +1,1 @@
+si_0692	tRNA_aminoacylation,_Val	Valyl-tRNA synthetase (EC 6.1.1.9)

@@ -1,0 +1,4 @@
+si_0359	Coenzyme_B_synthesis	Coenzyme B synthesis from 2-oxoglutarate: steps 1, 6, and 10
+si_0359	Coenzyme_B_synthesis	Coenzyme B synthesis from 2-oxoglutarate: steps 4, 7, 8, 11, and 12 [large subunit]
+si_0359	Coenzyme_B_synthesis	Coenzyme B synthesis from 2-oxoglutarate: steps 4, 7, 8, 11, and 12 [small subunit]
+si_0359	Coenzyme_B_synthesis	Coenzyme B synthesis from 2-oxoglutarate: steps 5, 9, and 13

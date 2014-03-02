@@ -1,0 +1,9 @@
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Glucans biosynthesis protein G precursor
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Glucans biosynthesis protein C (EC 2.1.-.-)
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Phosphoglycerol transferase I (EC 2.7.8.20)
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Glucans biosynthesis protein D precursor
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA (EC 3.6.3.42)
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Cyclic beta-1,2-glucan synthase (EC 2.4.1.-)
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	Cyclic beta-1,2-glucan modification transmembrane protein
+si_0857	Synthesis_of_osmoregulated_periplasmic_glucans	OpgC protein

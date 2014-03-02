@@ -1,0 +1,5 @@
+si_0353	CBSS-52598.3.peg.2843	FIG003620: Proteophosphoglycan precursor (Fragment)
+si_0353	CBSS-52598.3.peg.2843	FIG017823: ATPase, MoxR family
+si_0353	CBSS-52598.3.peg.2843	FIG139612: Possible conserved membrane protein
+si_0353	CBSS-52598.3.peg.2843	FIG003603: membrane protein, putative
+si_0353	CBSS-52598.3.peg.2843	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases

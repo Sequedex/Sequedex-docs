@@ -1,4 +1,0 @@
-si_0697	Omega_peptidases_(EC_3.4.19.-)	Acylamino-acid-releasing enzyme (EC 3.4.19.1)
-si_0697	Omega_peptidases_(EC_3.4.19.-)	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
-si_0697	Omega_peptidases_(EC_3.4.19.-)	Isoaspartyl aminopeptidase (EC 3.4.19.5)
-si_0697	Omega_peptidases_(EC_3.4.19.-)	Gamma-D-glutamyl-meso-diaminopimelate peptidase (EC 3.4.19.11)

@@ -1,0 +1,17 @@
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhC subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, NiFe-hydrogenase large subunit 2
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhA subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhF subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhH subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhB subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhG subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, NiFe-hydrogenase small subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, 4Fe-4S cluster-binding subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhI subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhM subunit
+si_0248	CBSS-69014.3.peg.2094	Membrane bound hydrogenase, MbhE subunit
+si_0248	CBSS-69014.3.peg.2094	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+si_0248	CBSS-69014.3.peg.2094	Energy-conserving [NiFe] hydrogenase (ferredoxin) beta subunit
+si_0248	CBSS-69014.3.peg.2094	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+si_0248	CBSS-69014.3.peg.2094	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+si_0248	CBSS-69014.3.peg.2094	Mbh11 membrane bound hydrogenase beta

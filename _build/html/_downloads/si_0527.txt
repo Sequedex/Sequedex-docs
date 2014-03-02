@@ -1,8 +1,0 @@
-si_0527	Transport_of_Manganese	Manganese uptake regulation protein MUR
-si_0527	Transport_of_Manganese	Mn-dependent transcriptional regulator MntR
-si_0527	Transport_of_Manganese	Manganese transport protein MntH
-si_0527	Transport_of_Manganese	Manganese ABC transporter, periplasmic-binding protein SitA
-si_0527	Transport_of_Manganese	Manganese ABC transporter, ATP-binding protein SitB
-si_0527	Transport_of_Manganese	Manganese ABC transporter, inner membrane permease protein SitC
-si_0527	Transport_of_Manganese	Manganese ABC transporter, inner membrane permease protein SitD
-si_0527	Transport_of_Manganese	Predicted manganese transporter, 11 TMS

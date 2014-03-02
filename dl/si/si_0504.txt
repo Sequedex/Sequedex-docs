@@ -1,0 +1,20 @@
+si_0504	Widespread_colonization_island	Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily
+si_0504	Widespread_colonization_island	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	Type II/IV secretion system secretin RcpA/CpaC, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	Type IV prepilin peptidase TadV/CpaA
+si_0504	Widespread_colonization_island	Von Willebrand factor type A domain protein, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	ATP-dependent helicase, DEAD/DEAH box family, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	ATPase with chaperone activity, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	Flp pilus assembly membrane protein TadE
+si_0504	Widespread_colonization_island	Flp pilus assembly protein CpaD
+si_0504	Widespread_colonization_island	Flp pilus assembly protein RcpB
+si_0504	Widespread_colonization_island	Flp pilus assembly protein RcpC/CpaB
+si_0504	Widespread_colonization_island	Flp pilus assembly protein TadB
+si_0504	Widespread_colonization_island	Flp pilus assembly protein TadD, contains TPR repeat
+si_0504	Widespread_colonization_island	Flp pilus assembly protein, pilin Flp
+si_0504	Widespread_colonization_island	Flp pilus assembly surface protein TadF, ATP/GTP-binding motif
+si_0504	Widespread_colonization_island	Predicted ATPase with chaperone activity, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	Protein TadG, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	Similar to TadZ/CpaE, associated with Flp pilus assembly
+si_0504	Widespread_colonization_island	Similar to secretin RcpA/CpaC, associated with Flp pilus assembly

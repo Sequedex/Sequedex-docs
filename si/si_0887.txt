@@ -1,5 +1,0 @@
-si_0887	Utilization_of_glutathione_as_a_sulphur_source	Gamma-glutamyltranspeptidase (EC 2.3.2.2)
-si_0887	Utilization_of_glutathione_as_a_sulphur_source	Putative gluthatione transporter,solute-binding component
-si_0887	Utilization_of_glutathione_as_a_sulphur_source	Putative glutathione transporter, permease component
-si_0887	Utilization_of_glutathione_as_a_sulphur_source	Putative glutathione transporter, ATP-binding component
-si_0887	Utilization_of_glutathione_as_a_sulphur_source	Putative glutathione transporter,solute-binding component

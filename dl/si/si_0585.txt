@@ -1,0 +1,7 @@
+si_0585	Rhamnolipids_in_Pseudomonas	(R)-3-hydroxydecanoyl-ACP:CoA transacylase PhaG (3-hydroxyacyl-CoA-acyl carrier protein transferase) (EC 2.4.1.-)
+si_0585	Rhamnolipids_in_Pseudomonas	N-acyl-L-homoserine lactone synthetase RhlL
+si_0585	Rhamnolipids_in_Pseudomonas	Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase RhlG (EC 1.1.1.100)
+si_0585	Rhamnolipids_in_Pseudomonas	RhlA, 3-(3-hydroxyalkanoyloxy)alkanoic acids (HAAs) synthase
+si_0585	Rhamnolipids_in_Pseudomonas	RhlB, TDP-rhamnosyltransferase 1 (EC 2.4.1.-)
+si_0585	Rhamnolipids_in_Pseudomonas	RhlC, TDP-rhamnosyltransferase 2 (EC 2.4.1.-)
+si_0585	Rhamnolipids_in_Pseudomonas	Transcriptional regulator RhlR

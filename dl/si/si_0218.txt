@@ -1,0 +1,3 @@
+si_0218	Predicted_mycobacterial_monooxygenase	Monooxygenase component A
+si_0218	Predicted_mycobacterial_monooxygenase	Monooxygenase, FAD- and [2Fe-2S]-containing component B
+si_0218	Predicted_mycobacterial_monooxygenase	Monooxygenase component C

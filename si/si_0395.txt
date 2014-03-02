@@ -1,6 +1,0 @@
-si_0395	Molybdopterin_cytosine_dinucleotide	CTP:molybdopterin cytidylyltransferase
-si_0395	Molybdopterin_cytosine_dinucleotide	Molybdopterin biosynthesis enzyme
-si_0395	Molybdopterin_cytosine_dinucleotide	Periplasmic aromatic aldehyde oxidoreductase, molybdenum binding subunit YagR
-si_0395	Molybdopterin_cytosine_dinucleotide	Periplasmic aromatic aldehyde oxidoreductase, FAD binding subunit YagS
-si_0395	Molybdopterin_cytosine_dinucleotide	Periplasmic aromatic aldehyde oxidoreductase, iron-sulfur subunit YagT
-si_0395	Molybdopterin_cytosine_dinucleotide	Hypothetical protein YagQ

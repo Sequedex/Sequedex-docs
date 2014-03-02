@@ -1,9 +1,0 @@
-si_0276	CBSS-49338.1.peg.459	COG5591: Uncharacterized conserved protein
-si_0276	CBSS-49338.1.peg.459	Putative tricarboxylic transport TctC
-si_0276	CBSS-49338.1.peg.459	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 8
-si_0276	CBSS-49338.1.peg.459	TRAP-type C4-dicarboxylate transport system, large permease component
-si_0276	CBSS-49338.1.peg.459	TRAP-type C4-dicarboxylate transport system, periplasmic component
-si_0276	CBSS-49338.1.peg.459	TRAP-type uncharacterized transport system, fused permease component
-si_0276	CBSS-49338.1.peg.459	Tricarboxylate transport membrane protein TctA
-si_0276	CBSS-49338.1.peg.459	Tricarboxylate transport membrane protein TctB
-si_0276	CBSS-49338.1.peg.459	tricarboxylate transport protein TctB, putative

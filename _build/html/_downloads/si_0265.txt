@@ -1,4 +1,0 @@
-si_0265	CBSS-198094.1.peg.4426	DNA polymerase X family
-si_0265	CBSS-198094.1.peg.4426	Recombination inhibitory protein MutS2
-si_0265	CBSS-198094.1.peg.4426	Ribonuclease HIII (EC 3.1.26.4)
-si_0265	CBSS-198094.1.peg.4426	Possible colicin V production protein

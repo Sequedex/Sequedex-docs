@@ -1,9 +1,0 @@
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	Proteasome subunit alpha (EC 3.4.25.1), archaeal
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	Shwachman-Bodian-Diamond syndrome protein
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	LSU ribosomal protein L37Ae
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	Probable exosome complex exonuclease 2 (EC 3.1.13.-)
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	Probable exosome complex RNA-binding protein 1
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	Exosome complex exonuclease 1
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	LSU ribosomal protein L15e
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	Ribonuclease P protein component 3 (EC 3.1.26.5)
-si_0258	Proteasome_subunit_alpha_archaeal_cluster	Predicted exosome subunit FIG055367

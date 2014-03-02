@@ -1,0 +1,21 @@
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerophosphoryl diester phosphodiesterase, periplasmic (EC 3.1.4.46)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate transporter
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol uptake operon antiterminator regulatory protein
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol uptake facilitator protein
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol kinase (EC 2.7.1.30)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate regulon repressor, DeoR family
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	GlpG protein (membrane protein of glp regulon)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate ABC transporter, periplasmic glycerol-3-phosphate-binding protein (TC 3.A.1.1.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Alpha-glycerophosphate oxidase (EC 1.1.3.21)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	NADH peroxidase (EC 1.11.1.1)
+si_0140	Glycerol_and_Glycerol-3-phosphate_Uptake_and_Utilization	Probable glycerol transport protein

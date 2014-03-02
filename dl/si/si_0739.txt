@@ -1,0 +1,67 @@
+si_0739	tRNA_modification_Bacteria	5-methylaminomethyl-2-thiouridine-forming enzyme mnmC
+si_0739	tRNA_modification_Bacteria	Believed to be involved in assembly of Fe-S clusters
+si_0739	tRNA_modification_Bacteria	COG0613, Predicted metal-dependent phosphoesterases (PHP family)
+si_0739	tRNA_modification_Bacteria	Chaperone protein HscA
+si_0739	tRNA_modification_Bacteria	Chaperone protein HscB
+si_0739	tRNA_modification_Bacteria	Cysteine desulfurase (EC 2.8.1.7)
+si_0739	tRNA_modification_Bacteria	Cysteine desulfurase (EC 2.8.1.7), IscS subfamily
+si_0739	tRNA_modification_Bacteria	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily
+si_0739	tRNA_modification_Bacteria	Cytidine deaminase (EC 3.5.4.5)
+si_0739	tRNA_modification_Bacteria	FIG004453: protein YceG like
+si_0739	tRNA_modification_Bacteria	FIG137478: Hypothetical protein
+si_0739	tRNA_modification_Bacteria	Ferredoxin, 2Fe-2S
+si_0739	tRNA_modification_Bacteria	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+si_0739	tRNA_modification_Bacteria	GTPase and tRNA-U34 5-formylation enzyme TrmE
+si_0739	tRNA_modification_Bacteria	Iojap protein
+si_0739	tRNA_modification_Bacteria	Iron binding protein IscA for iron-sulfur cluster assembly
+si_0739	tRNA_modification_Bacteria	Iron-sulfur cluster assembly ATPase protein SufC
+si_0739	tRNA_modification_Bacteria	Iron-sulfur cluster assembly protein SufB
+si_0739	tRNA_modification_Bacteria	Iron-sulfur cluster assembly protein SufD
+si_0739	tRNA_modification_Bacteria	Iron-sulfur cluster assembly scaffold protein IscU
+si_0739	tRNA_modification_Bacteria	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+si_0739	tRNA_modification_Bacteria	LSU m3Psi1915 methyltransferase RlmH
+si_0739	tRNA_modification_Bacteria	NADPH dependent preQ0 reductase
+si_0739	tRNA_modification_Bacteria	Predicted P-loop ATPase fused to an acetyltransferase COG1444
+si_0739	tRNA_modification_Bacteria	Putative tRNA-m1A22 methylase
+si_0739	tRNA_modification_Bacteria	Queuosine Biosynthesis QueC ATPase
+si_0739	tRNA_modification_Bacteria	Queuosine Biosynthesis QueE Radical SAM
+si_0739	tRNA_modification_Bacteria	Queuosine biosynthesis QueD, PTPS-I
+si_0739	tRNA_modification_Bacteria	RNA binding methyltransferase FtsJ like
+si_0739	tRNA_modification_Bacteria	Rhodanese-related sulfurtransferases
+si_0739	tRNA_modification_Bacteria	Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+si_0739	tRNA_modification_Bacteria	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+si_0739	tRNA_modification_Bacteria	Selenide,water dikinase (EC 2.7.9.3)
+si_0739	tRNA_modification_Bacteria	Selenophosphate-dependent tRNA 2-selenouridine synthase
+si_0739	tRNA_modification_Bacteria	Thiamine biosynthesis protein thiI
+si_0739	tRNA_modification_Bacteria	YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
+si_0739	tRNA_modification_Bacteria	glutamyl-Q-tRNA synthetase
+si_0739	tRNA_modification_Bacteria	hypothetical tRNA/rRNA methyltransferase yfiF [EC:2.1.1.-]
+si_0739	tRNA_modification_Bacteria	tRNA (5-methoxyuridine) 34 synthase
+si_0739	tRNA_modification_Bacteria	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+si_0739	tRNA_modification_Bacteria	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+si_0739	tRNA_modification_Bacteria	tRNA (Guanosine18-2'-O-) -methyltransferase (EC 2.1.1.34)
+si_0739	tRNA_modification_Bacteria	tRNA (Uracil54-C5-)-methyltransferase (EC 2.1.1.35)
+si_0739	tRNA_modification_Bacteria	tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)
+si_0739	tRNA_modification_Bacteria	tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)
+si_0739	tRNA_modification_Bacteria	tRNA (uridine-5-oxyacetic acid methyl ester) 34 synthase
+si_0739	tRNA_modification_Bacteria	tRNA 5-methylaminomethyl-2-thiouridine synthase TusA
+si_0739	tRNA_modification_Bacteria	tRNA 5-methylaminomethyl-2-thiouridine synthase TusB
+si_0739	tRNA_modification_Bacteria	tRNA 5-methylaminomethyl-2-thiouridine synthase TusC
+si_0739	tRNA_modification_Bacteria	tRNA 5-methylaminomethyl-2-thiouridine synthase TusD
+si_0739	tRNA_modification_Bacteria	tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+si_0739	tRNA_modification_Bacteria	tRNA dihydrouridine synthase A (EC 1.-.-.-)
+si_0739	tRNA_modification_Bacteria	tRNA dihydrouridine synthase B (EC 1.-.-.-)
+si_0739	tRNA_modification_Bacteria	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+si_0739	tRNA_modification_Bacteria	tRNA pseudouridine synthase A (EC 4.2.1.70)
+si_0739	tRNA_modification_Bacteria	tRNA pseudouridine synthase B (EC 4.2.1.70)
+si_0739	tRNA_modification_Bacteria	tRNA pseudouridine synthase C (EC 4.2.1.70)
+si_0739	tRNA_modification_Bacteria	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+si_0739	tRNA_modification_Bacteria	tRNA(Cytosine32)-2-thiocytidine synthetase
+si_0739	tRNA_modification_Bacteria	tRNA(Ile)-lysidine synthetase
+si_0739	tRNA_modification_Bacteria	tRNA-(ms[2]io[6]A)-hydroxylase (EC 1.-.-.-)
+si_0739	tRNA_modification_Bacteria	tRNA-dihydrouridine synthase C (EC 1.-.-.-)
+si_0739	tRNA_modification_Bacteria	tRNA-guanine transglycosylase (EC 2.4.2.29)
+si_0739	tRNA_modification_Bacteria	tRNA-i(6)A37 methylthiotransferase
+si_0739	tRNA_modification_Bacteria	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+si_0739	tRNA_modification_Bacteria	tRNA:Cm32/Um32 methyltransferase
+si_0739	tRNA_modification_Bacteria	tRNA:m(5)U-54 MTase gid

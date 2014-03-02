@@ -1,3 +1,0 @@
-si_0753	A_toxin-antitoxin_module_cotranscribed_with_DinB	Antitoxin YafN
-si_0753	A_toxin-antitoxin_module_cotranscribed_with_DinB	Toxin YafO
-si_0753	A_toxin-antitoxin_module_cotranscribed_with_DinB	Uncharacterized acetyltransferase YafP (EC 2.3.1.-)

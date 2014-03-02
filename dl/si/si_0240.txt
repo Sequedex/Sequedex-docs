@@ -1,0 +1,2 @@
+si_0240	Hypothetical_Coupled_to_RecF	FIG002958: hypothetical protein
+si_0240	Hypothetical_Coupled_to_RecF	DNA recombination and repair protein RecF

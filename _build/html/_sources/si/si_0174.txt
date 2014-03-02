@@ -1,3 +1,0 @@
-si_0174	Polysaccharide_deacetylases	Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)
-si_0174	Polysaccharide_deacetylases	Polysaccharide deacetylase
-si_0174	Polysaccharide_deacetylases	Polysaccharide intercellular adhesin (PIA) biosynthesis deacetylase IcaB (EC 3.-.-.-)

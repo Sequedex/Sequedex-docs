@@ -1,0 +1,4 @@
+ss00475	NtdA	NTD biosynthesis operon protein NtdA
+ss00475	NtdB	NTD biosynthesis operon putative hydrolase NtdB (EC 3.-.-.-)
+ss00475	NtdC	NTD biosynthesis operon putative oxidoreductase NtdC (EC 1.-.-.-)
+ss00475	NtdR	NTD biosynthesis operon regulator NtdR

@@ -1,0 +1,6 @@
+si_0387	riboflavin_to_FAD	3,4-dihydroxy-2-butanone 4-phosphate synthase
+si_0387	riboflavin_to_FAD	CTP-dependent archaeal riboflavin kinase
+si_0387	riboflavin_to_FAD	FMN adenylyltransferase (EC 2.7.7.2)
+si_0387	riboflavin_to_FAD	Riboflavin kinase (EC 2.7.1.26)
+si_0387	riboflavin_to_FAD	Riboflavin synthase alpha chain (EC 2.5.1.9)
+si_0387	riboflavin_to_FAD	Riboflavin synthase archaeal (EC 2.5.1.9)

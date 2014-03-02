@@ -1,0 +1,5 @@
+si_0110	Hexose_Phosphate_Uptake_System	Hexose phosphate transport protein UhpT
+si_0110	Hexose_Phosphate_Uptake_System	Hexose phosphate uptake regulatory protein UhpC
+si_0110	Hexose_Phosphate_Uptake_System	Homolog of fucose/glucose/galactose permeases
+si_0110	Hexose_Phosphate_Uptake_System	Sensor histidine protein kinase UhpB, glucose-6-phosphate specific (EC 2.7.13.3)
+si_0110	Hexose_Phosphate_Uptake_System	Transcriptional regulatory protein UhpA

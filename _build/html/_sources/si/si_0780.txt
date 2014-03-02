@@ -1,5 +1,0 @@
-si_0780	Oxygen_and_light_sensor_PpaA-PpsR	Heme-binding SCHIC domain protein, putative oxygen sensor
-si_0780	Oxygen_and_light_sensor_PpaA-PpsR	Transcriptional regulator, PpsR
-si_0780	Oxygen_and_light_sensor_PpaA-PpsR	Heme oxygenase (EC 1.14.99.3)
-si_0780	Oxygen_and_light_sensor_PpaA-PpsR	Phytochrome, two-component sensor histidine kinase (EC 2.7.3.-)
-si_0780	Oxygen_and_light_sensor_PpaA-PpsR	PpaA, heme-binding SCHIC domain sensory protein, regulator for photosystem formation

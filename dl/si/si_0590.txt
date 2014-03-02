@@ -1,0 +1,8 @@
+si_0590	Cyanate_hydrolysis	Carbonic anhydrase (EC 4.2.1.1)
+si_0590	Cyanate_hydrolysis	Cyanate ABC transporter, ATP-binding protein
+si_0590	Cyanate_hydrolysis	Cyanate ABC transporter, permease protein
+si_0590	Cyanate_hydrolysis	Cyanate ABC transporter, substrate binding protein
+si_0590	Cyanate_hydrolysis	Cyanate hydratase (EC 4.2.1.104)
+si_0590	Cyanate_hydrolysis	Cyanate transport protein CynX
+si_0590	Cyanate_hydrolysis	Cyn operon transcriptional activator
+si_0590	Cyanate_hydrolysis	Transcriptional activator similar to cyn operon regulator

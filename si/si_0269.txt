@@ -1,4 +1,0 @@
-si_0269	CBSS-188.1.peg.6170	Sarcosine oxidase alpha subunit (EC 1.5.3.1)
-si_0269	CBSS-188.1.peg.6170	Sarcosine oxidase beta subunit (EC 1.5.3.1)
-si_0269	CBSS-188.1.peg.6170	Sarcosine oxidase gamma subunit (EC 1.5.3.1)
-si_0269	CBSS-188.1.peg.6170	Sarcosine oxidase delta subunit (EC 1.5.3.1)

@@ -1,6 +1,0 @@
-si_0206	Peptidoglycan_Crosslinking_of_Peptide_Stems	Penicillin-binding protein AmpH
-si_0206	Peptidoglycan_Crosslinking_of_Peptide_Stems	L,D-transpeptidase YcfS
-si_0206	Peptidoglycan_Crosslinking_of_Peptide_Stems	L,D-transpeptidase ErfK
-si_0206	Peptidoglycan_Crosslinking_of_Peptide_Stems	L,D-transpeptidase YbiS
-si_0206	Peptidoglycan_Crosslinking_of_Peptide_Stems	L,D-transpeptidase YcbB
-si_0206	Peptidoglycan_Crosslinking_of_Peptide_Stems	L,D-transpeptidase YnhG

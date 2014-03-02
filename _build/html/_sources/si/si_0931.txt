@@ -1,3 +1,0 @@
-si_0931	Fosfomycin_resistance	Fosfomycin resistance protein FosA
-si_0931	Fosfomycin_resistance	Fosfomycin resistance protein FosB
-si_0931	Fosfomycin_resistance	Fosfomycin resistance protein FosX

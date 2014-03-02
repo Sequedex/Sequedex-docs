@@ -1,4 +1,0 @@
-si_0796	Terminal_cytochrome_O_ubiquinol_oxidase	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
-si_0796	Terminal_cytochrome_O_ubiquinol_oxidase	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
-si_0796	Terminal_cytochrome_O_ubiquinol_oxidase	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
-si_0796	Terminal_cytochrome_O_ubiquinol_oxidase	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)

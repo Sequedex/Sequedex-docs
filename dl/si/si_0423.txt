@@ -1,0 +1,10 @@
+si_0423	Gram_Positive_Competence	ComF operon protein A, DNA transporter ATPase
+si_0423	Gram_Positive_Competence	ComF operon protein C
+si_0423	Gram_Positive_Competence	Competence protein CoiA
+si_0423	Gram_Positive_Competence	DNA-entry nuclease (Competence-specific nuclease) (EC 3.1.30.-)
+si_0423	Gram_Positive_Competence	Late competence protein ComC, processing protease
+si_0423	Gram_Positive_Competence	Late competence protein ComEA, DNA receptor
+si_0423	Gram_Positive_Competence	Late competence protein ComEC, DNA transport
+si_0423	Gram_Positive_Competence	Late competence protein ComGA, access of DNA to ComEA
+si_0423	Gram_Positive_Competence	Late competence protein ComGB, access of DNA to ComEA
+si_0423	Gram_Positive_Competence	Negative regulator of genetic competence MecA

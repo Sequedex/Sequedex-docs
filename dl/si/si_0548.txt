@@ -1,0 +1,16 @@
+si_0548	Naphtalene_and_antracene_degradation	2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase (EC 1.3.1.-)
+si_0548	Naphtalene_and_antracene_degradation	dihydroxy naphthalene/biphenyl dioxygenase
+si_0548	Naphtalene_and_antracene_degradation	ferredoxin subunit aromatic oxygenase
+si_0548	Naphtalene_and_antracene_degradation	2-hydroxychromene-2-carboxylate isomerase
+si_0548	Naphtalene_and_antracene_degradation	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+si_0548	Naphtalene_and_antracene_degradation	Salicylaldehyde dehydrogenase (EC 1.2.1.65)
+si_0548	Naphtalene_and_antracene_degradation	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase
+si_0548	Naphtalene_and_antracene_degradation	2-hydroxybenzalpyruvate aldolase
+si_0548	Naphtalene_and_antracene_degradation	naphthalene dioxygenase reductase
+si_0548	Naphtalene_and_antracene_degradation	naphthalene dioxygenase ferredoxin
+si_0548	Naphtalene_and_antracene_degradation	naphthalene dioxygenase Fe-S protein small subunit
+si_0548	Naphtalene_and_antracene_degradation	naphthalene dioxygenase Fe-S protein large subunit
+si_0548	Naphtalene_and_antracene_degradation	Dihydrodiol dehydrogenase (EC 1.3.1.56)
+si_0548	Naphtalene_and_antracene_degradation	1,2-dihydroxybenzyl pyruvate aldolase
+si_0548	Naphtalene_and_antracene_degradation	1,2-dihydroxynaphthalene dioxygenase
+si_0548	Naphtalene_and_antracene_degradation	Naphthalene 1,2-dioxygenase system ferredoxin--NAD(+) reductase component (EC 1.18.1.3)

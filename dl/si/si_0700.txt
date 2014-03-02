@@ -1,0 +1,11 @@
+si_0700	Protein_degradation	Aminopeptidase C (EC 3.4.22.40)
+si_0700	Protein_degradation	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+si_0700	Protein_degradation	Arginine-tRNA-protein transferase (EC 2.3.2.8)
+si_0700	Protein_degradation	Asp-X dipeptidase
+si_0700	Protein_degradation	Deblocking aminopeptidase (EC 3.4.11.-)
+si_0700	Protein_degradation	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+si_0700	Protein_degradation	Isoaspartyl dipeptidase (EC 3.4.19.5)
+si_0700	Protein_degradation	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+si_0700	Protein_degradation	Nondeblocking aminopeptidase YpdE (X-X-[^PR]- specific)
+si_0700	Protein_degradation	Oligopeptidase A (EC 3.4.24.70)
+si_0700	Protein_degradation	Thimet oligopeptidase (EC 3.4.24.15)

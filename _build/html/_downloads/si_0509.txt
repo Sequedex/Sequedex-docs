@@ -1,8 +1,0 @@
-si_0509	The_fimbrial_Sfm_cluster	Fimbriae-like adhesin SfmA
-si_0509	The_fimbrial_Sfm_cluster	Fimbrial periplasmic chaperone SfmC
-si_0509	The_fimbrial_Sfm_cluster	Outer membrane usher protein SfmD
-si_0509	The_fimbrial_Sfm_cluster	Fimbriae-like adhesin SfmH
-si_0509	The_fimbrial_Sfm_cluster	Fimbriae-like periplasmic protein SfmF
-si_0509	The_fimbrial_Sfm_cluster	Transcriptional regulator of fimbriae expression FimZ (LuxR/UhpA family)
-si_0509	The_fimbrial_Sfm_cluster	Transcriptional regulator of fimbriae expression FimY
-si_0509	The_fimbrial_Sfm_cluster	Fimbriae-like adhesin FimI

@@ -1,0 +1,3 @@
+si_0952	Cytolethal_distending_toxin_of_Campylobacter_jejuni	Cytolethal distending toxin subunit A
+si_0952	Cytolethal_distending_toxin_of_Campylobacter_jejuni	Cytolethal distending toxin subunit B
+si_0952	Cytolethal_distending_toxin_of_Campylobacter_jejuni	Cytolethal distending toxin subunit C

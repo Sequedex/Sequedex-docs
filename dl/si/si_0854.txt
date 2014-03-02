@@ -1,0 +1,6 @@
+si_0854	Ectoine_biosynthesis_and_regulation	Aspartokinase (EC 2.7.2.4) associated with ectoine biosynthesis
+si_0854	Ectoine_biosynthesis_and_regulation	L-2,4-diaminobutyric acid acetyltransferase (EC 2.3.1.-)
+si_0854	Ectoine_biosynthesis_and_regulation	Diaminobutyrate-pyruvate aminotransferase (EC 2.6.1.46)
+si_0854	Ectoine_biosynthesis_and_regulation	L-ectoine synthase (EC 4.2.1.-)
+si_0854	Ectoine_biosynthesis_and_regulation	Ectoine hydroxylase (EC 1.17.-.-)
+si_0854	Ectoine_biosynthesis_and_regulation	Putative regulatory protein associated with the ectoine operon

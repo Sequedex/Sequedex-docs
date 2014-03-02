@@ -1,0 +1,712 @@
+. _s.software:
+
+Additional software tools and resources for use in conjunction with Sequedex
+*****************************************************************************************
+
+In this chapter, we introduce the user to a variety of software tools
+and packages and how we have found them to be useful in the process of
+organizing data files and understanding the output.  This is neither
+intended to be an exhaustive list of software packages nor a tutorial
+in using any of them; it is simply a short sketch of how we used
+widely available software to better understand the output of Sequedex.
+
+Indeed, if the user has difficulties with the tools below, it is
+possible to choose from a wide array of open source analysis tools,
+such as those that have been described `on Wikipedia
+<http://en.wikipedia.org/wiki/Sequence_analysis>`_ and `on seqanswer
+<http://seqanswers.com/wiki/Software/list>`_ to identify an alternate
+method of acheiving the a similar result.
+
+.. _s.Excel:
+
+Graphing and sorting with Excel
+================================
+
+Spreadsheets are popular tools for visualizing and comparing tabular
+outputs such as the phylogenetic and functional profiles produced by
+Sequedex.  Excel is widely used on Windows and Mac operating systems,
+and can be run on Linux under the Windows Emulator (WINE,
+`http://www.winehq.org/ <http://www.winehq.org/>`_).  WINE is also
+useful for running other Windows applications under Linux, such as
+:ref:`s.BioEdit`, but the open source spreadsheet programs `Gnumeric
+<http://projects.gnome.org/gnumeric/>`_ and `LibreOffice
+<http://www.libreoffice.org/#>`_ will also serve this function.
+Numerous books are available for Excel, and Gnumeric and LibreOffice
+both have extensive online documentation, `here
+<http://projects.gnome.org/gnumeric/doc/gnumeric.shtml>`_ and `here
+<https://wiki.documentfoundation.org/Documentation/Publications#LibreOffice_Math_Guide>`_.
+
+If you open (or 'data -> import`) the :ref:`s.who`, :ref:`s.what`, or
+:ref:`s.wdw` or :ref:`s.stats` files, it will be possible to see which
+categories are most-populated, to compare the different types of k-mer
+matches for the who file, and extract columns from different samples
+for direct comparison and statistical analysis.  It is also possible
+to use the 'consolidate' function to perform :ref:`s.rollups` and
+:ref:`s.froll`, although the user may want to further bundle the
+rollup categories or sort and discard them to simplify the plots.  We
+supply programs, below, that perform the rollups shown in
+:ref:`s.rollups`, which combines a number of multiphyla nodes into a
+single category.
+
+Alternatively, the user can save output from multiple samples in a tab
+delimited text file to be compared with data from the Sequedex
+documentation or previously analyzed samples.  When doing this, care
+must be taken to compare compatible samples, where the rows have the
+same meaning, and to ensure the user is able to provide column labels
+which adequately document which sample and analysis the data are from.
+The tree name is automatically used as part of the who, what, and wdw
+files, and the functional classifications are included in the what and
+wdw files, to help keep track of what analysis was performed.
+
+.. _s.Cygwin:
+
+How to install Cygwin and what to include.
+==========================================
+
+Cygwin is a software package that provides a Unix-like environment
+under a native Windows operating system.  It is available from
+`http://cygwin.org/ <http://cygwin.org/>`_.  During installation, you
+will be asked to select from about 30 categories of programs to
+install.  While it is simple to rerun the setup.exe script at any
+time, if you plan to run a variety of bioinformatics tools it may be
+easiest to install Devel, Editors, Interpreters, Perl, and Python,
+since you often need to re-compile software developed for Linux from
+source code. Installing everything will require over 1 GB of disk
+space and typically require several hours of download time.
+
+Once installed, Cygwin provides many of the functions of a command
+line with standard tools, discussed in the next section, including
+running the Sequedex executable, as described in the :ref:`s.start.cl`
+section, although the :ref:`s.install.cyg` are distinct from eithr
+Linux or Windows without Cygwin.  Note the the GUI version of Sequedex
+can be initiated by typing 'sequescan' on the command line of Cygwin,
+once Java and the path variables are correctly set.
+
+Many programs, for example R, Python, and Matlab, can be installed and
+used either from within Cygwin or as a native Windows application in
+an integrated development environment (IDE).  Typically the IDEs have
+numerous user-friendly features that you may find helpful.  There is
+no difficult in mixing the different types of tools (native Windows
+and Cygwin), although navagation back and forth between the Windows
+home directory (My Documents) and the Cygwin home directory (typically
+c:/cygwin/home/username/) can be awkward.  It is possible to put a
+shortcut (or link) to quickly navigate back and forth between these
+two frequented folders.  Also, path names are treated differently in
+the two systems: see
+`http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+<http://cygwin.com/cygwin-ug-net/using.html#using-pathnames>`_.
+
+.. _s.bash:
+
+The command line with standard tools (Linux, Mac, Cygwin for Windows)
+====================================================================================
+
+The command line is not so much a software program as a flexible
+interface to the computer's operating system.  It enables a wide
+variety of software to be run on a variety of input files, placing the
+output in well defined places.  As described in :ref:`s.dirs`,
+appropriate choices in where to place files for projects and samples
+can greatly facilitate the automation of analysis of large numbers of
+files.  If scripts are used to perform the analysis, a record will be
+created of exactly what was done to each data set.  For example, we
+have already described in :ref:`s.start.cl` how to run Sequedex from
+the command line.
+
+Two of the most popular 'shells' for the command line are `bash
+<http://www.gnu.org/software/bash/manual/bashref.html>`_ and `tcsh
+<http://www.tcsh.org/tcsh.html/top.html>`_, and if the user is new to
+its use, he or she is encouraged to locate an introductory book and a
+colleague who is willing to help you from time to time.  We will only
+describe the features needed to perform the Sequedex analysis tasks
+described in this manual.
+
+* The filesystems can be viewed and navigated with df -h, ls -lthr,
+  and cd, for example, remembering that the 'tab' key normally
+  auto-completes filenames or directory names.
+
+* Files (such as the Sequedex outputfiles, which are tab-delimited,
+  can be viewed with cat, head, or grep Percent.
+
+* The functional categories can be sorted on the screen by decreasing
+  prevalence with 'sort -n -k2 -r what-tol-allxseed_0911.tsv|less'
+
+* The phylogenetic categories can be sorted on the screen by
+  decreasing prevalence with::
+
+    tr ' ' '_' < who-tol-all.tsv| sort -n -r -\k 6 |awk '{print $6}'|less
+
+* A help page can be found for many commands by typing 'man command',
+  such as 'man less' or 'man awk'
+
+* Results from one command can be sent to another command with the pipe, or '|', and to a file with '>'.
+
+* Commands can be iterated over a list with::
+
+    for i in file1 file2file3;do
+      awk '{print $2}' < $i.fas.sqdz/what.tol-allxseed_0911.tsv>$i.out;done;paste *.out > all.out
+    done
+
+* Commands can be saved in a file, and be run in batch by typing
+  'source filename'.  A short introduction is available `here
+  <http://www.tldp.org/LDP/Bash-Beginners-Guide/html/>`_.  Note that
+  variables can be passed to the script from the command line.
+
+* The utilities `ps2pdf
+  <http://ghostscript.com/doc/current/Ps2pdf.htm>`_ and `convert
+  <http://www.imagemagick.org/script/convert.php>`_ are convenient
+  tools for changing among image formats.
+
+A simple text editor that is available in most terminal windows is
+emacs or xemacs, that can be used to edit the sequescan configuration
+file or modify any of the scripts and programs that are distributed
+with Sequedex.  A short example script for creating a matrix of
+sequedex output from several runs is described in :ref:`s.rollup`.  If
+the user knows how to program in Perl or Python already, it is easy to
+write short programs or scripts in these languages to process output
+files.
+
+.. _code-f90:
+
+For numerical analysis tools, many options are available, including
+`gfortran <http://gcc.gnu.org/wiki/GFortran>`_, which we used to do
+simple numerical operations on groups of profiles in
+:ref:`s.profiles`, using :download:`pnorm.f90 <dl/pnorm.f90>` or
+:download:`fnorm.f90 <dl/fnorm.f90>`.  To use this code, you need to
+open the source code with a text editor (eg. emacs pnorm.f90 &),
+change the parameter in the 5th line to the appropriate number of
+parameters, and the input filename in the 9th line to the appropriate
+input filename, save the file, compile (gfortran pnorm.f90) and run
+the executable (./a.out).  Several output files will be created, with
+normalized output, a rollup, and a similarity matrix of each sample
+compared to the others.  The same objective could easily be
+accomplished in a variety of languages and analysis environments, such
+as Python, R, C, C++, Perl, or Matlab.  It is a useful way to automate
+automate analysis and make use of functions written by others and
+distributed on the web.
+
+.. _s.trees:
+
+Exploring trees with Archaeoptrix, FigTree, or NJPlot
+=====================================================
+
+Sequedex organizes its list of signature peptides with carefully
+constructed phylogenetic trees, ostensibly representing the ancestral
+history of the various organisms represented.  Although Sequedex
+provides both html and pdf ways of looking at the trees in
+:ref:`s.Life2550`, specialized tree-viewing software will greatly
+facilitate the user's ability to both understand the reference
+database and the results.  The variety of tree-viewers and file
+formats for defining trees and associated meta-data include:
+
+* The most flexible is `archaeopteryx
+  <https://sites.google.com/site/cmzmasek/home/software/archaeopteryx>`_,
+  which defined it's own format, `phyloxml
+  <http://www.phyloxml.org/>`_.
+
+* `FigTree <http://tree.bio.ed.ac.uk/software/figtree/>`_ was designed
+  to produce publication quality trees, and reads nexus and phylip
+  format trees.
+
+* `NJplot <http://pbil.univ-lyon1.fr/software/njplot.html>`_ is an
+  easy-to-use program that enables viewing of phylip-style trees, such
+  as is created by :ref:`s.phyml`.
+
+.. _s.gnuplot:
+
+Comparing and annotating phylogenetic and functional profiles with Gnuplot
+==========================================================================
+
+`Gnuplot <http://www.gnuplot.info/>`_ is rapid method to view output
+files, perhaps as Sequedex is running, as a script-able method to make
+and annotate a series of plots of phylogenetic or functional profiles.
+
+The example script :download:`hi_res_HMB.gpt <dl/hi_res_HMB.gpt>`,
+makes and annotates a multi-panel plot of the total reads matched in
+each phylogenetic bin of the tol1471.  It can be run by typing
+`gnuplot hi_res_HMB.gpt` with the appropriate input files (plaque,
+stool, tongue, cheek, nose, ear, and bds) in the path, and will
+produce the output postscript file 'hmb.ps'.  Much of the value of
+this method of plot-making lies in editing the example file ('emacs
+hi_res_HMB.gpt &), and changing the output filename, perhaps producing
+a pdf or png file instead of postscript, changing the scaling factor
+from the data, or changing the input files or line colors.
+
+The advantage of this tool is that it is lightweight and easy to
+modify.  It it, however, specific to a particular tree or functional
+set (eg. seed_0911), as the elements are identified by their position
+in the output table, not the label.
+
+.. _s.R:
+
+Statistical analysis and graphing with R and R Studio
+=====================================================
+
+R (`http://www.r-project.org/ <http://www.r-project.org/>`_ is a
+powerful open source software for statistical data analysis. Binaries
+and download instruction are found at http://cran.r-project.org/. In
+addition to the basic installation, many users will want to peruse the
+library of contributed packages that extend the functionality and
+methods available.  Packages to consider include ape, ade4, cluster,
+and rgl.
+
+Sequestat (described in detail in :ref:`s.Sequestat`) utilizes three
+add-on packages distributed for use within the R environment:
+
+* APE (Analysis of Phylogenetics and Evolution - APE)
+  `http://ape.mpl.ird.fr/ <http://ape.mpl.ird.fr/>`_
+
+* GEE (Generalized Estimation Equation solver - GEE)
+  `http://cran.r-project.org/web/packages/gee/
+  <http://cran.r-project.org/web/packages/gee/>`_
+
+* LARS (Least Angle Regression - LARS)
+  `http://cran.r-project.org/web/packages/lars/
+  <http://cran.r-project.org/web/packages/lars/>`_
+
+APE and GEE are used for displaying Sequedex output on the nodes of
+trees, while LARS is use by Sequestat for predicting which combination
+of reference genomes or metagenomes best-describes the phylogenetic
+profile of a metagenomic sample.  If the packages are downloaded, they
+can be installed from within R with the command::
+
+   install.packages(repos=NULL, pkgs="gee_4.13-18.tar.gz")
+
+Many users prefer to use an integrated development environment such as
+the freely distributed RStudio, from `http://www.rstudio.com/ide/
+<http://www.rstudio.com/ide/>`_ instead of the command-line interface.
+
+In either case, there are several basic functions the user needs to
+get started applying R to Sequedex data.
+
+* Getting to the correct directory: Within RStudio, there is a 'set
+  working directory option under 'session''.  R can just be started in
+  the desired directory, or the command 'setwd("~/sample.fas.sqdx")'.
+
+* Sourcing an external script so the functions and variables can be
+  used interactively: 'source("~/R/sequestat4.r")'.  In this case, the
+  file `sequestat4.r` will be sourced, assuming it is in the R
+  directory of user's home directory, and the external package, ape,
+  described above will be loaded.
+
+* Loading a nexus format phylogenetic tree, such as
+  tol=Read.tree("~/R/TOL.nexus"), into the data structure, tol.
+
+* Reading tsv data into the data structure, dat:
+  dat=read.table("~/R/env.tsv",sep="\t").  The first column needs to
+  have node names, and the first row needs to have sample names.  Both
+  the rows and columns can be referred to by either element number
+  (position) or label.
+
+* Attaching the tsv file just loaded to the tree structure:
+  env$data=dat.
+
+* Combining two data matrixes: all$data=c(env$data,new$data).  (Don't
+  forget to also update the column labels)
+
+* Changing plot output to a png file instead of the screen: png("rplot.png") ; plot(x,y) ; dev.off()
+
+Although a high-throughput genomics analysis package for R
+`Bioconductor <http://www.bioconductor.org/>`_ has been written, we
+have not yet incorporated features from this toolkit into our
+workflows.
+
+.. _s.NCBI:
+
+Obtaining reference data from NCBI
+=====================================
+
+NCBI has several interfaces with which data can be downloaded.  We
+downloaded bacterial and archael genomes from the `NCBI ftp site
+<http://www.ncbi.nlm.nih.gov/Ftp/>`_ under the link for 'Genome
+annotation and assembly projects' for 'Bacteria` and `Bacteria_DRAFT`.
+Subdirectories for each of the genomes exist with various file-types
+and information for download.  For the Bacteria, gzipped tar files
+exist to easily download a particular file-type for all of the
+organisms, such as amino acid sequences of called genes, in the `faa
+file <ftp://ftp.ncbi.nih.gov/genomes/Bacteria/all.faa.tar.gz>`_.
+
+Data for eukaryotes was obtained from the 'RefSeq' link at the `NCBI
+ftp site <http://www.ncbi.nlm.nih.gov/Ftp/>`_, and a fair amount of
+effort was required to identify and extract genes from each of the
+organisms.
+
+.. _s.MetaSim:
+
+Creating synthetic data
+=======================
+
+There are many reasons one might want to create synthetic data.  In
+using this technique to evaluate analysis software, however, one needs
+to keep in mind that simulated data often derives directly from the
+same database of reference organisms that the analysis software uses
+to classify reads.  Unfortunately, the reference genomes are not
+necessarily representative of observed natural diversity.  For
+well-characterized pathogens, this problem is relatively minor.  For
+most RNA viruses and environmental metagenomes, this problem can be
+quite severe.
+
+`MetaSim <http://ab.inf.uni-tuebingen.de/software/metasim/>`_ is a
+software package that can simulate metagenomic data from both
+reference genomes and evolutionary models that incorporates sequencer
+type-specific errors and distributions of read lengths. Since many
+metagenomics analysis methods, in particular those relying on an
+assembly step, are quite non-linear in that the results depend on both
+sequencing depth and the richness and diversity of the sequenced
+sample, such a flexible tool to generate synthetic data is probably
+essential to improving the method.  For nucleotide-based methods of
+recognizing reads, such as `Metaphlan
+<http://huttenhower.sph.harvard.edu/metaphlan>`_ and `Phylophlan
+<http://huttenhower.sph.harvard.edu/phylophlan>`_ testing the analysis
+software with synthetic data derived from reference genomes is more
+problematic than with amino-acid-based recognition of reads, such as
+employed by Sequedex.
+
+Beyond the need to characterize the impact of sequencing errors,
+database bias, and the impact of mixtures on analysis performance, it
+is also useful to characterize the phylogenetic dependence of the
+sensitivity and specificity of read-based annotation.  For this
+purpose, synthetic data can be obtained by simply chopping the full
+nucleotide sequence of an organism into equal-length reads with, for
+example, the following two-line perl / bash script::
+
+   cat *.fna |grep -v ">"|tr -d '\n' |perl -ne 'while ($c = substr($_, 0, 100, "")) {print "$c\n"}' > syn
+   grep -n . syn |tr ':' ' '|awk '{print ">"$1"\n" $2}' > syn.fas;echo $i
+
+.. _s.KEGG:
+
+Comparing functional profiles to KEGG
+======================================
+
+The Kyoto Encyclopedia of Genes and Genomes `KEGG
+<http://www.genome.jp/kegg/pathway.html>`_ provides an extensive
+collection of how genes interact with one another in pathways.  For
+highly conserved genes where paralogs performing a distinct function
+are absent, it is relatively straightforward to relate a gene fragment
+to a position in a KEGG pathway map.  For most genes, however, this
+mapping can be error-prone, as described at in the `SEED manifesto
+<http://www.theseed.org/wiki/Annotating_1000_genomes>`_ of the `SEED
+project <http://www.theseed.org/wiki/Main_Page>`_.
+
+Consequently, we currently base our functional assignments on the
+:ref:`s.SEED`, and rely on further analysis of reads with reference
+genomes to confirm functional assignments, using the techniques
+described in :ref:`s.reads` and the reference data provided in
+:ref:`s.reads` to get the user started on this semi-infinite task.
+Anyone doubting the complexity of this task is invited to `browse the
+Pfam families <http://pfam.janelia.org/family/browse>`_ and assess the
+clarity of mapping onto the KEGG pathway maps.
+
+.. _s.RDB:
+
+The Ribosomal Database Project
+==============================
+
+In part because universally conserved regions permit PCR amplification
+ribosomal sequences, the database and tools for probing the microbial
+community structure are quite well-developed.  The `Ribosomal Database
+Project <http://rdp.cme.msu.edu/>`_ has systemetically collected and
+curated ribosomal sequence data, and developed and made available
+numerous tools for its analysis.  Begining with the Life2550 tree,
+Sequedex has defined a functional category for ribosomal sequence,
+and, using the techniques described in :ref:`s.reads`, will generate a
+fasta or fastq file of all identified bacterial, archael, and
+eukaryotic ribosomal sequences, both the SSU and LSU.
+
+.. _s.Bergey:
+
+Bergey's manual
+================
+
+When specific organisms are identified in a sequencing data set, they
+can be indicative of the ecological niche the sample came from.  In
+addition to the peer reviewed literature, the references to Genbank
+and annotated pdf files provided in :ref:`s.Life2550`, and several
+online wiki sites, Bergey's manual of systematic microbiology proveds
+a systematic exposition of cultured bacterial and archaeal organisms.
+
+.. _s.MEGAN:
+
+Phylogeny vs. taxononomy - MEGAN and Krona plots
+================================================
+
+Several tools exist for visualizing phylogenetic output.  Because Sequedex is defined by and utilizes a phylogenetic tree to appropriately capture abiguity in phylogenetic placement on a read-by-read basis, such as :ref:`s.Excel`, :ref:`s.Life2550`, and :ref:`s.sequestat`.  Nevertheless, since phylogenetic rollups provide reasonably good correspondence to the NCBI taxonomy, and many users will be familliar with tools such as MEGAN and Krona to represent hierarchical placement of reads in a taxonomy, it may be worthwhile for the user to map the Sequedex output into these formats.
+
+
+.. _s.duplicates:
+
+Removal of duplicate reads with CD-HIT
+======================================
+
+Software to remove duplicates from pyrosequencing data is available at
+`http://weizhong-lab.ucsd.edu/cd-hit/
+<http://weizhong-lab.ucsd.edu/cd-hit/>`_.
+
+.. _s.EMBOSS:
+
+BioPython, BioPerl, and EMBOSS utilities
+========================================
+
+In the flexible workflows described in the Sequedex documentation,
+especially regarding the phylogenetic analysis, the user will
+encounter numerous instances when sequences need to be translated,
+aligned, annotated, visualized on networks, or compared, or may want
+to bundle workflows together in a larger, more complex, program.
+While we typically provide robust examples of hot these tasks can be
+solved, several buldled packages of utilities are available, together
+with source code and documentation to enable modification.  Examples
+of these packages include `BioPython
+<http://biopython.org/wiki/Main_Page>`_, `BioPerl
+<http://www.bioperl.org/wiki/Main_Page>`_, and the `EMBOSS utilities
+<http://emboss.sourceforge.net/>`_.
+
+.. _s.BioEdit:
+
+BioEdit and reference alignments
+=================================
+
+Multiple sequence alignments are a powerful tool for assessing the
+noise characteristics of sequencing errors and for placing novel
+sequences in the context of the existing database of genome sequences.
+Additionally, they provide the starting point for evolutionary
+analysis, such as that described in the section :ref:`s.phyML`.  Such
+analysis was used to compute the reference tree for Sequedex's
+signature calculation, and the reference alignments are provided in
+:ref:`s.RNAP`.  Additionally, when a dominant species is found in a
+metagenome, it is often useful to compare the nucleotide sequence of a
+phylogenetic marker gene to that of an assembled unknown, such as
+provided in :ref:`s.RNAP.nt` for *E. coli* and its neighbors.
+
+If your web browser has a constant width font, the above-mentioned
+alignments will be rendered on your screen so that each column
+contains corresponding a corresponding amino acid or nucleotide.  If
+the sequences are sufficiently similar to one another, numerous
+software packages (see :ref:`s.muscle`, and :ref:`s.Pfam`) are
+available to construct such alignments from appropriate unaligned
+sequence data.  If, however, too much divergence is present in the
+input file or chimeric or inappropriate sequences are included in the
+input file, automated alignment programs can fail, sometimes quite
+badly.  More divergent nucleotide sequences, such as from viral
+genomes, can often be more easily aligned as translated proteins, and
+then un-translated for the evolutionary analysis.
+
+In this case, a sequence alignment viewer and editor can be quite
+useful.  One of the most versatile is `BioEdit
+<http://www.mbio.ncsu.edu/bioedit/bioedit.html>`_, which is freely
+available, although it was written in Visual Basic, and will run only
+under a Windows operating system or Windows emulator, such as `WINE
+<http://www.winehq.org/>`_.
+
+When used for viewing alignments, sequencing errors, stray bar-codes,
+frame-shift mutations, chimeric reads or assemblies, mis-placed start
+codons, and un-alignable proteins are often glaringly obvious.
+Because many alignment programs place similar sequences next to one
+another in the alignment, it is also possible to distinguish orthologs
+from paralogs, and either select a sub-set of sequences for
+re-alignment, or delete problematic sequences and re-align the
+remainders.
+
+Besides making it easier to spot inconsistencies and errors, sequence
+editors also enable manual editing of sequences (and sequence labels)
+in the alignment, by sliding residues or blocks of residues left or
+right, deleting residues judged to be errors, or, if the user so
+desires, sequences can be manually typed in or changed, hopefully with
+some justification.  Although BioEdit does not provide a mechanism to
+access the quality scores, it is quite versitile, and numerous
+strategies exist to obtain alignments that are appropriate inputs to
+evolutionary analysis.
+
+When downloading the reference alignments provided in the sections
+:ref:`s.RNAP` and :ref:`s.RNAP.nt`, the user will need to change them
+into one of the supported file formats, such as fasta.  It is a good
+practice to manually inspect all parts of any alignment which will be
+used for evolutionary analysis, perhaps consulting available
+structures and literature in cases where the sequence data alone is
+ambiguous.
+
+For simply viewing alignments, ClustalX and SeaView both work well.
+
+.. _s.blast:
+
+BLAST and nr / nt databases
+===========================
+
+Although much of the convenience of running Blast as a confirmatory
+analysis lies in the accessibility of the continuously updated
+databases and parallelized compuataional capacity availble through the
+web interface at `NCBI <http://blast.ncbi.nih.gov>`_, it is also quite
+valuable to create customized databases for use on local machines.
+Such databases can allow rapid searches for particular genes, over
+restricted phylogenetic search-space, or over a subset of organisms
+that are appropriately selected and annotated for the purposes of
+annotation.
+
+A customized Blast database can be created from an unaligned fasta
+file with the command:
+
+blast -xxxxx
+
+A Blast search can be run against a local database with the any of the
+commands:
+
+   blastn -db C:\\blast\\db\\bact_complete.fna -query contigs_l.fa -out velveth_l.nt -num_alignments 1
+   blastn -db ~/megan/nt -query contigs_l.fa -out velveth_l.nt -num_threads 4 -num_alignments 1
+   blastn -db ~/megan/nt -query rnap.fa -out rnap.nt -num_threads 4 -num_alignments 1 -outfmt 7
+
+The top one is appropriate for a Windows machine running Cygwin, while
+the bottom two work on a Linux machine with four processors, and
+produce two different types of output file formats.  Blast is an
+extremely flexible software package with extensive documentation.
+
+.. _s.Pfam:
+
+HMMER and Pfam
+===============
+
+HMMER constructs a statistical representation of the conserved
+elements in a multiple sequence alignment (a Hidden Markov Model) that
+can be used to rapidly align and score unknows against the original
+alignment.  It is useful for rapidly aligning and classifying contigs
+or fragments against a family of proteins that can either be created
+from a curated reference or downloaded from (Pfam
+`http://pfam.janelia.org/ <http://pfam.janelia.org/>`_ is an
+exhaustive collection of annotated protein families).  For the highest
+confidence in the match, it is suggested that a tree be built with
+reference genes and the annotations checked.  This is a way to
+distinguish orthologs from paralogs.
+
+.. _s.muscle:
+
+Muscle
+=======
+
+Muscle `http://www.drive5.com/muscle/
+<http://www.drive5.com/muscle/>`_ is rapid enough to simply re-align
+both reference and unknown sequences, although it is also possible to
+use it to add sequences to a frozen alignment.
+
+.. _s.velvet:
+
+Velvet and de-novo assembly
+===================================
+
+Velvet is a robust assembler that does not require quality scores.  It
+can be run with the following two commands::
+
+   velveth 701 21 701.fa
+   velvetg 701
+
+These commands will create an assembly of the reads in the file 701.fa
+with several output files in the directory *701*.  The *21* on the
+first line refers to the length of overlap identity required for two
+reads to be identified as overlapping.  To sort the assembled contigs
+in order of decreasing length, from the directory created by velvet
+(701 in the above example), type::
+
+  tr '\n' ';' < contigs.fa |sed "s/>/\n>/g" |tr '_' ' '|sort -n -r -k4 |sed "s/[0-9];/\n/" |tr -d ';' > sort.contigs.fa
+
+The longest contigs are likely to be the most useful in identifying
+novel organisms, although simply selecting relevant reads for
+alignment will sometimes provide reads of nearly the same length, but
+with much greater choice in location (very important for comparing
+across samples, were it is useful to have the same region selected
+from all samples).  It is also possible to estimate coverage from the
+assembly, and compare to that expected from examination of
+phylogenetic profiles.
+
+.. _s.phyML:
+
+Tree building with phyML or FastTree
+=====================================
+
+Once an unknown read or contig has been placed into a multiple
+sequence alignment, and the alignment has been examined and / or
+curated, it is possible to compute a phylogenetic tree.  Although
+neighbor-joining trees, such as can be easily run from ClustalX or
+BioEdit, can be a quick-and-dirty of screening sequences for
+appropriateness for inclusion of sequences in an alignment, anything
+of importance should be run through a maximum likelihood tree-building
+algorithm, such as `phyML <http://phyml>`_.  Although maximum
+likelihood methods can be time consuming (they typically scale
+linearly with alignment length and cubically with the number of
+sequences, a variety of methods and options are available, and it is
+generally possible to curate the list of sequences to less than 100
+taxa (which aids interpretation as well), so there isn't really a good
+reason for lengthy computations here.
+
+.. _s.pPlacer:
+
+p-values and Pplacer
+====================
+
+`Pplacer <http://matsen.fhcrc.org/pplacer/>`_ is designed to place
+metagenomic reads according to a reference alignment and tree, and
+enable downstream visualization and analysis.  It requires a reference
+alignment, a potentially large number of reads aligned to this
+reference alignment, perhaps with :ref:`s.Pfam`, and a tree-building
+algorithm, such as :ref:`s.phyML`.
+
+.. _s.BWA:
+
+BWA and BowTie2
+======================
+
+When a suitable reference genome is within a couple of percent
+divergence in nucleotide sequence from an unknown in a metagenomic
+sample, read-mappers such BWA or BowTie2 can rapidly extract reads or
+contigs from large input files in a few minutes.  Quality scores are
+preserved and a file format specially designed for such large
+alignments (SAM) as well as its binary version (BAM) are supported.  A
+set of commands that creates such an alignment is::
+
+   bwa index all.na.fas
+   bwa aln -n 2 all.na.fas ../../../test008.fastq > aln.5.sai
+   bwa samse all.na.fas aln.sai ../../../test008.fastq > aln.sam
+
+In the next section, :ref:`s.samtools`, we will generate a consensus fasta file from the above.
+
+.. _s.samtools:
+
+Samtools and Bamtools
+======================
+
+Samtools, Bamtools, and VCFtools are freely available utilities to
+perform a variety of useful manipulations on large alignments in the
+SAM or BAM files.  VCF tools is an additional software suite
+associated with the *Variant Call Format*, designed to enable SNP
+analysis in the presence of sequencing errors.  These files are best
+viewed with a specialized viewer, such as the Integrated Genomics
+Viewer, described in the next section.
+
+The above example from BWA can be continued to create a consensus
+fasta file with the commands::
+
+   samtools faidx all.na.fas
+   samtools view -bt all.na.fas.fai -o aln.bam aln.sam
+   samtools sort aln.bam aln.sorted
+   samtools index aln.sorted.bam
+   samtools mpileup -uf all.na.fas rnap.bam | bcftools view -bvcg - > var.raw.bcf
+   bcftools view var.raw.bcf | vcfutils.pl varFilter -D100 > var.flt.vcf
+   samtools mpileup -uf all.na.fas rnap.sorted.bam | bcftools view -cg - | vcfutils.pl vcf2fq > cns.fq
+
+The process of iteratively distinguishing sequence errors from true
+variants and correctly associating SNPs with one another is
+well-traveled territory; see, for example, `vphaser <broad>`_.
+
+.. _s.IGV:
+
+The Integrated Genomics Viewer
+==============================
+
+The Integrated Genomics Viewer from the Broad Institute is designed to
+compare large, disparate, data sets that can be mapped onto a
+reference genome.  It requires reference genomes and can accommodate
+annotations in the gff format, available with completed and draft
+genomes from NCBI, described in :ref:`s.NCBI`.  It is primarily used
+for resequencing of large, eukaryotic, genomes, so the user will
+likely need to create local reference files for particular genomes of
+interest if environmental or microbiome data are being analyzed.
+
+Since one valuable function the IGV enables is evaluating genome
+inventory, it is important to consider both the quality of the
+annotation and the completeness of the genome inventory, in addition
+to phylogenetic distance when choosing a reference genome.

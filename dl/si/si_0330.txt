@@ -1,0 +1,5 @@
+si_0330	CBSS-87626.3.peg.3639	FIG001590: Putative conserved exported protein precursor
+si_0330	CBSS-87626.3.peg.3639	2-octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.-)
+si_0330	CBSS-87626.3.peg.3639	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)
+si_0330	CBSS-87626.3.peg.3639	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+si_0330	CBSS-87626.3.peg.3639	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)

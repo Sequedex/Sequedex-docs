@@ -1,9 +1,0 @@
-si_0155	Cyanobacterial_Circadian_Clock	Light dependent period modulator LdpA
-si_0155	Cyanobacterial_Circadian_Clock	Circadian input kinase A
-si_0155	Cyanobacterial_Circadian_Clock	Circadian period extender Pex
-si_0155	Cyanobacterial_Circadian_Clock	Circadian clock protein KaiA
-si_0155	Cyanobacterial_Circadian_Clock	Circadian oscillation regulator KaiB
-si_0155	Cyanobacterial_Circadian_Clock	Circadian clock protein KaiC
-si_0155	Cyanobacterial_Circadian_Clock	Clock-associated two-component sensor histidine kinase SasA
-si_0155	Cyanobacterial_Circadian_Clock	Circadian phase modifier
-si_0155	Cyanobacterial_Circadian_Clock	Group 2 RNA polymerase sigma factor

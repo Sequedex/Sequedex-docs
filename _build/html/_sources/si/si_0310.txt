@@ -1,8 +1,0 @@
-si_0310	CBSS-316273.3.peg.2709	FIG034376: Hypothetical protein
-si_0310	CBSS-316273.3.peg.2709	FIG036757: Plasmid-related protein
-si_0310	CBSS-316273.3.peg.2709	FIG041301: Hypothetical protein
-si_0310	CBSS-316273.3.peg.2709	FIG046709: Hypothetical protein
-si_0310	CBSS-316273.3.peg.2709	FIG049434: Periplasmic protein TonB, links inner and outer membranes
-si_0310	CBSS-316273.3.peg.2709	FIG076210: Hypothetical protein
-si_0310	CBSS-316273.3.peg.2709	FIG076676: Hypothetical protein
-si_0310	CBSS-316273.3.peg.2709	Superfamily II DNA/RNA helicases, SNF2 family

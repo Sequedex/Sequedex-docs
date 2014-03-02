@@ -1,4 +1,0 @@
-si_0564	At2g33980_At1g28960	FIG003620: Proteophosphoglycan precursor (Fragment)
-si_0564	At2g33980_At1g28960	FIG017823: ATPase, MoxR family
-si_0564	At2g33980_At1g28960	Hypothetical nudix hydrolase YeaB
-si_0564	At2g33980_At1g28960	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)

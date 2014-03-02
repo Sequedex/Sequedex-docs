@@ -1,3 +1,0 @@
-si_0306	CBSS-316057.3.peg.3521	Large exoproteins involved in heme utilization or adhesion
-si_0306	CBSS-316057.3.peg.3521	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
-si_0306	CBSS-316057.3.peg.3521	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)

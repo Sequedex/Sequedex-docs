@@ -1,0 +1,3 @@
+si_0839	Tannin_biosynthesis	Dihydroflavonol-4-reductase (EC 1.1.1.219)
+si_0839	Tannin_biosynthesis	Anthocyanidin reductase
+si_0839	Tannin_biosynthesis	Leucoanthocyanidin dioxygenase (EC 1.14.11.19)

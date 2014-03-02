@@ -1,0 +1,4 @@
+si_0731	Ribonuclease_P_archaeal_and_eukaryal	Ribonuclease P protein component 1 (EC 3.1.26.5)
+si_0731	Ribonuclease_P_archaeal_and_eukaryal	Ribonuclease P protein component 2 (EC 3.1.26.5)
+si_0731	Ribonuclease_P_archaeal_and_eukaryal	Ribonuclease P protein component 3 (EC 3.1.26.5)
+si_0731	Ribonuclease_P_archaeal_and_eukaryal	Ribonuclease P protein component 4 (EC 3.1.26.5)

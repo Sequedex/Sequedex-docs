@@ -1,8 +1,0 @@
-si_0484	Iron_Scavenging_cluster_in_Thermus	Heme-degrading oxygenase, IsdG-like
-si_0484	Iron_Scavenging_cluster_in_Thermus	FIG078613: hypothetical protein in iron scavenging cluster
-si_0484	Iron_Scavenging_cluster_in_Thermus	Heme ABC transporter, permease protein HmuU
-si_0484	Iron_Scavenging_cluster_in_Thermus	Heme ABC transporter, cell surface heme and hemoprotein receptor HmuT
-si_0484	Iron_Scavenging_cluster_in_Thermus	Heme ABC transporter, ATPase component HmuV
-si_0484	Iron_Scavenging_cluster_in_Thermus	hypothetical protein in Thermus iron scavenging cluster
-si_0484	Iron_Scavenging_cluster_in_Thermus	Ferrichrome-binding periplasmic protein precursor (TC 3.A.1.14.3)
-si_0484	Iron_Scavenging_cluster_in_Thermus	Probable thiol oxidoreductase with 2 cytochrome c heme-binding sites

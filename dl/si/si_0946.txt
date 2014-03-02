@@ -1,0 +1,5 @@
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	ABC transporter membrane-spanning permease, Pep export, Vex1
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	ABC transporter membrane-spanning permease, Pep export, Vex3
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	ABC transporter, ATP-binding protein Vex2
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	Sensor histidine kinase VncS
+si_0946	Streptococcus_pneumoniae_Vancomycin_Tolerance_Locus	Two-component response regulator VncR

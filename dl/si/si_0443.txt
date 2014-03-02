@@ -1,0 +1,13 @@
+si_0443	Sporulation_draft	Sporulation thiol-disulfide oxidoreductase StoA precursor (Stage IV sporulation protein H)
+si_0443	Sporulation_draft	Stage V sporulation protein B
+si_0443	Sporulation_draft	spore peptidoglycan hydrolase (N-acetylglucosaminidase) (EC 3.2.1.-)
+si_0443	Sporulation_draft	Spore cortex-lytic enzyme precursor
+si_0443	Sporulation_draft	Stage 0 sporulation protein YaaT
+si_0443	Sporulation_draft	Spo0E regulatory protein, specific dephosphorylation of Spo0A-P (stage 0 sporulation)
+si_0443	Sporulation_draft	Stage 0 sporulation two-component response regulator (Spo0A)
+si_0443	Sporulation_draft	KinB signaling pathway activation protein
+si_0443	Sporulation_draft	Spore germination protein GerD
+si_0443	Sporulation_draft	Sporulation kinase B (EC 2.7.13.3)
+si_0443	Sporulation_draft	Sporulation kinase B homolog 1
+si_0443	Sporulation_draft	Sporulation kinase B homolog 2
+si_0443	Sporulation_draft	Sporulation kinase A (EC 2.7.13.3)

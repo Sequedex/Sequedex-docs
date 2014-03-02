@@ -1,0 +1,19 @@
+si_0286	CBSS-176280.1.peg.1561	Ribonuclease BN (EC 3.1.-.-)
+si_0286	CBSS-176280.1.peg.1561	Monofunctional biosynthetic peptidoglycan transglycosylase (EC 2.4.2.-)
+si_0286	CBSS-176280.1.peg.1561	Sensor histidine kinase VraS
+si_0286	CBSS-176280.1.peg.1561	Acyl-CoA hydrolase (EC 3.1.2.20)
+si_0286	CBSS-176280.1.peg.1561	Hypothetical protein SAV1869
+si_0286	CBSS-176280.1.peg.1561	Hypothetical protein SAV1877
+si_0286	CBSS-176280.1.peg.1561	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+si_0286	CBSS-176280.1.peg.1561	Hypothetical protein FIG009695
+si_0286	CBSS-176280.1.peg.1561	Hypothetical protein YfkK
+si_0286	CBSS-176280.1.peg.1561	A/G-specific adenine glycosylase (EC 3.2.2.-)
+si_0286	CBSS-176280.1.peg.1561	ThiJ/PfpI family protein
+si_0286	CBSS-176280.1.peg.1561	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+si_0286	CBSS-176280.1.peg.1561	FIG133424: Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+si_0286	CBSS-176280.1.peg.1561	Two component transcriptional regulator VraR
+si_0286	CBSS-176280.1.peg.1561	Teichoic acid translocation permease protein TagG
+si_0286	CBSS-176280.1.peg.1561	Transporter associated with VraSR
+si_0286	CBSS-176280.1.peg.1561	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+si_0286	CBSS-176280.1.peg.1561	FIG010063: hypothetical protein
+si_0286	CBSS-176280.1.peg.1561	Transcription regulator CDS_ID OB0894

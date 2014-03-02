@@ -1,0 +1,7 @@
+si_0543	Benzoate_catabolism	3-Oxoadipate enol-lactonase (EC 3.1.1.24)
+si_0543	Benzoate_catabolism	Acetyl-CoA C-acyltransferase (EC 2.3.1.16)
+si_0543	Benzoate_catabolism	Benzoate 1,2-dioxygenase (EC 1.14.12.10)
+si_0543	Benzoate_catabolism	Benzoate 1,2-dioxygenase beta subunit (EC 1.14.12.10)
+si_0543	Benzoate_catabolism	Catechol 1,2-dioxygenase (EC 1.13.11.1)
+si_0543	Benzoate_catabolism	Muconate cycloisomerase (EC 5.5.1.1)
+si_0543	Benzoate_catabolism	Muconolactone isomerase (EC 5.3.3.4)

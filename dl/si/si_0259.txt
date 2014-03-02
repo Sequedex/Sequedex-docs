@@ -1,0 +1,11 @@
+si_0259	CBSS-393121.3.peg.2760	ABC transporter ATP-binding protein uup
+si_0259	CBSS-393121.3.peg.2760	Cell division protein FtsX
+si_0259	CBSS-393121.3.peg.2760	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
+si_0259	CBSS-393121.3.peg.2760	Membrane proteins related to metalloendopeptidases
+si_0259	CBSS-393121.3.peg.2760	NLP/P60 family protein
+si_0259	CBSS-393121.3.peg.2760	Peptidase, M23/M37 family
+si_0259	CBSS-393121.3.peg.2760	Peptide chain release factor 2
+si_0259	CBSS-393121.3.peg.2760	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+si_0259	CBSS-393121.3.peg.2760	Protein export cytoplasm protein SecA2 ATPase RNA helicase (TC 3.A.5.1.1)
+si_0259	CBSS-393121.3.peg.2760	hypothetical protein BH3604
+si_0259	CBSS-393121.3.peg.2760	peptidoglycan lytic protein P45

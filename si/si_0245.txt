@@ -1,2 +1,0 @@
-si_0245	A_Glutathione-dependent_Thiol_Reductase_Associated_with_a_Step_in_Lysine_Biosynthesis	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
-si_0245	A_Glutathione-dependent_Thiol_Reductase_Associated_with_a_Step_in_Lysine_Biosynthesis	FIG138056: a glutathione-dependent thiol reductase

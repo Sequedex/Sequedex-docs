@@ -1,7 +1,0 @@
-si_0401	2-phosphoglycolate_salvage	Phosphoglycolate phosphatase (EC 3.1.3.18)
-si_0401	2-phosphoglycolate_salvage	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
-si_0401	2-phosphoglycolate_salvage	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
-si_0401	2-phosphoglycolate_salvage	Putative phosphatase YfbT
-si_0401	2-phosphoglycolate_salvage	Putative phosphatase YqaB
-si_0401	2-phosphoglycolate_salvage	Putative phosphatase YieH
-si_0401	2-phosphoglycolate_salvage	2-deoxyglucose-6-phosphate hydrolase YniC

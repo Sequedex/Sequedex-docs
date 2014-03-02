@@ -1,3 +1,0 @@
-si_0341	PA0057_cluster	LysR-family transcriptional regulator clustered with PA0057
-si_0341	PA0057_cluster	Metallo-beta-lactamase superfamily protein PA0057
-si_0341	PA0057_cluster	Thioredoxin-like protein clustered with PA0057

@@ -1,7 +1,0 @@
-si_0422	DNA_processing_cluster	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
-si_0422	DNA_processing_cluster	DNA topoisomerase III (EC 5.99.1.2)
-si_0422	DNA_processing_cluster	FIG000557: hypothetical protein co-occurring with RecR
-si_0422	DNA_processing_cluster	FIG015094: hypothetical protein
-si_0422	DNA_processing_cluster	Inhibitor of pro-sigmaK processing BofA
-si_0422	DNA_processing_cluster	Protein involved in catabolism of external DNA
-si_0422	DNA_processing_cluster	Recombination protein RecR

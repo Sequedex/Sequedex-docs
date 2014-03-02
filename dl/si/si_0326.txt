@@ -1,0 +1,5 @@
+si_0326	CBSS-56780.10.peg.1536	FIG000233: metal-dependent hydrolase
+si_0326	CBSS-56780.10.peg.1536	Magnesium and cobalt efflux protein CorC
+si_0326	CBSS-56780.10.peg.1536	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+si_0326	CBSS-56780.10.peg.1536	Phosphate starvation-inducible ATPase PhoH with RNA binding motif
+si_0326	CBSS-56780.10.peg.1536	Phosphate starvation-inducible protein PhoH, predicted ATPase

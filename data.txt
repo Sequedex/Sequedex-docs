@@ -1,0 +1,93 @@
+.. _s.data:
+
+Reference data
+**************
+
+As explained in the :ref:`s.other` and described in some detail in
+:ref:`s.reads`, further analysis of closely related sequences can
+occur with reference alignments and tree-building.  Creation and
+annotation of reference sequence alignments is a laborious process
+that consumes a significant portion of effort at such specialized
+efforts as the `HIV sequece database
+<http://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html>`_ or
+the `Ribosomal Database project
+<http://rdp.cme.msu.edu/hierarchy/hb_intro.jsp>`_.  We are not
+attempting to be comprehensive (for this, see `Pfam
+<http://pfam.janelia.org/>`_ or `The Hemorrhagic Fever Viruses (HFV)
+Database Project <http://hfv.lanl.gov>`_) or even particularly
+accurate.
+
+Instead, we aim to enable the user to build off of our efforts at
+characterizing one important phylogenetic marker (RNA Polymerase) to
+illustrate the techniques and enable others to replicate and
+trouble-shoot our phylogenetic work in creating our reference tree.
+Additionally, we provide reference alignments for a variety of other
+problems, such as strain-ID of pathogens and distinguishing orthologs
+from paralogs in ascribing functional roles to proteins such as
+virulence factors, enzymes, or regulatory proteins.
+
+Another advantage to the two-step process for prodcing phylogenetic or
+functional assignments is that the most recent information can be used
+in the latter step.  Because Sequedex uses a database of orthogenomic
+signature peptides to identify reads for further analysis,
+improvements in the reference database (Sequedex data module) affect
+only the overall sensitivity, and not the resolution of placement.
+Depending on the question being asked, the sensitivity may already be
+quite high (> 90%).
+
+These alignments can be used in two ways to characterize an unknown;
+both require an alignment of metagenomic reads or assembled contigs to
+the reference alignment.  For a relatively small number of aligned
+reads or contigs, the tree can simply be re-calculated, and the
+relative position of reference and sample can be compared.  For a
+large number of aligned reads or contigs, :ref:`s.Pplacer` can be used
+to visualize which leaves or internal branches provide the
+most-appropriate placement of the reads.
+
+.. _s.RNAP:
+
+Phylogenetic placement of RNA Polymerase reads
+==============================================
+
+RNAaPol alignment files, including beta and beta prime subunits for
+bacterial groups 1-5 of :ref:`s.Life2550`, beta, gamma, and beta prime
+subunits of the cyanobacteria, and the B1 and B2 subunits of
+eukaryotic RNA Pol II (care was taken to exclude RNA Pols I & III).
+The files are in `Phylip format <xxxx>`, because that is what is
+needed for :ref:`s.phyML`.  Sequence file formats can be converted
+online at `the HIV database
+<http://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html>`_.
+
+* Sequence alignments for :download:`Group 1 <dl/RNAP_alignments/data.1>`, :download:`Group 2 <dl/RNAP_alignments/data.2>`, :download:`Group 3 <dl/RNAP_alignments/data.3>`, :download:`Group 4 <dl/RNAP_alignments/data.4>`, :download:`Group 5 <dl/RNAP_alignments/data.5>`, :download:`Group 6 <dl/RNAP_alignments/data.6>`, :download:`Group 7 <dl/RNAP_alignments/data.7>`. 
+
+Subsets of the above files generated trees such as this one:
+
+.. figure:: images/Metazoa_fungi.png
+   :width: 50%
+
+   Maximum likelihood tree of the fungi and metazoa computed with
+   PhyML from an amino acid alignment of the B1 and B2 genes of RNA
+   Polymerase II.
+
+.. _s.RNAP.nt:
+
+Nucleotide Alignments for Strain Attribution
+==============================================
+
+By using nucleotide alignments and all available strains from NCBI's
+completed and draft genomes instead of amino acid alignments and one
+representative per species, it is possible to see considerable
+structure in the various strains of different species, as well as
+interspersing of strains from two different species.  The figure below
+was made from near-neighbors of *E. coli*.
+
+.. figure:: images/Ecoli_tree.png
+   :width: 50%
+
+   Maximum likelihood tree of near-neighbors of *E. coli* computed
+   with PhyML from a nucleotide alignment of the beta and beta prime
+   subunits of the RNA Polymerase genes.
+
+The sequence alignments to make this type of tree are available for
+:download:`E.coli <dl/RNAP_alignments/data.Ecoli.RNAP.nt>`.
+

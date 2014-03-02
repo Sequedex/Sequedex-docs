@@ -1,6 +1,0 @@
-si_0635	Tn552	ATP-binding protein p271
-si_0635	Tn552	Tn552 transposase
-si_0635	Tn552	Resolvase/integrase Bin
-si_0635	Tn552	Beta-lactamase repressor BlaI
-si_0635	Tn552	Beta-lactamase regulatory sensor-transducer BlaR1
-si_0635	Tn552	Beta-lactamase (EC 3.5.2.6)

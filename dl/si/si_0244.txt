@@ -1,0 +1,11 @@
+si_0244	CBSS-83331.1.peg.3039	Membrane-associated zinc metalloprotease
+si_0244	CBSS-83331.1.peg.3039	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+si_0244	CBSS-83331.1.peg.3039	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)
+si_0244	CBSS-83331.1.peg.3039	GCN5-related N-acetyltransferase, FIGfam019367
+si_0244	CBSS-83331.1.peg.3039	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+si_0244	CBSS-83331.1.peg.3039	penicillin-binding protein, putative
+si_0244	CBSS-83331.1.peg.3039	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)
+si_0244	CBSS-83331.1.peg.3039	Penicillin-binding protein 2B
+si_0244	CBSS-83331.1.peg.3039	Stage V sporulation protein D (Sporulation-specific penicillin-binding protein)
+si_0244	CBSS-83331.1.peg.3039	Penicillin-binding protein 2 (PBP-2)
+si_0244	CBSS-83331.1.peg.3039	Penicillin-binding protein 3

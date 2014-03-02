@@ -1,0 +1,10 @@
+si_0791	F0F1-type_ATP_synthase	ATP synthase A chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase B chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase B' chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase C chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase alpha chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase beta chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase gamma chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase delta chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase epsilon chain (EC 3.6.3.14)
+si_0791	F0F1-type_ATP_synthase	ATP synthase protein I

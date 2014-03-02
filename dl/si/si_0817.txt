@@ -1,0 +1,5 @@
+si_0817	Biogenesis_of_cbb3-type_cytochrome_c_oxidases	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+si_0817	Biogenesis_of_cbb3-type_cytochrome_c_oxidases	Type cbb3 cytochrome oxidase biogenesis protein CcoH
+si_0817	Biogenesis_of_cbb3-type_cytochrome_c_oxidases	Putative analog of CcoH, COG3198
+si_0817	Biogenesis_of_cbb3-type_cytochrome_c_oxidases	Type cbb3 cytochrome oxidase biogenesis protein CcoI
+si_0817	Biogenesis_of_cbb3-type_cytochrome_c_oxidases	Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion

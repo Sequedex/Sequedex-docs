@@ -1,4 +1,0 @@
-si_0289	CBSS-224911.1.peg.435	Possible divergent polysaccharide deacetylase
-si_0289	CBSS-224911.1.peg.435	FIG000735: Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase (EC 3.6.1.-)
-si_0289	CBSS-224911.1.peg.435	Carboxyl-terminal protease (EC 3.4.21.102)
-si_0289	CBSS-224911.1.peg.435	Peptidase M23B precursor

@@ -1,0 +1,3 @@
+si_0243	CBSS-257314.1.peg.488	Alanyl-tRNA synthetase (EC 6.1.1.7)
+si_0243	CBSS-257314.1.peg.488	Hypothetical protein possible functionally linked with Alanyl-tRNA synthetase
+si_0243	CBSS-257314.1.peg.488	Putative Holliday junction resolvase (EC 3.1.-.-)

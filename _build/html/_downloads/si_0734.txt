@@ -1,7 +1,0 @@
-si_0734	YrdC-YciO	COG0613, Predicted metal-dependent phosphoesterases (PHP family)
-si_0734	YrdC-YciO	Inactive homolog of metal-dependent proteases, putative molecular chaperone
-si_0734	YrdC-YciO	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit
-si_0734	YrdC-YciO	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
-si_0734	YrdC-YciO	YciO family
-si_0734	YrdC-YciO	YgjD/Kae1/Qri7 family, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
-si_0734	YrdC-YciO	YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA

@@ -1,0 +1,7 @@
+si_0617	Phage_Dual_Exonuclease_Exclusion	Phage DNA binding ATPase
+si_0617	Phage_Dual_Exonuclease_Exclusion	Phage DNA binding protein HkaK
+si_0617	Phage_Dual_Exonuclease_Exclusion	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB
+si_0617	Phage_Dual_Exonuclease_Exclusion	Phage resistance protein
+si_0617	Phage_Dual_Exonuclease_Exclusion	Exodeoxyribonuclease X (EC 3.1.11.-)
+si_0617	Phage_Dual_Exonuclease_Exclusion	Phage DNA repair protein
+si_0617	Phage_Dual_Exonuclease_Exclusion	Phage DNA and RNA binding protein

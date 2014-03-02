@@ -1,0 +1,11 @@
+si_0587	Allantoin_Utilization	Allantoinase (EC 3.5.2.5)
+si_0587	Allantoin_Utilization	Allantoate amidohydrolase (EC 3.5.3.9)
+si_0587	Allantoin_Utilization	Ureidoglycolate dehydrogenase (EC 1.1.1.154)
+si_0587	Allantoin_Utilization	Ureidoglycolate hydrolase (EC 3.5.3.19)
+si_0587	Allantoin_Utilization	Glyoxylate carboligase (EC 4.1.1.47)
+si_0587	Allantoin_Utilization	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+si_0587	Allantoin_Utilization	Glycerate kinase (EC 2.7.1.31)
+si_0587	Allantoin_Utilization	Negative regulator of allantoin and glyoxylate utilization operons
+si_0587	Allantoin_Utilization	DNA-binding transcriptional activator of the allD operon
+si_0587	Allantoin_Utilization	Allantoin permease
+si_0587	Allantoin_Utilization	Allantoicase (EC 3.5.3.4)

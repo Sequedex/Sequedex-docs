@@ -1,5 +1,0 @@
-si_0290	CBSS-228410.1.peg.134	Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)
-si_0290	CBSS-228410.1.peg.134	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
-si_0290	CBSS-228410.1.peg.134	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
-si_0290	CBSS-228410.1.peg.134	Ribonuclease HI (EC 3.1.26.4)
-si_0290	CBSS-228410.1.peg.134	DNA polymerase III epsilon subunit (EC 2.7.7.7)

@@ -1,8 +1,0 @@
-si_0370	methanopterin_biosynthesis	GTP cyclohydrolase III (methanopterin)
-si_0370	methanopterin_biosynthesis	Triaminopyrimidine triphosphate phosphomutase
-si_0370	methanopterin_biosynthesis	7,8-dihydronepterin 2' :3'-cyclicphosphate hydrolase
-si_0370	methanopterin_biosynthesis	Dihydroneopterin monophosphate dephosphorylase
-si_0370	methanopterin_biosynthesis	Dihydroneopterin aldolase (methanopterin)
-si_0370	methanopterin_biosynthesis	6-hydroxymethyl-dihydropterin pyrophosphokinase
-si_0370	methanopterin_biosynthesis	7,8 dihydropteroate synthase (methanopterin)
-si_0370	methanopterin_biosynthesis	beta-ribofuranosylaminobenzene 5'-phosphate synthase

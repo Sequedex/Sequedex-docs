@@ -1,6 +1,0 @@
-si_0628	Prophage-encoded_Rst_operon	RstA phage-related replication protein
-si_0628	Prophage-encoded_Rst_operon	RstB phage-related integrase
-si_0628	Prophage-encoded_Rst_operon	RstC phage-related antirepressor
-si_0628	Prophage-encoded_Rst_operon	RstR phage-related transcriptional repressor
-si_0628	Prophage-encoded_Rst_operon	RstA phage-related replication protein, truncated
-si_0628	Prophage-encoded_Rst_operon	RstA phage-related replication protein, frameshift

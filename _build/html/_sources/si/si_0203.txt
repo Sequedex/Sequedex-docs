@@ -1,7 +1,0 @@
-si_0203	Teichuronic_acid_biosynthesis	Putative N-acetylgalactosaminyl-diphosphoundecaprenol glucuronosyltransferase
-si_0203	Teichuronic_acid_biosynthesis	Putative teichuronic acid biosynthesis glycosyl transferase TuaC
-si_0203	Teichuronic_acid_biosynthesis	Putative teichuronic acid biosynthesis glycosyl transferase TuaH
-si_0203	Teichuronic_acid_biosynthesis	Teichuronic acid biosynthesis protein TuaB
-si_0203	Teichuronic_acid_biosynthesis	Teichuronic acid biosynthesis protein TuaE, putative secreted polysaccharide polymerase
-si_0203	Teichuronic_acid_biosynthesis	Teichuronic acid biosynthesis protein TuaF
-si_0203	Teichuronic_acid_biosynthesis	UDP-glucose dehydrogenase (EC 1.1.1.22)

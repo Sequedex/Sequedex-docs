@@ -1,6 +1,0 @@
-si_0865	Protection_from_Reactive_Oxygen_Species	Manganese superoxide dismutase (EC 1.15.1.1)
-si_0865	Protection_from_Reactive_Oxygen_Species	Superoxide dismutase [Fe] (EC 1.15.1.1)
-si_0865	Protection_from_Reactive_Oxygen_Species	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
-si_0865	Protection_from_Reactive_Oxygen_Species	Catalase (EC 1.11.1.6)
-si_0865	Protection_from_Reactive_Oxygen_Species	Peroxidase (EC 1.11.1.7)
-si_0865	Protection_from_Reactive_Oxygen_Species	Cytochrome c551 peroxidase (EC 1.11.1.5)

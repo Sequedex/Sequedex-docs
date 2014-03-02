@@ -1,0 +1,14 @@
+si_0277	CBSS-257314.1.peg.676	FIG009210: peptidase, M16 family
+si_0277	CBSS-257314.1.peg.676	FIG001621: Zinc protease
+si_0277	CBSS-257314.1.peg.676	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+si_0277	CBSS-257314.1.peg.676	RecA protein
+si_0277	CBSS-257314.1.peg.676	3-oxoacyl-[acyl-carrier protein] reductase paralog (EC 1.1.1.100) in cluster with unspecified monosaccharide transporter
+si_0277	CBSS-257314.1.peg.676	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+si_0277	CBSS-257314.1.peg.676	Unspecified monosaccharide ABC transport system, ATP-binding protein
+si_0277	CBSS-257314.1.peg.676	Unspecified monosaccharide ABC transport system, permease component I
+si_0277	CBSS-257314.1.peg.676	Unspecified monosaccharide ABC transport system, permease component Ia (FIG025991)
+si_0277	CBSS-257314.1.peg.676	Unspecified monosaccharide ABC transport system, permease component Ib (FIG143636)
+si_0277	CBSS-257314.1.peg.676	Competence/damage-inducible protein CinA
+si_0277	CBSS-257314.1.peg.676	FIG002344: Hydrolase (HAD superfamily)
+si_0277	CBSS-257314.1.peg.676	FIG006542: Phosphoesterase
+si_0277	CBSS-257314.1.peg.676	Unspecified monosaccharide ABC transport system, permease component 2

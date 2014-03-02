@@ -1,2 +1,0 @@
-si_0772	Two-component_Response_Regulator_of_Virulence_ResDE	DNA-binding response regulator ResD
-si_0772	Two-component_Response_Regulator_of_Virulence_ResDE	Sensor histidine kinase ResE (EC 2.7.3.-)

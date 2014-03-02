@@ -1,4 +1,0 @@
-si_0253	CBSS-176299.3.peg.235	Indigoidine synthase A-like protein, uncharacterized enzyme involved in pigment biosynthesis
-si_0253	CBSS-176299.3.peg.235	Hypothetical sugar kinase in cluster with indigoidine synthase indA , PfkB family of kinases
-si_0253	CBSS-176299.3.peg.235	Probable pyrimidine nucleoside transport protein
-si_0253	CBSS-176299.3.peg.235	Uncharacterized sugar kinase yeiI clustered with IndA

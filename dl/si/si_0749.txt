@@ -1,0 +1,16 @@
+si_0749	Transcription_factors_bacterial	Regulator of nucleoside diphosphate kinase
+si_0749	Transcription_factors_bacterial	Transcription elongation factor GreA
+si_0749	Transcription_factors_bacterial	Transcription elongation factor GreB
+si_0749	Transcription_factors_bacterial	Transcription elongation factor GreB-related protein
+si_0749	Transcription_factors_bacterial	Anti-cleavage anti-GreA transcription factor Gfh1
+si_0749	Transcription_factors_bacterial	Transcription termination factor Rho
+si_0749	Transcription_factors_bacterial	COG0779: clustered with transcription termination protein NusA
+si_0749	Transcription_factors_bacterial	Transcription termination protein NusA
+si_0749	Transcription_factors_bacterial	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+si_0749	Transcription_factors_bacterial	ribosomal protein L7Ae family protein
+si_0749	Transcription_factors_bacterial	Transcription termination protein NusB
+si_0749	Transcription_factors_bacterial	Transcription antitermination protein NusG
+si_0749	Transcription_factors_bacterial	Transcription antitermination protein UpdY
+si_0749	Transcription_factors_bacterial	Transcriptional activator RfaH
+si_0749	Transcription_factors_bacterial	Transcription-repair coupling factor
+si_0749	Transcription_factors_bacterial	Rho-specific inhibitor of transcription termination (YaeO)

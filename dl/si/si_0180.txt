@@ -1,0 +1,28 @@
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	UDP-N-acetyl-D-mannosaminuronate dehydrogenase
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Serine acetyltransferase (EC 2.3.1.30)
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	exopolysaccharide biosynthesis protein EpsF, putative
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	polysaccharide export protein, putative
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hypothetical protein VpsF
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	CapK protein, putative
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	polysaccharide biosynthesis protein, putative
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hypothetical protein VpsJ
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	RbmA protein
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hypothetical protein RbmB
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hemolysin-related protein RbmC
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	RbmD, similar to Lipid A core - O-antigen ligase and related enzymes
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hypothetical protein RbmE
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hypothetical protein RbmF
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Capsular polysaccharide synthesis enzyme CpsA, sugar transferase
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Capsular polysaccharide synthesis enzyme CpsB
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Capsular polysaccharide synthesis enzyme CpsC, polysaccharide export
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Capsular polysaccharide synthesis enzyme CpsD, exopolysaccharide synthesis
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hypothetical protein VpsP
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hypothetical protein VpsQ
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Transcriptional regulator VpsR
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Transcriptional regulator VpsT
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Quorum-sensing regulator of virulence HapR
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Transcriptional regulator CdgA
+si_0180	Vibrio_Polysaccharide_(VPS)_Biosynthesis	Hemolysin-related protein Vcp

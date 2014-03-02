@@ -1,0 +1,11 @@
+si_0592	Dissimilatory_nitrite_reductase	Cytochrome c551 NirM
+si_0592	Dissimilatory_nitrite_reductase	Cytochrome c55X precursor NirC
+si_0592	Dissimilatory_nitrite_reductase	Cytochrome cd1 nitrite reductase (EC:1.7.2.1)
+si_0592	Dissimilatory_nitrite_reductase	Heme d1 biosynthesis protein NirD
+si_0592	Dissimilatory_nitrite_reductase	Heme d1 biosynthesis protein NirF
+si_0592	Dissimilatory_nitrite_reductase	Heme d1 biosynthesis protein NirG
+si_0592	Dissimilatory_nitrite_reductase	Heme d1 biosynthesis protein NirH
+si_0592	Dissimilatory_nitrite_reductase	Heme d1 biosynthesis protein NirJ
+si_0592	Dissimilatory_nitrite_reductase	Heme d1 biosynthesis protein NirL
+si_0592	Dissimilatory_nitrite_reductase	Nitrite reductase associated c-type cytochorome NirN
+si_0592	Dissimilatory_nitrite_reductase	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)

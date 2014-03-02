@@ -1,4 +1,0 @@
-si_0714	Ribosomal_protein_S12p_Asp_methylthiotransferase	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase
-si_0714	Ribosomal_protein_S12p_Asp_methylthiotransferase	tRNA-i(6)A37 methylthiotransferase
-si_0714	Ribosomal_protein_S12p_Asp_methylthiotransferase	MiaB family protein, possibly involved in tRNA or rRNA modification
-si_0714	Ribosomal_protein_S12p_Asp_methylthiotransferase	SSU ribosomal protein S12p (S23e)

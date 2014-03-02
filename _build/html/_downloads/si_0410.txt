@@ -1,4 +1,0 @@
-si_0410	DNA_repair,_bacterial_UmuCD_system	RecA protein
-si_0410	DNA_repair,_bacterial_UmuCD_system	SOS-response repressor and protease LexA (EC 3.4.21.88)
-si_0410	DNA_repair,_bacterial_UmuCD_system	Error-prone, lesion bypass DNA polymerase V (UmuC)
-si_0410	DNA_repair,_bacterial_UmuCD_system	Error-prone repair protein UmuD

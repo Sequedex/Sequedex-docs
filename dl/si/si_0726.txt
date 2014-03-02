@@ -1,0 +1,4 @@
+si_0726	RNA_3'-terminal_phosphate_cyclase	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+si_0726	RNA_3'-terminal_phosphate_cyclase	Protein RtcB
+si_0726	RNA_3'-terminal_phosphate_cyclase	Protein with similarity to RtcB
+si_0726	RNA_3'-terminal_phosphate_cyclase	Transcriptional regulatory protein RtcR

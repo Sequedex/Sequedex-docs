@@ -1,6 +1,0 @@
-si_0785	The_Chv_regulatory_system_of_Alphaproteobacteria	Sensor histidine kinase ChvG (EC 2.7.3.-)
-si_0785	The_Chv_regulatory_system_of_Alphaproteobacteria	DNA-binding response regulator ChvI
-si_0785	The_Chv_regulatory_system_of_Alphaproteobacteria	HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)
-si_0785	The_Chv_regulatory_system_of_Alphaproteobacteria	ATP-binding protein ManX
-si_0785	The_Chv_regulatory_system_of_Alphaproteobacteria	PTS system permease (IIAMan), nitrogen regulatory IIA protein
-si_0785	The_Chv_regulatory_system_of_Alphaproteobacteria	Phosphocarrier protein, nitrogen regulation associated

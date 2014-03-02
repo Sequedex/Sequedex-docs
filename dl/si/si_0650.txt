@@ -1,0 +1,7 @@
+si_0650	Bacteriorhodopsin	Bacteriorhodopsin
+si_0650	Bacteriorhodopsin	Transcription regulator Bat, regulates bacteriorhodopsin synthesis
+si_0650	Bacteriorhodopsin	Bacteriorhodopsin related protein Brp, likely catalyses oxidative cleavage of beta carotene to retinal
+si_0650	Bacteriorhodopsin	Bacteriorhodopsin related protein Blp
+si_0650	Bacteriorhodopsin	Protein CrtB1 involved in bacteriorhodopsin synthesis
+si_0650	Bacteriorhodopsin	Brp-like protein
+si_0650	Bacteriorhodopsin	Geranylgeranyl-diphosphate geranylgeranyl-transferase

@@ -1,5 +1,0 @@
-si_0875	Flavohaemoglobin	3-phenylpropionate dioxygenase, alpha subunit (EC 1.14.12.19)
-si_0875	Flavohaemoglobin	3-phenylpropionate dioxygenase, beta subunit (EC 1.14.12.19)
-si_0875	Flavohaemoglobin	ABC-type Fe3+-siderophore transport system, permease 2 component
-si_0875	Flavohaemoglobin	Flavohemoprotein (Hemoglobin-like protein) (Flavohemoglobin) (Nitric oxide dioxygenase) (EC 1.14.12.17)
-si_0875	Flavohaemoglobin	Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent

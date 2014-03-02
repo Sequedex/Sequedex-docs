@@ -1,0 +1,3 @@
+si_0709	Inteins	intein-containing
+si_0709	Inteins	Carboxy-terminal intein-mediated trans-splice
+si_0709	Inteins	Amino-terminal intein-mediated trans-splice

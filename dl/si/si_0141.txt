@@ -1,0 +1,8 @@
+si_0141	Glycerol_fermenation_to_1,3-propanediol	1,3-propanediol dehydrogenase (EC 1.1.1.202)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase large subunit (EC 4.2.1.30)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase medium subunit (EC 4.2.1.30)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase reactivation factor large subunit
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase reactivation factor small subunit
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol dehydratase small subunit (EC 4.2.1.30)
+si_0141	Glycerol_fermenation_to_1,3-propanediol	Glycerol uptake facilitator protein

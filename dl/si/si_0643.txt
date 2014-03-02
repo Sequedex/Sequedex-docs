@@ -1,0 +1,17 @@
+si_0643	Photosystem_I	alternative photosystem I reaction center subunit X (PsaK2)
+si_0643	Photosystem_I	photosystem I 4.8K protein (PsaX)
+si_0643	Photosystem_I	photosystem I P700 chlorophyll a apoprotein subunit Ia (PsaA)
+si_0643	Photosystem_I	photosystem I P700 chlorophyll a apoprotein subunit Ib (PsaB)
+si_0643	Photosystem_I	photosystem I assembly related protein Ycf3
+si_0643	Photosystem_I	photosystem I assembly related protein Ycf37
+si_0643	Photosystem_I	photosystem I assembly related protein Ycf4
+si_0643	Photosystem_I	photosystem I biogenesis protein BtpA
+si_0643	Photosystem_I	photosystem I iron-sulfur center subunit VII (PsaC)
+si_0643	Photosystem_I	photosystem I subunit II (PsaD)
+si_0643	Photosystem_I	photosystem I subunit III precursor, plastocyanin (cyt c553) docking protein (PsaF)
+si_0643	Photosystem_I	photosystem I subunit IV (PsaE)
+si_0643	Photosystem_I	photosystem I subunit IX (PsaJ)
+si_0643	Photosystem_I	photosystem I subunit VIII (PsaI)
+si_0643	Photosystem_I	photosystem I subunit X (PsaK, PsaK1)
+si_0643	Photosystem_I	photosystem I subunit XI (PsaL)
+si_0643	Photosystem_I	photosystem I subunit XII (PsaM)

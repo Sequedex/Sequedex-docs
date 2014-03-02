@@ -1,0 +1,9 @@
+si_0910	Adhesion_of_Campylobacter	Outer membrane fibronectin-binding protein
+si_0910	Adhesion_of_Campylobacter	Surface-exposed lipoprotein JlpA
+si_0910	Adhesion_of_Campylobacter	Major cell-binding factor precursor PebA
+si_0910	Adhesion_of_Campylobacter	Amino-acid ABC transporter ATP-binding protein PebC
+si_0910	Adhesion_of_Campylobacter	Putative ABC-type amino-acid transporter permease protein
+si_0910	Adhesion_of_Campylobacter	Putative fibronectin domain-containing lipoprotein
+si_0910	Adhesion_of_Campylobacter	Fibronectin/fibrinogen-binding protein
+si_0910	Adhesion_of_Campylobacter	Filamentous haemagglutinin domain protein
+si_0910	Adhesion_of_Campylobacter	Flagellin C

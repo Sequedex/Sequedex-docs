@@ -1,0 +1,9 @@
+si_0129	Methylcitrate_cycle	Propionate--CoA ligase (EC 6.2.1.17)
+si_0129	Methylcitrate_cycle	2-methylcitrate synthase (EC 2.3.3.5)
+si_0129	Methylcitrate_cycle	2-methylcitrate dehydratase (EC 4.2.1.79)
+si_0129	Methylcitrate_cycle	2-methylcitrate dehydratase FeS dependent (EC 4.2.1.79)
+si_0129	Methylcitrate_cycle	PrpF protein involved in 2-methylcitrate cycle
+si_0129	Methylcitrate_cycle	2-methylisocitrate dehydratase (EC 4.2.1.99)
+si_0129	Methylcitrate_cycle	Methylisocitrate lyase (EC 4.1.3.30)
+si_0129	Methylcitrate_cycle	Propionate catabolism operon regulatory protein PrpR
+si_0129	Methylcitrate_cycle	Propionate catabolism operon transcriptional regulator of GntR family [predicted]

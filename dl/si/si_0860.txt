@@ -1,0 +1,25 @@
+si_0860	Glutathione:_Non-redox_reactions	Distant similarity with leukotriene C4 synthase (microsomal glutathione S-transferase)
+si_0860	Glutathione:_Non-redox_reactions	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase family protein
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, Streptococcal type (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, alpha (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, delta (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, omega (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, phi (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, theta (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, unnamed subgroup (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, unnamed subgroup 2 (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Glutathione S-transferase, zeta (EC 2.5.1.18)
+si_0860	Glutathione:_Non-redox_reactions	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+si_0860	Glutathione:_Non-redox_reactions	Lactoylglutathione lyase (EC 4.4.1.5)
+si_0860	Glutathione:_Non-redox_reactions	Phytochelatin synthase (EC 2.3.2.15), bacterial type
+si_0860	Glutathione:_Non-redox_reactions	Phytochelatin synthase (EC 2.3.2.15), eukaryotic type
+si_0860	Glutathione:_Non-redox_reactions	Probable glutathione S-transferase (EC 2.5.1.18), YfcF homolog
+si_0860	Glutathione:_Non-redox_reactions	Probable glutathione S-transferase (EC 2.5.1.18), YfcG homolog
+si_0860	Glutathione:_Non-redox_reactions	SAM-dependent methyltransferase 2, in cluster with Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+si_0860	Glutathione:_Non-redox_reactions	Similar to Hydroxyacylglutathione hydrolase, but in an organism lacking glutathione biosynthesis
+si_0860	Glutathione:_Non-redox_reactions	Uncharacterized GST-like protein yghU associated with glutathionylspermidine synthetase/amidase
+si_0860	Glutathione:_Non-redox_reactions	Uncharacterized GST-like protein yibF
+si_0860	Glutathione:_Non-redox_reactions	Uncharacterized GST-like protein yncG
+si_0860	Glutathione:_Non-redox_reactions	Uncharacterized glutathione S-transferase-like protein

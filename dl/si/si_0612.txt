@@ -1,0 +1,13 @@
+si_0612	Hydantoin_metabolism	Hydantoin racemase (EC 5.1.99.-)
+si_0612	Hydantoin_metabolism	Hydantoinase
+si_0612	Hydantoin_metabolism	Dihydropyrimidinase (EC 3.5.2.2)
+si_0612	Hydantoin_metabolism	N-carbamoyl-L-amino acid hydrolase (EC 3.5.1.87)
+si_0612	Hydantoin_metabolism	Beta-ureidopropionase (EC 3.5.1.6)
+si_0612	Hydantoin_metabolism	N-methylhydantoinase (ATP-hydrolyzing) (EC 3.5.2.14)
+si_0612	Hydantoin_metabolism	Hydantoin permease
+si_0612	Hydantoin_metabolism	hydantoin racemase
+si_0612	Hydantoin_metabolism	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+si_0612	Hydantoin_metabolism	Hydantoin utilization protein A
+si_0612	Hydantoin_metabolism	N-methylhydantoinase B (EC 3.5.2.14)
+si_0612	Hydantoin_metabolism	N-methylhydantoinase A (EC 3.5.2.14)
+si_0612	Hydantoin_metabolism	D-hydantoinase (EC 3.5.2.2)

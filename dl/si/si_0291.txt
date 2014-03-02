@@ -1,0 +1,9 @@
+si_0291	CBSS-235.1.peg.567	Mlr0777 protein
+si_0291	CBSS-235.1.peg.567	Dihydropteroate synthase (EC 2.5.1.15)
+si_0291	CBSS-235.1.peg.567	GTP-binding protein
+si_0291	CBSS-235.1.peg.567	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+si_0291	CBSS-235.1.peg.567	Amino acid regulated cytosolic protein
+si_0291	CBSS-235.1.peg.567	Mlr0789 protein
+si_0291	CBSS-235.1.peg.567	C4-type zinc finger protein, DksA/TraR family
+si_0291	CBSS-235.1.peg.567	Dihydroneopterin aldolase (EC 4.1.2.25)
+si_0291	CBSS-235.1.peg.567	Phosphohistidine phosphatase SixA

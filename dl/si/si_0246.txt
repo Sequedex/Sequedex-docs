@@ -1,0 +1,7 @@
+si_0246	CBSS-84588.1.peg.1247	All3116 protein
+si_0246	CBSS-84588.1.peg.1247	Aminotransferase ScrA
+si_0246	CBSS-84588.1.peg.1247	Cysteine desulfurase (EC 2.8.1.7)
+si_0246	CBSS-84588.1.peg.1247	Cysteine desulfurase CsdA-CsdE (EC 2.8.1.7), main protein CsdA
+si_0246	CBSS-84588.1.peg.1247	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+si_0246	CBSS-84588.1.peg.1247	Diaminopimelate epimerase (EC 5.1.1.7)
+si_0246	CBSS-84588.1.peg.1247	Tlr0729 protein

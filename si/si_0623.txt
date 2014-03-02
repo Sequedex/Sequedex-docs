@@ -1,4 +1,0 @@
-si_0623	Phage_neck_proteins	Phage neck whiskers
-si_0623	Phage_neck_proteins	Phage collar
-si_0623	Phage_neck_proteins	Phage neck
-si_0623	Phage_neck_proteins	Phage neck protein

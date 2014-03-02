@@ -1,8 +1,0 @@
-si_0934	Mercury_resistance_operon	Mercuric ion reductase (EC 1.16.1.1)
-si_0934	Mercury_resistance_operon	Mercuric resistance operon coregulator
-si_0934	Mercury_resistance_operon	Mercuric resistance operon regulatory protein
-si_0934	Mercury_resistance_operon	Mercuric transport protein, MerC
-si_0934	Mercury_resistance_operon	Mercuric transport protein, MerE
-si_0934	Mercury_resistance_operon	Mercuric transport protein, MerT
-si_0934	Mercury_resistance_operon	Organomercurial lyase (EC 4.99.1.2)
-si_0934	Mercury_resistance_operon	Periplasmic mercury(+2) binding protein

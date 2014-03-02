@@ -1,0 +1,4 @@
+si_0257	CBSS-269482.1.peg.1294	FIGfam005179
+si_0257	CBSS-269482.1.peg.1294	Homoserine kinase (EC 2.7.1.39)
+si_0257	CBSS-269482.1.peg.1294	Organic hydroperoxide resistance transcriptional regulator
+si_0257	CBSS-269482.1.peg.1294	Organic hydroperoxide resistance protein

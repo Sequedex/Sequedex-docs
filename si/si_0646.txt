@@ -1,9 +1,0 @@
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Light-harvesting LHI, alpha subunit
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Light-harvesting LHI, beta subunit
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Photosynthetic reaction center L subunit
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Photosynthetic reaction center M subunit
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Photosynthetic reaction center cytochrome c subunit
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Protein PufQ, involved in assembly of B875 and B800-850 pigment-protein complexes
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Protein PufX, involved in assembly of B875 and B800-850 pigment-protein complexes
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Photosynthetic reaction center H subunit
-si_0646	Photosystem_II-type_photosynthetic_reaction_center	Putative photosynthetic complex assembly protein

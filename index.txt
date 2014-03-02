@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Sequedex's documentation!
-===============================
+====================================
 
 .. toctree::
    :numbered:
@@ -15,7 +15,16 @@ Welcome to Sequedex's documentation!
    installation
    starting
    profiles
-   tree_of_life
+   sequestat
+   transcriptomes
+   samples
+   reads
+   reference
+   software
+   Life2550
    functional
+   viruses
+   data
+
 
 

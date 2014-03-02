@@ -1,0 +1,18 @@
+si_0892	Sulfur_oxidation	sulfur oxidation protein SoxA
+si_0892	Sulfur_oxidation	Sulfur oxidation protein SoxB
+si_0892	Sulfur_oxidation	Sulfur oxidation protein SoxX
+si_0892	Sulfur_oxidation	Sulfur oxidation protein SoxY
+si_0892	Sulfur_oxidation	Sulfur oxidation protein SoxZ
+si_0892	Sulfur_oxidation	Sulfite dehydrogenase cytochrome subunit SoxD
+si_0892	Sulfur_oxidation	Sulfide dehydrogenase [flavocytochrome C] flavoprotein chain precursor (EC 1.8.2.-)
+si_0892	Sulfur_oxidation	Lipocalin-related protein and Bos/Can/Equ allergen
+si_0892	Sulfur_oxidation	Sulfur oxidation molybdopterin C protein
+si_0892	Sulfur_oxidation	transcriptional regulator SoxR
+si_0892	Sulfur_oxidation	Thiol:disulfide interchange protein, thioredoxin family
+si_0892	Sulfur_oxidation	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+si_0892	Sulfur_oxidation	Regulatory protein SoxS
+si_0892	Sulfur_oxidation	thioredoxin SoxW
+si_0892	Sulfur_oxidation	SoxH protein, homolog
+si_0892	Sulfur_oxidation	Blr3520 protein homolog, hypothetical protein
+si_0892	Sulfur_oxidation	Sulfite oxidase
+si_0892	Sulfur_oxidation	cytochrome c subunit of flavocytochrome c sulfide dehydrogenase

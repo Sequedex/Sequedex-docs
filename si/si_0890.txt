@@ -1,2 +1,0 @@
-si_0890	Release_of_Dimethyl_Sulfide_(DMS)_from_Dimethylsulfoniopropionate_(DMSP)	Dimethylsulfoniopropionate (DMSP) acyl CoA transferase DddD
-si_0890	Release_of_Dimethyl_Sulfide_(DMS)_from_Dimethylsulfoniopropionate_(DMSP)	Dimethylsulfoniopropionate (DSMP) lyase DddL

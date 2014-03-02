@@ -1,4 +1,0 @@
-si_0314	CBSS-316407.3.peg.2816	Protein of unknown function DUF541
-si_0314	CBSS-316407.3.peg.2816	Protein involved in stability of MscS mechanosensitive channel
-si_0314	CBSS-316407.3.peg.2816	Arginine exporter protein ArgO
-si_0314	CBSS-316407.3.peg.2816	Lysine efflux permease

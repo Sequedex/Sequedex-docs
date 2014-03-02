@@ -1,0 +1,11 @@
+si_0625	Phage_packaging_machinery	Phage DNA binding protein
+si_0625	Phage_packaging_machinery	Phage DNA packaging
+si_0625	Phage_packaging_machinery	Phage DNA-packaging protein
+si_0625	Phage_packaging_machinery	Phage portal
+si_0625	Phage_packaging_machinery	Phage portal protein
+si_0625	Phage_packaging_machinery	Phage terminase
+si_0625	Phage_packaging_machinery	Phage terminase large subunit
+si_0625	Phage_packaging_machinery	Phage terminase large subunit, PBSX family
+si_0625	Phage_packaging_machinery	Phage terminase small subunit
+si_0625	Phage_packaging_machinery	Phage terminase, large subunit
+si_0625	Phage_packaging_machinery	Phage terminase, small subunit

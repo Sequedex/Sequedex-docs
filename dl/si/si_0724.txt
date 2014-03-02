@@ -1,0 +1,6 @@
+si_0724	Polyadenylation_bacterial	Poly(A) polymerase (EC 2.7.7.19)
+si_0724	Polyadenylation_bacterial	RNA-binding protein Hfq
+si_0724	Polyadenylation_bacterial	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+si_0724	Polyadenylation_bacterial	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)
+si_0724	Polyadenylation_bacterial	tRNA nucleotidyltransferase, CC-adding (EC 2.7.7.21)
+si_0724	Polyadenylation_bacterial	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.25)

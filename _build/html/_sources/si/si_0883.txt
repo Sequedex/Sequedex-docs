@@ -1,5 +1,0 @@
-si_0883	Alkanesulfonates_Utilization	Alkanesulfonates-binding protein
-si_0883	Alkanesulfonates_Utilization	Alkanesulfonates ABC transporter ATP-binding protein
-si_0883	Alkanesulfonates_Utilization	Alkanesulfonates transport system permease protein
-si_0883	Alkanesulfonates_Utilization	Alkanesulfonate monooxygenase (EC 1.14.14.5)
-si_0883	Alkanesulfonates_Utilization	FMN reductase (EC 1.5.1.29)

@@ -1,6 +1,0 @@
-si_0231	Sporulation-related_Hypotheticals	Stage II sporulation protein D
-si_0231	Sporulation-related_Hypotheticals	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
-si_0231	Sporulation-related_Hypotheticals	Stage II sporulation protein related to metaloproteases (SpoIIQ)
-si_0231	Sporulation-related_Hypotheticals	Stage III sporulation protein D
-si_0231	Sporulation-related_Hypotheticals	MreB-like protein (Mbl protein)
-si_0231	Sporulation-related_Hypotheticals	FIG013354: hypothetical protein

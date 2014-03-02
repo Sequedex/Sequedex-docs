@@ -1,5 +1,0 @@
-si_0740	tRNA_nucleotidyltransferase	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)
-si_0740	tRNA_nucleotidyltransferase	tRNA nucleotidyltransferase related protein MMP0420
-si_0740	tRNA_nucleotidyltransferase	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.25)
-si_0740	tRNA_nucleotidyltransferase	tRNA nucleotidyltransferase, CC-adding (EC 2.7.7.21)
-si_0740	tRNA_nucleotidyltransferase	tRNA nucleotidyltransferase, archaeal type (EC 2.7.7.21) (EC 2.7.7.25)
