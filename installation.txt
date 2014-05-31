@@ -7,152 +7,70 @@ Installation instructions
 System requirements
 ===================
 
-* A 64-bit Mac (Snow Leopard or later: Mac OSX 10.6) or Linux (2.6
-  kernel or later) operating system with at least 4 GB of RAM is
-  recommended.  Sequedex is straightforward to run under Windows and
-  we provide installation instructions below using the Linux
-  distribution, but a release packaged specifically for the Windows
-  operating system is not available at this time.
+* A 64-bit operating system with at least 4 GB of RAM is recommended.  For Mac, we recommend Snow Leopard or later (Mac OSX 10.6), for Linux, a 2.6 kernel or later, and for Windows, Windows 7 or 8.
 
-* Sequedex requires version 1.7 of the 64-bit Java SE runtime
-  installed.  Because of some platform- and Java version-depencencies
-  with memory management that can adversely affect performance, we
-  have distributed Sequedex with an open source build of Java 1.7.  It
-  is possible also to use Sequedex with other 64-bit versions of Java,
-  such as those found at http://www.java.com/en/download/manual.jsp or
-  that may already be installed on your computer.
+* Sequedex requires version 1.7 or 1.8 of the 64-bit Java SE runtime environment installed.  It is possible also to use Sequedex with several 64-bit versions of Java, such as those found at http://www.java.com/en/download/manual.jsp or that may already be installed on your computer.
 
-* With the included data module, bact403, Sequedex uses a maximum Java
-  heap size of less than 4 GB.  The larger 'tree of life' data module,
-  tol-all, requires 29 GB of RAM, and is designed to run on a system
-  with 32 GB of RAM.  Although such desktop computers can be acquired
-  for under $1000, or even as a laptop, we have also made smaller
-  versions of this data module available (tol-half and tol-quarter),
-  designed to run on computers with 16 and 8 GB of RAM, respectively.
-  It is best if the computer has sufficient memory available as RAM,
-  but swap to solid state disk may give acceptable performance on some
-  platforms.  For example, we found that Sequedex ran at ~1/2 speed on
-  a Macbook Pro running Mac OS X Snow Leopard with 2 GB of memory and
-  SSD.  Swap to conventional hard disk should be avoided if possible.
+* Sequedex requires Python, and we suggest installation of Anaconda, which includes a wide variety of scientific and bioinformatic packages together with Python.
 
-* If you are installing Sequedex remotely on a server, you will need
-  to have at least a minimal X-windows environment installed, since
-  Sequedex requires a GUI for the licensing step.  Note that ssh -Y
-  enables forwarding of X-windows on most systems.
+* If you are installing Sequedex remotely on a server, you will need to have at least a minimal X-windows environment installed, since Sequedex requires a GUI for the licensing step.  Note that ssh -Y enables forwarding of X-windows on most systems.
+
+* With the included data module, Life2550-4GB, Sequedex uses a maximum Java heap size of less than 4 GB.  Larger 'Life2550' data modules, require more RAM, and provide a higher sensitivity, due to more extensive signature lists.  Desktop computers can be purchases for under $1000 with 32 GB of RAM, and servers with 64 GB or more of RAM are widely available.  Given the expense of acquiring sequence data, it seems likely that an investment of a 32 GB desktop computer for analysis would be warrented.  We have found USB 3.0 drives for reference data (currently $120 per 3 TB drive) is also an effective investment.
+
+* Sequedex is designed to run multiple Java threads, with each thread processing one input file.  Depending on whether the input file is compressed (.gz files are supported), whether classified reads are written to disk, and the I/O speed of your disk (USB 3.0 or Thunderbolt drives work well), we have observed the total performance of Sequedex to continue to improve, even with 48 threads (on a machine with 48 cores).  Certainly, all available threads on dual- and quad-core processors would be effectively utilized.
+  
+
 
 =================================
 Downloading and unpacking for Mac
 =================================
 
-Download a package for your operating system at
-http://sequedex.lanl.gov, then follow the instructions below.
+For now, installation is by command line on all platforms::
 
-Double-click on the .dmg image you just downloaded. This will open a
-window showing the Sequedex icon and several other files.  Drag the
-testData.tgz archive to a convenient place on your system, such as the
-desktop.  Double-click on the testData.tgz archive icon to create an
-uncompressed testData folder.  You will need this data for the testing
-step later.
+ curl -O http://sequedex.lanl.gov/downloads/sequedex-current.tgz
+ tar -xzf sequedex-current.tgz
+ cd sequedex
 
-Drag the Sequedex icon to the applications folder. Open your
-Applications folder, and click on the Sequedex icon. When the dialog
-asking "Do you want to run this application?" appears, click on
-"Open". If you did not previously have Java installed, the system will
-prompt you to install Java at this time.  Once the Sequedex window has
-appeared click on the "Run Sequescan" button.  If you have not had
-Sequedex installed, a window will pop up asking you to accept license
-terms.  Once you have hit "Okay", you are ready to test the
-installation as outlined in the instructions below.
+If your computer has more than 4 GB of memory and if you have a proper python installed as under "System Requirements", then you should do::
 
-Advanced Mac users who wish to access Sequedex through the
-command-line interface should add the app bin/ directory to their path
-by issuing the following command for the bash shell::
+ bin/sequedex-install
 
-   echo 'PATH="/Applications/Sequedex.app/Contents/Resources/bin:${PATH}'>>~/.profile
+You should then execute the::
 
-The corresponding command for csh or tcsh users is::
+ bin/sequescan
 
-    setenv PATH ${PATH}:/Applications/Sequedex.app/Contents/Resources/bin
+command and proceed with obtaining a demo license by using Utilities..Request License and following the instructions there. More details are available in the online documentation.
 
 ===================================
 Downloading and unpacking for Linux
 ===================================
 
-Linux binaries are distributed as a tar.gz archive at http://sequedex.lanl.gov.  
+For now, installation is by command line on all platforms::
 
-Obtain and untar this file into the Sequedex subdirectory (tar -zxf
-Sequedex-1.0.0.tar.gz) from a directory where you want the
-installation (usually /opt for a system-wide install or your home
-directory for a personal install).
+ curl -O http://sequedex.lanl.gov/downloads/sequedex-current.tgz
+ tar -xzf sequedex-current.tgz
+ cd sequedex
 
-Add the sequedex/bin directory to your path (in a bash shell with
-installation in your home directory, this is done with
-PATH=~username/sequedex/bin:$PATH); consult your distribution's
-documentation if you don't know how to do this.
+If your computer has more than 4 GB of memory and if you have a proper python installed as under "System Requirements", then you should type::
 
-Once you have added the bin directory to your path, you can run
-sequescan by typing sequescan with no arguments at a shell prompt.
-This will bring up a Sequedex window, from which you can enter various
-options and run sequescan.  As with the Mac instructions above, the
-first time you click on the "Run Sequescan" button, you will be
-prompted to accept the license terms.  Once this is done you are ready
-to test the installation as outlined below.
+ bin/sequedex-install
 
-.. _s.install.cyg:
+You should then execute::
+
+ bin/sequescan
+
+command and proceed with obtaining a demo license by using Utilities..Request License and following the instructions there. More details are available in the online documentation.
 
 Downloading and unpacking for Windows 7 with Cygwin installed
 =============================================================
 
-Sequedex has not been packaged as a Windows application yet, but you
-may be able to get it working as we did.  While we recommend using
-Sequedex in conjunction with Cygwin, this is primarily for convenience
-in analyzing output files and running downstream analyses.  Begin by
-obtaining the Linux tar.gz archive at http://sequedex.lanl.gov.
-
-If not present on your system, install Version 7.x of the 64 bit Java
-Runtime Environment (or Java Development Kit) from
-http://java.sun.com. Sequedex will not work properly with the 32 bit
-versions.  If a version of Java is distributed with Sequedex, make
-sure it is for Windows.
-
-If you would like to run Sequedex under the Cygwin environment, simply
-add the the Java jre7/bin/ and sequedex/bin/ directories to your
-cygwin PATH variable and invoke the GUI with 'sequescan' or the
-command line version with 'sequescan run' command.  Note that the
-license request file can only be created from the GUI.
+We are currently in the final stages of packaging Sequedex for Windows.
 
 ================================================================
 Downloading and unpacking for Windows 7 without Cygwin installed
 ================================================================
 
-Unzip the Sequedex distribution in the location of your choice
-(eg. c:\\cygwin\\home\\username\\, or c:\\Program Files). The
-top-level Sequedex directory name will be Sequedex.  Add the directory
-with Java to your PATH variable, and define SEQUEDEX_HOME,
-SEQUEDEX_DATA, and SEQUEDEX_ETC as user variables.  In the case of
-SEQUEDEX_HOME, the '\' needs to be doubled, to '\\'.  For example,
-SEQUEDEX_HOME should be set to C:\\cygwin\\home\\username\\sequedex.
-Specifically, in Windows 7, you should:
-
-1. Open Windows Explorer
-2. Right-click on ‘My Computer’
-3. Left-click on ‘Advanced System Settings’
-4. Under the ‘Advanced’ tab of the ‘System Properties dialog box, click on ‘Environment Varibles’
-5. Click on ‘New...’ under the ‘User variables’ list at the top of this box
-6. Enter the variable name, ‘SEQUEDEX_HOME’ and the variable value corresponding to the location of Sequedex in your filesystem, (eg. c:\\cygwin\\home\\username\\sequedex, or c:\\Program Files\\sequedex).  Do the same for SEQUEDEX_DATA and SEQUEDEX_ETC.
-7. Scroll dowin the ‘System variables’ variable list until ‘Path’ or ‘PATH’ is visible, click on it to highlight, then click on the ‘Edit’ button under the list. If no path variable is defined, click on the ‘New...’ button and define one.
-8. Press the ‘End’ button on your keyboard to add text to the end of the ‘Variable value’ box
-9. Add the Java executable to your path variable by typing ;C:\\Program Files\\Java\\jre7\\bin\\ in this dialog box if Java is installed in its default location. Substitute the appropriate location if it is installed elswhere. Sequedex will only work with Version 6 of Java.
-
-To run Sequedex, open an MS dos command prompt from the start menu, and type::
-
-   java -Xms512m -Xmx6000M -jar %SEQUEDEX_HOME%\lib\sequescan.jar
-
-and the Sequedex GUI will open.  Select input files and other options
-as desired and click on 'Run Sequescan'.  The user can place the java
-line into a file, sequescan.bat, right-click on this file in Windows
-Explorer and 'send to desktop' to enable initiation of Sequedex by
-double-clicking on an icon.
+We are currently in the final stages of packaging Sequedex for Windows.
 
 =========================
 Testing your installation
