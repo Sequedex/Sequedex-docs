@@ -8,28 +8,39 @@ Reference
 Command line options for sequescan
 ==================================
 
-sequescan [-h] | [-v] [-c CONFIGFILE] -d DBNAME [-s SCHEME] [-o OUTDIR] INFILE
+The arguments for sequescan can be listed by typing::
 
-Options:
-     -h prints this help message.  All other options and parameters will be ignored.
-     -v verbose output to the terminal using the logging system at the log level
-        specified in the config file.
-     -c CONFIGFILE specifies the location of the config file.  The default value is 
-        /etc/sequedex/sequescan.conf.  Sequescan requires a valid config file to run.
-     -d DBNAME specifies the name of the signature database to use.  This must 
-        correspond to the name of a jar file (*without* the ".jar") in the path pointed
-        to by the config file parameter signature_db_path. As a practice, signature database 
-        directories include the name of their root and the number of interior nodes
-        they have, e.g. bact403h, viruses1252h.
-     -s SCHEME optionally specifies the classification scheme to be used, e.g., seed_0911.
-        At present only one scheme name may be used at a time.  Some databases may not
-        define any classification schemes at all (e.g., the current version of the viruses
-        database.  If you specify a scheme that doesn't exist in the signature database, a
-        fatal error will result.
-     -o OUTDIR overrides the output directory specified in the configuration file.
+ ~/sequedex/bin/sequescan run -h
 
+at the comand line, resulting in the following output::
 
-Parameters:
+ Command line execution of sequescan run mode:
+ sequescan run [-h] [-q] [-c config_file] -d data_module [-o output_directory] [-s function_set] 
+           [-a min_prot_frag_length] [-t thread_num] [-f database_writer_flag] [-l] INFILE
+
+ Example:
+ sequescan run -d Life2550-4GB.0 -s seed_0911.m1 -f 1 /Users/jsmith/mgData
+
+ Option descriptions:
+ -h    mode help
+ -q    quiet option - less messages to console or progress window
+ -c    user-defined configuration file (overrides system configuation file)
+ -d    name of data module
+ -o    user-defined directory for data output (default is directory where input is located)
+ -s    name of function set
+ -a    minimum protein fragment length (overrides configuration file; default is 15)
+ -t    maximum number of threads in threadpool (default = 1)
+ -f    database writer flag (arguments:  0 = no, 1 = yes); analysis_writer_list in config determines type of database 
+       (currently fasta/fastq file)
+ -l    required if INFILE contains list of fasta/fastq files; if argument is "none", the list contains absolute paths;
+       otherwise argument is base directory and paths in list are relative to base directory;
+       when paths are relative to base directory and the -o option is set, output will inlcude relative paths
+
+ INFILE may be a fasta/fastq file, a directory with fasta/fastq files, or a file containing a list of fasta/fastq files.  
+ However, only fasta or fastq files or their gzipped (.gz) versions with an extension in the config file parameter 
+ fa_ext_list will be processed.
+
+ Parameters:
    INFILE is the input file in FASTA format.  Complete paths, relatives paths, and symlinks
    may be used here.
 
@@ -38,215 +49,222 @@ Parameters:
 Environmental variables
 =======================
 
-.. _s.files:
+The environment variables can be seen by typing::
 
-File names
-==========
+ cat sequedex/etc/launcher.conf
 
-**Input path**
+producing::
 
-Sequedex requires an input directory path as a command-line argument.
-It then searches for files of the extension by the configuration file
-parameters input.infile_type and the corresponding input.*ext_list
-(e.g., ".fasta" for FASTA files).  The input directory path may be as
-complicated or as simple as you like, with the only requirement that
-all subdirectories must either be listable or explicitly excluded.
+ # sequedex-launcher config file
+ # version 0.1
+ # 27 August 2013
+ # Joel Berendzen
+ #
+ # This file documents every configuration variable that the launcher knows about.
+ # Variables in this file are set as environmental variables at run time and are available
+ # to all sequedex products (e.g., sequescan, sequinator, etc).
+ #
+ # Configuration variables may be set in four different ways, in order of preference:
+ #
+ #   1. As an environmental variable, either by system rc scripts or on the command line.
+ #       Environmental variables are final, by which I mean they override all other 
+ #       config files and defaults.
+ #
+ #   2. In the user config file.  The location  of the user config file is itself overrideable
+ #       by environmental variables but its default location is ~/.sqdx/launcher.conf.
+ #      The user config file overrides all other settings except for environmental variables.
+ #
+ #   3. In the system config file.  The location this file is always
+ #       $SEQUEDEX_ETC/launcher/launcher.conf, but SEQUEDEX_ETC is overrideable by
+ #       environmental variable or user config file.   If the user config file does not exist
+ #       when the launcher is run, the launcher will attempt to place a copy of the system
+ #       config file into the user config file location.   The system config file overrides
+ #       default values only.
+ #
+ #   4. Default values.  These are coded into the launcher script.  In a few cases, (notably
+ #       SEQUESCAN_HEAPSIZE_MB) these defaults may themselves be derived from 
+ #       a value in a file.
+ #
+ # To set the values in this file, copy the relevant line and uncomment it, replacing the
+ # default value with the desired value.  Environmental variables may not be used
+ #  in setting values in this file.  Quotation is not necessary. and is discouraged.
+ # Comments begin with "#" and  may be placed at the end of lines if desired.
+ # Examples shown use the unix "/" separator.  If you are setting values on a Windows
+ # system, you will need to use the appropriate separator (which depends on whether
+ # you are using Cygwin).  Note that config variables that refer to directories must have
+ # a trailing separator.
+ #
+ # You may obtain a listing of the settings of these variables in the order they are contained
+ # in this file by setting SEQUEDEX_LOGLEVEL to debug or by running the 
+ # sequedex-debug command at the command line.  Debug-level info will be listed in
+ # SEQUEDEX_LAUNCHER_LOGFILE
+ #
+ # The following config variable is set before the user config file is read and thus may
+ # only be set by environmental variable. 
+ #
+ #SEQUEDEX_USERDIR=/home/myname/sqdx/ # must be an absolute path
+ #
+ # The following config variables are set before the system config file is read, and thus
+ # may only be set by environmental variable or user config file.
+ #
+ #SEQUEDEX_LOGLEVEL=debug|info|warning|error # pick only one, default is info
+ #SEQUEDEX_LOGFILE_DIR=$SEQUEDEX_USERDIR/
+ #SEQUEDEX_SEES_STDOUT=True|False  # whether messages go to stdout or to log file, default is platform-specific
+ #SEQUEDEX_HOME=/opt/sequedex/   # set from executable path, don't redefine.
+ #SEQUEDEX_ETC=SEQUEDEX_HOME/etc/
+ # 
+ # Config variables below this point may be set by any mechanism including system config file.
+ #
+ #SEQUEDEX_LIB=SEQUEDEX_HOME/lib/
+ #SEQUEDEX_BIN=SEQUEDEX_HOME/bin/
+ #SEQUEDEX_DATA=SEQUEDEX_HOME/data/
+ #SEQUEDEX_CONTRIB=SEQUEDEX_HOME/contrib/
+ #
+ # OS- and memorysize-dependent config variables.
+ #
+ #SEQUEDEX_PLATFORM_MEMSIZE=4        # size in GB of your computer's memory.  Default is determined at runtime
+ #SEQUEDEX_JAVA=/usr/bin/java                    # location of the java executable.  Default is determined by 'which java' at runtime.
+ #SEQUEDEX_CHECK_JAVA=True                  # If True, check to see that java runs and is the correct version.
+ #SEQUEDEX_REQUIRE_JAVA_VERSION=1.7 # Reported java version string must start with this.
+ #SEQUEDEX_PYTHON2=/usr/bin/python2    # Default is set at runtime by result of 'which python'.
+ #
+ # Variables related to the launcher itself. 
+ #
+ #SEQUEDEX_LAUNCHER_VERSION=[internal version string]
+ #SEQUEDEX_LAUNCHER_DEFAULT_COMMAND=sequescan
+ #
+ #
+ # Variables related to updates.
+ # The update procedure is proxy-aware and uses the HTTP_PROXY
+ # envionmental variable to establish a proxy connection.
+ #
+ #SEQUEDEX_WWW=http://sequedex.lanl.gov/
+ #
+ # Config variables related to sequescan.
+ # SEQUESCAN_HEAPSIZE_MB default is set by reading the file SEQUESCAN_ETC/defaultHeapsize,
+ # which is set by the update script when modules are installed.  If that file is not readable, a value
+ # suitable for use with the minimum supported memory size of 4 GB is used.  The default for 
+ # SEQUESCAN_JAVA_ARGS is system-dependent and includes the default heap size.
+ #
+ #SEQUESCAN_ETC=SEQUEDEX_ETC/sequescan/ 
+ #SEQUESCAN_HEAPSIZE_MB=3000
+ #SEQUESCAN_JAVA_ARGS=-Xms1000m -Xmx3000m
+ #
+ # Config variables related to archy.
+ #
+ #ARCHY_ETC=SEQUEDEX_ETC/archy/
+ #ARCHY_DEFAULT_TREE=ARCHY_ETC/trees/Life2550/tree.phyloxml
+ #
+ # Config variables related to sequinator.
+ #
+ #SEQUINATOR_COMMAND=SEQUEDEX_BIN/sequinator 
+ #SEQUINATOR_BROWSER=/usr/bin/firefox                       # platform-specific defaults.
+ #SEQUINATOR_SERVER=True                                          # True if it serves up files (e.g., not client-only).
+ #SEQUINATOR_CLIENT=True                                          # True if it launches a browser (e.g., not server-only).
+ #SEQUINATOR_HAS_INTERNET=True                            # If False use locally-served files instead of latest from internet.
+ #SEQUINATOR_DATA=SEQUEDEX_DATA/sequinator      # Where to look for comparison data.
+ #SEQUINATOR_SEARCH_PATH=~/:SEQUINATOR_DATA # Path to search when looking for output directories
+ #SEQUINATOR_HOST=127.0.0.1                                       # Default is localhost, set to IP if server on another machine
+ #SEQUINATOR_PORT=8000                                             # Default port, set if conflict.
 
-However, the contributed scripts that depend on Sequedex employ
-an important convention: if more than one input sequence file is
-found in the same directory, the data from those files will be
-treated as replicates.  The contributed scripts generally expect
-to find metadata in the input directories.  The following file names
-and contents are conventional for those scripts:
 
-metadata.tsv - a tab-separated file containing name:value pairs,
-               where the name is in column 1, and the value may
-               occupy may occupy more than one column.  There
-               is no requirement that all rows be padded to the same
-               number of columns. Examples of metadata include names,
-               collection data, sequencing information, latitude/longitude,
-               and URLs (project, data retrieval, and links out to other 
-               metadata collections). The order of data in this file is 
-               not important.Common examples of data in this file include:
-	       	      name  Text string for data in this directory.
-		      	    If this key is not present, most scripts
-			    will use the directory name instead.
-		      	    Name in a directory hierachy may be used
-			    will generally be applied in a hierarchical
-			    fashion, e.g, the lowest-level named "Control"
-			    might be appended to higher levels to
-			    produce a name such as
-			    "Soils/Desert/Nevada/Crust/Control".
-			    May include escaped characters obeying
-			    C conventions such as newlines "\n".
-		 shortName  Short version of the name, e.g. "-".
-		   texName  LaTex-compatible version of the name, which
-		   	    for some plotting programs permits a wider
-			    range of text representations such as subscripts,
-           		    Greek characters, and color.
-                 htmlName   As above, only in HTML.
+.. _s.config:
 
-metadata.xls - Spreadsheet-compatible version of the metadata as above, which
-	       may include column width and row height sizing preferences.
+Configuration options
+=====================
+
+The configuration options for sequescan can be seen by typing::
+
+ cat sequedex/etc/sequescan/sequescan.conf
+
+producing::
+
+ ; Windows style configuration file (INI file) where
+ ; Properties:  name=value
+ ; Sections:    [section]
+ ; created by M. Bussod
+ ; last modified 03/18/2014 by J. Cohn 
+ ; should always be current version
 
 
-**Output files**
+ ; Parameters in this configuration file always evaluate to string values unless the parameter
+ ; name ends in one of the following suffiexes: 
+ ;    *_int:     evaluates to an integer type.
+ ;    *_bool:     evaluates to a boolean type.
+ ;    *_float:     evaluates to floating type.    
+ ;    *_intList:     evaluates to a comma-separated list of integer types.
+ ;    *_boolList:     evaluates to a comma-separated list of boolean types.
+ ;    *_floatList:     evaluates to comma-separated list of floating types.    
 
-Sequedex writes all output to the path specified in the configuration
-file as dir in the section [output].  Sequedex has only a single
-expectation about the output directory, namely write permission.
-However, the contributed analysis scripts generally expect the output
-directory structure to match the input directory structure, even if
-they are in separate hierarchies.  A set of files placed in the output
-directory, which are listed by the names of parameters in the [output]
-section of the configuration file.
-
-C.2.a dir
-
-Specifies the location of the output directory. 
-
-C.2.b logDir
-
-Specifies the location of the log file.
-
-C.2.a who
-
-This is a tab-separated file containing a vector of length nNodes of
-counts of reads assigned to the nodes of the phylogenetic tree.
-
-C.2.b what
-
-This is a set of tab-separated files each containing a vector of
-length nClasses of counts of the number of fragments assigned to
-each class, one file per classification scheme.
-
-C.2.c whoDoesWhat
-
-This is a set of tab-separated files each containing a matrix of size
-nNodex by nClasses of counts of the number of fragments assigned to
-each class for each node, one file per classification scheme.
-
-C.2.e stats
-
-This is a tab-separated file of summary statistics for the signature
-collection. The statistics collected are:::
+ ; extensions of possible output files (files generated during a run depend upon options selected):  
+ ;    .tsv - tab-separated files as documented in the Sequescan design document.
+ ;    .fa   - nucleic acid fasta file of matching reading frames 
+ ;    .fq   - nucleic acid fastq file of matching reading frames
+ ;    .log - logging file.
+ ;    .json - JSON file
+ ;    .json and .tsv files for the most part have the same content in different formats
 
 
-C.2.f log
+ ; runtime values used by this config file
+ ;    DBNAME         ; signature data module name for this analysis from the -d option 
+ ;    SCHEME        ;  function scheme for this analysis from the -s option
 
-This is a log file for the run.  The amount of information written
-here is determined by the configuration file parameter global.logLevel.
-
-C.2.g db
-
-This is an SQLLite database of sequences, signatures, phylogeny
-assignments, and classifications.  See the schema file for more
-details.
+ ; environmental variables used by this config file (if not set, launcher script will set default values)
+ ;    SEQUEDEX_HOME      ; path to the Sequedex distribution directory
+ ;    SEQUINATOR_COMMAND ; full path to the command which launches the sequinator program (currently a javascript application)
+ ;    SEQUEDEX_USERDIR   ; default is currently ~/.sqdx on Linux and Mac
+ ;    SEQUESCAN_ETC ; path to the Sequescan etc directory (which is where, for example, the default sequescan.conf file is located
 
 
-**File conventions**
+ ; Strings enclosed in matching pairs of percent signs will be passed for environmental variable expansion.
+ ; Where paths are relative in config file, on Linux these will be relative to working directory 
+ ; when using Mac app, they will be relative to /? (since working directory for app is /)
+    
 
-Sequedex accepts 3 types of input files and produces 3 types of
-output files, listed here by the file extension.
+ [global]
+ nCPUS_int=1       ; allows usage of n processing threads (if valid license only);  default is 1; 
+                  ; overridden by command line option 
+ min_prot_frag_len_int=15  ; minimum length of protein fragments in amino acids between stop codons
+                          ; overridden by command line option -a 
+ config_file_version=1.0  ; config file version number
 
-D.1. .conf (input)
 
-In addition to command-line parameters, Sequedex uses Windows-style 
-configuration files to control its behavior that look like this:
+ [licensed_features]
+ system_license_file=%SEQUESCAN_ETC%/license.lic  
+        ; if user cannot write to this location, 
+        ; license should be installed in $SEQUEDEX_USERDIR/license.lic
+            ; gui will install license in $SEQUEDEX_USERDIR/license.lic
+        ; program will always look for license in $SEQUEDEX_USERDIR first, then in system_license_file
+ write_db_bool=F   ; analysis writer(s) are only added if set to T (true) 
+                  ; write_db_bool=T is ignored if no valid license
+                  ; overridden by command line option 
 
-; comment
-[Section]
-name=value ; another comment
+ [input]
+ fasta_ext_list=fasta,fst,fna,fas,ffn,fa,fastq,fq    ; allowed file extensions for input sequencing files
+                                                                                                 ; fastq,fq are treated as fastq files - all others as fasta
 
-Values may have environmental variable surrounded by percent-signs.
-Normally these files do not need to be modified, except perhaps to
-change output path rules or to limit resource usage.  For further
-information on them, consult the example files provided.
+ [output]
+ log_dir=log       ; output directory for sequescan log file relative to the top-level output directory 
+ out_dir_ext=sqdx   ; extension for lowest level output directory 
+ who=who-%DBNAME%         ; count of reads assigned to each interior nodes.
+ what=what-%DBNAME%x%SCHEME%  ; fractional count of reads assigned to functional scheme classifications.
+ whoDoesWhat=wdw-%DBNAME%x%SCHEME%   ; matrix of fractional counts of reads assigned by functional scheme and phylogeny.
+      ; Rows are scheme classifications columns are phylogeny.
+      ; Sum across columns is the what vector.
+ stats=%DBNAME%-stats            ; file of general and phylogeny statistics needed for normalization
+ whatstats=whatstats-%DBNAME%x%SCHEME%
+ db=db-%DBNAME%x%SCHEME%    ; core name for database output file (currently only options are for fasta/fastq output) 
+              ; if run with no functions, %SCHEME% will be substituted with "none"
 
-D.2. .fasta (input)
+ progress_writer_list=gov.lanl.sequtils.writer.ProgressFileWriterJ,gov.lanl.sequtils.writer.ProgressFileWriterT  
+    ;list of summary/stats file writers to be used for each sequence file analyzed
+ analysis_writer_list=gov.lanl.sequtils.writer.SequencingFileWriter  
+    ; list of analysis writers to be used for each sequence file analyzed
+ analysis_output_type=same_as_input  ;  analysis writer output type - same_as_input, fasta (.fa), fastq (.fq)
+       ; currently fastq will only work with fastq input but can force fasta output from fastq input
+ analysis_top_node_int=0     ; analysis writer output will include reads assigned to this node 
+       ; and all children nodes under it - 0 means all nodes - not yet working but will be overridable by runtime argument
+ progress_interval_long=1000000      ; if set to 0, will print summary statistics at end of processing for a particular fasta file
+                            ; if n > 0, summary statistics will be written after every n reads have been processed.
+ result_display_path=%SEQUINATOR_COMMAND%
 
-FASTA files are currently the only input file type.  Multi-line
-descriptions are not supported.  The word following the ">" symbol is
-the identifier, which must be left as supplied by the sequencer
-manufacturer, and must be unique. Inputs are DNA only for
-classification and protein only for new scheme calculations.  The
-minimum length of 10 amino acids (30 base pairs), and the maximum
-length is limited by the memory available on your machine with a
-scaling of approximately 20 bytes/base pair.  Ambigious positions will
-be ignored.  It is important to trim off adapter and barcode
-sequences, but one may be quite liberal about including low-quality
-ends of reads because Sequedex will simply not find a signature in
-low-quality regions of the read.  Calculation times are approximately
-linear in number of base-pairs used.
-
-The input files may be symbolic links to the actual files if one
-wishes to keep arbitrary sequencer file names but use "nice" file
-names for analysis.  The symlink names will be used in this case.
-
-D.3. .phyloxml (input)
-
-Phylogenetic trees are in PhyloXML format as specified at
-http://www.phylosoft.org.  Phylogenetic trees must be specified
-at the time signatures are calculated; their connectivity may not
-be changed afterwards without re-calculating the signatures.  The
-branch lengths, colors, branch widths, and node names may be changed
-at any time, however.  Suitable editors and viewers are available
-from the web site.
-
-D.4. .log (output)
-
-These are conventional log files whose contents are controlled by 
-the global.logLevel parameter in the config files.  There is little
-information in these files that is not contained in the stats files,
-but these files are the first place that you should look if there
-seem to be problems with the Sequedex run.
-
-D.5. .tsv (output)
-
-These are tab-separated value files, intended for reading by humans
-either directly or through importing into a spreadsheet.  The use of
-tabs inside a string value can be accomplished through quotation but
-is strongly discouraged due to problems it can cause in downstream
-contributed tools.  In addition, we observe the following convention
-on our tsv files except those with variable numbers of columns (such
-as metadata.tsv).
- 
-   1. The first line in the file is a header that begins with "#tsv " 
-      followed by the number of rows and columns in the table separated
-      by an "x" (for example "\#tsv 403x1008" for the Who Does What
-      matrix.  Note that the first column is always interpreted as
-      string labels, and is not included in this count. Downstream
-      analysis tools that need to parse this data can treat "#tsv "
-      as a magic number implying that the file will behave the rest
-      of the standards in this section.  In particular, the first
-      row and first columns will be interpretable as string labels
-      specifying unit types and (optionally) units.
-   2. Each row of the file contains the same number of tab-separated 
-      columns in the header.
-   3. Row and column labels are unicode and may contain any characters
-      except tabs. Column labels are of the form
-      "Free form text (UNITS)[TYPE]" where:
-           (UNITS) is an optional tag indicating the units of the column.
-                   UNITS should be standard units parseable by IUPAC 
-                   unit-checking code.
-           [TYPE] is an optional tag indicating the type of data in the
-                 row or column if different from string. Valid data
-                 types are:::
-
-                        [float] - indicates the data are floating-point
-                         [bool] - indicates the data are boolean with the
-                                  usual possibilities for encoding (Y/N,
-                                  T/F, 1/0).
-                         [list] - indicates the data are a comma-separated
-                                  list of free-form string data.
-                      [intList] - indicates the data are a comma-separated
-                                  list of integer data. 
-                    [floatList] - indicates the data are a comma-separated
-                                  list of floating-point data. 
-                     [boolList] - indicates the data are a comma-separated
-                                  list of boolean data. 
-                          [int] - indicates the data are integer
-
-                 If any other square-bracketed text occurs at the end of the label,
-                 the whole column will be interpreted as free-form string data.
- 

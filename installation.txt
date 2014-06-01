@@ -166,12 +166,11 @@ Installing new data modules and upgrading Sequedex - System-installs
 
 The license for Sequedex is node-locked, and not restricted to a
 single user.  Consequently, the license file can either be located
-within the Sequedex distribution **(where?)** or copied into each
-user's home directory, into the .sequedex directory.  Note for Cygwin
+within the Sequedex distribution or copied into each
+user's home directory, into the ~/.sqdx directory.  Note for Cygwin
 users, that the home directory is the Windows home directory
 (Typically c:\Users\home\username\) and not the Cygwin home directory.
-For system installs, all users must have read **(and execute??)**
+For system installs, all users must have read and execute
 permissions to the Sequedex distribution, and new data modules can
 only be installed by someone with write permissions to the
-sequedex/data/ directory.  **What about edits to sequescan and
-sequescan.conf?**
+sequedex/data/ directory.

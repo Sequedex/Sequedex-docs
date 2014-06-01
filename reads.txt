@@ -39,7 +39,7 @@ module::
 since every Sequedex-annotated read will contain a nodeID, this can be
 changed to fasta format with::
 
-   grep -A1 node= db-Life2550-40GB.0xseed_0911.fq |tr '@' '>'| grep -v ^-- > out.fas
+   grep -A1 node= db-Life2550-40GB.0xseed_0911.fq |tr '@' '>'| grep -v ^-- > reads.fas
 
 producing::
 
@@ -52,6 +52,16 @@ producing::
 
 note the 'Ns' at the start of two of the three reads, shifting into
 the correct reading frame.
+
+If you have the EMBOSS utilities installed, it is possible to obtain a fasta file of the peptides identified in each read::
+
+transeq =frame 1 reads.fas pep.fas
+
+at which time the coverage can be estimated by searching for RNA polymerase reads (functional category si_0746) or a universally conserved amino acid motif in the RNA polymerases, GG.R.GEME::
+
+grep si_0746 pep.fas|wc
+grep GG.R.GEME pep.fas|wc
+
 
 .. _s.ph_filter:
 

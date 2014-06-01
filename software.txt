@@ -1,4 +1,4 @@
-. _s.software:
+.. _s.software:
 
 Additional software tools and resources for use in conjunction with Sequedex
 *****************************************************************************************
@@ -128,12 +128,14 @@ described in this manual.
   can be viewed with cat, head, or grep Percent.
 
 * The functional categories can be sorted on the screen by decreasing
-  prevalence with 'sort -n -k2 -r what-tol-allxseed_0911.tsv|less'
+  prevalence with::
+
+    sort -n -k3 -r what-Life2550-32GB.0xseed_0911.m1.tsv | less
 
 * The phylogenetic categories can be sorted on the screen by
   decreasing prevalence with::
 
-    tr ' ' '_' < who-tol-all.tsv| sort -n -r -\k 6 |awk '{print $6}'|less
+    sort -n -k3 -r who-Life2550-32GB.0.tsv |less
 
 * A help page can be found for many commands by typing 'man command',
   such as 'man less' or 'man awk'
@@ -142,8 +144,8 @@ described in this manual.
 
 * Commands can be iterated over a list with::
 
-    for i in file1 file2file3;do
-      awk '{print $2}' < $i.fas.sqdz/what.tol-allxseed_0911.tsv>$i.out;done;paste *.out > all.out
+    for i in file1 file2 file3;do
+      awk '{print $3}' < $i.fas.sqdx/what-Life2550-40GB.0xseed_0911.m1.tsv > $i.out ; done ; paste *.out > all.out
     done
 
 * Commands can be saved in a file, and be run in batch by typing
@@ -152,8 +154,8 @@ described in this manual.
   variables can be passed to the script from the command line.
 
 * The utilities `ps2pdf
-  <http://ghostscript.com/doc/current/Ps2pdf.htm>`_ and `convert
-  <http://www.imagemagick.org/script/convert.php>`_ are convenient
+  <http://ghostscript.com/doc/current/Ps2pdf.htm>`_, `convert
+  <http://www.imagemagick.org/script/convert.php>`_, and `pdfunite <http://www.manpagez.com/man/1/pdfunite/>`_ are convenient
   tools for changing among image formats.
 
 A simple text editor that is available in most terminal windows is
@@ -271,6 +273,10 @@ can be installed from within R with the command::
 
    install.packages(repos=NULL, pkgs="gee_4.13-18.tar.gz")
 
+Packages and their dependencies can also be automatically downloades, but may require a proxy server be utilized, if your organization sits behind a firewall.  This can be done with a comand such as::
+
+  Sys.setenv(http_proxy="http://proxyserver.org.org:8080")
+
 Many users prefer to use an integrated development environment such as
 the freely distributed RStudio, from `http://www.rstudio.com/ide/
 <http://www.rstudio.com/ide/>`_ instead of the command-line interface.
@@ -283,16 +289,16 @@ get started applying R to Sequedex data.
   the desired directory, or the command 'setwd("~/sample.fas.sqdx")'.
 
 * Sourcing an external script so the functions and variables can be
-  used interactively: 'source("~/R/sequestat4.r")'.  In this case, the
+  used interactively: 'source("~/sequestat.r")'.  In this case, the
   file `sequestat4.r` will be sourced, assuming it is in the R
   directory of user's home directory, and the external package, ape,
   described above will be loaded.
 
 * Loading a nexus format phylogenetic tree, such as
-  tol=Read.tree("~/R/TOL.nexus"), into the data structure, tol.
+  Life=Read.tree("~/Life2550.nexus"), into the data structure, tol.
 
 * Reading tsv data into the data structure, dat:
-  dat=read.table("~/R/env.tsv",sep="\t").  The first column needs to
+  dat=read.table("~/env.tsv",sep="\t").  The first column needs to
   have node names, and the first row needs to have sample names.  Both
   the rows and columns can be referred to by either element number
   (position) or label.
@@ -543,7 +549,7 @@ annotation.
 A customized Blast database can be created from an unaligned fasta
 file with the command:
 
-blast -xxxxx
+./makeblastdb -in RNAP.fas -dbtype 'prot' -out RNAP -name -RNAP
 
 A Blast search can be run against a local database with the any of the
 commands:

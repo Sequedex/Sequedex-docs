@@ -284,6 +284,8 @@ si_#        category                     subsystem
 0212        	                         :download:`tRNA-dependent_amino_acid_transfers <dl/si/si_0212.txt>`
 ====        ==========================   ===============================================================================================================
 
+.. _clustering:
+
 ============================
 Clustering-based subsystems
 ============================
@@ -497,7 +499,7 @@ si_#        category                     subsystem
 0396        	                         :download:`Thiamin_biosynthesis <dl/si/si_0396.txt>`
 ====        =========================    ===============================================================================================================
 
-.. dna-metabolism:
+.. _dna-metabolism:
 
 ================
 DNA Metabolism
@@ -542,6 +544,8 @@ si_#        category                     subsystem
 0430        	                         :download:`YcfH <dl/si/si_0430.txt>`
 ====        =========================    ===============================================================================================================
 
+.. _dormancy:
+
 =========================
 Dormancy and Sporulation
 =========================
@@ -564,6 +568,8 @@ si_#        category                     subsystem
 0443        	                         :download:`Sporulation_draft <dl/si/si_0443.txt>`
 0444        	                         :download:`Sporulation_gene_orphans <dl/si/si_0444.txt>`
 ====        =========================    ===============================================================================================================
+
+.. _fats:
 
 =====================================
 Fatty Acids, Lipids, and Isoprenoids
@@ -627,6 +633,8 @@ si_#        category                     subsystem
 0486        	                         :download:`Iron_acquisition_in_Vibrio <dl/si/si_0486.txt>`
 0487        	                         :download:`Transport_of_Iron <dl/si/si_0487.txt>`
 ====        =========================    ===============================================================================================================
+
+.. _membranes:
 
 ===================
 Membrane Transport
@@ -695,6 +703,8 @@ si_#        category                     subsystem
 0533        	                         :download:`Sodium_Hydrogen_Antiporter <dl/si/si_0533.txt>`
 ====        =========================    ===============================================================================================================
 
+.. _aromatics:
+
 =================================
 Metabolism of Aromatic Compounds
 =================================
@@ -737,6 +747,8 @@ si_#        category                     subsystem
 0562        	                         :download:`carbazol_degradation_cluster <dl/si/si_0562.txt>`
 0563        	                         :download:`p-cymene_degradation <dl/si/si_0563.txt>`
 ====        =========================    ===============================================================================================================
+
+.. _miscellaneous:
 
 ==============
 Miscellaneous
@@ -806,6 +818,8 @@ si_#        category                     subsystem
 0596        	                         :download:`Nitrosative_stress <dl/si/si_0596.txt>`
 ====        =========================    ===============================================================================================================
 
+.. _nucleosides:
+
 ============================
 Nucleosides and Nucleotides
 ============================
@@ -832,6 +846,8 @@ si_#        category                     subsystem
 0613        	                         :download:`Pseudouridine_Metabolism <dl/si/si_0613.txt>`
 0614        	                         :download:`Ribonucleotide_reduction <dl/si/si_0614.txt>`
 ====        =========================    ===============================================================================================================
+
+.. _phages:
 
 ===================================================
 Phages, Prophages, Transposable elements, Plasmids
@@ -904,6 +920,8 @@ si_#        category                      subsystem
 0651        	                          :download:`Proteorhodopsin <dl/si/si_0651.txt>`
 ====        ==========================    ===============================================================================================================
 
+.. _potassium:
+
 ======================
 Potassium metabolism
 ======================
@@ -916,6 +934,8 @@ si_#        category                     subsystem
 0654        	                         :download:`Potassium_homeostasis <dl/si/si_0654.txt>`
 0655        	                         :download:`pH_adaptation_potassium_efflux_system <dl/si/si_0655.txt>`
 ====        =========================    ===============================================================================================================
+
+.. _protein-metabolism:
 
 ===================
 Protein Metabolism
@@ -1036,6 +1056,8 @@ si_#        category                     subsystem
 0752        Unclassified 	         :download:`Group_II_intron-associated_genes <dl/si/si_0752.txt>`
 ====        =========================    ===============================================================================================================
 
+.. _regulation:
+
 ==============================
 Regulation and Cell signaling
 ==============================
@@ -1085,6 +1107,8 @@ si_#        category                     subsystem
 0790        	                         :download:`cAMP_signaling_in_bacteria <dl/si/si_0790.txt>`
 ====        =========================    ===============================================================================================================
 
+.. _respiration:
+
 ==============
 Respiration
 ==============
@@ -1131,6 +1155,8 @@ si_#        category                        subsystem
 0826        	                            :download:`Soluble_cytochromes_and_functionally_related_electron_carriers <dl/si/si_0826.txt>`
 ====        ============================    ===============================================================================================================
 
+.. _secondary-metabolism:
+
 =====================
 Secondary Metabolism
 =====================
@@ -1161,6 +1187,8 @@ si_#        category                         subsystem
 0841        Plant Hormones	             :download:`Auxin_biosynthesis <dl/si/si_0841.txt>`
 0842        	                             :download:`Auxin_degradation <dl/si/si_0842.txt>`
 ====        =============================    ===============================================================================================================
+
+.. _stress:
 
 =================
 Stress Response
@@ -1209,6 +1237,8 @@ si_#        category                     subsystem
 0880        	                         :download:`Universal_stress_protein_family <dl/si/si_0880.txt>`
 ====        =========================    ===============================================================================================================
 
+.. _sulfur:
+
 ==================
 Sulfur Metabolism
 ==================
@@ -1231,6 +1261,8 @@ si_#        category                     subsystem
 0892        	                         :download:`Sulfur_oxidation <dl/si/si_0892.txt>`
 0893        	                         :download:`Thioredoxin-disulfide_reductase <dl/si/si_0893.txt>`
 ====        ===========================  ===============================================================================================================
+
+.. _virulence:
 
 ================================
 Virulence, Disease, and Defense

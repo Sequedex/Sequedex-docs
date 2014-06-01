@@ -13,7 +13,7 @@ Tree files can be downloaded in
 *    :download:`pdf <dl/virus1252.pdf>` 
 formats.
 
-There is, at present, no functional information associated with the viral signatures.
+The viral sequence data module virus1252.1 is annotated with the functional classifications present in `Pfam release 27 <http://pfam.xfam.org>`_.
 
 .. _s.ssDNA:
 

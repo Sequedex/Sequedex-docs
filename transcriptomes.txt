@@ -2,6 +2,286 @@
 
 Functional analysis
 *******************
+Sequedex not only places each 10-mer on a phylogenetic tree, but it also searches an 962 example sets of genes for a functional assignment as well.  For the seed_0911.m1 set of functional assignments, we used the SEED classification of functions, which have the added benefit of a well-defined hierarchical rollup.  The names and sets of genes are ennumerated in section :ref:`s.seed`, where clicking on each label provides the annotation for each gene included (across the phylogeny) in the subsystem.  For the ribosome, category si_0962, both the large and small subunits from across the 1550 species in the tree of life were translated into all three forward reading frames to make 10-mer 'amino acid' signatures, while the bacteria and archaea also had the tRNAs translated in a similar fasion.  In the event a gene with a 10-mer signature appears in multiple categories, a metagenomic read contains 10-mers from different genes in different categories, the read is apportioned equally among all categories.  
+
+.. _s.top100:
+
+Top 100 functional categories
+=============================
+
+In this first section, we examine the functional categories with the most reads mapping to them across DNA sequenced across seven microbiomes and mRNA sequenced across two eukarotic marine samples.  Functional categories will attract more reads for several reasons: first, because there may be many reads in them (eg. the citric acid cycle); second, because the genes may be highly conserved across numerous organisms (eg. the ribosome); and third, because the gene may be highly expressed in a particular microbial environment (eg. photosystem II).  The seven groups of DNA sequenced across seven microbiomes include three groups from the human microbiome data shown early, grouped into the skin (ear and nose), the mouth, and 'cavities', which includes stool samples and vaginal samples.  It also includes the environmental microbiomes, grouped into four categories; soils, fresh water, salt water, and fermented samples.  The two transcriptome samples were the green algae and dinoflagellates from the eukaryotic marine algae transcriptome project, sponsored by the Moore foundation and sequenced at NCGR.
+
+The goal of this section is to provide an understanding of how 10 percent of the more important functional categories are defined, represented in a variety of microbial environments, and relate to some of the other community resources available for functional annotation of proteins.  We plot them in groups of ten, with the y-axis labeled in parts per thousand, and skipping the most prevalent functional category, si_0962, the large and small subunits of the ribosome.
+
+  `SEED description <http://www.theseed.org/SubsystemStories/>`_ are available for many of these subsystems.
+
+.. figure:: images/fn0.png
+   :width: 80%
+
+The ten most prevalent categories include:
+
+*  :download:`si_0042; Methionine biosynthesis <dl/si/si_0042.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 270 <http://www.genome.jp/kegg-bin/show_pathway?map00270>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Methionine_Biosynthesis/story.pdf>`_ by Dmitry Rodionov describes a variet of pathways leading to methionine.
+
+*  :download:`si_0068; Glycolysis and Gluconeogenesis <dl/si/si_0068.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 10 <http://www.genome.jp/kegg-bin/show_pathway?map00010>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Glycolysis/story.pdf>`_ by Svetlana Gerdes and Ross Overbeek, describe glycolysis and gluconeogenesis.
+
+*  :download:`si_0660; Ribosome LSU bacterial <dl/si/si_0660.txt>` in the :ref:`protein-metabolism` rollup category.  It can be found on `Kegg map 3010 <http://www.genome.jp/kegg/pathway/map/map03010.html>`_.
+
+*  :download:`si_0645; Photosystem II <dl/si/si_0645.txt>` in the :ref:`photosynthesis` rollup category.  It can be found on `Kegg map 195 <http://www.genome.jp/kegg/pathway/map/map00195.html>`_.
+
+*  :download:`si_0707; Protein chaperones <dl/si/si_0707.txt>` in the :ref:`protein-metabolism` rollup category.  DnaJ is HSP-40 and dnaK is HSP-70.  See the `Wikipedia page <http://en.wikipedia.org/wiki/chaperone_dnaJ>`_ and `PMID 16952052 <http://www.ncbi.nlm.nih.gov/pubmed/16952052>`_.
+
+*  :download:`si_0415; DNA replication <dl/si/si_0415.txt>` in the :ref:`dna-metabolism` rollup category. 
+
+*  :download:`si_0673; Universal GTPases <dl/si/si_0673.txt>` in the :ref:`protein-metabolism` rollup category.  `Caldon, et al. <http://www.ncbi.nlm.nih.gov/pubmed/11489118>`_ suggest that the 11 universal GTPases are either necessary for ribosome function or transmitting information from the ribosome to downstream targets for the purpose of generating specific cellular responses.
+
+*  :download:`si_0791; F0F1 type ATP synthase <dl/si/si_0791.txt>` in the :ref:`respiration` rollup category.  It can be found on `Kegg map 195 <http://www.genome.jp/kegg/pathway/map/map00195.html>`_.
+
+*  :download:`si_0602; Purine conversions <dl/si/si_0791.txt>` in the :ref:`nucleosides` rollup category.  It can be found on `Kegg map 230 <http://www.genome.jp/kegg/pathway/map/map00230.html>`_.
+
+*  :download:`si_0851; dnaK Heat shock cluster <dl/si/si_0851.txt>` in the :ref:`stress` rollup category.  DnaJ is HSP-40 and dnaK is HSP-70.  See the `Wikipedia page <http://en.wikipedia.org/wiki/chaperone_dnaJ>`_ and `PMID 16952052 <www.ncbi.nlm.nih.gov/pubmed/16952052>`_.
+
+
+.. figure:: images/fn1.png
+   :width: 80%
+
+Categories 11-20 include:
+
+*  :download:`si_0043; Methionine Degradation <dl/si/si_0043.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 270 <http://www.genome.jp/kegg-bin/show_pathway?map00270>`_
+
+*  :download:`si_0279; Bacterial Cell Division <dl/si/si_0279.txt>` in the :ref:`clustering` rollup category.  It can be found on `Kegg map 4112 <http://www.genome.jp/kegg/pathway/map/map04112.html>`_.
+
+*  :download:`si_0640; Phosphate metabolism <dl/si/si_0640.txt>` in the :ref:`phosphorous` rollup category.  Some description can be found in `Gebhard, et al. <http://www.biomedcentral.com/1471-2180/9/254>`_.
+
+*  :download:`si_0600; De Novo Purine Biosynthesis <dl/si/si_0600.txt>` in the :ref:`nucleosides` rollup category.  It can be found on `Kegg map 230 <http://www.genome.jp/kegg/pathway/map/map00230.html>`_.
+
+*  :download:`si_0448; FAS II; Fatty Acid Biosynthesis <dl/si/si_0448.txt>` in the :ref:`fats` rollup category.  It can be found on `Kegg map 61 for biosynthesis <http://www.genome.jp/kegg/pathway/map/map00061.html>`_, `Kegg map 62 for elongation <http://www.genome.jp/kegg/pathway/map/map00062.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Fatty_Acid_Biosynthesis_FASII/story.pdf>`_ by Andrei Osterman describes fatty acid biosynthesis through FAS II, which is largely homologous to FAS I.
+
+*  :download:`si_0060; Calvin-Benson cycle <dl/si/si_0060.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 710 <http://www.genome.jp/kegg/pathway/map/map00710.html>`_.
+
+*  :download:`si_0122; Serine-glyoxylate cycle <dl/si/si_0122.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 630 <http://www.genome.jp/kegg/pathway/map/map00630.html>`_.
+
+*  :download:`si_0746; RNA polymerase bacterial <dl/si/si_0746.txt>` in the :ref:`rna-metabolism` rollup category.  It can be found on `Kegg map 3020 <http://www.genome.jp/kegg/pathway/map/map03020.html>`_.
+
+*  :download:`si_0080; TCA Cycle <dl/si/si_0080.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 20 <http://www.genome.jp/kegg/pathway/map/map00020.html>`_.
+
+*  :download:`si_0032; Gln, Glu, Asn, & Asp Biosynthesis <dl/si/si_0032.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 250 <http://www.genome.jp/kegg/pathway/map/map00250.html>`_.
+
+
+.. figure:: images/fn2.png
+   :width: 80%
+
+Categories 21-30 include:
+
+*  :download:`si_0662; Ribosome SSU bacterial <dl/si/si_0662.txt>` in the :ref:`protein-metabolism` rollup category.  It can be found on `Kegg map 3010 <http://www.genome.jp/kegg/pathway/map/map03010.html>`_.
+
+*  :download:`si_0526; Ton and Tol transport systems <dl/si/si_0526.txt>` in the :ref:`membranes` rollup category.  `Danese, et al. <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC517599>`_ describe the Ton system to obtain iron in Brucella spp.  `Housden, et al. <http://www.pnas.org/content/102/39/13849.full>`_ describe how Ton and Tol facilitate uptake of chelated iron or group B colicins through active transport.
+
+*  :download:`si_0614; Ribonucleotide reduction <dl/si/si_0614.txt>` in the :ref:`nucleosides` rollup category.  The `Wikipedia article <http://en.wikipedia.org/wiki/Ribonucleotide_reductase>`_ describes how ribonucleotide reductase converts RNA to DNA, maintaining an appropriate concentration of DNA throughout the cell cycle.  `The SEED description <http://www.theseed.org/SubsystemStories/Ribonucleotide_reduction/story.pdf>`_ by Dmitry Rodinov desribes the three classes of ribonucleotide reductases.
+
+*  :download:`si_0205; Peptidoglycan Biosynthesis <dl/si/si_0205.txt>` in the :ref:`cell-wall` rollup category.  It can be found on `Kegg map 550 <http://www.genome.jp/kegg/pathway/map/map00550.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Peptidoglycan_Biosynthesis_1/story.pdf>`_ by Vassily Portnoy, Olga Vassieva, and Rick Stevens describes peptidoglycan biosynthesis.
+
+*  :download:`si_0725; Queuosine - Archaeosine Biosynthesis <dl/si/si_0725.txt>` in the :ref:`rna-metabolism` rollup category.  `The SEED description <http://www.theseed.org/SubsystemStories/Queuosine/story.pdf>`_ describes the synthesis and incorporation of the modified bases of tRNA, Queuosine and Archaeosine.
+
+*  :download:`si_0377; Pyridoxin (Vitamin B6) Biosynthesis <dl/si/si_0377.txt>` in the :ref:`cofactors` rollup category.  It can be found on `Kegg map 750 <http://www.genome.jp/kegg/pathway/map/map00750.html>`_.
+
+*  :download:`si_0065; Entner-Doudoroff Pathway <dl/si/si_0065.txt>` in the :ref:`carbohydrates` rollup category.  From `Wikipedia <http://en.wikipedia.org/wiki/Entner-Doudoroff_pathway>`_, the Entner-Doudoroff pathway is a low-efficiency pathway to take glucose to pyruvate, found mostly in Gram-negative organisms, such as Pseudomonas, Rhizobium, Azotobacter, and Agrobacterium.
+
+*  :download:`si_0077; anaplerotic pyruvate metabolism I: PEP <dl/si/si_0077.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 20 <http://www.genome.jp/kegg/pathway/map/map00020.html>`_.  See the `Wikipedia article <http://en.wikipedia.org/wiki/Anaplerotic_reactions>`_.
+
+*  :download:`si_0701; ATP-dependent proteolysis in bacteria <dl/si/si_0701.txt>` in the :ref:`protein-metabolism` rollup category.
+
+*  :download:`si_0589; Ammonia assimilation <dl/si/si_0589.txt>` in the :ref:`nitrogen` rollup category.  It can be found on `Kegg map 910 <http://www.genome.jp/kegg/pathway/map/map00910.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Ammonia_assimilation/story.pdf>`_ by Ed Frank, describes the glutamate dehydrogenase or GS-GOGAT pathways.
+
+
+.. figure:: images/fn3.png
+   :width: 80%
+
+Categories 31-40 include:
+
+*  :download:`si_0812; Respiratory Complex I <dl/si/si_0812.txt>` in the :ref:`respiration` rollup category.
+
+*  :download:`si_0405; DNA repair, bacterial <dl/si/si_0405.txt>` in the :ref:`dna-metabolism` rollup category.  `The SEED description <http://www.theseed.org/SubsystemStories/DNA_Repair_Base_Excision/full.htm>`_ by Michael Kubal, describes a process of DNA base excision repair through detection, breakage, exonuclease activity, DNA polyerase, and DNA ligase.
+
+*  :download:`si_0606; De Novo Pyrimidine Synthesis <dl/si/si_0606.txt>` in the :ref:`nucleosides` rollup category.  It can be found on `Kegg map 240 <http://www.genome.jp/kegg/pathway/map/map00240.html>`_.
+
+*  :download:`si_0609; pyrimidine conversions <dl/si/si_0609.txt>` in the :ref:`nucleosides` rollup category.  It can be found on `Kegg map 240 <http://www.genome.jp/kegg/pathway/map/map00240.html>`_.
+
+*  :download:`si_0023; Branched-Chain Amino Acid Biosynthesis <dl/si/si_0023.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 290 <http://www.genome.jp/kegg/pathway/map/map00290.html>`_.
+
+*  :download:`si_0363; Folate Biosynthesis <dl/si/si_0363.txt>` in the :ref:`cofactors` rollup category.  It can be found on `Kegg map 790 <http://www.genome.jp/kegg/pathway/map/map00790.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Folate_biosynthesis/story.pdf>`_ by Valerie de Crecy-Lagard and Andrew Hanson describes folate biosynthesis.
+
+*  :download:`si_0459; Glycerolipid and Glycerophospholipid Metabolism <dl/si/si_0459.txt>` in the :ref:`fats` rollup category.  It can be found on `Kegg map 561 <http://www.genome.jp/kegg/pathway/map/map00561.html>`_ and `Kegg map 564 <http://www.genome.jp/kegg/pathway/map/map00564.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Glycerolipid_metabolism/story.pdf>`_ by Vasiliy Portnoy describes glycerolipid an diglycerophospholipid biosynthesis.
+
+*  :download:`si_0404; DNA repair, UvrABC system <dl/si/si_0404.txt>` in the :ref:`dna-metabolism` rollup category.
+
+*  :download:`si_0558; ZZ gjo need homes <dl/si/si_0558.txt>` in the :ref:`miscellaneous` rollup category.
+
+*  :download:`si_0334; Met-tRNA formyltransferase gene cluster <dl/si/si_0334.txt>` in the :ref:`clustering` rollup category.
+
+
+.. figure:: images/fn4.png
+   :width: 80%
+
+Categories 41-50 include:
+
+*  :download:`si_0073; Pentose phosphate pathway <dl/si/si_0073.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 30 <http://www.genome.jp/kegg/pathway/map/map00030.html>`_.
+
+*  :download:`si_0331; Cell division-ribosomal stress proteins cluster <dl/si/si_0331.txt>` in the :ref:`clustering` rollup category.
+
+*  :download:`si_0062; Photorespiration (oxidative C2 cycle) <dl/si/si_0062.txt>` in the :ref:`carbohydrates` rollup category.
+
+*  :download:`si_0393; Heme - Siroheme Biosynthesis <dl/si/si_0393.txt>` in the :ref:`cofactors` rollup category.  It can be found on `Kegg map 860 <http://www.genome.jp/kegg/pathway/map/map00860.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Porphyrin,_Heme,_and_Siroheme_Biosynthesis/story.pdf>`_ by Svetlana Gerdes describes tetrapyrrole biosynthesis.
+
+*  :download:`si_0357; Biotin biosynthesis <dl/si/si_0357.txt>` in the :ref:`cofactors` rollup category.  It can be found on `Kegg map 780 <http://www.genome.jp/kegg/pathway/map/map00780.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Biotin_biosynthesis/story.pdf>`_ by Dmitry Rodionov, describes how biotin, vitamin H, which is an essential cofactor for a class of important metabolic enzymes.
+
+*  :download:`si_0362; 5-FCL-like protein <dl/si/si_0362.txt>` in the :ref:`cofactors` rollup category.
+
+*  :download:`si_0038; Lysine Biosynthesis DAP Pathway <dl/si/si_0038.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 300 <http://www.genome.jp/kegg/pathway/map/map00300.html>`_.
+
+*  :download:`si_0006; Arginine Biosynthesis, extended <dl/si/si_0006.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 330 <http://www.genome.jp/kegg/pathway/map/map00330.html>`_.
+
+*  :download:`si_0078; Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate <dl/si/si_0078.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 620 <http://www.genome.jp/kegg/pathway/map/map00620.html>`_ and `Kegg map 770 <http://www.genome.jp/kegg/pathway/map/map00770.html>`_.
+
+*  :download:`si_0085; Maltose and Maltodextrin Utilization <dl/si/si_0085.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 500 <http://www.genome.jp/kegg/pathway/map/map00500.html>`_.
+
+
+.. figure:: images/fn5.png
+   :width: 80%
+
+Categories 51-60 include:
+
+*  :download:`si_0059; CO2 uptake, carboxysome <dl/si/si_0059.txt>` in the :ref:`carbohydrates` rollup category.
+
+*  :download:`si_0654; Potassium homeostasis <dl/si/si_0654.txt>` in the :ref:`potassium` rollup category.
+
+*  :download:`si_0002; Glycine and Serine Utilization <dl/si/si_0002.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 260 <http://www.genome.jp/kegg/pathway/map/map00260.html>`_.
+
+*  :download:`si_0668; Translation elongation factors bacterial <dl/si/si_0668.txt>` in the :ref:`protein-metabolism` rollup category.
+
+*  :download:`si_0455; Isoprenoid Biosynthesis <dl/si/si_0455.txt>` in the :ref:`fats` rollup category.  `The SEED description <http://www.theseed.org/SubsystemStories/Isoprenoid_Biosynthesis/story.pdf>`_ by Olga Zagnitko, describes how the major terpenoid building blocks, isopentenyl diphosphate and dimethylallyl diphosphate, are produced by the mevalonate and non-mevalonate pathways.
+
+*  :download:`si_0178; Sialic Acid Metabolism <dl/si/si_0178.txt>` in the :ref:`cell-wall` rollup category.
+
+*  :download:`si_0135; Glycogen metabolism <dl/si/si_0135.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 500 <http://www.genome.jp/kegg/pathway/map/map00500.html>`_.
+
+*  :download:`si_0153; Bacterial Cytoskeleton <dl/si/si_0153.txt>` in the :ref:`cell-division` rollup category.
+
+*  :download:`si_0046; Threonine and Homoserine Biosynthesis <dl/si/si_0046.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 260 <http://www.genome.jp/kegg/pathway/map/map00260.html>`_.
+
+*  :download:`si_0403; DNA Repair; Base Excision <dl/si/si_0403.txt>` in the :ref:`dna-metabolism` rollup category.
+
+
+.. figure:: images/fn6.png
+   :width: 80%
+
+Categories 61-70 include:
+
+*  :download:`si_0035; Histidine Biosynthesis <dl/si/si_0035.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 340 <http://www.genome.jp/kegg/pathway/map/map00340.html>`_.
+
+*  :download:`si_0772; ATP-dependent RNA helicases,  bacterial <dl/si/si_0772.txt>` in the :ref:`rna-metabolism` rollup category.
+
+*  :download:`si_0738; tRNA modification Archaea <dl/si/si_0738.txt>` in the :ref:`rna-metabolism` rollup category.
+
+*  :download:`si_0492; ABC transporter oligopeptide (TC_3.A.1.5.1) <dl/si/si_0492.txt>` in the :ref:`membranes` rollup category.
+
+*  :download:`si_0704; GroEL GroES <dl/si/si_0704.txt>` in the :ref:`protein-metabolism` rollup category.
+
+*  :download:`si_0389; Chlorophyll Biosynthesis <dl/si/si_0389.txt>` in the :ref:`cofactors` rollup category.  It can be found on `Kegg map 860 <http://www.genome.jp/kegg/pathway/map/map00860.html>`_.  `The SEED description <http://www.theseed.org/SubsystemStories/Chlorophyll_Biosynthesis/full.htm>`_ by Svetlana Gerdes and Veronika Vonstein, describes the biosynthesis of chlorophyll, used in photosynthesis.
+
+*  :download:`si_0593; Nitrate and nitrite ammonification <dl/si/si_0593.txt>` in the :ref:`nitrogen` rollup category.  It can be found on `Kegg map 910 <http://www.genome.jp/kegg/pathway/map/map00910.html>`_.
+
+*  :download:`si_0392; Coenzyme B12 biosynthesis <dl/si/si_0392.txt>` in the :ref:`cofactors` rollup category.
+
+*  :download:`si_0568; Iojap <dl/si/si_0568.txt>` in the :ref:`miscellaneous` rollup category.
+
+*  :download:`si_0749; bacterial transcription factors <dl/si/si_0749.txt>` in the :ref:`rna-metabolism` rollup category.
+
+
+.. figure:: images/fn7.png
+   :width: 80%
+
+Categories 71-80 include:
+
+*  :download:`si_0939; Multidrug Resistance Efflux Pumps <dl/si/si_0939.txt>` in the :ref:`virulence` rollup category.
+
+*  :download:`si_0663; Ribosome SSU eukaryotic and archaeal <dl/si/si_0663.txt>` in the :ref:`protein-metabolism` rollup category.
+
+*  :download:`si_0160; chromosome partitioning <dl/si/si_0160.txt>` in the :ref:`cell-division` rollup category.
+
+*  :download:`si_0358; Coenzyme A Biosynthesis <dl/si/si_0358.txt>` in the :ref:`cofactors` rollup category.  It can be found on `Kegg map 770 <http://www.genome.jp/kegg/pathway/map/map00770.html>`_.
+
+*  :download:`si_0280; RNA-metabolizing Zn-dependent hydrolases <dl/si/si_0280.txt>` in the :ref:`clustering` rollup category.
+
+*  :download:`si_0853; Choline and Betaine Uptake and Betaine Biosynthesis <dl/si/si_0853.txt>` in the :ref:`stress` rollup category.
+
+*  :download:`si_0866; Redox-dependent regulation of nucleus processes <dl/si/si_0866.txt>` in the :ref:`stress` rollup category.
+
+*  :download:`si_0158; Macromolecular synthesis operon <dl/si/si_0158.txt>` in the :ref:`cell-division` rollup category.
+
+*  :download:`si_0010; Polyamine Metabolism <dl/si/si_0010.txt>` in the :ref:`amino-acids` rollup category.
+
+*  :download:`si_0929; Cobalt-zinc-cadmium resistance <dl/si/si_0929.txt>` in the :ref:`virulence` rollup category.
+
+
+
+.. figure:: images/fn8.png
+   :width: 80%
+
+Categories 81-90 include:
+
+*  :download:`si_0419; DNA topoisomerases, Type II, ATP-dependent <dl/si/si_0419.txt>` in the :ref:`dna-metabolism` rollup category.  They are described in the `Wikipedia article <en.wikipedia.org/wiki/Type_II_topoisomerase>`_.
+
+*  :download:`si_0945; Resistance to fluoroquinolones <dl/si/si_0945.txt>` in the :ref:`virulence` rollup category.  Fluoroquinolones target DNA gyrase and topoisomerase IV.  See `Hooper, et al. <http://www.ncbi.nlm.nih.gov/pubmed/11504468>`_.
+
+*  :download:`si_0187; KDO2-Lipid A biosynthesis <dl/si/si_0187.txt>` in the :ref:`cell-wall` rollup category.
+
+*  :download:`si_0672; Translation termination factors bacterial <dl/si/si_0672.txt>` in the :ref:`protein-metabolism` rollup category.
+
+*  :download:`si_0739; tRNA modification Bacteria <dl/si/si_0739.txt>` in the :ref:`rna-metabolism` rollup category.
+
+*  :download:`si_0930; Copper homeostasis <dl/si/si_0930.txt>` in the :ref:`virulence` rollup category.
+
+*  :download:`si_0826; Soluble cytochromes and functionally related electron carriers <dl/si/si_0826.txt>` in the :ref:`respiration` rollup category.
+
+*  :download:`si_0396; Thiamin biosynthesis <dl/si/si_0396.txt>` in the :ref:`cofactors` rollup category.  `The SEED description <http://www.theseed.org/SubsystemStories/Thiamin_biosynthesis/story.pdf>`_ by Dmitry Rodionov describes how vitamin B1, thiamin, is synthesized.
+
+*  :download:`si_0676; tRNA aminoacylation, Asp and Asn <dl/si/si_0676.txt>` in the :ref:`protein-metabolism` rollup category.
+
+*  :download:`si_0083; Lactose and Galactose Uptake and Utilization <dl/si/si_0083.txt>` in the :ref:`carbohydrates` rollup category.  It can be found on `Kegg map 052 <http://www.genome.jp/kegg/pathway/map/map00052.html>`_.
+
+
+
+.. figure:: images/fn9.png
+   :width: 80%
+
+Categories 91-100 include:
+
+*  :download:`si_0037; Cysteine Biosynthesis <dl/si/si_0037.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 270 <http://www.genome.jp/kegg/pathway/map/map00270.html>`_.
+
+*  :download:`si_0210; UDP-N-acetylmuramate from Fructose-6-phosphate Biosynthesis <dl/si/si_0210.txt>` in the :ref:`cell-wall` rollup category.  `The SEED description <http://www.theseed.org/SubsystemStories/UDP-N-acetylmuramate_from_Fructose-6-phosphate_Biosynthesis/story.pdf>`_ by Vasiliy Portnoy and Olga Zagnitko describes production of a major building block for biosynthesis of peptidoglycan.
+
+*  :download:`si_0373; NAD and NADP cofactor biosynthesis ,global <dl/si/si_0373.txt>` in the :ref:`cofactors` rollup category.  `The SEED description <http://www.theseed.org/SubsystemStories/NAD_and_NADP_cofactor_biosynthesis_global/story.pdf>`_ by Andrei Osterman describes NAD and NADP biosynthesis.
+
+*  :download:`si_0097; Fermentations: Mixed acid <dl/si/si_0097.txt>` in the :ref:`carbohydrates` rollup category.
+
+*  :download:`si_0795; Terminal cytochrome C oxidases <dl/si/si_0795.txt>` in the :ref:`respiration` rollup category.  It can be found on `Kegg map 190 <http://www.genome.jp/kegg/pathway/map/map00190.html>`_.
+
+*  :download:`si_0063; Dehydrogenase complexes <dl/si/si_0063.txt>` in the :ref:`carbohydrates` rollup category.
+
+*  :download:`si_0407; MutL-MutS DNA repair system, bacterial <dl/si/si_0407.txt>` in the :ref:`dna-metabolism` rollup category.  It can be found on `Kegg map ko03430 <http://www.genome.jp/kegg-bin/show_pathway?ko03430>`_.
+
+*  :download:`si_0665; Ribosome biogenesis bacterial <dl/si/si_0665.txt>` in the :ref:`protein-metabolism` rollup category.
+
+*  :download:`si_0008; Arginine and Ornithine Degradation <dl/si/si_0008.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 330 <http://www.genome.jp/kegg/pathway/map/map00330.html>`_.
+
+
+
+.. _s.fn_annotation:
+
+Relating genome annotation to Sequedex functional classification
+================================================================
+
+Often, transcriptomes are annotated by read-mapping to completed genomes.  Sequedex does not rely on such annotation, using evolutionarily conserved genes and pathways instead.  The two can be related by simply analyzing a fasta file of the annotated nucleotide sequence of the organism in question with Sequedex, writing out the annotated reads, as described for E. coli earlier, and in the annotated reads chapter, later.
 
 .. _s.fn_enriched:
 

@@ -3,7 +3,7 @@
 Getting started
 **************************
 
-qSequedex can be run in several modes with either a simple graphical
+Sequedex can be run in several modes with either a simple graphical
 user interface or directly from the command line.  The
 platform-specific instructions for starting the graphical user
 interface and obtaining a license file were provided in the previous
@@ -208,40 +208,13 @@ reads were processed at a rate of 4.7 Gbp / hour.
 Graphical output: Sequinator
 =================================
 
-Once the initial round of output has been written to an output, it
-will be possible (in Version 1.0) to run Sequinator to view the
-phylogenetic profile in a web browser.  From the GUI, you will simply
-click on 'Display Output', while from a command line or web browser,
-you will open an html file and select the Sequescan output file.  For
-the moment, pending our understanding of how different browsers treat
-JavaScript, you will need to copy the Sequedex output file
-(who-xxx.tsv) into the file sequinator/data/who, and open the file
-'sequinator.html' with your web browser.  To install, simply download
-the :download:`Sequinator tarfile <dl/sequinator.tgz>` and unpack it
-someplace easy to find, such as your home directory, with the
-command::
+Sequedex produces an interactive html output file of the phylogenetic profile for each analyzed sample - a tool we call Sequinator.  Simply open the html file produced in the appropriate sqdx output directory with a web browser.  An output similar to the one below will appear.  For an active version of this figure, click `here <http://sequedex.lanl.gov/sequinator/examples/caries/>`_.
 
-  tar -xzf sequinator.tgz
+.. figure:: images/sequinator.png
+  :width: 80%
+Screenshot of the Sequinator demo, which graphically displays the node counts found in a Sequescan 'who' file from a dental caries study.  A variety of known members of the oral microbiota are shown, one of which, *Haemophilus infleunzae* is highlighted on the screen.  Since Sequedex assigns reads to the nodes of the tree, rather than the leaves, the output is slightly more complex than a simple table.  The 100 horizontal bars on the right 3/4 of the plot have a length proportional to the top 100 most populated nodes on the tree.  When you move the mouse over one of the bars, information about the node are displayed, as indicated on the screen shot for node 815.  To the left of the bars is information on the phylum and family of the node, as well as the depth of the node from the root to the leaves of the tree.  Detalied definitions of parameters in the box are explained in the **Who?** section, below.  Approximately half of the nodes are immediately above one or two leaves, and these nodes are indicated by coloring in one or both of the columns immediately to the left of the population bars.  These organisms are reasonable suggestions as to specific organisms that may be present in the sample.
 
-The directory sequinator_demo will contain the sequniator.html file to
-be opened by a web browser and a data directory, to which the
-Sequescan 'who-xxx.tsv' needs to be copied as 'who'.  The following
-output will appear in your web browser.
-
-.. figure:: images/sequinator_burk.png
-  :width: 60%
-
-Screenshot of the Sequinator demo, which graphically displays the node
-counts found in a Sequescan 'who' file.  This sample contains a
-variety of nasty pathogens, one of which is highlighted on the screen,
-because the mouse was over the long magenta bar in the middle.  Since
-Sequedex assigns reads to nodes on the tree, rather than the leaves, a
-cursory examination of node assignments is not sufficient to make a
-definitive species assignment (the next chapters address this point),
-but especially with experience, it is possible to quickly gain an
-understanding of what may be in the sample.  Most of the nodes on a
-binary tree are immediately above either one or two leaves, and these
-nodes are indicated by one or two bars to the left of the ordinate.
+The colors of the bars reflect phylogenetic similarity.  Deeply branching nodes (between the root and a phylum-level node) are black, while the rest of the nodes are colored in a manner that changes smoothly along the phylogeny (and is similar from sample to sample).  This helps identify the distinct clusters of populated nodes that often appear in metagenomic samples.
 
 .. _s.who:
 
@@ -558,12 +531,14 @@ flag (if running Sequedex on the command line - see below).
 For example, to analyze this :download:`virus.test.fasta
 <dl/virus.test.fasta>` data file and run the command::
 
-sequescan run -d virus1252 -f 1 virus.test.fasta
+sequescan run -d virus1252.1 -s pfam27 -f 1 virus.test.fasta
 
 to generate Sequedex output, which by default will appear in the
 subdirectory virus.test.fasta.sqdx.  Note that the virus1252 data
-module does not specify signature functions and does not have as rich
-an output file as the Life2550 data module.
+module uses functional classifications from `pfam release 27 <http://pfam.xfam.org/>`_, which
+contains families for many of the viral proteins.  This provides
+greatly increased confidence in interpreting output in samples with
+a low abundance of reads.
 
 .. _s.memory:
 

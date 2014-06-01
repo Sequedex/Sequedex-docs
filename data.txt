@@ -42,7 +42,7 @@ reads or contigs, the tree can simply be re-calculated, and the
 relative position of reference and sample can be compared.  For a
 large number of aligned reads or contigs, :ref:`s.Pplacer` can be used
 to visualize which leaves or internal branches provide the
-most-appropriate placement of the reads.
+most appropriate placement of the reads.
 
 .. _s.RNAP:
 
@@ -53,14 +53,20 @@ RNAaPol alignment files, including beta and beta prime subunits for
 bacterial groups 1-5 of :ref:`s.Life2550`, beta, gamma, and beta prime
 subunits of the cyanobacteria, and the B1 and B2 subunits of
 eukaryotic RNA Pol II (care was taken to exclude RNA Pols I & III).
-The files are in `Phylip format <xxxx>`, because that is what is
-needed for :ref:`s.phyML`.  Sequence file formats can be converted
+The files are in Phylip format, because that is what is
+needed for :ref:`s.phyML`.  It has the additional advantage that sub-alignments can easily be extracted by simply using the grep command::
+
+ grep Bacteroides data.1 > Bacteroides.RNAP.fas
+
+will extract the 23 Bacteroides polymerase sequences into a separate file.  This provides a convenient alignment to which assembled genes from metagenomes can be added, for the purpose of generating trees showing how organisms from the metagenomic samples relate both to the reference species and one another.
+
+Sequence file formats can be converted
 online at `the HIV database
 <http://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html>`_.
 
 * Sequence alignments for :download:`Group 1 <dl/RNAP_alignments/data.1>`, :download:`Group 2 <dl/RNAP_alignments/data.2>`, :download:`Group 3 <dl/RNAP_alignments/data.3>`, :download:`Group 4 <dl/RNAP_alignments/data.4>`, :download:`Group 5 <dl/RNAP_alignments/data.5>`, :download:`Group 6 <dl/RNAP_alignments/data.6>`, :download:`Group 7 <dl/RNAP_alignments/data.7>`. 
 
-Subsets of the above files generated trees such as this one:
+Subsets of the above files generated the bacterial reference trees used by Sequedex.  The above seven groups cover the bacteria and archaea - for the eukaryotes, RNAPol II must be separated from RNAPols I and III (data not provided here) to create a tree based on RNAPol II,  such as this:
 
 .. figure:: images/Metazoa_fungi.png
    :width: 50%

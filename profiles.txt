@@ -446,6 +446,14 @@ ocean sampling expedition: Northwest Atlantic through Eastern Tropical
 Pacific" PLoS Biology **5**:e77(2007)
 (http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.0050077).
 
+Another use for sequedex is to identify bacterial symbionts in eukaryotic samples, such as are readily visible in several of the transcripts from the `Marine Microbial Eukaryote Transcriptome Sequencing Project <http://marinemicroeukaryotes.org/>`_.
+
+.. figure:: images/ocean_proll.png
+   :width: 100%
+
+   Phylogenetic rollup of microbial marine transcriptomes.  Since most of the transcriptomes are from lower eukaryotes only distantly related to completed genomes, most of the reads are identified simply as 'protozoal' or 'eukaryotic'.  Nevertheless, the samples where reads are predominantly bacterial are easily visible in this figure.
+
+
 .. _s.froll:
 
 Functional rollups
@@ -494,21 +502,6 @@ greater resolution.
    functional rollup is quite striking, as is the enormous dispersions
    that arise from this uniformity.
 
-
-.. figure:: images/face_fn.png
-   :width: 70%
-
-   Functional profile comparing soil metagenomics samples from five
-   different FACE (http://public.ornl.gov/face/DUKE/duke_home.shtml)
-   sites: MDE - a Maryland estuary
-   (http://www.serc.si.edu/labs/co2/marsh.aspx), NCD - a deciduous in
-   North Carolina (http://public.ornl.gov/face/DUKE/duke_home.shtml),
-   TNO - a plantation in Tennessee
-   (http://public.ornl.gov/face/ORNL/ornl_home.shtml), and a Crust
-   (cyanobacterial soil crust) and cCreosote (root zone of creosote
-   bush) sample in Nevada
-   (http://public.ornl.gov/face/NDFF/ndff_home.shtml).
-
 The twenty functional categories with more than 1000 counts in the TNO
 sample are shown below with the subsystem number from the figure and
 the three levels of annotation.  The top two levels are shortened to
@@ -538,18 +531,29 @@ available at http://www.theseed.org. ::
  si_0929 Virulence 	Resistance to antibiotics and toxic  Cobalt-zinc-cadmium_resistance
  si_0939 Virulence	Resistance to antibiotics and toxic  Multidrug_Resistance_Efflux_Pumps
 
-Perhaps the most striking aspect of this plot is the sample-to-sample
-consistency in the fraction of reads recruited to each functional
-category.  To investigate further, in the next section, we examine the
-functional profiles of the larger data sets for the 400 human
-microbiome samples and 242 enviromental samples for individual SEED
-subsystems, answering the question, 'What type of nitrogen metabolism
-is present?' rather than 'Does the organism metabolise nitrogen?'.
+Functional rollups from genomic (DNA) transcriptomes have similar quantities of reads from each of the functional rollup categories.  Examination of the functional rollup of the marine algae transcriptomes, however, show much more variable, and results that depend on growth conditions.
+
+.. figure:: images/ocean_froll.png
+   :width: 100%
+
+   Functional rollup of 330 marine eukaryotic algal transcriptomes.  The transcriptomes are grouped phylogenetically, on the basis of the small subunit ribosomal RNA sequence obtained from the sample.  It is evident that the condition-dependence of the functional rollups are significant, but the correlations of conditions with functional rollup will require closer examination.
+
+When the transcriptomes are taken from a single organism and grouped by condition, such as with the `Analysis of the human tissue-specific expression by genome-wide integration of transcriptomics and antibody-based proteomics, by Fagerberg, *et al.* <http://www.ncbi.nlm.nih.gov/pubmed/24309898>`_, the statistically significant differences in functional expression by grouping are immediately evident.
+
+.. figure:: images/hatlas_rollup.png
+   :width: 100%
+
 
 .. _s.norm:
 
 Normalized functional profiles
 ===================================================
+
+To investigate further, we examine the
+functional profiles of the larger data sets for the 400 human
+microbiome samples and 242 enviromental samples for individual SEED
+subsystems, answering the question, 'What type of nitrogen metabolism
+is present?' rather than 'Does the organism metabolise nitrogen?'.
 
 Since most of the SEED subsystems cover metabolic and other functions
 necessary for all organisms, the consistency across samples is more
@@ -571,10 +575,26 @@ proteorhodopsin, rather than the photosystems.
 
    Fraction of the functionally assigned reads encoding for nitrogen subsystems across the 2415 synthetic reference metagenomes.  
 
+When this figure is expanded and combined with insight from the microbiolgist, numerous useful insights can be gained, such as in these expanded views of three sets of subsystems across the cyanobacterial phylum, as in `Proteomic profiles of five strains of oxygenic photosynthetic cyanobacteria of hte genus *Cyanothece*, by Aryal, *et al.* <http://www.ncbi.nlm.nih.gov/pubmed/24846609>`_.
+
+.. figure:: images/cyano_nitro.png
+   :width: 80%
+
+   Distribution of genes involved in various cellular functions across 94 cyanobacterial genomes. Shown are the genes involved in nitrogen metabolism (A) and motility and chemotaxis (B).  The data were normalized within each genome so that the sum of all functional categories adds to 1000 counts, making the units on the amplitudes of each function parts per thousand.  Genes associated with the *Cyanothece* are shown in boxes.
+
+.. figure:: images/cyano_fe.png
+   :width: 80%
+
+   Distribution of genes involved in iron acquisition and transport across 94 cyanobacterial genomes.  Genes associated with different *Cyanothece* species are shown in boxes.
+
+For the environmental metagenomes, we chose to examine the photosynthesis.
+
 .. figure:: images/env_photo.png
    :width: 100%
 
    Fraction of the functionally assigned reads encoding for phytosynthesis subsystems across the 249 environmental metagenomes.  
+
+For the human microbiome samples, we chose to examine the motility genes.
 
 .. figure:: images/hmb_motility.png
    :width: 100%
@@ -595,7 +615,14 @@ various samples.  With some thought, it is also possible to sort based
 on the signal-to-noise ratio with which the functional profiles
 distinguish ecosystems, with the noise defined by replicate samples.
 
-Thus, normalized functional profiles across the two reference data
+Examination of the SEED subsystems from the human tissue transcriptomes shows the tissue-specific espression in more detail.
+
+.. figure:: images/hatlas_ss.png
+   :width:=90%
+
+   Normalized counts for the tissue-specific expression.
+
+Thus, normalized functional profiles across reference data
 sets enable a 'top-down' approach to understanding functional
 classifications.  The user may want to import results from their own
 metagenomics data sets into these spreadsheets to better understand
