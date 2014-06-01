@@ -618,7 +618,7 @@ distinguish ecosystems, with the noise defined by replicate samples.
 Examination of the SEED subsystems from the human tissue transcriptomes shows the tissue-specific espression in more detail.
 
 .. figure:: images/hatlas_ss.png
-   :width:=90%
+   :width: 90%
 
    Normalized counts for the tissue-specific expression.
 
