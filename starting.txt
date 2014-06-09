@@ -16,7 +16,7 @@ and that the user has some way of looking at the tab-delimited text
 output files, whether that be Excel, a text editor, or an analysis
 environment like R or Matlab.
 
-Sequedex is distributed with several sets of test data for
+Sequedex is distributed with several sets of test data in `a tar archive <http://sequedex.lanl.gov/downloads/testData-0.1.tgz>`_ or `a zip file <http://sequedex.lanl.gov/downloads/testData-0.1.zip>`_ for
 demonstration and validation.  In this chapter, we illustrate how to
 use Sequedex on these datasets.  Two metagenomics data files are
 provided, one from a stool sample sequenced under the human microbiome
@@ -34,13 +34,13 @@ same manuscript to explore the read-length dependence of Sequedex's
 sensitivity and specificity, illustrated in Figure 6.
 
 The test data set for the human microbiome sample is located in the
-directory sequedex/testData/metagenomes/humanMicrobiome/gut/.  If you
+unpacked archive directory testData/metagenomes/humanMicrobiome/gut/.  If you
 are starting the Sequedex GUI from the command line, it may be easiest
 to navigate this directory before typing sequescan.  Alternatively,
 you can start the sequescan GUI from the applications menu and
 navigate to the data directory with the dialog box.  In either case,
 you should see a screen that looks like this when you have started
-analysis of the data set **where is the test data located?**:
+analysis of the data set:
 
 .. figure:: images/sequescan_GUI.png
   :width: 60%
@@ -51,9 +51,8 @@ analysis of the data set **where is the test data located?**:
   user to choose the signature data module, the functional data module
   and select whether the fasta input files will be chosen by name, by
   directory, or by an input file listing the complete path of files to
-  be analyzed.  **If you do not have at least 8 GB of RAM or you want
-  to use a larger data module, be sure to read** :ref:`s.memory`
-  **before proceeding.** If the user chooses to use a file with a list
+  be analyzed.  To learn more about memory usage, please read :ref:`s.memory`
+  before proceeding. If the user chooses to use a file with a list
   of input files (which can be in multiple directories), the next
   input specifies the base directory for the filenames (defaults to
   the filesystem root).  Below this, the 'Input' box is used to select
@@ -595,10 +594,8 @@ tol-all are available.  For many purposes, the lower sensitivity may
 not matter too much, but it is likely that the user will want to spend
 the $1000 necessary to acquire a desktop machine with 32 GB of RAM.
 
-Sequedex enables the memory request of Java to be set in the sequescan
-executable, using the environment variable 'SEQUESCAN_MEMSIZE'::
-
-   SEQUESCAN_MEMSIZE=${SEQUESCAN_MEMSIZE:-"30000m"}
+Sequedex enables the memory request of Java to be set either in configuration
+files or with an environment variable.  See :ref:`s.reference` for details.
 
 By setting the memory size of 30 GB somewhat smaller than the system
 size (in this case, 32 GB), it is possible to use other applications

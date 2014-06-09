@@ -913,7 +913,8 @@ Read.sequedexf <- function(root.dir, type.ref="Life2550", type.tab="what"){
 #  graph.data <- graph.data[-c(1,dim(graph.data)[1],dim(graph.data)[1]-1)
   graph.data <- graph.data[-c(1,dim(graph.data)[1])
                           ,]
-  colnames(graph.data) <- sapply(strsplit(listDir,"/"), FUN= function(x) x[2])
+#  colnames(graph.data) <- sapply(strsplit(listDir,"/"), FUN= function(x) x[2])
+  colnames(graph.data) <- listDir
   return (graph.data)
 }
 
@@ -944,12 +945,13 @@ Read.sequedexf <- function(root.dir, type.ref="Life2550", type.tab="what"){
   plot.graph <- function(graph,
              Val, 
              simple.name= T,
-             leave.label= F,
+             leave.label= T,
              scol= "red",
              shape= "circle",
              sign= F, 
              dimension= 2, 
-             cex=0.6)
+             cex=0.6,
+             tmain="")
 {
 #  Val can take three types of values:  a variable name in graph$data, and index in graph$data,
 #  or a vector of values of length graph$leaves.  
@@ -961,12 +963,15 @@ if ( is.numeric(Val) & (length(Val)==1) ) action <- 2
 switch( action,
 { idx <- match(Val,colnames(graph$data),nomatch=-1)
   if ( idx == -1 ) { stop(paste(Val,"not a variable name of graph$data")) }
-  dat <- as.numeric(graph$data[,idx]) }, 
+  dat <- as.numeric(graph$data[,idx]) 
+  title=colnames(graph$data)[idx]}, 
 { if ( Val > dim(graph$data)[2] ) stop("index out of bound")
   if ( Val < 0 ) stop("index out of bound")
-  dat <- as.numeric(graph$data[,Val]) },
+  dat <- as.numeric(graph$data[,Val])
+  title=colnames(graph$data)[Val] },
 { if ( length(Val) != dim(graph$data)[1]) { stop("length of Val does not match number of functions") }
-  dat <- as.numeric(Val)} )
+  dat <- as.numeric(Val)
+  title=tmain} )
               
 # Define the size of the vertices.
 ccex <- matrix(nrow= length(V(graph)), ncol=1,data=0)
@@ -1024,7 +1029,7 @@ else{
 # PLot the graph (with different parameters as: shape, size, layout and dimension)
 
 if(dimension==2){
-    plot.igraph(graph,vertex.label=labels, vertex.label.color= "black",vertex.label.cex= cex, vertex.size= ccex, vertex.shape= Shape, vertex.color= scol, edge.color= graph$color)
+    plot.igraph(graph,vertex.label=labels, vertex.label.color= "black",vertex.label.cex= cex, vertex.size= ccex, vertex.shape= Shape, vertex.color= scol, edge.color= graph$color, main=title)
     }
 else{
     rglplot(graph,vertex.label=labels,vertex.label.color= "black", vertex.label.cex= cex, vertex.size=ccex, vertex.shape=Shape, vertex.color= "blue", edge.color= graph$color)
@@ -1076,12 +1081,15 @@ Diff.graph <- function(graph, Val1, Val2, dim=2, alpha= 0.000000001){
   switch( action,
 { idx1 <- match(Val1,colnames(graph$data),nomatch=-1)
   if ( idx1 == -1 ) { stop(paste(Val1,"not a variable name of tree$data")) }
-  dat1 <- as.numeric(graph$data[,idx1]) }, 
+  dat1 <- as.numeric(graph$data[,idx1]) 
+  title1=colnames(graph$data)[idx1]}, 
 { if ( Val1 > dim(graph$data)[2] ) stop("index out of bound")
   if ( Val1 < 0 ) stop("index out of bound")
-  dat1 <- as.numeric(graph$data[,Val1]) },
+  dat1 <- as.numeric(graph$data[,Val1]) 
+    title1=colnames(graph$data)[Val1]},
 { if ( length(Val1) != dim(graph$data)[1] ) { stop("length of Val does not match number of nodes") }
-  dat1 <- as.numeric(Val1)} )
+  dat1 <- as.numeric(Val1) 
+    title1=as.character(tmain1)})
   # Repeat the same process for the variable Val2
   action <- 3
   if ( is.character(Val2) &length(Val2)==1 ) action <- 1
@@ -1089,12 +1097,17 @@ Diff.graph <- function(graph, Val1, Val2, dim=2, alpha= 0.000000001){
   switch( action,
 { idx2 <- match(Val2,colnames(graph$data),nomatch=-1)
   if ( idx2 == -1 ) { stop(paste(Val2,"not a variable name of tree$data")) }
-  dat2 <- as.numeric(graph$data[,idx2]) }, 
+  dat2 <- as.numeric(graph$data[,idx2]) 
+    title2=colnames(graph$data)[idx2]}, 
 { if ( Val2 > dim(graph$data)[2] ) stop("index out of bound")
   if ( Val2 < 0 ) stop("index out of bound")
-  dat2 <- as.numeric(graph$data[,Val2]) },
+  dat2 <- as.numeric(graph$data[,Val2]) 
+    title2=colnames(graph$data)[Val2]},
 { if ( length(Val2) != dim(graph$data)[1] ) { stop("length of Val does not match number of nodes") }
-  dat2 <- as.numeric(Val2)} )
+  dat2 <- as.numeric(Val2)
+   title2=as.character(tmain2)} )
+
+title=paste(title1,"-",title2)
   
   # Build the vector difference that will be used in Plot.profile
   #  Normalize the counts so that each column sums to one
@@ -1112,10 +1125,10 @@ Diff.graph <- function(graph, Val1, Val2, dim=2, alpha= 0.000000001){
   dif.z <- c(rep(0,length(graph$data[,1])-length(dif.z)), as.numeric(dif.z))
   # plot the dif on the graph
   if (dim==2){
-  plot.graph(graph,dif.z,simple.name= T,scol= "red", shape= "circle",sign= T,dimension= 2,cex=0.6)
+  plot.graph(graph,dif.z,simple.name= F,scol= "red", shape= "circle",sign= T,dimension= 2,cex=0.6, tmain=title)
   }
   if (dim==3){
-  plot.graph(graph,dif.z,simple.name= T,scol= "red", shape= "circle",sign= T,dimension= 3,cex=0.6)
+  plot.graph(graph,dif.z,simple.name= F,scol= "red", shape= "circle",sign= T,dimension= 3,cex=0.6)
   }
 
   return(dif.z)

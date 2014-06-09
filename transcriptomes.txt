@@ -4,6 +4,129 @@ Functional analysis
 *******************
 Sequedex not only places each 10-mer on a phylogenetic tree, but it also searches an 962 example sets of genes for a functional assignment as well.  For the seed_0911.m1 set of functional assignments, we used the SEED classification of functions, which have the added benefit of a well-defined hierarchical rollup.  The names and sets of genes are ennumerated in section :ref:`s.seed`, where clicking on each label provides the annotation for each gene included (across the phylogeny) in the subsystem.  For the ribosome, category si_0962, both the large and small subunits from across the 1550 species in the tree of life were translated into all three forward reading frames to make 10-mer 'amino acid' signatures, while the bacteria and archaea also had the tRNAs translated in a similar fasion.  In the event a gene with a 10-mer signature appears in multiple categories, a metagenomic read contains 10-mers from different genes in different categories, the read is apportioned equally among all categories.  
 
+In additional to the genomic (DNA) metagenomic data sets with the phylogenetic profiles examined in the previous chapter:
+
+* the set of :download:`synthetic data from reference genomes<dl/syn.Life.what>` with :download:`labels <dl/syn.Life.lbl>`,
+* a set of :download:`environmental microbiomes <dl/env.Life.what>` with :download:`labels <dl/env.Life.lbl>`
+* a set of :download:`human microbiomes <dl/hmb.Life.what>` with :download:`labels <dl/hmb.Life.lbl>`
+
+we provide transcriptomic (RNA) data sets from publically available data sets to illustrate the comparisons:
+
+* a set of :download:`human tisue-specific expression<dl/hatlas.Life.what>` with :download:`labels <dl/hatlas.Life.lbl>`
+* a set of :download:`marine eukaryotic transcriptomes <dl/ocean.Life.what>` with :download:`labels <dl/ocean.Life.lbl>`
+* a set of :download:`transcriptomes from plaque microbiomes <dl/caries.Life.what>` with :download:`labels <dl/caries.Life.lbl>`
+
+.. _s.fn_sequestat:
+
+Visualizing SEED functional profiles with Sequestat
+===================================================
+
+Graphical visualization can occur with Sequestat and the igraph package in R.  You will first need to download :download:`the functional definitions <dl/what>` (or use any what-Life2550-xxGB.0xseed_0911.m1.tsv file).  Here, we assume both it and sequestat.r are available in the user's home directory (~/), and that the working directory of the R session is in a directory containing sequedex output files.  Also, we assume the user is using the :download:`.Rdata file with the graph layout in it <dl/seed.layout.Rdata>`.  Since we often do not want Ribosomal or Unclassified read counts to skew normalizations when plotting counts, we set them to zero.  Analysis of all of the data sets will start with the following::
+
+ source("~/sequestat.r")
+ library(igraph)
+ load("~/seed.layout.Rdata")
+
+This results in the graph layout below, to which we have added labels to aid in reading the graphs below, from which we leave the labels off.
+
+.. figure:: images/fireworks.lbl.png
+   :width: 80%
+
+Reading in particular Sequedex output files will begin with::
+
+ expt <- Read.functional("./", "~/what", type.ref="Life2550-32", data.type="what")
+ expt$layout=seed.layout
+ expt$data[963,]=0
+ expt$data[964,]=0
+ plot.graph(hatlas,1, simple.name= T,scol= "blue",sign= F, dimension= 2,cex=0.6)
+
+To read in the tsv data sets listed above, download them and read them into the data structures as follows::
+
+ source("~/Sequedex-docs/dl/sequestat.r")
+ library(igraph)
+
+ syn=Read.graph("~/Sequedex-docs/dl/what", col=TRUE, sat=1)
+ data=read.table("~/Sequedex-docs/dl/syn.Life.what",sep="\t",header=F)
+ syn$data=data
+ load("~/seed.layout.Rdata")
+ syn$layout=seed.layout
+ syn$data[963,]=0
+ lbl=read.table("~/Sequedex-docs/dl/syn.Life.lbl",sep="\t",header=F)
+ lbl=lbl[!is.na(lbl)]
+ colnames(syn$data)=lbl
+ plot.graph(syn,1, simple.name= F,scol= "blue",sign= T, dimension= 2,cex=0.6)
+ Diff.graph(syn,1,2, dim=2, alpha= 0.000000001)
+
+ env=Read.graph("~/Sequedex-docs/dl/what", col=TRUE, sat=1)
+ data=read.table("~/Sequedex-docs/dl/env.Life.what",sep="\t",header=F)
+ env$data=data
+ load("~/seed.layout.Rdata")
+ env$layout=seed.layout
+ env$data[963,]=0
+ lbl=read.table("~/Sequedex-docs/dl/env.Life.lbl",sep="\t",header=F)
+ lbl=lbl[!is.na(lbl)]
+ colnames(env$data)=lbl
+ plot.graph(env,1, simple.name= F,scol= "blue",sign= T, dimension= 2,cex=0.6)
+ Diff.graph(env,1,2, dim=2, alpha= 0.000000001)
+
+ hmb=Read.graph("~/Sequedex-docs/dl/what", col=TRUE, sat=1)
+ data=read.table("~/Sequedex-docs/dl/hmb.Life.what",sep="\t",header=F)
+ hmb$data=data
+ load("~/seed.layout.Rdata")
+ hmb$layout=seed.layout
+ hmb$data[963,]=0
+ lbl=read.table("~/Sequedex-docs/dl/hmb.Life.lbl",sep="\t",header=F)
+ lbl=lbl[!is.na(lbl)]
+ colnames(hmb$data)=lbl
+ plot.graph(hmb,1, simple.name= F,scol= "blue",sign= T, dimension= 2,cex=0.6)
+ Diff.graph(hmb,1,2, dim=2, alpha= 0.000000001)
+
+ hatlas=Read.graph("~/Sequedex-docs/dl/what", col=TRUE, sat=1)
+ data=read.table("~/Sequedex-docs/dl/hatlas.Life.what",sep="\t",header=F)
+ hatlas$data=data
+ load("~/seed.layout.Rdata")
+ hatlas$layout=seed.layout
+ hatlas$data[963,]=0
+ lbl=read.table("~/Sequedex-docs/dl/hatlas.Life.lbl",sep="\t",header=F)
+ lbl=lbl[!is.na(lbl)]
+ colnames(hatlas$data)=lbl
+ plot.graph(hatlas,1, simple.name= F,scol= "blue",sign= T, dimension= 2,cex=0.6)
+ Diff.graph(hatlas,1,2, dim=2, alpha= 0.000000001)
+
+ ocean=Read.graph("~/Sequedex-docs/dl/what", col=TRUE, sat=1)
+ data=read.table("~/Sequedex-docs/dl/ocean.Life.what",sep="\t",header=F)
+ ocean$data=data
+ load("~/seed.layout.Rdata")
+ ocean$layout=seed.layout
+ ocean$data[963,]=0
+ lbl=read.table("~/Sequedex-docs/dl/ocean.Life.lbl",sep="\t",header=F)
+ lbl=lbl[!is.na(lbl)]
+ colnames(ocean$data)=lbl
+ plot.graph(ocean,1, simple.name= F,scol= "blue",sign= T, dimension= 2,cex=0.6)
+ Diff.graph(ocean,1,2, dim=2, alpha= 0.000000001)
+
+ caries=Read.graph("~/Sequedex-docs/dl/what", col=TRUE, sat=1)
+ data=read.table("~/Sequedex-docs/dl/caries.Life.what",sep="\t",header=F)
+ caries$data=data
+ load("~/seed.layout.Rdata")
+ caries$layout=seed.layout
+ caries$data[963,]=0
+ lbl=read.table("~/Sequedex-docs/dl/caries.Life.lbl",sep="\t",header=F)
+ lbl=lbl[!is.na(lbl)]
+ colnames(caries$data)=lbl
+ plot.graph(caries,1, simple.name= F,scol= "blue",sign= T, dimension= 2,cex=0.6)
+ Diff.graph(caries,1,2, dim=2, alpha= 0.000000001)
+
+
+Alternatively, the graph can be looked at in three dimensions::
+
+ hatlas$layout <- layout.fruchterman.reingold(hatlas, dim=3)
+ plot.graph(hatlas,Val = 3, simple.name= F,scol= "blue",sign= T, dimension= 2,cex=0.6)
+
+It is frequently the case that the ribosomal reads dominate the functional classifications.  To eliminate the ribosomal reads from consideration, enabling a re-scaling of the other categories, type::
+
+ hatlas$data[963,]=0.
+
 .. _s.top100:
 
 Top 100 functional categories
@@ -275,13 +398,6 @@ Categories 91-100 include:
 *  :download:`si_0008; Arginine and Ornithine Degradation <dl/si/si_0008.txt>` in the :ref:`amino-acids` rollup category.  It can be found on `Kegg map 330 <http://www.genome.jp/kegg/pathway/map/map00330.html>`_.
 
 
-
-.. _s.fn_annotation:
-
-Relating genome annotation to Sequedex functional classification
-================================================================
-
-Often, transcriptomes are annotated by read-mapping to completed genomes.  Sequedex does not rely on such annotation, using evolutionarily conserved genes and pathways instead.  The two can be related by simply analyzing a fasta file of the annotated nucleotide sequence of the organism in question with Sequedex, writing out the annotated reads, as described for E. coli earlier, and in the annotated reads chapter, later.
 
 .. _s.fn_enriched:
 
