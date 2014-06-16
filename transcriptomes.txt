@@ -23,18 +23,18 @@ Visualizing SEED functional profiles with Sequestat
 
 Graphical visualization can occur with Sequestat and the igraph package in R.  You will first need to download :download:`the functional definitions <dl/what>` (or use any what-Life2550-xxGB.0xseed_0911.m1.tsv file).  Here, we assume both it and sequestat.r are available in the user's home directory (~/), and that the working directory of the R session is in a directory containing sequedex output files.  Also, we assume the user is using the :download:`.Rdata file with the graph layout in it <dl/seed.layout.Rdata>`.  Since we often do not want Ribosomal or Unclassified read counts to skew normalizations when plotting counts, we set them to zero.  Analysis of all of the data sets will start with the following::
 
- source("~/sequestat.r")
+ source("~/Sequedex-docs/dl/sequestat.r")
  library(igraph)
- load("~/seed.layout.Rdata")
+ load("~/Sequedex-docs/dl/seed.layout.Rdata")
 
 This results in the graph layout below, to which we have added labels to aid in reading the graphs below, from which we leave the labels off.
 
-.. figure:: images/fireworks.lbl.png
+.. figure:: images/fireworks_lbl.png
    :width: 80%
 
 Reading in particular Sequedex output files will begin with::
 
- expt <- Read.functional("./", "~/what", type.ref="Life2550-32", data.type="what")
+ expt <- Read.functional("./", "~/Sequedex-docs/dl/what", type.ref="Life2550-40", data.type="what")
  expt$layout=seed.layout
  expt$data[963,]=0
  expt$data[964,]=0

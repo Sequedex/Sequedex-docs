@@ -759,7 +759,8 @@ edgelist=t(array(x,c(2,39)))
 
 # Add the second level of edgelist
   level2 <- cbind(L1sid,L2sid)
-  level2 <- unique(level2)  
+  level2 <- unique(level2) 
+  ll2=level2 
 # Add this level to edgelist
   edgelist <- rbind(edgelist, level2) 
 # Add numbers to level 1 and 2 of edgelist to avoid multiple edges between vertices of level 1 and 2
@@ -836,6 +837,8 @@ edgelist=t(array(x,c(2,39)))
 "13 L1 Miscellaneous","14 L1 Motility","15 L1 Nitrogen","16 L1 Nucleotides","17 L1 Phages1","18 L1 Phages2",
 "19 L1 Phosphorus","20 L1 Photosynthesis","21 L1 Potassium","22 L1 Protein","23 L1 RNA","24 L1 Regulation","25 L1 Respiration",
 "26 L1 Secondary Metabolism","27 L1 Stress","28 L1 Sulfur","29 L1 Virulence1","30 L1 Virulence2","31 L1 Ribosome")
+
+graph$names=c(graph$families,ll2[,2],graph$leaves)
 
 # distances edges
 # graph edgelist
@@ -951,6 +954,7 @@ Read.sequedexf <- function(root.dir, type.ref="Life2550", type.tab="what"){
              sign= F, 
              dimension= 2, 
              cex=0.6,
+             topn=10,
              tmain="")
 {
 #  Val can take three types of values:  a variable name in graph$data, and index in graph$data,
@@ -1063,14 +1067,51 @@ else{
 #                  if (length(alpha) > 1){
 #                    legend( "bottomright", legend= paste(" alpha <=",c(rev(alpha), 1)), pt.cex= 2,title= "Colors", fill= c("red","magenta","cyan","green3"), y.intersp=1.25, bty="n")
 #                  }
-return(unique(labels))
+#return(unique(labels))
+#  Top 10 list.
+L1=array(data=rep("Amino acids"),dim=963)
+L1[1:54]="Amino acids"
+L1[55:153]="Carbohydrates"
+L1[154:162]="Cell division"
+L1[163:213]="Cell wall"
+L1[214:357]="Clustering-based"
+L1[358:397]="Cofactors"
+L1[398:431]="DNA" 
+L1[432:445]="Dormancy"
+L1[446:464]="Fatty acids"
+L1[465:488]="Iron"
+L1[489:534]="Membrane"
+L1[535:564]="Aromatic compounds"
+L1[565:579]="Miscellaneous"
+L1[580:587]="Motility"
+L1[588:597]="Nitrogen"
+L1[598:615]="Nucleosides"
+L1[616:637]="Phages"
+L1[638:643]="Phosphorus"
+L1[644:652]="Photosynthesis"
+L1[653:656]="Potassium"
+L1[657:722]="Proteins"
+L1[723:753]="RNA"
+L1[754:791]="Regulation"
+L1[792:827]="Respiration"
+L1[828:843]="Secondary metabolism"
+L1[844:881]="Stress"
+L1[882:894]="Sulfur"
+L1[895:962]="Virulence"
+L1[963]="Ribosome"
+
+
+top10=data.frame(si=0:962,counts=dat[1:963],lll=graph$leaves,L1=L1)
+top11=top10[order(abs(top10$counts)),]
+endtop=963-topn
+return(top11[963:endtop,])
                 
              }
 
 #------------------------------------------------------------------------------
 # Function plot difference value between Val1 and Val2 on the functional graph |
 #------------------------------------------------------------------------------
-Diff.graph <- function(graph, Val1, Val2, dim=2, alpha= 0.000000001){
+Diff.graph <- function(graph, Val1, Val2, dim=2, alpha= 0.000000001,topn=10){
   
   #  Val1 and Val2 can take three types of values:  a variable name in tree$data, and index in tree$data,
   #  or a vector of values of length tree$Nnode.  
@@ -1125,12 +1166,12 @@ title=paste(title1,"-",title2)
   dif.z <- c(rep(0,length(graph$data[,1])-length(dif.z)), as.numeric(dif.z))
   # plot the dif on the graph
   if (dim==2){
-  plot.graph(graph,dif.z,simple.name= F,scol= "red", shape= "circle",sign= T,dimension= 2,cex=0.6, tmain=title)
+out=  plot.graph(graph,dif.z,simple.name= F,scol= "red", shape= "circle",sign= T,dimension= 2,cex=0.6, topn=topn, tmain=title)
   }
   if (dim==3){
   plot.graph(graph,dif.z,simple.name= F,scol= "red", shape= "circle",sign= T,dimension= 3,cex=0.6)
   }
 
-  return(dif.z)
+  return(out)
   
 }
