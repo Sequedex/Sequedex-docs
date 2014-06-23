@@ -3,6 +3,31 @@
 Getting started
 **************************
 
+**A note about downloadable files**
+
+In this and the following five chapters, we use a wide variety of 
+real-world examples to illustrate how Sequedex can be visualized
+and understood as part of a broader work-flow.  Not only are the 
+analysis scripts useful templates for modification to meet the user's
+own specific needs, but reference trees and figures, as well as
+the coallated output from a broad array of publically available data
+sets provide a useful context for comparing his or her own data.  While
+links are always provided in the midst of the discussion, it is also
+possible to download this entire documentation package, with web-pages,
+figures, and downloadable files at `https://media.readthedocs.org/htmlzip/sequedex/latest/sequedex.zip 
+<https://media.readthedocs.org/htmlzip/sequedex/latest/sequedex.zip>`_.  
+This file will unpack into a directory sequedex-latest, with a subdirectory
+_downloads.  If the user places the contents of (or renames) sequedex-latest/_downloads
+into Sequedex-docs/dl/ of the user's home directory, most of the examples 
+can simply be cut and pasted directly into the correct application in order 
+to run.  Otherwise, fairly straightforward changes will need to be made for 
+many of the examples to account for the actual location of downloaded files.
+
+.. _s.running:
+
+Running Sequescan
+=================
+
 Sequedex can be run in several modes with either a simple graphical
 user interface or directly from the command line.  The
 platform-specific instructions for starting the graphical user
@@ -622,28 +647,30 @@ Sequedex run.  Help with the basic syntax can be obtained by typing::
 
 which provides the following output::
 
-  Command line execution of sequescan run mode:
-  sequescan run [-h] [-q] [-c config_file] -d data_module [-o output_directory] [-s function_set] [-a min_prot_frag_length] [-t thread_num] [-f database_writer_flag] [-l] INFILE
+ Command line execution of sequescan run mode:
+ sequescan run [-h] [-q] [-c config_file] -d data_module [-o output_directory] [-s function_set] [-a min_prot_frag_length] [-t thread_num] [-f database_writer_flag] [-l] INFILE
 
-  Example:
-  sequescan run -d Life2550-4GB.0 -s seed_0911.m1 -f 1 /Users/jsmith/mgData
+ Example:
+ sequescan run -d Life2550-4GB.0 -s seed_0911.m1 -f 1 /Users/jsmith/mgData
 
-  Option descriptions:
-  -h    mode help
-  -q    quiet option - less messages to console or progress window
-  -c    user-defined configuration file (overrides system configuation file)
-  -d    name of data module
-  -o    user-defined directory for data output (default is directory where input is located)
-  -s    name of function set
-  -a    minimum protein fragment length (overrides configuration file; default is 15)
-  -t    maximum number of threads in threadpool (default = 1)
-  -f    database writer flag (arguments:  0 = no, 1 = yes); analysis_writer_list in config determines type of database (currently fasta/fastq file)
-  -l    required if INFILE contains list of fasta/fastq files; if argument is none, list contains absolute paths;
+ Option descriptions:
+ -h    mode help
+ -q    quiet option - less messages to console or progress window
+ -c    user-defined configuration file (overrides system configuation file)
+ -d    name of data module
+ -o    user-defined directory for data output (default is directory where input is located)
+ -s    name of function set
+ -a    minimum protein fragment length (overrides configuration file; default is 15)
+ -t    maximum number of threads in threadpool (default = 1)
+ -f    database writer flag (arguments:  0 = no, 1 = yes); analysis_writer_list in config determines type of database (currently fasta/fastq file)
+ -l    required if INFILE contains list of fasta/fastq files; if argument is none, list contains absolute paths;
       otherwise argument is base directory and paths in list are relative to base directory;
       when paths are relative to base directory and the -o option is set, output will inlcude relative paths
 
-  INFILE may be a fasta/fastq file, a directory with fasta/fastq files, or a file containing a list of fasta/fastq files.
-  However, only fasta or fastq files or their gzipped (.gz) versions with an extension in the config file parameter fa_ext_list will be processed.
+ INFILE may be a fasta/fastq file, a directory with fasta/fastq files,
+ or a file containing a list of fasta/fastq files.
+ However, only fasta or fastq files or their gzipped (.gz) versions with an extension 
+ in the config file parameter fa_ext_list will be processed.
 
 Thus, running Sequescan from the directory with the fasta files with the command line::
 
@@ -685,10 +712,30 @@ and interpretation of these profiles are discussed in
 
 .. _s.config:
 
-Additional options and the Sequedex configuration file
-======================================================
+The Sequedex configuration utility and sequescan.conf
+=====================================================
 
-A configuration file, sequedex/etc/sequescan/sequescan.conf, contains
+Seuedex can be configured through environment variables accessible through
+a configuration file, described in :ref:`s.env.vars` and a configuration file,
+described in :ref:`s.config.ref`.
+
+The environmental variables, most easily accessed with the utility sequedex-config,
+enable alternate locations for files such as data modules, trees, and configuration
+files, and programs, such as python, java, or the web browser used by Sequenator.
+Sequedex detects reasonable defaults for these variables when sequedex-bootstrap
+is run upon initial installation, and sequedex-config provides a short description
+for how each variable was set.
+
+* The amount of memory can be changed.  If the memory is set to a value larger than
+the available RAM on your computer, the computer may need to swap, `described here 
+<http://en.wikipedia.org/wiki/Paging>`_, which, if it occurs to any significant amount,
+will severely degrade the rate at which Sequescan runs.  If the memory is set to a
+small value, Sequedex, through Java, will attempt to manage the signature lists in 
+a prohibitively small hash map with techniques such as those described `here 
+<http://java-performance.info/overview-of-memory-saving-techniques-java/>`_, again
+leading to severe degradation of performance. 
+
+The configuration file, sequedex/etc/sequescan/sequescan.conf, contains
 a variety of settings controlling default behavior of inputs and
 outputs of Sequescan.  For example:
 
@@ -697,7 +744,8 @@ outputs of Sequescan.  For example:
   changed, and are listed in the configuration file.
 
 * The location and names of output files can be changed with variables
-  in the configuration file.
+  in the configuration file.  Some discussion of the logic associated with this
+  option is available in :ref:`s.dirs`.
 
 * The default minimum length of open reading frames to be processed
   can be defined both on the command line and in the configuration
@@ -705,8 +753,6 @@ outputs of Sequescan.  For example:
   the default setting of 15 amino acids will prevent any reads from
   being identified.
 
-* The amount of memory can be changed, but is defined in the Sequescan
-  executable script, rather than the configuration file.
 
 .. _s.dirs:
 

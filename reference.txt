@@ -51,124 +51,74 @@ Environmental variables
 
 The environment variables can be seen by typing::
 
- cat sequedex/etc/launcher.conf
+  sequedex-config
 
 producing::
 
- # sequedex-launcher config file
- # version 0.1
- # 27 August 2013
- # Joel Berendzen
- #
- # This file documents every configuration variable that the launcher knows about.
- # Variables in this file are set as environmental variables at run time and are available
- # to all sequedex products (e.g., sequescan, sequinator, etc).
- #
- # Configuration variables may be set in four different ways, in order of preference:
- #
- #   1. As an environmental variable, either by system rc scripts or on the command line.
- #       Environmental variables are final, by which I mean they override all other 
- #       config files and defaults.
- #
- #   2. In the user config file.  The location  of the user config file is itself overrideable
- #       by environmental variables but its default location is ~/.sqdx/launcher.conf.
- #      The user config file overrides all other settings except for environmental variables.
- #
- #   3. In the system config file.  The location this file is always
- #       $SEQUEDEX_ETC/launcher/launcher.conf, but SEQUEDEX_ETC is overrideable by
- #       environmental variable or user config file.   If the user config file does not exist
- #       when the launcher is run, the launcher will attempt to place a copy of the system
- #       config file into the user config file location.   The system config file overrides
- #       default values only.
- #
- #   4. Default values.  These are coded into the launcher script.  In a few cases, (notably
- #       SEQUESCAN_HEAPSIZE_MB) these defaults may themselves be derived from 
- #       a value in a file.
- #
- # To set the values in this file, copy the relevant line and uncomment it, replacing the
- # default value with the desired value.  Environmental variables may not be used
- #  in setting values in this file.  Quotation is not necessary. and is discouraged.
- # Comments begin with "#" and  may be placed at the end of lines if desired.
- # Examples shown use the unix "/" separator.  If you are setting values on a Windows
- # system, you will need to use the appropriate separator (which depends on whether
- # you are using Cygwin).  Note that config variables that refer to directories must have
- # a trailing separator.
- #
- # You may obtain a listing of the settings of these variables in the order they are contained
- # in this file by setting SEQUEDEX_LOGLEVEL to debug or by running the 
- # sequedex-debug command at the command line.  Debug-level info will be listed in
- # SEQUEDEX_LAUNCHER_LOGFILE
- #
- # The following config variable is set before the user config file is read and thus may
- # only be set by environmental variable. 
- #
- #SEQUEDEX_USERDIR=/home/myname/sqdx/ # must be an absolute path
- #
- # The following config variables are set before the system config file is read, and thus
- # may only be set by environmental variable or user config file.
- #
- #SEQUEDEX_LOGLEVEL=debug|info|warning|error # pick only one, default is info
- #SEQUEDEX_LOGFILE_DIR=$SEQUEDEX_USERDIR/
- #SEQUEDEX_SEES_STDOUT=True|False  # whether messages go to stdout or to log file, default is platform-specific
- #SEQUEDEX_HOME=/opt/sequedex/   # set from executable path, don't redefine.
- #SEQUEDEX_ETC=SEQUEDEX_HOME/etc/
- # 
- # Config variables below this point may be set by any mechanism including system config file.
- #
- #SEQUEDEX_LIB=SEQUEDEX_HOME/lib/
- #SEQUEDEX_BIN=SEQUEDEX_HOME/bin/
- #SEQUEDEX_DATA=SEQUEDEX_HOME/data/
- #SEQUEDEX_CONTRIB=SEQUEDEX_HOME/contrib/
- #
- # OS- and memorysize-dependent config variables.
- #
- #SEQUEDEX_PLATFORM_MEMSIZE=4        # size in GB of your computer's memory.  Default is determined at runtime
- #SEQUEDEX_JAVA=/usr/bin/java                    # location of the java executable.  Default is determined by 'which java' at runtime.
- #SEQUEDEX_CHECK_JAVA=True                  # If True, check to see that java runs and is the correct version.
- #SEQUEDEX_REQUIRE_JAVA_VERSION=1.7 # Reported java version string must start with this.
- #SEQUEDEX_PYTHON2=/usr/bin/python2    # Default is set at runtime by result of 'which python'.
- #
- # Variables related to the launcher itself. 
- #
- #SEQUEDEX_LAUNCHER_VERSION=[internal version string]
- #SEQUEDEX_LAUNCHER_DEFAULT_COMMAND=sequescan
- #
- #
- # Variables related to updates.
- # The update procedure is proxy-aware and uses the HTTP_PROXY
- # envionmental variable to establish a proxy connection.
- #
- #SEQUEDEX_WWW=http://sequedex.lanl.gov/
- #
- # Config variables related to sequescan.
- # SEQUESCAN_HEAPSIZE_MB default is set by reading the file SEQUESCAN_ETC/defaultHeapsize,
- # which is set by the update script when modules are installed.  If that file is not readable, a value
- # suitable for use with the minimum supported memory size of 4 GB is used.  The default for 
- # SEQUESCAN_JAVA_ARGS is system-dependent and includes the default heap size.
- #
- #SEQUESCAN_ETC=SEQUEDEX_ETC/sequescan/ 
- #SEQUESCAN_HEAPSIZE_MB=3000
- #SEQUESCAN_JAVA_ARGS=-Xms1000m -Xmx3000m
- #
- # Config variables related to archy.
- #
- #ARCHY_ETC=SEQUEDEX_ETC/archy/
- #ARCHY_DEFAULT_TREE=ARCHY_ETC/trees/Life2550/tree.phyloxml
- #
- # Config variables related to sequinator.
- #
- #SEQUINATOR_COMMAND=SEQUEDEX_BIN/sequinator 
- #SEQUINATOR_BROWSER=/usr/bin/firefox                       # platform-specific defaults.
- #SEQUINATOR_SERVER=True                                          # True if it serves up files (e.g., not client-only).
- #SEQUINATOR_CLIENT=True                                          # True if it launches a browser (e.g., not server-only).
- #SEQUINATOR_HAS_INTERNET=True                            # If False use locally-served files instead of latest from internet.
- #SEQUINATOR_DATA=SEQUEDEX_DATA/sequinator      # Where to look for comparison data.
- #SEQUINATOR_SEARCH_PATH=~/:SEQUINATOR_DATA # Path to search when looking for output directories
- #SEQUINATOR_HOST=127.0.0.1                                       # Default is localhost, set to IP if server on another machine
- #SEQUINATOR_PORT=8000                                             # Default port, set if conflict.
+ Global Configuration Variables:
+                 SEQUEDEX_USERDIR (user directory location) set to "/home/localhost/username/.sqdx/" from default.
+                SEQUEDEX_LOGLEVEL (debug|info|warning|error) set to "info" from default.
+             SEQUEDEX_LOGFILE_DIR (location of launcher log file) set to "/home/localhost/username/.sqdx/" from default.
+             SEQUEDEX_SEES_STDOUT (if False, pop up windows) set to "True" from default.
+                    SEQUEDEX_HOME (top-level installation directory) set to "/home/localhost/username/sequedex/" from location of launcher binary.
+                     SEQUEDEX_ETC (location of system config files) set to "/home/localhost/username/sequedex/etc/" from default.
+                     SEQUEDEX_LIB (location of library files) set to "/home/localhost/username/sequedex/lib/" from default.
+                     SEQUEDEX_BIN (location of executable files) set to "/home/localhost/username/sequedex/bin/" from default.
+                    SEQUEDEX_DATA (location of data modules) set to "/home/localhost/username/sequedex/data/" from default.
+                     SEQUEDEX_DOC (location of documentation and help files) set to "/home/localhost/username/sequedex/doc/" from default.
+                 SEQUEDEX_CONTRIB (location of contributed files and data) set to "/home/localhost/username/sequedex/contrib/" from default.
+                    SEQUEDEX_JAVA (absolute path to java executable) set to "/usr/bin/java" from output of "which java".
+      SEQUEDEX_CHECK_JAVA_VERSION (if True, check java version) set to "True" from default.
+    SEQUEDEX_REQUIRE_JAVA_VERSION (java version must be above this) set to "7" from default.
+        SEQUEDEX_PLATFORM_MEMSIZE (amount of system RAM in GB) set to "31" from reported system memory size.
+                  SEQUEDEX_PYTHON (absolute path to python executable) set to "/usr/bin/python" from first python in PATH that has scipy.
+               SEQUINATOR_COMMAND (command run upon "Display Output") set to "/home/localhost/username/sequedex/bin/sequinator" from default.
+               SEQUINATOR_BROWSER (path to browser, with arguments) set to "/usr/bin/firefox" from plat-dependent default.
+                SEQUINATOR_SERVER (write and serve files) set to "True" from default.
+                SEQUINATOR_CLIENT (start browser) set to "True" from default.
+            SEQUEDEX_HAS_INTERNET (has web access for update) set to "True" from default.
+                  SEQUINATOR_DATA (location of data library) set to "/home/localhost/username/sequedex/data/sequinator/" from default.
+           SEQUINATOR_SEARCH_PATH (path searched for output) set to "/home/localhost/username/:/home/localhost/username/sequedex/data/sequinator/" from default.
+                  SEQUINATOR_HOST (IP address for sequinator to use) set to "127.0.0.1" from default.
+                  SEQUINATOR_PORT (IP port for sequinator to use) set to "52707" from default.
+      SEQUINATOR_MAX_BROWSER_TABS (max tabs for sequinator to open) set to "10" from default.
+                 SEQUINATOR_TITLE (format string for sequinator titles) set to "%(filename)s" from default.
+        SEQUEDEX_LAUNCHER_VERSION (sequedex-launcher version number) set to "1.0.10" from internal version number.
+ SEQUEDEX_LAUNCHER_DEFAULT_COMMAND (default command) set to "sequescan" from default.
+                     SEQUEDEX_WWW (URL for updates and sequinator) set to "http://sequedex.lanl.gov" from default.
+                       http_proxy (system http proxy setting) set to "None" from default.
+                        ARCHY_ETC (location of Archaeoptryx config file) set to "/home/localhost/username/sequedex/etc/archy/" from default.
+               ARCHY_DEFAULT_TREE (default tree for archy) set to "/home/localhost/username/sequedex/data/trees/Life2550/tree.phyloxml" from default.
+                    SEQUESCAN_ETC (location of sequescan conf files) set to "/home/localhost/username/sequedex/etc/sequescan" from default.
+            SEQUESCAN_HEAPSIZE_MB (java heapsize in MB for sequescan) set to "30000" from user config file.
+              SEQUESCAN_JAVA_ARGS (full java arguments to sequescan) set to "-Xms1000m -Xmx30000m" from platform-dependent default.
+ Data Module Configuration Variables:
+   Module virus1252:
+                    minimumMemSize: 4
+                        moduleName: virus1252
+                       installDate: Sat Jun 21 08:30:56 2014
+                          filename: virus1252.1.jar
+                           version: 1
+                       nextMemSize: 1000
+   Module Life2550:
+                    minimumMemSize: 16
+                        moduleName: Life2550
+                       installDate: Sat Jun 21 08:30:55 2014
+                          filename: Life2550-16GB.0.jar
+                           version: 0
+                       nextMemSize: 32
 
+ Use the sequedex-config command for setting these variables.
 
-.. _s.config:
+To check a specific environmental variable, add the variable as an argument to sequedex-config::
+
+ sequedex-config SEQUESCAN_HEAPSIZE
+
+and to change a particular variable, provide both the variable name and a new value::
+
+ sequedex-config SEQUESCAN_HEAPSIZE 3000
+
+.. _s.config.ref:
 
 Configuration options
 =====================

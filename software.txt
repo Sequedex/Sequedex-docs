@@ -251,29 +251,37 @@ library of contributed packages that extend the functionality and
 methods available.  Packages to consider include ape, ade4, cluster,
 and rgl.
 
+Although R is available within Cygwin, the user may find it more convenient
+to utilize the Windows binary distributions for R, enabling installation of
+Rstudio and utilization of Windows-specific distribution of packages.
+
 Sequestat (described in detail in :ref:`s.Sequestat`) utilizes three
 add-on packages distributed for use within the R environment:
 
-* APE (Analysis of Phylogenetics and Evolution - APE)
+* ape (Analysis of Phylogenetics and Evolution - APE)
   `http://ape.mpl.ird.fr/ <http://ape.mpl.ird.fr/>`_
 
-* GEE (Generalized Estimation Equation solver - GEE)
+* gee (Generalized Estimation Equation solver - GEE)
   `http://cran.r-project.org/web/packages/gee/
   <http://cran.r-project.org/web/packages/gee/>`_
 
-* LARS (Least Angle Regression - LARS)
+* lars (Least Angle Regression - LARS)
   `http://cran.r-project.org/web/packages/lars/
   <http://cran.r-project.org/web/packages/lars/>`_
+
+* igraph `http://cran.r-project.org/web/packages/igraph/ 
+  <http://cran.r-project.org/web/packages/igraph/index.html>`_
 
 APE and GEE are used for displaying Sequedex output on the nodes of
 trees, while LARS is use by Sequestat for predicting which combination
 of reference genomes or metagenomes best-describes the phylogenetic
-profile of a metagenomic sample.  If the packages are downloaded, they
-can be installed from within R with the command::
+profile of a metagenomic sample.  Igraph is used for displaying functional
+profiles on a graph-layout of the hierarchical Seed subsystems. If the 
+packages are downloaded, they can be installed from within R with the command::
 
    install.packages(repos=NULL, pkgs="gee_4.13-18.tar.gz")
 
-Packages and their dependencies can also be automatically downloades, but may require a proxy server be utilized, if your organization sits behind a firewall.  This can be done with a comand such as::
+Packages and their dependencies can also be automatically downloades, but may require a proxy server be utilized, if your organization sits behind a firewall.  This should already be set for sequedex-update and other network-using features of Sequedex, but can be done set from within R if needed by a comand such as::
 
   Sys.setenv(http_proxy="http://proxyserver.org.org:8080")
 

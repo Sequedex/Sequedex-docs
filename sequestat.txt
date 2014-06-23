@@ -8,32 +8,39 @@ analysis of Sequedex output in the statistical visualization package,
 R.  Installation instructions and hints to getting started with R are
 provided in :ref:`s.R`.  RStudio provides a graphical environment with
 pull-down menus and more convenient ways to perform many tasks, but we
-provide instructions for the simpler, terminal window, interface to R,
-which will work in both cases.
+provide instructions for the simpler, terminal window, interface to R.
+These instructions will work in both R and Rstudio.
 
-.. _s.read.sequestat:
+The easiest way to get started with Sequestat in R is to first download
+:download:`sequestat.r <dl/sequestat.r>` and the nexus-format phylogenetic
+tree used with the Life2550 data modules :download:`Life2550.nexus
+<dl/Life2550.nexus>` and then examine sets of already-compiled output files 
+from three large data sets:
 
-Reading Life2550 output files into Sequestat:
-=============================================
+* the set of :download:`synthetic data from reference genomes<dl/syn.Life.who>` with :download:`labels <dl/syn.Life.lbl>`,
+* a set of :download:`environmental microbiomes <dl/env.Life.who>` with :download:`labels <dl/env.Life.lbl>`
+* a set of :download:`human microbiomes <dl/hmb.Life.who>` with :download:`labels <dl/hmb.Life.lbl>`
 
-The easiest way to get started with Sequestat in R is to source
-:download:`sequestat.r <dl/sequestat.r>` and :download:`Life2550.nexus
-<dl/Life2550.nexus>` read in a set of directories of Sequestat output
-files, assumed to subdirectories of ~/expts/., with sequestat.r and
-the reference tree, Life2550.nexus in the working directory of R::
+Readers who have aready analyzed data sets, and have the Sequedex output files available on their desktop computers can skip ahead to :ref:`s.read.sequestat` or :ref:`s.sequestat.virus`.
 
-    source("./sequestat.r")
-    expts=Read.phylo("~/expts","./Life2550.nexus")
-    Plot.profile(expts,1,"n0000",tip.frq=30,use.edge.length=T,type="phylo",show.tip.label=T)
+Visualizing phylogenetic data with Sequestat
+============================================
 
-At this point, a plot of the entire 2550 taxa tree of life should
-appear on the screen, with dots on the nodes indicating the number of
-reads in data set 3 assigned to each node.  It is likely that the use
-will want to make trees of specific families.  Plot.profile, which
-will display Sequedex output on either the entire reference tree, or
-of a subtree defined by a node number on the overall tree::
+Once R or Rstudio is started, the human microbiome data can be loaded into R or Rstudio and plotted with the commands::
 
-    Plot.profile(expts,3,"n0000",use.edge.length=T,type="unrooted",show.tip.label=F)
+   source("~/Sequedex-docs/dl/sequestat.r")
+
+   filename="~/Sequedex-docs/dl/hmb.Life.who"
+   labelfile="~/Sequedex-docs/dl/hmb.Life.lbl"
+
+   dat=read.table(filename,header=F,sep="\t")
+   lab=read.table(labelfile,header=F,sep="\t")
+   lab=lab[!is.na(lab)]
+   nn=dim(dat)[1]-1
+   rname=c(paste("n000",0:9,sep=""),paste("n00",10:99,sep=""),paste("n0",100:999,sep=""),paste("n",1000:nn,sep=""))
+   colnames(dat)=lab
+   rownames(dat)=rname
+
 
 A set of PDF files that together tile the entire tree, Life2550, are
 available at :ref:`_s.Life2550`, above each of the sections, with node
@@ -82,10 +89,99 @@ you will see the labels of the individual columns of data who's
 phylogenetic profiles are available in this session, and if you type
 ls(), you will see the list of defined functions and variables.
 
-
 The user is invited to explore the full phylogenetic extent and
 plotting options available to this function by altering the various
 arguments to the Plot.profile function.
+
+   hmb <- Read.tree("~/Sequedex-docs/dl/Life2550.nexus")
+   hmb$data <- dat
+   hmb$node.label <- rname
+
+   hmb$data[0,]  #list sample labels in order of column number
+
+   Plot.profile(hmb,"tongue6","n0000",tip.frq=25,use.edge.length=T,type="phylo")
+   Plot.profile(hmb,"tongue6",strep,tip.frq=25,use.edge.length=T,type="phylo")
+
+results in figures like the following
+
+.. figure:: images/tongue6.png
+   :width: 100%
+
+This data set can be explored as above. Similarly, the environmental
+data can be loaded with the commands::
+
+   filename="~/Sequedex-docs/dl/env.Life.who"
+   labelfile="~/Sequedex-docs/dl/env.Life.lbl"
+
+   dat=read.table(filename,header=F,sep="\t")
+   lab=read.table(labelfile,header=F,sep="\t")
+   lab=lab[!is.na(lab)]
+   nn=dim(dat)[1]-1
+   rname=c(paste("n000",0:9,sep=""),paste("n00",10:99,sep=""),paste("n0",100:999,sep=""),paste("n",1000:nn,sep=""))
+   colnames(dat)=lab
+   rownames(dat)=rname
+
+   env <- Read.tree("Life2550.nexus")
+   env$data <- dat
+   env$node.label <- rname
+
+   Plot.profile(env,"kimchi2",root,tip.frq=25,use.edge.length=T,type="phylo")
+   Plot.profile(env,"kimchi2","n1875",tip.frq=25,use.edge.length=T,type="phylo")
+
+produces plots like
+
+.. figure:: images/kimchi2.png
+   :width:  100%
+
+and the synthetic data evaluation with::
+
+   filename="~/Sequedex-docx/dl/syn.Life.who"
+   labelfile="~/Sequedex-docx/dl/syn.Life.lbl"
+
+   dat=read.table(filename,header=F,sep="\t")
+   lab=read.table(labelfile,header=F,sep="\t")
+   lab=lab[!is.na(lab)]
+   nn=dim(dat)[1]-1
+   rname=c(paste("n000",0:9,sep=""),paste("n00",10:99,sep=""),paste("n0",100:999,sep=""),paste("n",1000:nn,sep=""))
+   colnames(dat)=lab
+   rownames(dat)=rname
+
+   syn <- Read.tree("~/Sequedex-docx/dl/Life2550.nexus")
+   syn$data <- dat
+   syn$node.label <- rname
+
+   Plot.profile(syn,"Escherichia_coli_K_12_substr__MG1655_uid57779","n0000",tip.frq=35,use.edge.length=T,type="phylo")
+   Plot.profile(syn,"Escherichia_coli_K_12_substr__MG1655_uid57779","n0707",tip.frq=2,use.edge.length=T,type="phylo")
+
+produces plots like
+
+.. figure:: images/coli.png
+   :width:  100%
+
+These data sets can all be explored using the node numbers defined in
+:ref:`s.Life2550` or the phylogenetic groupings defined above, once
+the definitions are pasted into R.  We assume the field separator in
+the read.table command needs to match the one in the input file.
+
+
+.. _s.read.sequestat:
+
+Reading Life2550 output files into Sequestat:
+=============================================
+
+To read in his or her own data from a set of directories of Sequestat output
+files, assumed to subdirectories of ~/expts/., with sequestat.r and
+the reference tree, Life2550.nexus in ~/Sequedex-docs/dl/, as described
+at the beginning of :ref:`s.starting`, a user should type::
+
+    source("~/Sequedex-docs/dl/sequestat.r")
+    expts=Read.phylo("~/expts","./Life2550.nexus")
+    Plot.profile(expts,1,"n0000",tip.frq=30,use.edge.length=T,type="phylo",show.tip.label=T)
+
+at the R or Rstudio command prompt.  At this point, a plot of the entire 2550 taxa tree of life should appear on the screen, with dots on the nodes indicating the number of reads in data set 3 assigned to each node.  It is likely that the use will want to make trees of specific families.  Plot.profile, which will display Sequedex output on either the entire reference tree, or of a subtree defined by a node number on the overall tree::
+
+    Plot.profile(expts,3,"n0000",use.edge.length=T,type="unrooted",show.tip.label=F)
+
 
 .. _s.sequestat.virus:
 
@@ -99,8 +195,8 @@ directories of Sequestat output files, assumed to subdirectories of
 ~/expts/., with sequestat.r and the reference tree, virus1252.nexus in
 the working directory of R::
 
-    source("./sequestat.r")
-    expts=Read.phylo("~/vexpts","./virus1252.nexus")
+    source("~/Sequedex-docs/dl/sequestat.r")
+    expts=Read.phylo("~/vexpts","~/Sequedex-docs/dl/virus1252.nexus")
     Plot.profile(vexpts,1,"n0000",tip.frq=30,use.edge.length=T,type="phylo",show.tip.label=T)
 
 At this point, a plot of the entire 1252 taxa viral tree should appear
@@ -165,102 +261,6 @@ The user is invited to explore the full phylogenetic extent and
 plotting options available to this function by altering the various
 arguments to the Plot.profile function.
 
-Loading tabular data into Sequestat
-===================================
-
-For large data sets, such as:
-
-* the set of :download:`synthetic data from reference genomes<dl/syn.Life.who>` with :download:`labels <dl/syn.Life.lbl>`,
-* a set of :download:`environmental microbiomes <dl/env.Life.who>` with :download:`labels <dl/env.Life.lbl>`
-* a set of :download:`human microbiomes <dl/hmb.Life.who>` with :download:`labels <dl/hmb.Life.lbl>`
-
-For example, the human microbiome data can be loaded into R or Rstudio
-and plotted with the commands::
-
-   source("sequestat.r")
-
-   filename="hmb.Life.who"
-   labelfile="hmb.Life.lbl"
-
-   dat=read.table(filename,header=F,sep="\t")
-   lab=read.table(labelfile,header=F,sep="\t")
-   lab=lab[!is.na(lab)]
-   nn=dim(dat)[1]-1
-   rname=c(paste("n000",0:9,sep=""),paste("n00",10:99,sep=""),paste("n0",100:999,sep=""),paste("n",1000:nn,sep=""))
-   colnames(dat)=lab
-   rownames(dat)=rname
-
-   hmb <- Read.tree("Life2550.nexus")
-   hmb$data <- dat
-   hmb$node.label <- rname
-
-   hmb$data[0,]  #list sample labels in order of column number
-
-   Plot.profile(hmb,"tongue6","n0000",tip.frq=25,use.edge.length=T,type="phylo")
-   Plot.profile(hmb,"tongue6",strep,tip.frq=25,use.edge.length=T,type="phylo")
-
-results in figures like the following
-
-.. figure:: images/tongue6.png
-   :width: 100%
-
-This data set can be explored as above. Similarly, the environmental
-data can be loaded with the commands::
-
-   filename="env.Life.who"
-   labelfile="env.Life.lbl"
-
-   dat=read.table(filename,header=F,sep="\t")
-   lab=read.table(labelfile,header=F,sep="\t")
-   lab=lab[!is.na(lab)]
-   nn=dim(dat)[1]-1
-   rname=c(paste("n000",0:9,sep=""),paste("n00",10:99,sep=""),paste("n0",100:999,sep=""),paste("n",1000:nn,sep=""))
-   colnames(dat)=lab
-   rownames(dat)=rname
-
-   env <- Read.tree("Life2550.nexus")
-   env$data <- dat
-   env$node.label <- rname
-
-   Plot.profile(env,"kimchi2",root,tip.frq=25,use.edge.length=T,type="phylo")
-   Plot.profile(env,"kimchi2","n1875",tip.frq=25,use.edge.length=T,type="phylo")
-
-produces plots like
-
-.. figure:: images/kimchi2.png
-   :width:  100%
-
-and the synthetic data evaluation with::
-
-   filename="syn.Life.who"
-   labelfile="syn.Life.lbl"
-
-   dat=read.table(filename,header=F,sep="\t")
-   lab=read.table(labelfile,header=F,sep="\t")
-   lab=lab[!is.na(lab)]
-   nn=dim(dat)[1]-1
-   rname=c(paste("n000",0:9,sep=""),paste("n00",10:99,sep=""),paste("n0",100:999,sep=""),paste("n",1000:nn,sep=""))
-   colnames(dat)=lab
-   rownames(dat)=rname
-
-   syn <- Read.tree("Life2550.nexus")
-   syn$data <- dat
-   syn$node.label <- rname
-
-   Plot.profile(syn,"Escherichia_coli_K_12_substr__MG1655_uid57779","n0000",tip.frq=35,use.edge.length=T,type="phylo")
-   Plot.profile(syn,"Escherichia_coli_K_12_substr__MG1655_uid57779","n0707",tip.frq=2,use.edge.length=T,type="phylo")
-
-produces plots like
-
-.. figure:: images/coli.png
-   :width:  100%
-
-These data sets can all be explored using the node numbers defined in
-:ref:`s.Life2550` or the phylogenetic groupings defined above, once
-the definitions are pasted into R.  We assume the field separator in
-the read.table command needs to match the one in the input file.
-
-
 
 .. _s.decompose:
 
@@ -295,7 +295,7 @@ Starting a new session in R or RStudio, and download
 your working directory.  Start R or RStudio in this directory and
 type::
 
- source("demo_protocol.r")
+ source("~/Sequedex-docx/dl/demo_protocol.r")
 
 Sequestat will chug along for a few minutes to completion.  Typing
 sig.list will result in::
